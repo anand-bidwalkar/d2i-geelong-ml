@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,8 Robertson Street,"Sold $435,500 in Aug 2020","Last Sold $285,000 in Mar 2011", ,House: 3  1  2 ,Land size: 650 sqm
+1,2/5 Barling Court,"Sold $390,000 in Aug 2020", , , ,Land size: 201 sqm
+2,1 Olney Avenue,"Sold $420,000 in Jul 2020", ,Rent $335pw in Nov 2018,House: 3  1  1 ,Land size: 644 sqm
+3,37 Winstanley Road,"Sold $438,000 in May 2020","Last Sold $110,000 in Oct 1991", ,House: 3  ,Land size: 539 sqm
+4,12 Tamlyn Street,"Sold $366,500 in May 2020","Last Sold $225,000 in Dec 2008", ,House: 2  1  1 ,Land size: 186 sqm
+5,10 Olney Avenue,"Sold $370,000 in Apr 2020","Last Sold $180,000 in Dec 2004", ,House: 3  1  1 ,Land size: 543 sqm
+6,148 Boundary Road,"Sold $395,000 in 18 Mar 2020(Auction)","Last Sold $300,000 in Feb 2000", ,House: 3  1  1 ,Land size: 613 sqm
+7,2/25 Helmer Crescent,"Sold $400,000 in Mar 2020","Last Sold $308,000 in Feb 2016", ,House: 2  1  1 ,Land size: 294 sqm
+8,141 St Albans Road,"Sold $535,000 in Mar 2020", , ,House: 3  1  1 ,Land size: 539 sqm
+9,2 Callander Street,"Sold $413,000 in 29 Feb 2020(Auction)","Last Sold $235,000 in Sep 2011", ,House: 3  1  2 ,Land size: 605 sqm
+10,2/44 Godfrey Street,"Sold $386,000 in Feb 2020","Last Sold $315,000 in Nov 2010", , ,Land size: 174 sqm | Building size: 93 sqm
+11,41 Olney Avenue,"Sold $395,000 in Feb 2020","Last Sold $165,000 in Jun 2003", ,House: 2  1  2 ,Land size: 540 sqm | Building size: 146 sqm
+12,4B Bromley Street,"Sold $416,000 in Jan 2020", , ,House: 3  2  2 , 
+13,3 Kahle Court,"Sold $425,000 in 21 Dec 2019(Auction)","Last Sold $330,000 in Mar 2014", ,House: 3  1  1 ,Land size: 648 sqm | Building size: 103 sqm
+14,4A Bromley Street,"Sold $480,000 in Dec 2019", , ,House: , 
+15,33 Breakwater Road,"Sold $770,000 in Nov 2019","Last Sold $300,000 in Jan 2006", ,House: 3  2  ,Land size: 759 sqm | Building size: 190 sqm
+16,17 Olney Avenue,"Sold $415,000 in Nov 2019","Last Sold $212,500 in Feb 2000", ,House: 3  1  2 ,Land size: 687 sqm | Building size: 99 sqm
+17,14A Tate Street,"Sold $425,000 in Oct 2019","Last Sold $285,000 in Mar 2011", ,House: 3  1  1 ,Land size: 669 sqm | Building size: 96 sqm
+18,23 Callander Street,"Sold $435,000 in Oct 2019","Last Sold $247,000 in Sep 2014", ,House: 3  1  2 ,Land size: 532 sqm
+19,1/27 Barnfather Street,"Sold $380,000 in Oct 2019","Last Sold $241,000 in Nov 2008", , ,Land size: 194 sqm
+20,12 Jamieson Street,"Sold $395,000 in 07 Sep 2019(Auction)","Last Sold $331,000 in Feb 2017", ,House: 3  1  2 ,Land size: 536 sqm
+21,20 Winstanley Road,"Sold $321,000 in Aug 2019","Last Sold $280,000 in May 2016", ,House: 3  1  1 ,Land size: 574 sqm
+22,2/30 Tate Street,"Sold $385,000 in Aug 2019","Last Sold $275,000 in Nov 2015", , ,Land size: 347 sqm | Building size: 98 sqm
+23,10 Barnfather Street,"Sold $380,000 in Aug 2019","Last Sold $255,000 in Jan 2013", ,House: 3  1  2 ,Land size: 669 sqm
+24,21 Breakwater Road,"Sold $380,000 in Jul 2019","Last Sold $292,500 in Sep 2014", ,House: 2  1  ,Land size: 374 sqm
+25,25 Callander Street,"Sold $370,000 in Jul 2019","Last Sold $280,000 in Jan 2015", ,House: 3  1  3 ,Land size: 539 sqm
+26,3/9 Helmer Crescent,"Sold $372,500 in Jul 2019","Last Sold $50,000 in Nov 2003", , ,Land size: 332 sqm
+27,4 Warren Street,"Sold $465,000 in Jul 2019","Last Sold $310,000 in Dec 2010", ,House: 3  1  2 ,Land size: 654 sqm
+28,3 Hering Court,"Sold $396,000 in 18 May 2019(Auction)","Last Sold $73,000 in Nov 1993", ,House: 3  1  3 ,Land size: 733 sqm
+29,21 Birdsey Street,"Sold $360,000 in May 2019", ,Rent $300pw in Jul 2019,House: 3  1  2 ,Land size: 669 sqm
+30,5/21-23 Helmer Crescent,"Sold $365,000 in Dec 2018","Last Sold $225,000 in Sep 2007", , ,Land size: 355 sqm
+31,25 Godfrey Street,"Sold $443,000 in Dec 2018","Last Sold $165,000 in Jul 2005", ,House: 3  1  4 ,Land size: 647 sqm | Building size: 103 sqm
+32,2/17 Barnfather Street,"Sold $410,000 in Dec 2018","Last Sold $355,000 in Jul 2017", ,House: 3  1  2 ,Land size: 347 sqm
+33,5 Kahle Court,"Sold $410,000 in Nov 2018", , ,House: 3  1  2 ,Land size: 617 sqm
+34,14 Breakwater Road,"Sold $660,000 in 24 Nov 2018(Auction)","Last Sold $375,000 in May 2015(Auction)", ,House: 3  1  2 ,Land size: 350 sqm | Building size: 97 sqm
+35,200 Ormond Road,"Sold $425,000 in Nov 2018","Last Sold $270,000 in Mar 2010", ,House: 4  1  1 ,Land size: 704 sqm | Building size: 191 sqm
+36,156 Boundary Road,"Sold $407,000 in Nov 2018","Last Sold $295,000 in Aug 2012", ,Townhouse: 3  1  1 ,Land size: 407 sqm
+37,20 Robertson Street,"Sold $380,000 in 15 Nov 2018(Auction)","Last Sold $255,000 in Feb 2014", ,House: 2  1  1 ,Land size: 591 sqm | Building size: 100 sqm
+38,2/18 Breakwater Road,"Sold $275,000 in Nov 2018","Last Sold $65,000 in Jul 2000", , ,Land size: 80 sqm
+39,9 Olney Avenue,"Sold $402,500 in Nov 2018","Last Sold $287,000 in Aug 2012", ,House: 3  1  2 ,Land size: 630 sqm | Building size: 102 sqm
+40,117 St Albans Road,"Sold $351,000 in Oct 2018","Last Sold $174,000 in Sep 2006", ,House: 3  1  1 ,Land size: 630 sqm
+41,3/9 Carruthers Court,"Sold $445,000 in Oct 2018","Last Sold $365,000 in Aug 2016", , ,Land size: 255 sqm | Building size: 125 sqm
+42,1/10-12 Carrington Street,"Sold $364,000 in Sep 2018", ,Rent $330pw in Sep 2018, , 
+43,15A Tate Street,"Sold $400,000 in 01 Sep 2018(Auction)", ,Rent $195pw in Sep 2016,House: 1  1  1 ,Land size: 669 sqm
+44,15&15A Tate Street,"Sold $400,000 in 01 Sep 2018(Auction)", , ,House: 2  , 
+45,15 TATE Street,"Sold $400,000 in 01 Sep 2018(Auction)","Last Sold $220,000 in Dec 2007", ,House: 2  2  2 ,Land size: 669 sqm
+46,11A Barnfather Street,"Sold $331,000 in Aug 2018","Last Sold $251,000 in Aug 2013", ,House: 2  1  1 ,Land size: 303 sqm | Building size: 81 sqm
+47,19 Olney Avenue,"Sold $451,000 in Aug 2018","Last Sold $220,000 in Feb 2010", ,House: 3  1  3 ,Land size: 582 sqm
+48,62 Breakwater Road,"Sold $679,000 in 28 Jul 2018(Auction)","Last Sold $180,000 in Apr 2006", ,House: 3  2  ,Land size: 405 sqm
+49,5 Jamieson Street,"Sold $426,000 in Jul 2018", ,Rent $335pw in Sep 2018,House: 3  1  1 ,Land size: 533 sqm
+50,115 St Albans Road,"Sold $500,000 in Jul 2018","Last Sold $153,000 in Dec 2007", ,House: 4  2  2 ,Land size: 636 sqm | Building size: 160 sqm
+51,35 Olney Avenue,"Sold $465,000 in Jul 2018","Last Sold $182,500 in Oct 2004", , ,Land size: 567 sqm
+52,3/27 Barnfather Street,"Sold $382,500 in Jul 2018","Last Sold $319,500 in Nov 2011", , ,Land size: 296 sqm
+53,35 Winstanley Road,"Sold $412,000 in Jun 2018","Last Sold $85,500 in Sep 2000", ,House: 3  1  1 ,Land size: 545 sqm
+54,17 Bromley Street,"Sold $447,000 in Jun 2018","Last Sold $280,000 in May 2013", ,House: 2  1  2 ,Land size: 781 sqm | Building size: 97 sqm
+55,159 St Albans Road,"Sold $418,000 in Jun 2018","Last Sold $275,000 in Feb 2014", ,House: 2  1  1 ,Land size: 528 sqm
+56,3 Meddings Court,"Sold $437,500 in Jun 2018","Last Sold $285,000 in Apr 2015", ,House: 3  2  2 ,Land size: 739 sqm
+57,33 Olney Avenue,"Sold $346,000 in May 2018","Last Sold $180,000 in Oct 2005", ,House: 2  1  1 ,Land size: 575 sqm
+58,139 St Albans Road,"Sold $363,000 in May 2018", ,Rent $290pw in Nov 2019,House: 1  1  1 ,Land size: 545 sqm
+59,27 Olney Avenue,"Sold $430,000 in May 2018","Last Sold $281,500 in Jun 2011", ,House: 2  2  1 ,Land size: 541 sqm | Building size: 104 sqm
+60,15 Barnfather Street,"Sold $410,000 in May 2018","Last Sold $180,000 in Sep 2008", ,House: 2  1  2 ,Land size: 646 sqm
+61,16B Helmer Crescent,"Sold $385,000 in May 2018", , ,House: 3  1  1 ,Land size: 359 sqm
+62,27 Callander Street,"Sold $380,000 in Apr 2018", ,Rent $330pw in Sep 2019,House: 3  1  1 ,Land size: 539 sqm
+63,2 Birdsey Street,"Sold $413,000 in Apr 2018","Last Sold $162,000 in May 2003", ,House: 3  1  1 ,Land size: 651 sqm
+64,4/4 Godfrey Street,"Sold $382,000 in Apr 2018","Last Sold $324,000 in Mar 2012", ,House: 2  1  1 ,Land size: 167 sqm
+65,179 St Albans Road,"Sold $525,500 in Mar 2018", , ,House: 2  1  1 ,Land size: 734 sqm
+66,16B Barnfather Street,"Sold $310,000 in Mar 2018", ,Rent $275pw in May 2018,House: 2  1  1 ,Land size: 287 sqm
+67,1/18 Breakwater Road,"Sold $295,000 in Feb 2018","Last Sold $270,000 in Sep 2014", , ,Land size: 77 sqm
+68,16A Barnfather Street,"Sold $395,000 in Feb 2018", , ,House: 3  2  2 ,Land size: 382 sqm
+69,23 Breakwater Road,"Sold $345,000 in Feb 2018","Last Sold $185,000 in Apr 2007", , ,Land size: 384 sqm
+70,1/25 Breakwater Road,"Sold $365,000 in Feb 2018","Last Sold $65,000 in Apr 2004", , ,Land size: 299 sqm
+71,6 Winstanley Road,"Sold $402,500 in Jan 2018","Last Sold $179,000 in Nov 2003", ,House: 3  1  3 ,Land size: 541 sqm
+72,11 Jamieson Street,"Sold $370,342 in Jan 2018", , ,House: 3  1  1 ,Land size: 557 sqm
+73,26 Martin Street,"Sold $660,000 in Dec 2017","Last Sold $389,000 in Mar 2008", ,House: 3  2  2 ,Land size: 402 sqm
+74,1 Fagg Street,"Sold $420,000 in Dec 2017","Last Sold $70,500 in Sep 1990", ,House: 3  1  ,Land size: 843 sqm | Building size: 118 sqm
+75,8 Tate Street,"Sold $328,000 in 25 Nov 2017(Auction)", ,Rent $250pw in Sep 2013,House: 2  1  ,Land size: 340 sqm
+76,181 St Albans Road,"Sold $332,000 in Nov 2017", , ,House: 3  1  1 ,Land size: 560 sqm
+77,44a Tate Street,"Sold $412,500 in 18 Nov 2017(Auction)", ,Rent $270pw in Nov 2009,House: 3  1  2 ,Land size: 362 sqm
+78,15 Bromley Street,"Sold $400,000 in Nov 2017", ,Rent $240pw in Mar 2016,House: 3  1  2 ,Land size: 715 sqm
+79,2/2 Tate Street,"Sold $320,000 in Oct 2017", , ,Townhouse: 2  1  1 , 
+80,7 Cranstoun Court,"Sold $470,000 in Oct 2017", , ,House: 3  1  2 ,Land size: 778 sqm
+81,1/2 Tate Street,"Sold $355,000 in Sep 2017", ,Rent $340pw in Jun 2019,Townhouse: 3  1  1 , 
+82,12 Helmer Crescent,"Sold $423,000 in Sep 2017","Last Sold $297,500 in Feb 2000", ,House: 3  2  1 ,Land size: 692 sqm | Building size: 132 sqm
+83,194b Ormond Road,"Sold $324,000 in Sep 2017", , ,House: 3  1  ,Land size: 297 sqm
+84,4/13-15 Carruthers Court,"Sold $374,000 in Aug 2017","Last Sold $338,000 in Aug 2014", ,House: 3  2  1 ,Land size: 356 sqm
+85,4 Helmer Crescent,"Sold $392,500 in 12 Aug 2017(Auction)","Last Sold $298,000 in Dec 2010", ,House: 2  1  4 ,Land size: 669 sqm
+86,1/13-15 Carruthers Court,"Sold $368,000 in Aug 2017","Last Sold $71,050 in May 2013", ,Townhouse: 3  2  1 ,Land size: 202 sqm
+87,177 Carr Street,"Sold $310,000 in Aug 2017", ,Rent $300pw in Sep 2016, ,Land size: 271 sqm
+88,13A Fagg Street,"Sold $341,000 in Jul 2017", ,Rent $310pw in Jun 2017,House: 3  1  1 ,Land size: 398 sqm
+89,6 Birdsey Street,"Sold $412,500 in Jul 2017","Last Sold $175,000 in Sep 2004", ,House: 3  1  2 ,Land size: 669 sqm
+90,13 Fagg Street,"Sold $341,000 in Jul 2017","Last Sold $205,000 in Nov 2012", ,House: 2  1  1 ,Land size: 845 sqm
+91,2/2 Martin Street,"Sold $184,000 in Jul 2017","Last Sold $118,000 in Feb 2000", , ,Land size: 39 sqm
+92,158 Boundary Road,"Sold $365,000 in 17 Jun 2017(Auction)","Last Sold $300,000 in Mar 2014", ,House: 3  1  1 ,Land size: 410 sqm | Building size: 152 sqm
+93,14B Carrington Street,"Sold $600,000 in Jun 2017","Last Sold $232,000 in Jun 2014", , ,Land size: 384 sqm | Building size: 183 sqm
+94,36 Winstanley Road,"Sold $316,000 in May 2017", ,Rent $320pw in Jun 2018,House: 2  1  2 ,Land size: 587 sqm
+95,96 St Albans Road,"Sold $360,000 in May 2017", ,Rent $320pw in Aug 2017,House: 3  1  2 ,Land size: 672 sqm
+96,1/7 Helmer Crescent,"Sold $357,552 in May 2017","Last Sold $285,100 in Feb 2000", , ,Land size: 332 sqm | Building size: 125 sqm
+97,181 Carr Street,"Sold $314,000 in Apr 2017","Last Sold $275,000 in Oct 2012", , ,Land size: 256 sqm
+98,3/6 Barling Court,"Sold $327,000 in Apr 2017","Last Sold $323,000 in Jul 2014", ,House: 2  1  1 ,Land size: 222 sqm
+99,1/18 Barnfather Street,"Sold $322,000 in Apr 2017","Last Sold $235,000 in Jul 2008", , ,Land size: 284 sqm | Building size: 94 sqm
+100,1/4 Birdsey Street,"Sold $285,000 in Apr 2017", , ,House: 3  1  ,Land size: 303 sqm
+101,1/1 Callander Street,"Sold $322,000 in Mar 2017","Last Sold $315,000 in May 2011", ,Townhouse: 2  1  1 ,Land size: 274 sqm | Building size: 93 sqm
+102,19 Carruthers Court,"Sold $315,000 in Mar 2017","Last Sold $215,000 in Mar 2009", ,House: 3  1  1 ,Land size: 659 sqm
+103,194A Ormond Road,"Sold $342,000 in Feb 2017", , ,House: 2  1  1 ,Land size: 317 sqm
+104,1/6 Bromley Street,"Sold $315,000 in Feb 2017","Last Sold $285,000 in May 2012", ,Townhouse: 3  1  1 ,Land size: 286 sqm | Building size: 72 sqm
+105,1 Callander Street,"Sold $386,051 in Feb 2017", ,Rent $340pw in Mar 2017,House: 3  1  2 ,Land size: 823 sqm
+106,9 Kahle Court,"Sold $309,000 in Dec 2016","Last Sold $213,000 in Jun 2007", ,House: 3  1  5 ,Land size: 588 sqm | Building size: 100 sqm
+107,70 Breakwater Road,"Sold $340,000 in Dec 2016","Last Sold $259,000 in Aug 2013", ,House: 4  1  1 ,Land size: 487 sqm | Building size: 172 sqm
+108,8 Birdsey Street,"Sold $350,000 in Nov 2016","Last Sold $295,000 in Aug 2015", ,House: 4  1  4 ,Land size: 669 sqm | Building size: 152 sqm
+109,6 Olney Avenue,"Sold $275,000 in Nov 2016","Last Sold $252,000 in Oct 2010", ,House: 2  1  1 ,Land size: 526 sqm | Building size: 99 sqm
+110,24 Winstanley Road,"Sold $265,000 in Oct 2016","Last Sold $120,000 in Jun 2002", ,House: 3  1  1 ,Land size: 554 sqm | Building size: 103 sqm
+111,6 Fagg Street,"Sold $485,000 in 15 Oct 2016(Auction)","Last Sold $312,000 in Feb 2011(Auction)", ,House: 3  1  1 ,"Land size: 1,049 sqm | Building size: 132 sqm"
+112,9 Winstanley Road,"Sold $269,000 in Oct 2016", ,Rent $330pw in Jul 2017,House: 3  1  1 ,Land size: 596 sqm
+113,2/15 Robertson Road,"Sold $105,000 in Sep 2016", , , , 
+114,2/15 Robertson Street,"Sold $105,000 in Sep 2016", ,Rent $360pw in Aug 2017, ,Land size: 230 sqm
+115,11A Fagg Street,"Sold $300,000 in Sep 2016","Last Sold $235,000 in Jul 2014", ,House: 2  1  1 ,Land size: 323 sqm
+116,121 St Albans Road,"Sold $345,000 in Aug 2016","Last Sold $60,000 in Aug 2003", ,House: 3  1  2 ,Land size: 535 sqm | Building size: 113 sqm
+117,1/102 St Albans Road,"Sold $250,000 in Aug 2016","Last Sold $182,500 in Jan 2008", ,House: 3  1  2 ,Land size: 357 sqm | Building size: 85 sqm
+118,13 Robertson Street,"Sold $272,000 in Aug 2016","Last Sold $260,000 in Mar 2014", ,House: 3  1  2 ,Land size: 613 sqm
+119,25 Winstanley Road,"Sold $262,000 in Aug 2016","Last Sold $193,000 in Oct 2004", ,House: 3  1  1 ,Land size: 541 sqm
+120,1/17 Barnfather Street,"Sold $308,000 in Aug 2016","Last Sold $259,000 in Apr 2011", ,House: 2  1  4 ,Land size: 300 sqm | Building size: 80 sqm
+121,2/4 Bromley Street,"Sold $105,000 in Aug 2016", , , ,Land size: 670 sqm
+122,1/4 Bromley Street,"Sold $300,000 in Aug 2016", ,Rent $350pw in Oct 2016,House: 3  1  2 ,Land size: 299 sqm
+123,4 Bromley Street,"Sold $105,000 in Aug 2016", ,Rent $290pw in Nov 2012, ,Land size: 669 sqm | Building size: 92 sqm
+124,170 Boundary Road,"Sold $345,000 in Jul 2016","Last Sold $275,000 in Sep 2007", ,House: 3  1  2 ,Land size: 186 sqm
+125,29 Helmer Crescent,"Sold $389,000 in Jul 2016","Last Sold $350,000 in Apr 2012", ,House: 4  2  2 ,Land size: 733 sqm
+126,51 Callander Street,"Sold $270,000 in Jun 2016", ,Rent $320pw in Sep 2016,House: 3  1  2 ,Land size: 625 sqm | Building size: 98 sqm
+127,43 Breakwater Road,"Sold $259,000 in Jun 2016","Last Sold $151,500 in Jan 2005", ,House: 3  1  2 ,Land size: 345 sqm
+128,165 St Albans Road,"Sold $297,000 in Jun 2016","Last Sold $85,000 in Sep 1992", ,House: 3  1  2 ,Land size: 534 sqm
+129,21 Barnfather Street,"Sold $210,000 in May 2016","Last Sold $176,000 in Aug 2007", ,House: 2  1  1 ,Land size: 424 sqm
+130,1/21 Barnfather Street,"Sold $210,000 in May 2016","Last Sold $172,000 in Mar 2008", ,House: 2  1  1 ,Land size: 300 sqm
+131,97 St Albans Road,"Sold $308,000 in May 2016","Last Sold $50,000 in Apr 1997", ,House: 3  1  2 ,Land size: 635 sqm
+132,7 Birdsey Street,"Sold $332,000 in Apr 2016","Last Sold $69,700 in Mar 1989", ,House: 3  1  2 ,Land size: 930 sqm
+133,46 BREAKWATER Road,"Sold $340,000 in Apr 2016", ,Rent $330pw in Jun 2016,House: 4  1  1 ,Land size: 408 sqm
+134,4 Martin Street,"Sold $360,000 in Apr 2016","Last Sold $199,000 in Mar 2007", , ,Land size: 348 sqm
+135,11 Birdsey Street,"Sold $246,000 in Mar 2016", ,Rent $260pw in Jul 2010,House: 3  1  4 ,Land size: 656 sqm
+136,14 Olney Avenue,"Sold $275,000 in Mar 2016", , ,House: 2  1  2 ,Land size: 570 sqm | Building size: 88 sqm
+137,188 Ormond Road,"Sold $310,000 in Feb 2016","Last Sold $64,000 in Jan 1998", ,House: 2  ,Land size: 613 sqm
+138,3 Bromley Street,"Sold $318,000 in Jan 2016","Last Sold $283,295 in Aug 2012", ,House: 4  1  2 ,Land size: 669 sqm | Building size: 106 sqm
+139,10 Cranstoun Court,"Sold $290,000 in Jan 2016","Last Sold $67,000 in Apr 1993", ,House: 2  1  2 ,Land size: 655 sqm
+140,7 Robertson Street,"Sold $206,000 in 19 Dec 2015(Auction)","Last Sold $55,000 in Feb 2000", ,House: 2  1  1 ,Land size: 595 sqm
+141,1/5 Fagg Street,"Sold $312,000 in Dec 2015","Last Sold $280,000 in Oct 2011", ,House: 3  2  1 ,Land size: 410 sqm | Building size: 123 sqm
+142,86 St Albans Road,"Sold $340,000 in 28 Nov 2015(Auction)", ,Rent $335pw in Nov 2018,House: 3  1  1 ,Land size: 653 sqm
+143,190 Ormond Road,"Sold $245,000 in Nov 2015","Last Sold $230,000 in Mar 2008", ,House: 3  1  1 ,Land size: 651 sqm
+144,16 Martin Street,"Sold $331,000 in Nov 2015", , ,House: 3  1  1 ,Land size: 606 sqm
+145,43 Godfrey Street,"Sold $300,000 in Oct 2015","Last Sold $179,000 in Aug 2008", ,House: 2  1  2 ,Land size: 603 sqm | Building size: 90 sqm
+146,133 St Albans Road,"Sold $305,000 in Oct 2015", ,Rent $280pw in Jun 2017,House: 3  1  1 ,Land size: 570 sqm
+147,38 Tate Street,"Sold $260,000 in Oct 2015", ,Rent $300pw in Jan 2019,House: 3  1  2 ,Land size: 665 sqm
+148,45 Winstanley Road,"Sold $305,000 in Sep 2015","Last Sold $275,000 in Jul 2013", ,House: 3  1  1 ,Land size: 568 sqm | Building size: 107 sqm
+149,17 Helmer Crescent,"Sold $270,000 in Sep 2015","Last Sold $60,000 in Mar 1995", ,House: 2  1  1 ,Land size: 739 sqm
+150,65 Godfrey Street,"Sold $132,500 in Sep 2015", ,Rent $385pw in Feb 2019,House: 3  1  3 ,Land size: 259 sqm
+151,14a Martin Street,"Sold $308,000 in Sep 2015", , ,House: 3  ,Land size: 405 sqm
+152,8 Bromley Street,"Sold $285,000 in Aug 2015","Last Sold $156,000 in Jul 2003", ,House: 2  1  2 ,Land size: 669 sqm
+153,1/6 Barling Court,"Sold $320,000 in Aug 2015", , , ,Land size: 328 sqm
+154,51 Godfrey Street,"Sold $322,000 in Jul 2015","Last Sold $317,000 in Jul 2011", ,House: 3  1  5 ,Land size: 633 sqm
+155,11B Fagg Street,"Sold $290,000 in Jun 2015","Last Sold $93,000 in Nov 1999", , ,Land size: 375 sqm
+156,131 St Albans Road,"Sold $260,000 in Jun 2015","Last Sold $83,000 in Nov 2001", ,House: 3  ,Land size: 553 sqm
+157,145 St Albans Road,"Sold $255,000 in Jun 2015","Last Sold $84,500 in Mar 2000", ,House: 3  1  2 ,Land size: 544 sqm
+158,2 Tate Street,"Sold $292,000 in Jun 2015","Last Sold $170,000 in Nov 2011", ,House: 2  1  ,Land size: 731 sqm
+159,14 Robertson Street,"Sold $270,000 in Jun 2015","Last Sold $205,000 in May 2009", ,House: 2  1  1 ,Land size: 591 sqm | Building size: 83 sqm
+160,94A St Albans Road,"Sold $260,000 in May 2015", ,Rent $260pw in Aug 2013,House: 2  1  2 ,Land size: 348 sqm
+161,15 Helmer Crescent,"Sold $275,000 in May 2015", ,Rent $290pw in Jun 2015,House: 3  1  2 ,Land size: 770 sqm
+162,26 Callander Street,"Sold $250,000 in May 2015", ,Rent $320pw in Jan 2018,House: 3  1  ,Land size: 559 sqm | Building size: 93 sqm
+163,186 Ormond Road,"Sold $310,000 in Apr 2015","Last Sold $253,000 in Jul 2013", ,House: 3  1  2 ,Land size: 613 sqm
+164,70 St Albans Road,"Sold $330,000 in Apr 2015", ,Rent $185pw in Jul 2007,House: 3  1  2 ,Land size: 704 sqm | Building size: 112 sqm
+165,143 St Albans Road,"Sold $260,000 in Apr 2015","Last Sold $79,000 in Sep 1998", ,House: 3  1  1 ,Land size: 535 sqm
+166,123 St Albans Road,"Sold $286,000 in Apr 2015", , ,House: 3  1  1 ,Land size: 742 sqm
+167,2/10 Birdsey Street,"Sold $309,000 in Mar 2015","Last Sold $99,000 in Mar 2009", ,Townhouse: 3  1  1 ,Land size: 329 sqm | Building size: 116 sqm
+168,8 Breakwater Road,"Sold $337,000 in Mar 2015","Last Sold $266,000 in Mar 2006", ,House: 3  1  2 ,Land size: 373 sqm
+169,3/5 Barling Court,"Sold $340,000 in Mar 2015","Last Sold $310,000 in Apr 2011", , ,Land size: 287 sqm
+170,5/22A Godfrey Street,"Sold $265,000 in Feb 2015", , ,House: 2  ,"Land size: 1,262 sqm"
+171,15 Birdsey Street,"Sold $285,000 in Jan 2015","Last Sold $175,000 in Sep 2006", ,House: 3  1  1 ,Land size: 669 sqm | Building size: 112 sqm
+172,110 St Albans Road,"Sold $265,000 in Dec 2014", , ,House: 2  1  2 ,Land size: 593 sqm
+173,23 Olney Avenue,"Sold $294,500 in Dec 2014","Last Sold $280,000 in May 2010", ,House: 3  1  2 ,Land size: 534 sqm
+174,142 Boundary Road,"Sold $215,000 in 29 Nov 2014(Auction)", , ,House: 2  1  ,Land size: 613 sqm
+175,4/9 Carruthers Court,"Sold $305,000 in Nov 2014", , ,House: 2  1  1 ,Land size: 185 sqm | Building size: 104 sqm
+176,80 St Albans Road,"Sold $355,000 in Nov 2014","Last Sold $86,000 in Jan 1996", ,House: 5  2  5 ,Land size: 975 sqm
+177,16 Helmer Crescent,"Sold $252,500 in 21 Nov 2014(Auction)", , ,House: 2  1  1 ,Land size: 669 sqm
+178,26A Robertson Street,"Sold $310,000 in Nov 2014", , , ,Land size: 312 sqm
+179,39 Winstanley Road,"Sold $312,000 in Nov 2014","Last Sold $276,500 in Apr 2011", ,House: 3  1  2 ,Land size: 535 sqm
+180,26 Robertson Street,"Sold $310,000 in Nov 2014","Last Sold $175,000 in Jun 2007", ,House: 2  1  1 ,Land size: 591 sqm
+181,2/29 Breakwater Road,"Sold $310,000 in Nov 2014","Last Sold $220,000 in Nov 2006", , ,Land size: 260 sqm | Building size: 92 sqm
+182,6 Tate Street,"Sold $240,000 in Oct 2014", , ,House: 2  1  2 ,Land size: 410 sqm
+183,34 Carrington Street,"Sold $402,000 in Oct 2014", , ,House: 4  1  4 ,"Land size: 1,207 sqm | Building size: 193 sqm"
+184,72 Godfrey Street,"Sold $295,000 in Oct 2014", ,Rent $260pw in Jul 2014,Townhouse: 2  1  1 ,Land size: 223 sqm
+185,11 Breakwater Road,"Sold $315,000 in Oct 2014", ,Rent $270pw in Apr 2018,House: 2  1  1 ,Land size: 721 sqm
+186,16 Barnfather Street,"Sold $250,000 in Oct 2014", ,Rent $270pw in Mar 2016,House: 2  1  1 ,Land size: 669 sqm
+187,1/6 Tate Street,"Sold $240,000 in Sep 2014","Last Sold $205,000 in Mar 2009", , ,Land size: 410 sqm | Building size: 78 sqm
+188,10 Robertson Street,"Sold $246,880 in 13 Sep 2014(Auction)", ,Rent $270pw in Apr 2018,House: 2  1  1 ,Land size: 591 sqm
+189,24 Martin Street,"Sold $525,000 in Sep 2014","Last Sold $76,000 in Oct 1998", ,House: 3  2  4 ,Land size: 530 sqm | Building size: 171 sqm
+190,13 Birdsey Street,"Sold $290,000 in Aug 2014", , ,House: 3  1  1 ,Land size: 669 sqm | Building size: 125 sqm
+191,2/14A Bromley Street,"Sold $111,000 in Aug 2014", , , ,Land size: 316 sqm
+192,14a Bromley Street,"Sold $111,000 in Aug 2014", , , ,Land size: 318 sqm
+193,14 Bromley Street,"Sold $111,000 in Aug 2014","Last Sold $66,500 in Feb 1999", ,House: 2  1  1 ,Land size: 318 sqm
+194,4/13 Carruthers Court,"Sold $338,000 in Aug 2014", , ,House: 3  2  1 ,Land size: 356 sqm | Building size: 141 sqm
+195,11 Fagg Street,"Sold $235,000 in Jul 2014", , ,House: 3  1  2 ,Land size: 323 sqm
+196,4 Callander Street,"Sold $244,000 in Jun 2014","Last Sold $137,500 in Jul 2002", ,House: 3  1  2 ,Land size: 552 sqm
+197,92 St Albans Road,"Sold $275,000 in Jun 2014","Last Sold $225,000 in Aug 2008", ,House: 2  1  2 ,Land size: 675 sqm | Building size: 99 sqm
+198,161 Carr Street,"Sold $245,000 in Jun 2014", , ,House: 2  1  1 ,Land size: 705 sqm | Building size: 93 sqm
+199,22 Winstanley Road,"Sold $242,000 in 10 May 2014(Auction)","Last Sold $86,000 in Dec 1992", ,House: 3  1  1 ,Land size: 564 sqm | Building size: 134 sqm
+200,139 Carr Street,"Sold $478,000 in May 2014","Last Sold $193,000 in May 2004", ,House: 4  2  3 ,Land size: 582 sqm
+201,1/31 Barnfather Street,"Sold $240,000 in May 2014", , ,Townhouse: 2  ,Land size: 325 sqm
+202,5/2 Martin Street,"Sold $150,000 in May 2014","Last Sold $117,000 in Dec 2005", , ,Land size: 39 sqm | Building size: 41 sqm
+203,2/31 Barnfather Street,"Sold $300,000 in Apr 2014", , , ,Land size: 500 sqm
+204,52 Godfrey Street,"Sold $296,000 in Mar 2014","Last Sold $220,000 in Mar 2008", ,House: 2  1  2 ,Land size: 618 sqm | Building size: 95 sqm
+205,160 Ormond Road,"Sold $315,000 in Mar 2014","Last Sold $313,000 in Jun 2012", ,House: 3  1  2 ,Land size: 596 sqm | Building size: 120 sqm
+206,192 Ormond Road,"Sold $255,000 in Feb 2014","Last Sold $196,500 in Mar 2009", ,House: 3  1  1 ,Land size: 428 sqm | Building size: 102 sqm
+207,17 Breakwater Road,"Sold $415,000 in Feb 2014", , ,House: 3  1  ,Land size: 920 sqm
+208,185 Carr Street,"Sold $490,000 in Feb 2014","Last Sold $155,000 in Jun 2011", ,House: 4  2  2 ,Land size: 301 sqm | Building size: 199 sqm
+209,43 Olney Avenue,"Sold $289,000 in Feb 2014","Last Sold $185,900 in Nov 2008", ,House: 3  1  1 ,Land size: 540 sqm | Building size: 115 sqm
+210,46 Godfrey Street,"Sold $335,000 in Jan 2014", ,Rent $310pw in Apr 2014,House: 3  1  2 ,Land size: 867 sqm
+211,11 Barnfather Street,"Sold $120,000 in Jan 2014", , ,House: 2  1  ,Land size: 303 sqm
+212,11B Barnfather Street,"Sold $120,000 in Jan 2014", , , ,Land size: 323 sqm | Building size: 174 sqm
+213,2/5 Fagg Street,"Sold $280,000 in Dec 2013","Last Sold $78,000 in Jun 2006", , ,Land size: 238 sqm
+214,5 Callander Street,"Sold $309,000 in Dec 2013", ,Rent $300pw in Apr 2018,House: 3  1  1 ,Land size: 591 sqm
+215,64b Godfrey Street,"Sold $315,000 in Oct 2013", , ,House: 3  1  ,Land size: 293 sqm
+216,64 Godfrey Street,"Sold $315,000 in Oct 2013", , ,House: 3  1  1 ,Land size: 608 sqm
+217,2/105 St Albans Road,"Sold $300,000 in Sep 2013", , , ,Land size: 221 sqm
+218,15 Robertson Street,"Sold $281,800 in Sep 2013","Last Sold $168,000 in Feb 2006", ,House: 2  1  2 ,Land size: 613 sqm
+219,48 Godfrey Street,"Sold $310,000 in Aug 2013", ,Rent $290pw in Jan 2014,House: 3  1  2 ,Land size: 770 sqm | Building size: 124 sqm
+220,137 Carr Street,"Sold $275,000 in Aug 2013","Last Sold $155,000 in Sep 2001", ,House: 2  1  2 ,Land size: 674 sqm
+221,12 Olney Avenue,"Sold $262,575 in Aug 2013","Last Sold $86,000 in Feb 2001", ,House: 3  1  2 ,Land size: 539 sqm
+222,87 St Albans Road,"Sold $270,000 in Aug 2013", ,Rent $280pw in Jun 2016,House: 2  1  1 ,Land size: 635 sqm | Building size: 72 sqm
+223,5A Helmer Crescent,"Sold $308,500 in Jul 2013", , ,House: ,Land size: 309 sqm
+224,2/7 Helmer Crescent,"Sold $319,000 in Jul 2013", , ,House: 3  2  ,Land size: 518 sqm
+225,2/22 Barnfather Street,"Sold $276,000 in Jul 2013", ,Rent $330pw in Sep 2011, ,Land size: 321 sqm
+226,1/22 Barnfather Street,"Sold $285,000 in Jul 2013","Last Sold $282,400 in Nov 2010", ,House: 2  1  2 ,Land size: 257 sqm
+227,5 Helmer Crescent,"Sold $308,500 in Jul 2013","Last Sold $235,000 in Apr 2011", ,House: 2  1  1 ,Land size: 310 sqm
+228,60 St Albans Road,"Sold $726,000 in Jul 2013","Last Sold $92,000 in Aug 1999", , ,"Land size: 1,466 sqm"
+229,12 Warren Street,"Sold $120,000 in Jun 2013","Last Sold $62,250 in Mar 1997", ,House: 2  1  1 ,Land size: 684 sqm
+230,153 St Albans Road,"Sold $255,000 in Jun 2013","Last Sold $137,000 in Apr 2002", ,House: 3  1  ,Land size: 535 sqm | Building size: 103 sqm
+231,5/13-15 Carruthers Court,"Sold $330,000 in Jun 2013","Last Sold $62,500 in Apr 1988", , ,Land size: 291 sqm
+232,39 Breakwater Road,"Sold $297,000 in Jun 2013","Last Sold $175,000 in Oct 2003", ,House: 2  1  1 ,Land size: 759 sqm
+233,5/13 Carruthers Court,"Sold $330,000 in Jun 2013", , , , 
+234,14 Carrington Street,"Sold $235,000 in Jun 2013", , , ,Land size: 766 sqm
+235,5B Helmer Crescent,"Sold $332,000 in May 2013", , ,House: 3  2  1 ,Land size: 303 sqm | Building size: 109 sqm
+236,3/13-15 Carruthers Court,"Sold $325,000 in May 2013", ,Rent $340pw in Feb 2016,Townhouse: 3  2  1 ,Land size: 321 sqm
+237,13 Callander Street,"Sold $305,000 in May 2013","Last Sold $125,500 in Sep 2002", ,House: 3  1  2 ,Land size: 531 sqm
+238,3/13 Carruthers Court,"Sold $325,000 in May 2013", , , ,Land size: 314 sqm | Building size: 1219 sqm
+239,1/13 Carruthers Court,"Sold $71,050 in May 2013", , , ,Land size: 202 sqm | Building size: 1256 sqm
+240,28 Tate Street,"Sold $254,500 in Apr 2013", , ,House: 3  1  ,Land size: 318 sqm
+241,1/1 Warren Court,"Sold $285,000 in Apr 2013", , ,Townhouse: 2  2  1 ,Land size: 246 sqm
+242,7 Fagg Street,"Sold $330,000 in Apr 2013","Last Sold $60,000 in Sep 2008", ,House: 3  1  2 ,Land size: 843 sqm | Building size: 91 sqm
+243,135 St Albans Road,"Sold $249,000 in Apr 2013", ,Rent $170pw in Feb 2008,House: 2  1  1 ,Land size: 580 sqm
+244,6 Kahle Court,"Sold $280,000 in Apr 2013","Last Sold $240,000 in Jul 2009", ,House: 3  1  1 ,Land size: 644 sqm | Building size: 115 sqm
+245,8 Kahle Court,"Sold $315,000 in Mar 2013", ,Rent $375pw in Nov 2013,House: 4  2  2 ,Land size: 575 sqm | Building size: 148 sqm
+246,30 Godfrey Street,"Sold $262,500 in Mar 2013","Last Sold $170,000 in Oct 2006", ,House: 3  1  2 ,Land size: 647 sqm | Building size: 98 sqm
+247,1/4 Godfrey Street,"Sold $335,000 in Mar 2013", , , ,Land size: 268 sqm | Building size: 123 sqm
+248,1/28-30 Breakwater Road,"Sold $225,000 in Feb 2013","Last Sold $155,000 in Mar 2005", , ,Land size: 62 sqm
+249,1/28 Breakwater Road,"Sold $225,000 in Feb 2013", , , ,Land size: 62 sqm
+250,1/29 Breakwater Road,"Sold $305,000 in Feb 2013","Last Sold $265,000 in Aug 2009", ,Townhouse: 2  1  1 ,Land size: 299 sqm | Building size: 106 sqm
+251,2/4 Godfrey Street,"Sold $300,000 in Jan 2013", ,Rent $310pw in Jan 2017,House: 2  1  1 ,Land size: 176 sqm
+252,168 Boundary Road,"Sold $205,000 in Jan 2013","Last Sold $72,500 in Sep 2002", , ,Land size: 128 sqm
+253,66 Breakwater Road,"Sold $315,000 in Jan 2013","Last Sold $167,500 in Aug 2006", ,House: 3  1  ,Land size: 405 sqm | Building size: 102 sqm
+254,157 St Albans Road,"Sold $275,000 in Dec 2012", ,Rent $320pw in Apr 2019,House: 3  1  1 ,Land size: 540 sqm
+255,2/11 Warren Court,"Sold $307,500 in Nov 2012", , ,Townhouse: 2  1  1 ,Land size: 190 sqm
+256,9 Warren Street,"Sold $272,000 in Nov 2012", ,Rent $265pw in Feb 2000,House: 2  1  1 ,Land size: 613 sqm
+257,1/19 Bromley Street,"Sold $310,000 in Nov 2012", ,Rent $330pw in Nov 2012,Townhouse: 3  2  2 ,Land size: 243 sqm | Building size: 1 sqm
+258,3/2 Martin Street,"Sold $155,000 in Nov 2012","Last Sold $123,000 in Aug 2007", , ,Land size: 39 sqm
+259,48 Breakwater Road,"Sold $320,000 in Nov 2012","Last Sold $78,500 in Sep 1999", ,House: 3  1  1 ,Land size: 613 sqm | Building size: 166 sqm
+260,5 Breakwater Road,"Sold $287,500 in Oct 2012","Last Sold $240,000 in Oct 2007", ,House: 3  1  1 ,Land size: 536 sqm
+261,14 Warren Street,"Sold $250,000 in Oct 2012", , ,House: 2  1  ,Land size: 415 sqm | Building size: 76 sqm
+262,29 Winstanley Road,"Sold $247,000 in Oct 2012", ,Rent $290pw in Feb 2015,House: 3  1  1 ,Land size: 580 sqm
+263,12 Martin Street,"Sold $320,000 in Sep 2012", , ,House: 2  1  ,Land size: 405 sqm | Building size: 93 sqm
+264,2/19 Bromley Street,"Sold $333,000 in Sep 2012", ,Rent $345pw in Jul 2018, ,Land size: 234 sqm
+265,7 Breakwater Road,"Sold $307,000 in Aug 2012", , ,House: 1  1  2 ,Land size: 604 sqm
+266,94B St Albans Road,"Sold $135,000 in Jul 2012", ,Rent $325pw in Jun 2015,House: 3  1  1 ,Land size: 323 sqm
+267,94 St Albans Road,"Sold $135,000 in Jul 2012", ,Rent $295pw in Dec 2012,House: 2  1  1 ,Land size: 672 sqm
+268,3/4 Godfrey Street,"Sold $310,000 in Jul 2012", , , ,Land size: 146 sqm
+269,1/11 Helmer Crescent,"Sold $315,000 in Jun 2012", ,Rent $350pw in Jan 2014,Townhouse: 3  2  2 ,Land size: 237 sqm | Building size: 180 sqm
+270,2/6 Bromley Street,"Sold $299,000 in Jun 2012", ,Rent $330pw in Mar 2011, ,Land size: 672 sqm | Building size: 109 sqm
+271,3/19 Bromley Street,"Sold $330,000 in Jun 2012", , , ,Land size: 278 sqm | Building size: 128 sqm
+272,21 Winstanley Road,"Sold $233,500 in May 2012","Last Sold $199,000 in Feb 2009", ,House: 3  1  ,Land size: 540 sqm | Building size: 101 sqm
+273,171 Carr Street,"Sold $127,000 in May 2012", ,Rent $440pw in Apr 2019,House: 3  2  1 ,Land size: 301 sqm | Building size: 143 sqm
+274,1/9 Carruthers Court,"Sold $290,000 in May 2012", , ,House: 3  1  ,Land size: 217 sqm
+275,3/21-23 Helmer Crescent,"Sold $278,000 in Apr 2012","Last Sold $225,000 in Apr 2006", ,Townhouse: 2  1  1 ,Land size: 374 sqm
+276,3/21 Helmer Crescent,"Sold $278,000 in Apr 2012", , , ,Land size: 374 sqm
+277,198 Ormond Road,"Sold $212,500 in Apr 2012","Last Sold $70,500 in May 1999", ,House: 3  1  1 ,Land size: 613 sqm
+278,2/2 Godfrey Street,"Sold $360,000 in Mar 2012", , , ,Land size: 289 sqm
+279,1/10 Birdsey Street,"Sold $220,000 in Mar 2012","Last Sold $205,000 in Jan 2010", , ,Land size: 340 sqm | Building size: 110 sqm
+280,64 Breakwater Road,"Sold $470,000 in Mar 2012","Last Sold $170,000 in Dec 2009", ,House: 3  2  2 ,Land size: 405 sqm
+281,166 Boundary Road,"Sold $202,000 in Mar 2012","Last Sold $72,500 in Sep 2002", , ,Land size: 94 sqm
+282,2 Godfrey Street,"Sold $360,000 in Mar 2012","Last Sold $195,000 in Dec 2007", ,House: 3  1  1 ,Land size: 288 sqm
+283,29 Olney Avenue,"Sold $259,900 in Feb 2012","Last Sold $187,000 in Nov 2007", ,House: 3  1  2 ,Land size: 567 sqm
+284,6 Barnfather Street,"Sold $296,000 in Feb 2012","Last Sold $110,000 in Apr 2009", ,House: 3  1  1 ,Land size: 256 sqm
+285,18 Martin Street,"Sold $405,000 in Feb 2012", , ,House: 3  2  1 ,Land size: 607 sqm | Building size: 129 sqm
+286,2/21A Barnfather Street,"Sold $325,000 in Jan 2012", , ,House: 3  2  2 ,Land size: 423 sqm
+287,2/21 Barnfather Street,"Sold $325,000 in Jan 2012","Last Sold $89,000 in Jan 2008", , ,Land size: 424 sqm
+288,180 Ormond Road,"Sold $255,000 in Jan 2012","Last Sold $118,000 in Oct 2001", ,House: 3  1  2 ,Land size: 613 sqm
+289,2A Tate Street,"Sold $170,000 in Nov 2011", , ,House: 3  ,Land size: 920 sqm | Building size: 153 sqm
+290,4/2 Martin Street,"Sold $143,000 in Nov 2011","Last Sold $129,000 in Apr 2009", , ,Land size: 39 sqm
+291,8 Helmer Crescent,"Sold $251,000 in Nov 2011","Last Sold $91,000 in Jan 2001", ,House: 2  1  1 ,Land size: 692 sqm
+292,3 Birdsey Street,"Sold $250,000 in Nov 2011","Last Sold $169,000 in Nov 2006", ,House: 3  1  1 ,Land size: 674 sqm | Building size: 84 sqm
+293,106 St Albans Road,"Sold $297,500 in Oct 2011","Last Sold $163,000 in Mar 2005", ,House: 3  1  2 ,Land size: 683 sqm
+294,162 Boundary Road,"Sold $308,000 in Oct 2011","Last Sold $89,000 in Jun 1989", , ,Land size: 208 sqm
+295,5/9 Carruthers Court,"Sold $320,000 in Oct 2011", ,Rent $280pw in Apr 2014,Townhouse: 2  1  1 ,Land size: 186 sqm | Building size: 103 sqm
+296,10 Hering Court,"Sold $269,000 in Sep 2011","Last Sold $192,500 in Apr 2008", ,House: 3  1  2 ,Land size: 595 sqm
+297,1/21-23 Helmer Crescent,"Sold $240,000 in Aug 2011", ,Rent $320pw in Jan 2019, ,Land size: 356 sqm
+298,13 Warren Street,"Sold $380,000 in Aug 2011","Last Sold $282,500 in Aug 2008", ,House: 3  2  2 ,Land size: 624 sqm
+299,1/21 Helmer Crescent,"Sold $240,000 in Aug 2011", , ,Townhouse: 2  2  1 ,Land size: 356 sqm | Building size: 120 sqm

@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,3/10-12 Chatham Close,"Sold $372,500 in Sep 2020", , ,Townhouse: ,Land size: 171 sqm
+1,24 Darriwill Street,"Sold $457,500 in Sep 2020","Last Sold $265,000 in Jun 2011", ,House: 3  1  1 ,Land size: 536 sqm
+2,25 Fairy Street,"Sold $494,000 in 12 Aug 2020(Auction)", ,Rent $390pw in Aug 2020,House: 3  1  2 ,Land size: 627 sqm
+3,19 Molloy Court,"Sold $640,000 in Aug 2020","Last Sold $460,000 in Apr 2013", ,House: 3  2  2 ,Land size: 440 sqm | Building size: 193 sqm
+4,51 Corinella Street,"Sold $600,000 in Aug 2020","Last Sold $350,000 in Dec 2013", ,House: 4  2  ,Land size: 631 sqm
+5,2/2 Liston Street,"Sold $400,000 in Aug 2020","Last Sold $233,500 in Jul 2005", , ,Land size: 280 sqm
+6,23 Edison Road,"Sold $605,000 in Jul 2020","Last Sold $397,000 in May 2015", ,House: 4  2  2 ,Land size: 522 sqm
+7,1/10-12 Chatham Close,"Sold $376,500 in Jul 2020","Last Sold $218,000 in Aug 2014", , ,Land size: 173 sqm
+8,25 Darriwill Street,"Sold $467,500 in Jul 2020","Last Sold $335,000 in Feb 2017", ,House: 3  1  1 ,Land size: 628 sqm | Building size: 139 sqm
+9,16 Kinlock Street,"Sold $500,000 in Jul 2020","Last Sold $485,000 in Feb 2018", ,House: 3  1  1 ,Land size: 626 sqm | Building size: 120 sqm
+10,1/10 Chatham Close,"Sold $376,500 in Jul 2020","Last Sold $180,000 in Aug 2010", , ,Land size: 173 sqm
+11,49 Ruhamah Avenue,"Sold $485,000 in Jul 2020","Last Sold $72,000 in Nov 1991", ,House: 3  1  1 ,Land size: 625 sqm
+12,1 Wolseley Grove,"Sold $473,000 in Jul 2020","Last Sold $286,100 in Jan 2008", ,House: 3  2  3 ,Land size: 683 sqm
+13,Lot 18 Tova Street,"Sold $320,000 in Jul 2020", , , , 
+14,29 Dane Avenue,"Sold $900,000 in Jun 2020","Last Sold $540,000 in Jan 2015", ,House: 3  2  2 ,Land size: 716 sqm
+15,38 Dane Avenue,"Sold $855,000 in Jun 2020","Last Sold $650,000 in Dec 2014", ,House: 4  3  3 ,Land size: 790 sqm
+16,98A Neil Street,"Sold $515,000 in Jun 2020","Last Sold $365,000 in May 2015", ,House: 3  ,Land size: 305 sqm
+17,10 Darriwill Street,"Sold $455,000 in Jun 2020","Last Sold $330,000 in Jan 2011", ,House: 3  1  1 ,Land size: 544 sqm
+18,46 Kansas Avenue,"Sold $465,000 in May 2020","Last Sold $150,000 in Apr 2012", , ,Land size: 533 sqm
+19,31 Leila Crescent,"Sold $550,000 in May 2020","Last Sold $99,000 in Oct 1987", ,House: 3  2  2 ,Land size: 572 sqm
+20,97 Neil Street,"Sold $550,000 in May 2020","Last Sold $359,000 in Apr 2011", ,House: 3  1  4 ,Land size: 646 sqm
+21,98 Ruhamah Avenue,"Sold $525,000 in Apr 2020","Last Sold $395,000 in Jun 2016", ,House: 3  2  2 ,Land size: 625 sqm
+22,44 Leila Crescent,"Sold $535,000 in Apr 2020","Last Sold $320,000 in Oct 2008", ,House: 4  2  2 ,Land size: 671 sqm
+23,3 Beauford Avenue,"Sold $520,000 in Apr 2020","Last Sold $325,000 in Apr 2014", ,House: 3  1  2 ,Land size: 559 sqm | Building size: 185 sqm
+24,6 Ernest Street,"Sold $475,000 in Apr 2020","Last Sold $247,000 in Jun 2007", ,House: 3  1  2 ,Land size: 650 sqm | Building size: 104 sqm
+25,70 Newton Avenue,"Sold $850,000 in Apr 2020","Last Sold $272,500 in Nov 2010", , ,Land size: 850 sqm
+26,91 Ernest Street,"Sold $560,000 in Mar 2020","Last Sold $361,000 in Aug 2013", ,House: 3  1  1 ,Land size: 647 sqm
+27,45 Newton Avenue,"Sold $484,092 in Mar 2020","Last Sold $312,000 in Dec 2015", ,House: 2  2  2 ,Land size: 535 sqm | Building size: 120 sqm
+28,157 Anakie Road,"Sold $472,000 in Feb 2020", ,Rent $360pw in Mar 2020,House: 3  1  2 ,Land size: 582 sqm
+29,6 Eagleview Crescent,"Sold $620,000 in 21 Feb 2020(Auction)", , ,House: ,"Land size: 1,029 sqm"
+30,24 Newton Avenue,"Sold $477,000 in Feb 2020","Last Sold $312,000 in Sep 2012", ,House: 4  2  1 ,Land size: 527 sqm | Building size: 125 sqm
+31,10 Rita Court,"Sold $785,000 in Jan 2020","Last Sold $279,000 in Aug 2015", , ,Land size: 559 sqm
+32,36 Rollins Road,"Sold $735,000 in Jan 2020","Last Sold $300,000 in Nov 2007", , ,Land size: 840 sqm
+33,151 Anakie Road,"Sold $590,000 in Dec 2019","Last Sold $412,500 in Mar 2017(Auction)", ,House: 3  2  2 ,Land size: 641 sqm
+34,7 Newton Avenue,"Sold $460,000 in Dec 2019","Last Sold $365,000 in Apr 2015", ,House: 3  2  2 ,Land size: 532 sqm
+35,8 Peter Street,"Sold $638,000 in Dec 2019","Last Sold $320,000 in Dec 2007", ,House: 3  2  1 ,Land size: 656 sqm | Building size: 187 sqm
+36,2/29 Leila Crescent,"Sold $425,000 in Nov 2019", ,Rent $310pw in Dec 2016, ,Land size: 294 sqm
+37,61 Neil Street,"Sold $441,000 in Nov 2019","Last Sold $115,000 in Aug 2001", ,House: 3  1  4 ,Land size: 633 sqm
+38,88 Fairy Street,"Sold $490,000 in Nov 2019", ,Rent $380pw in Nov 2019,House: 3  1  3 ,Land size: 635 sqm
+39,96 Neil Street,"Sold $455,000 in Nov 2019","Last Sold $385,000 in Oct 2017", ,House: 3  1  3 ,Land size: 631 sqm
+40,51 Darriwill Street,"Sold $490,000 in Nov 2019","Last Sold $225,000 in Nov 2007", ,House: 4  1  5 ,Land size: 575 sqm | Building size: 131 sqm
+41,10 Corinella Street,"Sold $545,000 in Oct 2019", , ,House: 3  1  2 ,Land size: 649 sqm
+42,100 Ernest Street,"Sold $510,000 in Oct 2019","Last Sold $108,000 in Oct 2001", ,House: 3  1  1 ,Land size: 648 sqm
+43,73 Corinella Street,"Sold $452,500 in Oct 2019","Last Sold $410,000 in Dec 2016", ,House: 5  2  2 ,Land size: 617 sqm
+44,5A Kinlock Street,"Sold $330,000 in Sep 2019", , , ,Land size: 308 sqm
+45,6/14-16 Wolseley Grove,"Sold $372,500 in Sep 2019","Last Sold $200,000 in Dec 2014", , ,"Land size: 1,299 sqm"
+46,83 Darriwill Street,"Sold $480,000 in Sep 2019","Last Sold $333,000 in May 2010", ,House: 3  2  4 ,Land size: 624 sqm | Building size: 180 sqm
+47,25 Aintree Road,"Sold $570,000 in Sep 2019","Last Sold $322,200 in May 2004", ,House: 3  2  2 ,Land size: 564 sqm
+48,1 Milan Street,"Sold $400,000 in Aug 2019", , ,House: 2  1  1 , 
+49,2 Wolseley Grove,"Sold $390,000 in Aug 2019","Last Sold $95,000 in Oct 2002", , ,Land size: 654 sqm | Building size: 81 sqm
+50,74B Ernest Street,"Sold $445,000 in Aug 2019", ,Rent $385pw in Mar 2017,House: 3  2  2 , 
+51,38 Jedda Street,"Sold $430,000 in Aug 2019","Last Sold $337,000 in May 2016", ,House: 2  1  1 ,Land size: 645 sqm | Building size: 100 sqm
+52,3 Newton Avenue,"Sold $420,000 in Aug 2019","Last Sold $268,000 in Jul 2012", ,House: 3  1  1 ,Land size: 543 sqm | Building size: 113 sqm
+53,221 Anakie Road,"Sold $545,000 in Aug 2019","Last Sold $260,000 in Sep 2008", ,House: 4  2  5 ,Land size: 593 sqm | Building size: 191 sqm
+54,72 Corinella Street,"Sold $580,000 in Aug 2019","Last Sold $115,000 in Nov 1984", ,House: 4  2  4 ,Land size: 624 sqm
+55,a/1 Ruhamah Avenue,"Sold $575,000 in Jul 2019", , ,House: 3  2  2 , 
+56,1/70 Ruhamah Avenue,"Sold $410,000 in Jul 2019", ,Rent $350pw in Aug 2018,House: 3  1  1 ,Land size: 630 sqm
+57,34 Liston Street,"Sold $405,000 in Jun 2019","Last Sold $225,000 in Sep 2006", ,House: 3  1  2 ,Land size: 635 sqm
+58,5 Pratt Court,"Sold $540,000 in Jun 2019","Last Sold $284,990 in Dec 2008", ,House: 4  2  2 ,Land size: 820 sqm
+59,31 Jedda Street,"Sold $485,000 in Jun 2019","Last Sold $277,500 in Dec 2008", ,House: 3  1  7 ,Land size: 698 sqm | Building size: 219 sqm
+60,2/36 Eagleview Crescent,"Sold $365,000 in Jun 2019","Last Sold $238,000 in Nov 2009", , ,Land size: 305 sqm | Building size: 92 sqm
+61,5B Kinlock Street,"Sold $175,000 in Jun 2019", , , ,Land size: 313 sqm
+62,31 Ernest Street,"Sold $572,500 in Jun 2019","Last Sold $370,000 in Feb 2010", ,House: 5  2  2 ,Land size: 651 sqm | Building size: 385 sqm
+63,61 Ruhamah Avenue,"Sold $445,000 in Jun 2019","Last Sold $302,000 in Jan 2011", ,House: 3  1  3 ,Land size: 629 sqm | Building size: 112 sqm
+64,5 Ward Street,"Sold $485,000 in Jun 2019", , ,Townhouse: 3  2  2 , 
+65,40 Kansas Avenue,"Sold $447,000 in May 2019", , ,House: 4  1  3 ,Land size: 540 sqm
+66,45 Kansas Avenue,"Sold $452,500 in May 2019","Last Sold $296,000 in May 2011", ,House: 3  1  4 ,Land size: 540 sqm | Building size: 121 sqm
+67,27 Ernest Street,"Sold $375,000 in May 2019","Last Sold $80,000 in Jul 1992", ,House: 4  1  1 ,Land size: 643 sqm
+68,1/57 Rollins Road,"Sold $385,000 in May 2019","Last Sold $280,000 in Jan 2015", , ,Land size: 302 sqm
+69,58 Ruhamah Avenue,"Sold $485,000 in May 2019","Last Sold $376,500 in Nov 2014", ,House: 3  1  2 ,Land size: 621 sqm | Building size: 139 sqm
+70,15 Molloy Court,"Sold $590,000 in Apr 2019","Last Sold $197,000 in Dec 2011", ,House: 3  2  6 ,Land size: 428 sqm | Building size: 177 sqm
+71,78 Corinella Street,"Sold $480,000 in Apr 2019","Last Sold $305,000 in Jun 2014", ,House: 3  2  3 ,Land size: 628 sqm
+72,53 Braund Avenue,"Sold $488,000 in Apr 2019","Last Sold $74,000 in Sep 1988", ,House: 3  1  5 ,Land size: 634 sqm
+73,43 Edison Road,"Sold $450,000 in Mar 2019","Last Sold $203,000 in Feb 2000", ,House: 3  2  2 ,Land size: 538 sqm
+74,167 Anakie Road,"Sold $440,000 in Mar 2019","Last Sold $200,000 in Dec 2004", ,House: 4  1  2 ,Land size: 563 sqm
+75,49 Rollins Road,"Sold $468,000 in Mar 2019","Last Sold $360,000 in Sep 2014", ,House: 3  1  3 ,Land size: 557 sqm | Building size: 143 sqm
+76,38 Kinlock Street,"Sold $480,000 in Mar 2019","Last Sold $67,500 in Sep 1999", ,House: 3  1  6 ,Land size: 620 sqm
+77,112 Rollins Road,"Sold $505,000 in Mar 2019","Last Sold $360,000 in May 2013", ,House: 4  1  2 ,Land size: 613 sqm
+78,23 Kinlock Street,"Sold $399,000 in Mar 2019","Last Sold $83,000 in Mar 1994", ,House: 3  1  2 ,Land size: 552 sqm
+79,11 Molloy Court,"Sold $592,000 in Mar 2019","Last Sold $101,000 in Feb 2000", ,House: 3  1  2 ,Land size: 427 sqm | Building size: 137 sqm
+80,67 Kansas Avenue,"Sold $479,000 in Feb 2019", ,Rent $370pw in Mar 2019,House: 3  1  4 ,Land size: 539 sqm
+81,42 Kinlock Street,"Sold $390,000 in Feb 2019","Last Sold $84,500 in Aug 1993", ,House: 2  1  ,Land size: 740 sqm
+82,50 Rollins Road,"Sold $440,000 in Feb 2019","Last Sold $310,000 in Oct 2013", ,House: 3  1  5 ,Land size: 589 sqm | Building size: 140 sqm
+83,72 Ruhamah Avenue,"Sold $452,500 in Feb 2019","Last Sold $251,000 in May 2010", ,House: 3  1  3 ,Land size: 620 sqm | Building size: 102 sqm
+84,35 Darcy Crescent,"Sold $528,000 in Feb 2019","Last Sold $301,000 in May 2007", ,House: 4  2  3 ,Land size: 558 sqm
+85,38 Ward Street,"Sold $570,000 in Jan 2019","Last Sold $232,000 in Nov 2008", ,House: 3  1  4 ,Land size: 585 sqm | Building size: 113 sqm
+86,90 Liston Street,"Sold $399,600 in Jan 2019", , ,House: 3  1  2 ,Land size: 570 sqm
+87,8 Wolseley Grove,"Sold $370,000 in Jan 2019","Last Sold $206,000 in Jun 2008", ,House: 3  1  ,Land size: 653 sqm
+88,20 Wolseley Grove,"Sold $352,500 in Jan 2019", , ,House: 4  1  3 ,Land size: 641 sqm
+89,15 Darriwill Street,"Sold $460,000 in Dec 2018","Last Sold $188,000 in Aug 2002", ,House: 3  1  2 ,Land size: 626 sqm | Building size: 109 sqm
+90,71 Darriwill Street,"Sold $370,000 in Dec 2018","Last Sold $291,000 in Feb 2013", ,House: 3  1  1 ,Land size: 630 sqm | Building size: 118 sqm
+91,84 Corinella Street,"Sold $554,000 in 18 Dec 2018(Auction)","Last Sold $531,000 in Sep 2017(Auction)", ,House: 4  2  1 ,Land size: 627 sqm
+92,27 Edison Road,"Sold $440,000 in Dec 2018","Last Sold $145,000 in Mar 2002", ,House: 3  1  2 ,Land size: 535 sqm
+93,71 Neil Street,"Sold $579,000 in Dec 2018","Last Sold $347,000 in Aug 2017(Auction)", ,House: 4  2  1 ,Land size: 633 sqm
+94,22 Corinella Street,"Sold $537,000 in Dec 2018", ,Rent $380pw in Jan 2019,House: 3  1  2 ,Land size: 752 sqm
+95,20 Kansas Avenue,"Sold $490,000 in Dec 2018", ,Rent $400pw in Jan 2019,House: 4  1  3 ,Land size: 538 sqm
+96,13 Neil Street,"Sold $575,500 in Dec 2018","Last Sold $365,000 in Nov 2008(Auction)", ,House: 4  2  4 ,Land size: 656 sqm
+97,44 Braund Avenue,"Sold $410,000 in Dec 2018","Last Sold $69,000 in Feb 2000", ,House: 4  1  1 ,Land size: 578 sqm
+98,18 Kansas Avenue,"Sold $335,000 in Dec 2018", , , , 
+99,16 Rushden Close,"Sold $531,000 in 01 Dec 2018(Auction)", , ,House: 4  2  2 ,Land size: 642 sqm
+100,42 Ernest Street,"Sold $486,000 in Nov 2018", , ,House: 3  1  1 ,Land size: 776 sqm
+101,6 Chanel Avenue,"Sold $630,000 in Nov 2018","Last Sold $125,000 in Nov 1985", ,House: 5  3  2 ,"Land size: 1,074 sqm"
+102,153 Anakie Road,"Sold $566,000 in Nov 2018","Last Sold $353,000 in Jan 2005", ,House: 4  2  2 ,Land size: 644 sqm
+103,7 Darriwill Street,"Sold $587,000 in Nov 2018", , ,House: 3  2  4 ,Land size: 623 sqm
+104,16 Rollins Road,"Sold $400,000 in 24 Nov 2018(Auction)","Last Sold $105,000 in Sep 2003", ,House: 3  1  2 ,Land size: 534 sqm
+105,18 Corinella Street,"Sold $550,000 in Nov 2018", , ,House: 4  2  4 ,Land size: 655 sqm
+106,7 Fairy Street,"Sold $605,000 in Nov 2018","Last Sold $405,000 in Nov 2016(Auction)", ,House: 2  1  1 ,Land size: 537 sqm
+107,30 Newton Avenue,"Sold $445,000 in Nov 2018","Last Sold $195,000 in Dec 2005", ,House: 3  1  2 ,Land size: 535 sqm | Building size: 140 sqm
+108,2 Cardiff Street,"Sold $525,000 in Oct 2018","Last Sold $405,000 in Jun 2008", ,House: 4  2  2 ,Land size: 555 sqm | Building size: 159 sqm
+109,21 Newton Avenue,"Sold $515,123 in Oct 2018","Last Sold $244,000 in Jul 2005", ,House: 4  2  3 ,Land size: 529 sqm
+110,54 Fairy Street,"Sold $507,000 in Oct 2018","Last Sold $71,500 in Apr 1986", ,House: 3  1  4 ,Land size: 636 sqm
+111,27 Kinlock Street,"Sold $513,500 in 13 Oct 2018(Auction)", , ,House: 3  1  1 ,Land size: 617 sqm
+112,30 Kansas Avenue,"Sold $425,000 in 13 Oct 2018(Auction)", ,Rent $320pw in Feb 2013,House: 3  1  1 ,Land size: 531 sqm
+113,16 Darriwill Street,"Sold $500,000 in Oct 2018","Last Sold $327,000 in Apr 2011", ,House: 3  1  1 ,Land size: 544 sqm | Building size: 146 sqm
+114,29 Quinn Street,"Sold $431,000 in 11 Oct 2018(Auction)", , ,House: 3  2  2 ,Land size: 439 sqm
+115,23 Kansas Avenue,"Sold $530,000 in 06 Oct 2018(Auction)","Last Sold $336,500 in Jul 2013", ,House: 3  1  1 ,Land size: 529 sqm
+116,169 Anakie Road,"Sold $482,500 in Sep 2018","Last Sold $265,000 in Dec 2013", ,House: 4  1  8 ,Land size: 569 sqm
+117,3B Neil Street,"Sold $445,000 in Sep 2018", ,Rent $390pw in Mar 2019,House: 3  1  2 ,Land size: 310 sqm
+118,1/21 Fordview Crescent,"Sold $350,000 in Sep 2018","Last Sold $239,000 in Jun 2016", , ,Land size: 217 sqm
+119,31 Braund Avenue,"Sold $481,000 in Sep 2018","Last Sold $65,500 in Apr 1988", ,House: 3  1  5 ,Land size: 631 sqm
+120,15 Hosie Avenue,"Sold $335,000 in 08 Sep 2018(Auction)", , , ,Land size: 566 sqm
+121,77 Ernest Street Street,"Sold $438,000 in Sep 2018", , ,House: 4  1  3 , 
+122,77 Ernest Street,"Sold $438,000 in 08 Sep 2018(Auction)","Last Sold $330,500 in Mar 2013", ,House: 3  1  1 ,Land size: 642 sqm
+123,86 Neil Street,"Sold $510,000 in 08 Sep 2018(Auction)","Last Sold $97,500 in Apr 1997", ,House: 3  1  3 ,Land size: 626 sqm
+124,41 Darcy Crescent,"Sold $550,000 in 07 Sep 2018(Auction)","Last Sold $215,500 in May 2002", ,House: 3  2  5 ,Land size: 555 sqm
+125,12 Fordview Crescent,"Sold $457,500 in Sep 2018","Last Sold $230,250 in Oct 2007", ,House: 3  1  1 ,Land size: 560 sqm
+126,9 Peter Street,"Sold $515,000 in 01 Sep 2018(Auction)","Last Sold $310,000 in Dec 2009", ,House: 3  1  1 ,Land size: 612 sqm
+127,61 Corinella Street,"Sold $402,000 in Aug 2018","Last Sold $265,900 in Jul 2009", ,House: 3  1  2 ,Land size: 626 sqm
+128,89 Neil Street,"Sold $425,000 in 11 Aug 2018(Auction)", , ,House: 3  1  2 ,Land size: 647 sqm
+129,57 Kinlock Street,"Sold $133,000 in Aug 2018", ,Rent $335pw in Jul 2017,House: 2  2  1 ,Land size: 625 sqm | Building size: 102 sqm
+130,74A Ernest Street,"Sold $345,000 in Aug 2018", , ,House: 2  1  , 
+131,17 Molloy Court,"Sold $557,500 in Aug 2018","Last Sold $146,000 in May 2005", ,House: 3  2  1 ,Land size: 440 sqm
+132,52 Jedda Street,"Sold $620,000 in Aug 2018", , ,House: 4  2  4 ,Land size: 596 sqm
+133,14 Darriwill Street,"Sold $530,000 in Aug 2018","Last Sold $300,000 in Sep 2016", ,House: 3  2  1 ,Land size: 544 sqm | Building size: 115 sqm
+134,60 Darriwill Street,"Sold $475,000 in Jul 2018", , ,House: 3  1  4 ,Land size: 543 sqm
+135,45 Rollins Road,"Sold $372,000 in 14 Jul 2018(Auction)","Last Sold $59,000 in Feb 2000", ,House: 3  2  2 ,Land size: 532 sqm
+136,9 Eagleview Crescent,"Sold $540,000 in Jul 2018","Last Sold $314,000 in Jan 2006", ,House: 4  1  1 ,Land size: 781 sqm | Building size: 221 sqm
+137,89 Darriwell Street,"Sold $485,000 in Jul 2018", , , , 
+138,89 Darriwill Street,"Sold $485,000 in Jul 2018","Last Sold $300,000 in Jul 2009", ,House: 3  1  1 ,Land size: 616 sqm | Building size: 171 sqm
+139,101 Corinella Street,"Sold $398,000 in Jul 2018","Last Sold $240,000 in Apr 2014", ,House: 2  1  1 ,Land size: 300 sqm | Building size: 104 sqm
+140,47 Rollins Road,"Sold $450,000 in Jun 2018","Last Sold $295,000 in Nov 2010", ,House: 4  2  1 ,Land size: 581 sqm
+141,68 Ernest Street,"Sold $361,000 in Jun 2018", , ,House: 3  1  2 ,Land size: 648 sqm
+142,20 Darriwill Street,"Sold $455,000 in Jun 2018","Last Sold $192,000 in Jul 2003", ,House: 3  1  1 ,Land size: 543 sqm
+143,223 Anakie Road,"Sold $450,000 in Jun 2018", , ,House: 3  1  5 ,Land size: 586 sqm
+144,22 Darriwill Street,"Sold $417,500 in Jun 2018","Last Sold $150,000 in Sep 2005", ,House: 3  1  2 ,Land size: 536 sqm
+145,1/102 Ernest Street,"Sold $410,000 in Jun 2018", , , ,Land size: 308 sqm
+146,50 Braund Avenue,"Sold $487,500 in May 2018","Last Sold $330,300 in May 2016", ,House: 2  1  1 ,Land size: 576 sqm | Building size: 145 sqm
+147,58 Kansas Avenue,"Sold $505,000 in May 2018","Last Sold $330,000 in Jan 2014", ,House: 4  2  1 ,Land size: 536 sqm | Building size: 121 sqm
+148,113 Liston Street,"Sold $520,000 in 12 May 2018(Auction)","Last Sold $330,000 in Apr 2013", ,House: 3  1  2 ,Land size: 639 sqm | Building size: 131 sqm
+149,8 Kinlock Street,"Sold $517,000 in 12 May 2018(Auction)","Last Sold $304,250 in Jun 2014", ,House: 3  1  2 ,Land size: 624 sqm | Building size: 125 sqm
+150,93 Braund Avenue,"Sold $515,000 in 28 Apr 2018(Auction)","Last Sold $95,500 in Aug 1985", ,House: 1  1  1 ,Land size: 632 sqm
+151,23 Newton Avenue,"Sold $451,000 in Apr 2018","Last Sold $290,000 in Apr 2012", ,House: 3  1  2 ,Land size: 530 sqm | Building size: 136 sqm
+152,7b Chanel Avenue,"Sold $420,311 in Apr 2018", ,Rent $350pw in Oct 2015,Townhouse: 3  1  1 ,Land size: 320 sqm
+153,30 Cardiff Street,"Sold $540,000 in Apr 2018","Last Sold $316,000 in Nov 2009", ,House: 3  2  1 ,Land size: 556 sqm | Building size: 168 sqm
+154,2/57 Rollins Road,"Sold $381,000 in Apr 2018","Last Sold $232,500 in May 2005", ,Townhouse: 2  1  1 ,Land size: 305 sqm
+155,34 Newton Avenue,"Sold $435,000 in 07 Apr 2018(Auction)", ,Rent $360pw in Jun 2018,House: 3  1  2 ,Land size: 539 sqm
+156,13 Darriwill Street,"Sold $503,000 in Apr 2018", ,Rent $395pw in Jul 2018,House: 4  2  2 ,Land size: 619 sqm
+157,5 Eagleview Crescent,"Sold $657,500 in Apr 2018","Last Sold $570,000 in Aug 2014", ,House: 6  3  2 ,Land size: 950 sqm | Building size: 282 sqm
+158,43 Corinella Street,"Sold $500,000 in Mar 2018","Last Sold $247,000 in Jul 2008", ,House: 3  1  1 ,Land size: 624 sqm
+159,99 Corinella Street,"Sold $165,000 in Mar 2018", ,Rent $210pw in May 2009,House: 3  1  ,Land size: 328 sqm
+160,10 Neil Street,"Sold $585,000 in Mar 2018","Last Sold $175,000 in Sep 2001", ,House: 1  1  1 ,Land size: 651 sqm
+161,1/14-16 Wolseley Grove,"Sold $187,000 in Mar 2018","Last Sold $130,000 in Dec 2014", , ,"Land size: 1,299 sqm"
+162,95 Ernest Street,"Sold $516,000 in Mar 2018","Last Sold $168,000 in Jun 2001", ,House: 4  2  5 ,Land size: 637 sqm
+163,33 Edison Road,"Sold $470,000 in Mar 2018","Last Sold $287,000 in Mar 2014", ,House: 3  1  1 ,Land size: 534 sqm | Building size: 106 sqm
+164,40 Liston Street,"Sold $586,000 in 24 Feb 2018(Auction)","Last Sold $395,000 in Jul 2014", ,House: 3  2  4 ,Land size: 643 sqm | Building size: 214 sqm
+165,54 Ruhamah Avenue,"Sold $530,000 in 24 Feb 2018(Auction)","Last Sold $380,000 in Nov 2010", ,House: 3  2  1 ,Land size: 619 sqm
+166,32 Braund Avenue,"Sold $500,000 in Feb 2018","Last Sold $317,000 in Oct 2009", ,House: 4  2  3 ,Land size: 631 sqm | Building size: 204 sqm
+167,68 Fairy Street,"Sold $502,500 in Feb 2018","Last Sold $315,000 in Jun 2010", ,House: 3  1  4 ,Land size: 632 sqm | Building size: 126 sqm
+168,10 Piccadilly Close,"Sold $460,000 in Feb 2018","Last Sold $117,000 in Oct 1993", ,House: 3  2  6 ,Land size: 697 sqm
+169,30 Liston Street,"Sold $530,000 in Feb 2018","Last Sold $340,000 in Feb 2012", ,House: 3  1  4 ,Land size: 646 sqm | Building size: 143 sqm
+170,73 Ruhamah Avenue,"Sold $471,000 in Feb 2018","Last Sold $328,000 in May 2012", ,House: 3  1  2 ,Land size: 620 sqm
+171,123 Anakie Road,"Sold $422,000 in Feb 2018","Last Sold $329,000 in May 2014", ,House: 3  1  1 ,Land size: 410 sqm | Building size: 139 sqm
+172,14 Dane Avenue,"Sold $412,500 in Feb 2018","Last Sold $62,000 in Dec 1995", , ,Land size: 720 sqm
+173,32 Ward Street,"Sold $512,000 in Feb 2018","Last Sold $83,000 in Oct 1999", ,House: 3  1  2 ,Land size: 578 sqm
+174,75 Fairy Street,"Sold $520,000 in 03 Feb 2018(Auction)","Last Sold $280,000 in Dec 2006", ,House: 5  3  2 ,Land size: 619 sqm
+175,21 Edison Road,"Sold $435,000 in Jan 2018","Last Sold $270,000 in Jul 2010", ,House: 3  1  1 ,Land size: 524 sqm
+176,17 Harcombe Street,"Sold $535,051 in Jan 2018","Last Sold $379,990 in Mar 2012", ,House: 4  2  1 ,Land size: 579 sqm | Building size: 227 sqm
+177,73 Jedda Street,"Sold $440,000 in Jan 2018","Last Sold $336,000 in Nov 2014", ,House: 3  1  4 ,Land size: 696 sqm
+178,1/2 Jedda Street,"Sold $413,000 in Jan 2018","Last Sold $310,000 in Jun 2011", , ,Land size: 299 sqm | Building size: 136 sqm
+179,99 Ernest Street,"Sold $445,000 in Dec 2017","Last Sold $335,000 in Oct 2014", ,House: 3  2  8 ,Land size: 647 sqm | Building size: 162 sqm
+180,48 Ernest Street,"Sold $476,250 in Dec 2017","Last Sold $268,500 in Oct 2005", ,House: 4  2  4 ,Land size: 579 sqm | Building size: 190 sqm
+181,5 Dane Avenue,"Sold $735,000 in Dec 2017", , ,House: 4  2  3 ,Land size: 743 sqm
+182,118B Rollins Road,"Sold $428,000 in Dec 2017", , ,House: 3  2  2 ,Land size: 312 sqm
+183,36 Darriwill Street,"Sold $400,000 in 16 Dec 2017(Auction)","Last Sold $165,000 in Oct 2001", ,House: 3  1  2 ,Land size: 541 sqm | Building size: 148 sqm
+184,42 Beauford Avenue,"Sold $421,000 in 16 Dec 2017(Auction)","Last Sold $80,000 in Mar 1988", ,House: 3  1  2 ,Land size: 617 sqm
+185,6 Molloy Court,"Sold $506,000 in Dec 2017","Last Sold $333,000 in Dec 2006", ,House: 3  2  4 ,Land size: 439 sqm
+186,79 Ruhamah Avenue,"Sold $425,000 in 09 Dec 2017(Auction)", ,Rent $320pw in Mar 2018,House: 3  1  1 ,Land size: 629 sqm
+187,65 Corinella Street,"Sold $440,000 in Dec 2017", , ,House: 3  1  3 ,Land size: 633 sqm
+188,48 Kinlock Street,"Sold $399,000 in Dec 2017", , ,House: 3  1  1 ,Land size: 568 sqm
+189,126 Rollins Road,"Sold $525,000 in 02 Dec 2017(Auction)","Last Sold $143,000 in Jan 2000", ,House: 3  2  4 ,Land size: 684 sqm
+190,84 Darriwill Street,"Sold $430,000 in Nov 2017","Last Sold $50,000 in Aug 1984", ,House: 3  1  3 ,Land size: 541 sqm
+191,62 Ernest Street,"Sold $429,000 in Nov 2017","Last Sold $270,000 in Jul 2014", ,House: 3  1  2 ,Land size: 640 sqm
+192,63 Fairy Street,"Sold $405,000 in 25 Nov 2017(Auction)", ,Rent $380pw in May 2019,House: 3  1  2 ,Land size: 626 sqm
+193,42A Braund Avenue,"Sold $419,000 in Nov 2017", ,Rent $385pw in Mar 2017,House: 3  2  2 ,Land size: 411 sqm
+194,69 Braund Avenue,"Sold $490,000 in 18 Nov 2017(Auction)","Last Sold $405,000 in Aug 2015", ,House: 3  2  4 ,Land size: 626 sqm | Building size: 110 sqm
+195,80 Darriwill Street,"Sold $417,000 in 18 Nov 2017(Auction)","Last Sold $270,000 in Sep 2010", ,House: 3  1  1 ,Land size: 537 sqm | Building size: 140 sqm
+196,24 Ruhamah Avenue,"Sold $535,000 in 11 Nov 2017(Auction)","Last Sold $370,000 in Oct 2012", ,House: 4  2  6 ,Land size: 625 sqm | Building size: 207 sqm
+197,41 Dane Avenue,"Sold $697,000 in Nov 2017","Last Sold $594,000 in Jan 2015", ,House: 5  2  2 ,Land size: 761 sqm | Building size: 335 sqm
+198,41 Kinlock Street,"Sold $455,000 in Nov 2017","Last Sold $357,500 in Oct 2014", ,House: 3  1  2 ,Land size: 749 sqm | Building size: 108 sqm
+199,41 Kansas Avenue,"Sold $485,000 in 28 Oct 2017(Auction)","Last Sold $68,000 in Oct 1986", ,House: 3  1  7 ,Land size: 641 sqm
+200,2/2 Jedda Street,"Sold $376,500 in Oct 2017", ,Rent $330pw in Aug 2018,Townhouse: 3  1  2 ,Land size: 339 sqm
+201,11 Cardiff Street,"Sold $310,000 in Oct 2017","Last Sold $52,000 in Jul 1994", , ,Land size: 558 sqm
+202,38 Newton Avenue,"Sold $500,000 in Oct 2017","Last Sold $372,000 in Aug 2016", ,House: 4  2  2 ,Land size: 532 sqm
+203,10 Cardiff Street,"Sold $575,000 in Oct 2017","Last Sold $335,000 in Oct 2003", ,House: 3  2  3 ,Land size: 557 sqm | Building size: 278 sqm
+204,42 Jedda Street,"Sold $428,500 in Oct 2017","Last Sold $295,000 in Jul 2013", ,House: 3  1  2 ,Land size: 776 sqm | Building size: 133 sqm
+205,8 Fordview Crescent,"Sold $431,500 in Oct 2017","Last Sold $267,500 in Jul 2010", ,House: 3  1  1 ,Land size: 562 sqm | Building size: 113 sqm
+206,139 Anakie Road,"Sold $425,000 in Sep 2017","Last Sold $325,000 in Dec 2013", ,House: 3  1  2 ,Land size: 676 sqm | Building size: 111 sqm
+207,2 Ruhamah Avenue,"Sold $465,000 in 23 Sep 2017(Auction)","Last Sold $126,500 in Nov 2013", ,House: 3  1  4 ,Land size: 632 sqm
+208,5 Kinlock Street,"Sold $400,000 in Sep 2017","Last Sold $189,000 in Nov 2003", ,House: 3  1  1 ,Land size: 622 sqm
+209,91 Ruhamah Avenue,"Sold $482,400 in 09 Sep 2017(Auction)","Last Sold $362,500 in Jul 2014", ,House: 4  2  1 ,Land size: 628 sqm | Building size: 179 sqm
+210,55 Corinella Street,"Sold $531,000 in Sep 2017","Last Sold $54,000 in Feb 2000", ,House: 4  2  2 ,Land size: 633 sqm
+211,2/41 Leila Crescent,"Sold $376,000 in Sep 2017", ,Rent $450pw in Apr 2017,Townhouse: 3  2  2 ,Land size: 198 sqm
+212,82 Fairy Street,"Sold $436,500 in Sep 2017", , , ,Land size: 637 sqm
+213,77 Fairy Street,"Sold $462,000 in Sep 2017","Last Sold $220,000 in Jul 2007", ,House: 3  1  4 ,Land size: 629 sqm
+214,24 Neil Street,"Sold $438,000 in 02 Sep 2017(Auction)", ,Rent $360pw in Oct 2018,House: 3  1  2 ,Land size: 631 sqm
+215,3 Leila Crescent,"Sold $525,000 in 02 Sep 2017(Auction)", ,Rent $430pw in May 2019,House: 3  2  4 ,Land size: 560 sqm
+216,82 Jedda Street,"Sold $436,500 in 02 Sep 2017(Auction)","Last Sold $64,000 in Feb 1981", ,House: 3  2  2 ,Land size: 638 sqm
+217,3/41 Leila Crescent,"Sold $231,000 in Aug 2017", ,Rent $260pw in Jan 2019, ,Land size: 206 sqm
+218,17 Neil Street,"Sold $347,000 in 26 Aug 2017(Auction)", , ,House: ,Land size: 661 sqm
+219,97 Ernest Street,"Sold $412,000 in 26 Aug 2017(Auction)", ,Rent $360pw in Nov 2017,House: 3  1  3 ,Land size: 639 sqm
+220,45 Liston Street,"Sold $447,000 in 26 Aug 2017(Auction)","Last Sold $315,000 in Oct 2013", ,House: 3  1  4 ,Land size: 596 sqm
+221,147 Anakie Road,"Sold $395,000 in Aug 2017","Last Sold $141,000 in Feb 2002", ,House: 3  1  4 ,Land size: 646 sqm
+222,2/3 Peter Street,"Sold $180,000 in Aug 2017", ,Rent $295pw in Nov 2017, ,Land size: 190 sqm
+223,61 Liston Street,"Sold $442,000 in Aug 2017","Last Sold $341,000 in Oct 2015", ,House: 3  1  2 ,Land size: 599 sqm
+224,10 Jedda Street,"Sold $420,000 in 29 Jul 2017(Auction)", ,Rent $345pw in Oct 2017,House: 3  1  2 ,Land size: 642 sqm
+225,80 Kansas Avenue,"Sold $405,000 in Jul 2017", ,Rent $340pw in Aug 2017,House: 3  2  ,Land size: 534 sqm
+226,102 Wolseley Grove,"Sold $490,500 in 15 Jul 2017(Auction)","Last Sold $322,500 in Nov 2010", ,House: 3  2  1 ,Land size: 650 sqm | Building size: 165 sqm
+227,28 Fairy Street,"Sold $377,000 in 15 Jul 2017(Auction)","Last Sold $320,000 in Nov 2011(Auction)", ,House: 3  1  1 ,Land size: 640 sqm | Building size: 134 sqm
+228,28 Darriwill Street,"Sold $329,000 in Jul 2017","Last Sold $106,000 in Jan 2001", ,House: 4  1  2 ,Land size: 538 sqm
+229,99 Neil Street,"Sold $480,000 in Jul 2017","Last Sold $62,500 in Feb 1981", ,House: 5  2  2 ,Land size: 640 sqm | Building size: 151 sqm
+230,86 Darriwill Street,"Sold $422,000 in Jun 2017","Last Sold $305,000 in May 2009", ,House: 5  2  2 ,Land size: 543 sqm | Building size: 169 sqm
+231,31 Quinn Street,"Sold $390,000 in Jun 2017", ,Rent $360pw in Jul 2017,Townhouse: 3  2  1 ,Land size: 379 sqm
+232,35 Corinella Street,"Sold $440,000 in 24 Jun 2017(Auction)", ,Rent $370pw in Dec 2018,House: 3  1  1 ,Land size: 625 sqm
+233,54 Jedda Street,"Sold $405,000 in 17 Jun 2017(Auction)", ,Rent $390pw in Mar 2019,House: 4  2  2 ,Land size: 596 sqm
+234,21 Ernest Street,"Sold $500,000 in Jun 2017", ,Rent $430pw in May 2019,House: 5  2  2 ,Land size: 643 sqm
+235,70 Ernest Street,"Sold $470,000 in 03 Jun 2017(Auction)", , ,House: 4  2  2 ,Land size: 642 sqm
+236,29-31 Quinn Street,"Sold $390,000 in Jun 2017","Last Sold $225,500 in Oct 2015", , ,Land size: 825 sqm
+237,219 Anakie Road,"Sold $362,000 in Jun 2017","Last Sold $302,000 in Oct 2014", ,House: 4  1  1 ,Land size: 595 sqm
+238,27 Leila Crescent,"Sold $455,000 in 20 May 2017(Auction)","Last Sold $395,000 in Feb 2014", ,House: 4  2  2 ,Land size: 561 sqm | Building size: 190 sqm
+239,62 Ruhamah Avenue,"Sold $440,000 in 13 May 2017(Auction)", , ,House: 3  1  1 ,Land size: 635 sqm
+240,23 Beauford Avenue,"Sold $480,000 in 13 May 2017(Auction)","Last Sold $279,000 in Apr 2009", ,House: 4  2  2 ,Land size: 565 sqm | Building size: 225 sqm
+241,2/53 Newton Avenue,"Sold $317,000 in May 2017","Last Sold $302,000 in Mar 2015", ,House: 2  1  1 ,Land size: 295 sqm | Building size: 102 sqm
+242,19 Rushden Close,"Sold $370,000 in May 2017","Last Sold $319,000 in Feb 2012", ,House: 3  1  1 ,Land size: 577 sqm
+243,24 Ernest Street,"Sold $410,000 in 29 Apr 2017(Auction)", ,Rent $320pw in Aug 2017,House: 3  1  2 ,Land size: 650 sqm
+244,111 Anakie Road,"Sold $555,000 in 29 Apr 2017(Auction)","Last Sold $77,000 in Oct 1994", ,House: 3  1  5 ,Land size: 880 sqm
+245,23 Jedda Street,"Sold $417,000 in 29 Apr 2017(Auction)","Last Sold $104,500 in Oct 1997", ,House: 4  1  2 ,Land size: 701 sqm
+246,3 Hosie Avenue,"Sold $355,000 in Apr 2017", , ,House: 3  1  2 ,Land size: 551 sqm
+247,75 Liston Street,"Sold $325,000 in Apr 2017", ,Rent $350pw in Nov 2017,House: 3  1  4 ,Land size: 649 sqm
+248,45 Corinella Street,"Sold $400,000 in Apr 2017", ,Rent $350pw in Jun 2017,House: 3  1  1 ,Land size: 622 sqm
+249,23 Kardinia Drive,"Sold $845,000 in Apr 2017","Last Sold $70,000 in Nov 2000", ,House: 4  2  6 ,"Land size: 1,001 sqm"
+250,18 Jedda Street,"Sold $460,000 in Mar 2017","Last Sold $230,000 in Nov 2007", ,House: 4  2  2 ,Land size: 645 sqm | Building size: 165 sqm
+251,18 Dane Avenue,"Sold $610,000 in Mar 2017","Last Sold $470,000 in Aug 2011", ,House: 4  2  2 ,Land size: 648 sqm
+252,1/69 Neil Street,"Sold $355,000 in Mar 2017","Last Sold $310,000 in Jan 2013", ,House: 3  1  1 ,Land size: 310 sqm
+253,2/8 Eaglemont Crescent,"Sold $310,000 in Mar 2017", ,Rent $370pw in Apr 2017,Townhouse: 2  2  1 ,Land size: 305 sqm | Building size: 110 sqm
+254,46 Fairy Street,"Sold $410,000 in 18 Mar 2017(Auction)","Last Sold $121,000 in Jun 2000", ,House: 3  1  3 ,Land size: 634 sqm | Building size: 236 sqm
+255,12 Corinella Street,"Sold $365,000 in Mar 2017","Last Sold $205,000 in Dec 2007", ,House: 3  1  3 ,Land size: 653 sqm | Building size: 119 sqm
+256,74 Beauford Avenue,"Sold $500,000 in Mar 2017", ,Rent $430pw in Nov 2018,House: 4  2  2 ,Land size: 229 sqm
+257,2/6 Leila Crescent,"Sold $312,000 in Mar 2017","Last Sold $286,000 in Jan 2012", , ,Land size: 310 sqm
+258,12 Schofield Court,"Sold $374,000 in Mar 2017","Last Sold $75,800 in Jan 1998", , ,Land size: 767 sqm
+259,68 Jedda Street,"Sold $350,500 in 04 Mar 2017(Auction)","Last Sold $275,000 in Oct 2013", ,House: 2  1  7 ,Land size: 651 sqm | Building size: 102 sqm
+260,4/14-16 Wolseley Grove,"Sold $189,000 in Feb 2017","Last Sold $130,000 in Dec 2014", ,Townhouse: 1  1  1 ,"Land size: 1,299 sqm"
+261,75 Kansas Avenue,"Sold $414,000 in Feb 2017","Last Sold $328,500 in May 2013", ,House: 4  2  2 ,Land size: 529 sqm | Building size: 155 sqm
+262,1/1 Harris Court,"Sold $287,500 in Feb 2017","Last Sold $98,000 in Mar 1998", , ,Land size: 180 sqm
+263,7 Peter Street,"Sold $490,000 in Feb 2017", , ,House: 5  2  4 ,Land size: 683 sqm
+264,33 Darcy Crescent,"Sold $490,000 in Feb 2017","Last Sold $183,500 in May 1998", , ,Land size: 553 sqm
+265,47 Newton Avenue,"Sold $356,500 in Jan 2017","Last Sold $283,000 in Apr 2010", ,House: 3  1  3 ,Land size: 351 sqm
+266,3 Shaw Close,"Sold $609,250 in Jan 2017", , ,House: 3  2  5 ,Land size: 751 sqm
+267,15 Rushden Close,"Sold $420,000 in Jan 2017","Last Sold $355,000 in Jun 2011", ,House: 3  2  2 ,Land size: 576 sqm
+268,19 Beauford Avenue,"Sold $403,000 in Jan 2017", ,Rent $290pw in Mar 2017,House: 3  1  4 ,Land size: 643 sqm
+269,1/22 Fairy Street,"Sold $310,000 in Jan 2017","Last Sold $308,000 in Dec 2010", ,House: 2  1  2 ,Land size: 420 sqm
+270,79 Braund Avenue,"Sold $430,000 in Dec 2016","Last Sold $405,000 in May 2014", ,House: 4  2  1 ,Land size: 631 sqm | Building size: 222 sqm
+271,78 Wolseley Grove,"Sold $410,000 in Dec 2016", ,Rent $410pw in Jul 2018,House: 4  2  2 ,Land size: 644 sqm
+272,43 Ruhamah Avenue,"Sold $310,000 in Dec 2016","Last Sold $177,000 in May 2003", ,House: 3  1  2 ,Land size: 623 sqm | Building size: 108 sqm
+273,87 Newton Avenue,"Sold $340,000 in Dec 2016","Last Sold $270,000 in Oct 2009", ,House: 3  1  1 ,Land size: 540 sqm | Building size: 130 sqm
+274,56 Jedda Street,"Sold $365,000 in Nov 2016","Last Sold $115,000 in May 1989", ,House: 3  2  4 ,Land size: 643 sqm
+275,101 Darriwill Street,"Sold $388,000 in Nov 2016","Last Sold $355,000 in Jan 2014", ,House: 3  1  2 ,Land size: 618 sqm
+276,41 Darriwill Street,"Sold $490,000 in Nov 2016", , ,House: 4  2  2 ,Land size: 743 sqm
+277,9 Jedda Street,"Sold $350,000 in Nov 2016","Last Sold $61,000 in Jun 1986", ,House: 3  2  2 ,Land size: 695 sqm
+278,19 Schofield Court,"Sold $335,000 in 22 Nov 2016(Auction)","Last Sold $252,500 in Mar 2010", , ,Land size: 722 sqm
+279,27 Hosie Avenue,"Sold $344,000 in Nov 2016","Last Sold $242,000 in Sep 2007", ,House: 3  1  4 ,Land size: 576 sqm | Building size: 135 sqm
+280,73 Rollins Road,"Sold $150,000 in Nov 2016","Last Sold $79,000 in Feb 2000", ,House: 1  1  2 ,Land size: 673 sqm
+281,84 Kansas Avenue,"Sold $300,000 in Nov 2016", ,Rent $290pw in Nov 2016,House: 2  1  1 ,Land size: 540 sqm
+282,1/5 Fairy Street,"Sold $350,000 in Nov 2016","Last Sold $206,000 in Jan 2005", , ,Land size: 496 sqm
+283,26 Leila Crescent,"Sold $433,750 in Nov 2016","Last Sold $227,000 in Jun 2002", ,House: 4  3  2 ,Land size: 555 sqm
+284,5a Fairy Street,"Sold $350,000 in Nov 2016", ,Rent $330pw in Feb 2016,House: 3  1  1 , 
+285,10 Liston Street,"Sold $355,000 in Nov 2016","Last Sold $235,000 in Feb 2008", ,House: 3  1  3 ,Land size: 643 sqm | Building size: 123 sqm
+286,97 Rollins Road,"Sold $405,000 in Oct 2016", , ,House: 4  1  1 ,Land size: 762 sqm
+287,2/92 Darriwill Street,"Sold $429,000 in Oct 2016", ,Rent $430pw in Oct 2012,House: 3  2  2 ,Land size: 536 sqm
+288,62 Jedda Street,"Sold $396,000 in Oct 2016", , ,House: 3  2  3 ,Land size: 651 sqm
+289,92B Darriwill Street,"Sold $429,000 in Oct 2016", ,Rent $395pw in Jun 2017,Townhouse: 3  2  1 ,Land size: 291 sqm
+290,19 Dane Avenue,"Sold $610,000 in Oct 2016", , ,House: 4  2  2 ,Land size: 632 sqm
+291,79 Neil Street,"Sold $391,000 in Oct 2016","Last Sold $133,000 in Jul 2001", ,House: 3  1  1 ,Land size: 632 sqm
+292,59 Edison Road,"Sold $350,000 in Oct 2016","Last Sold $339,900 in Oct 2009", ,House: 3  1  1 ,Land size: 527 sqm | Building size: 176 sqm
+293,39 Corinella Street,"Sold $350,000 in Oct 2016","Last Sold $301,000 in Jun 2011", ,House: 3  1  4 ,Land size: 627 sqm | Building size: 215 sqm
+294,70 Corinella Street,"Sold $361,000 in Oct 2016","Last Sold $225,000 in Jan 2007", ,House: 4  1  2 ,Land size: 631 sqm | Building size: 123 sqm
+295,19 McNaughton Street,"Sold $133,250 in Sep 2016", , , ,Land size: 218 sqm
+296,43 Kansas Avenue,"Sold $366,000 in Sep 2016","Last Sold $270,000 in Nov 2013(Auction)", ,House: 3  1  4 ,Land size: 539 sqm | Building size: 136 sqm
+297,45-47 Leila Crescent,"Sold $162,000 in Sep 2016", , , ,Land size: 879 sqm
+298,31 Darriwill Street,"Sold $365,000 in Sep 2016","Last Sold $220,000 in Nov 2004", ,House: 3  1  6 ,Land size: 621 sqm
+299,12 Braund Avenue,"Sold $322,000 in Sep 2016","Last Sold $107,000 in Feb 2000", ,House: 3  1  2 ,Land size: 629 sqm

@@ -1,0 +1,561 @@
+,grs_zones,lga11_name,id_areas,settlement,2011pop,2016pop
+0,109,Greater Geelong (C),Leopold,Leopold,777,971
+1,110,Greater Geelong (C),Leopold,Leopold,499,509
+2,111,Greater Geelong (C),Leopold,NO_INFO,212,216
+3,112,Greater Geelong (C),Leopold,Leopold,782,807
+4,113,Greater Geelong (C),Leopold,Leopold,560,578
+5,114,Greater Geelong (C),Newcomb - Moolap,NO_INFO,9,9
+6,115,Greater Geelong (C),Leopold,Leopold,551,568
+7,116,Greater Geelong (C),Leopold,Leopold,317,327
+8,117,Greater Geelong (C),Leopold,Leopold,691,757
+9,118,Greater Geelong (C),Leopold,Leopold,447,461
+10,119,Greater Geelong (C),Leopold,Leopold,"1,072","1,106"
+11,120,Greater Geelong (C),Leopold,Leopold,516,534
+12,121,Greater Geelong (C),Leopold,Leopold,495,518
+13,122,Greater Geelong (C),Leopold,Leopold,744,765
+14,123,Greater Geelong (C),Leopold,Leopold,476,527
+15,124,Greater Geelong (C),Leopold,Leopold,564,588
+16,125,Greater Geelong (C),Leopold,Leopold,630,657
+17,126,Greater Geelong (C),Leopold,NO_INFO,526,549
+18,127,Greater Geelong (C),Newcomb - Moolap,NO_INFO,222,221
+19,128,Greater Geelong (C),Newcomb - Moolap,NO_INFO,294,292
+20,129,Greater Geelong (C),Newcomb - Moolap,Geelong,409,413
+21,130,Greater Geelong (C),Newcomb - Moolap,Geelong,389,386
+22,131,Greater Geelong (C),Newcomb - Moolap,Geelong,597,593
+23,132,Greater Geelong (C),Newcomb - Moolap,Geelong,556,563
+24,133,Greater Geelong (C),Newcomb - Moolap,Geelong,535,531
+25,134,Greater Geelong (C),Newcomb - Moolap,Geelong,36,36
+26,135,Greater Geelong (C),Newcomb - Moolap,Geelong,700,695
+27,136,Greater Geelong (C),Newcomb - Moolap,NO_INFO,134,133
+28,137,Greater Geelong (C),Newcomb - Moolap,Geelong,482,479
+29,138,Greater Geelong (C),Newcomb - Moolap,Geelong,618,613
+30,139,Greater Geelong (C),Whittington,Geelong,654,654
+31,140,Greater Geelong (C),Whittington,Geelong,556,555
+32,141,Greater Geelong (C),Whittington,Geelong,614,614
+33,142,Greater Geelong (C),Newcomb - Moolap,Geelong,566,562
+34,143,Greater Geelong (C),Whittington,Geelong,549,548
+35,144,Greater Geelong (C),St Albans Park,Geelong,555,565
+36,145,Greater Geelong (C),Whittington,Geelong,631,630
+37,146,Greater Geelong (C),Whittington,Geelong,606,605
+38,147,Greater Geelong (C),St Albans Park,Geelong,309,313
+39,148,Greater Geelong (C),St Albans Park,Geelong,514,537
+40,149,Greater Geelong (C),Newcomb - Moolap,NO_INFO,0,0
+41,150,Greater Geelong (C),Whittington,Geelong,672,671
+42,151,Greater Geelong (C),St Albans Park,Geelong,446,451
+43,152,Greater Geelong (C),St Albans Park,Geelong,542,551
+44,153,Greater Geelong (C),St Albans Park,Geelong,589,601
+45,154,Greater Geelong (C),St Albans Park,Geelong,860,864
+46,155,Greater Geelong (C),St Albans Park,Geelong,582,589
+47,156,Greater Geelong (C),St Albans Park,Geelong,691,712
+48,157,Greater Geelong (C),St Albans Park,NO_INFO,30,31
+49,158,Greater Geelong (C),Newcomb - Moolap,NO_INFO,37,36
+50,159,Greater Geelong (C),Lara,Lara,438,423
+51,160,Greater Geelong (C),Lara,Lara,220,214
+52,161,Greater Geelong (C),Lara,Lara,572,558
+53,162,Greater Geelong (C),Lara,Lara,40,420
+54,163,Greater Geelong (C),Lara,Lara,0,0
+55,164,Greater Geelong (C),Lara,Lara,0,0
+56,165,Greater Geelong (C),Lara,Lara,628,610
+57,166,Greater Geelong (C),Lara,Lara,"1,399","1,359"
+58,167,Greater Geelong (C),Lara,Lara,769,750
+59,168,Greater Geelong (C),Lara,Lara,773,755
+60,169,Greater Geelong (C),Lara,Lara,1,1
+61,170,Greater Geelong (C),Lara,Lara,76,95
+62,171,Greater Geelong (C),Lara,Lara,697,697
+63,172,Greater Geelong (C),Lara,Lara,437,426
+64,173,Greater Geelong (C),Lara,Lara,506,511
+65,174,Greater Geelong (C),Lara,Lara,661,642
+66,175,Greater Geelong (C),Lara,Lara,713,703
+67,176,Greater Geelong (C),Lara,Lara,568,554
+68,177,Greater Geelong (C),Lara,Lara,561,547
+69,178,Greater Geelong (C),Lara,Lara,406,394
+70,179,Greater Geelong (C),Lara,Lara,575,561
+71,180,Greater Geelong (C),Lara,NO_INFO,76,74
+72,181,Greater Geelong (C),Lara,Lara,586,569
+73,182,Greater Geelong (C),Lara,Lara,626,608
+74,183,Greater Geelong (C),Lara,NO_INFO,27,26
+75,184,Greater Geelong (C),Corio,NO_INFO,10,10
+76,185,Greater Geelong (C),Lara,Lara,148,"2,020"
+77,186,Greater Geelong (C),Corio,Geelong,216,218
+78,187,Greater Geelong (C),Corio,Geelong,3,4
+79,188,Greater Geelong (C),Corio,Geelong,29,30
+80,189,Greater Geelong (C),Corio,NO_INFO,60,58
+81,190,Greater Geelong (C),Lara,Lara,995,"1,960"
+82,191,Greater Geelong (C),Corio,Geelong,21,20
+83,192,Greater Geelong (C),Corio,Geelong,6,6
+84,193,Greater Geelong (C),Corio,Geelong,18,18
+85,194,Greater Geelong (C),Corio,Geelong,619,607
+86,195,Greater Geelong (C),Corio,Geelong,471,462
+87,196,Greater Geelong (C),Corio,Geelong,5,5
+88,197,Greater Geelong (C),Corio,Geelong,0,0
+89,198,Greater Geelong (C),Corio,Geelong,417,409
+90,199,Greater Geelong (C),Corio,Geelong,6,6
+91,200,Greater Geelong (C),Corio,Geelong,515,505
+92,201,Greater Geelong (C),Corio,Geelong,0,0
+93,202,Greater Geelong (C),Corio,Geelong,7,7
+94,203,Greater Geelong (C),Corio,Geelong,573,562
+95,204,Greater Geelong (C),Corio,Geelong,8,8
+96,205,Greater Geelong (C),Corio,Geelong,7,7
+97,206,Greater Geelong (C),Corio,Geelong,0,0
+98,207,Greater Geelong (C),Corio,Geelong,499,490
+99,208,Greater Geelong (C),Corio,Geelong,9,9
+100,209,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+101,210,Greater Geelong (C),Corio,Geelong,0,0
+102,211,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+103,212,Greater Geelong (C),Corio,Geelong,614,602
+104,213,Greater Geelong (C),Lara,NO_INFO,205,197
+105,214,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+106,215,Greater Geelong (C),Corio,Geelong,696,683
+107,216,Greater Geelong (C),Corio,Geelong,0,0
+108,217,Greater Geelong (C),Corio,Geelong,0,0
+109,218,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+110,219,Greater Geelong (C),Corio,Geelong,636,624
+111,220,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+112,221,Greater Geelong (C),Corio,Geelong,466,457
+113,222,Greater Geelong (C),Norlane - North Shore,Geelong,5,5
+114,223,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+115,224,Greater Geelong (C),Corio,Geelong,484,475
+116,225,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+117,226,Greater Geelong (C),Corio,Geelong,1,1
+118,227,Greater Geelong (C),Corio,Geelong,612,603
+119,228,Greater Geelong (C),Norlane - North Shore,Geelong,360,357
+120,229,Greater Geelong (C),Corio,Geelong,0,0
+121,230,Greater Geelong (C),Norlane - North Shore,Geelong,510,507
+122,231,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+123,232,Greater Geelong (C),Corio,Geelong,578,567
+124,233,Greater Geelong (C),Corio,Geelong,669,657
+125,234,Greater Geelong (C),Norlane - North Shore,Geelong,2,2
+126,235,Greater Geelong (C),Norlane - North Shore,Geelong,472,468
+127,236,Greater Geelong (C),Corio,Geelong,421,413
+128,237,Greater Geelong (C),Norlane - North Shore,Geelong,7,7
+129,238,Greater Geelong (C),Corio,Geelong,0,0
+130,239,Greater Geelong (C),Corio,Geelong,524,514
+131,240,Greater Geelong (C),Corio,Geelong,596,584
+132,241,Greater Geelong (C),Norlane - North Shore,Geelong,748,743
+133,242,Greater Geelong (C),Corio,Geelong,640,628
+134,243,Greater Geelong (C),Norlane - North Shore,Geelong,583,579
+135,244,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+136,245,Greater Geelong (C),Corio,Geelong,637,624
+137,246,Greater Geelong (C),Norlane - North Shore,Geelong,598,594
+138,247,Greater Geelong (C),Corio,Geelong,630,618
+139,248,Greater Geelong (C),Corio,Geelong,765,751
+140,249,Greater Geelong (C),Norlane - North Shore,Geelong,678,673
+141,250,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,Geelong,247,618
+142,251,Greater Geelong (C),Corio,Geelong,528,518
+143,252,Greater Geelong (C),Norlane - North Shore,Geelong,566,773
+144,253,Greater Geelong (C),Corio,Geelong,406,398
+145,254,Greater Geelong (C),Norlane - North Shore,Geelong,610,630
+146,255,Greater Geelong (C),Corio,Geelong,1,1
+147,256,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+148,257,Greater Geelong (C),Corio,Geelong,439,431
+149,258,Greater Geelong (C),Norlane - North Shore,Geelong,580,576
+150,259,Greater Geelong (C),Norlane - North Shore,Geelong,605,601
+151,260,Greater Geelong (C),Corio,Geelong,607,596
+152,261,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,NO_INFO,615,617
+153,262,Greater Geelong (C),Norlane - North Shore,Geelong,375,374
+154,263,Greater Geelong (C),Norlane - North Shore,Geelong,0,0
+155,264,Greater Geelong (C),Norlane - North Shore,Geelong,663,663
+156,265,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+157,266,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,Geelong,464,489
+158,267,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+159,268,Greater Geelong (C),Norlane - North Shore,Geelong,614,611
+160,269,Greater Geelong (C),Norlane - North Shore,Geelong,18,18
+161,270,Greater Geelong (C),Norlane - North Shore,Geelong,585,581
+162,271,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+163,272,Greater Geelong (C),Bell Park,Geelong,6,6
+164,273,Greater Geelong (C),Norlane - North Shore,Geelong,515,511
+165,274,Greater Geelong (C),Bell Park,Geelong,0,0
+166,275,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,NO_INFO,137,137
+167,276,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+168,277,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+169,278,Greater Geelong (C),Bell Park,Geelong,513,534
+170,279,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,NO_INFO,268,278
+171,280,Greater Geelong (C),North Geelong - Rippleside,Geelong,11,10
+172,281,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,Geelong,712,714
+173,282,Greater Geelong (C),North Geelong - Rippleside,Geelong,37,33
+174,283,Greater Geelong (C),Bell Park,Geelong,10,10
+175,284,Greater Geelong (C),Bell Park,Geelong,552,572
+176,285,Greater Geelong (C),North Geelong - Rippleside,Geelong,188,174
+177,286,Greater Geelong (C),North Geelong - Rippleside,Geelong,498,462
+178,287,Greater Geelong (C),North Geelong - Rippleside,Geelong,21,19
+179,288,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+180,289,Greater Geelong (C),Bell Park,Geelong,760,792
+181,290,Greater Geelong (C),Bell Post Hill,Geelong,559,556
+182,291,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,NO_INFO,75,75
+183,292,Greater Geelong (C),Bell Park,Geelong,16,16
+184,293,Greater Geelong (C),Bell Park,Geelong,482,503
+185,294,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+186,295,Greater Geelong (C),Bell Post Hill,Geelong,455,453
+187,296,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,NO_INFO,287,288
+188,297,Greater Geelong (C),Bell Post Hill,Geelong,593,590
+189,298,Greater Geelong (C),North Geelong - Rippleside,Geelong,621,592
+190,299,Greater Geelong (C),North Geelong - Rippleside,Geelong,445,415
+191,300,Greater Geelong (C),Bell Post Hill,Geelong,501,498
+192,301,Greater Geelong (C),Bell Park,Geelong,673,676
+193,302,Greater Geelong (C),Bell Park,Geelong,580,583
+194,303,Greater Geelong (C),Bell Post Hill,Geelong,580,577
+195,304,Greater Geelong (C),Bell Post Hill,Geelong,537,534
+196,305,Greater Geelong (C),Bell Post Hill,Geelong,562,559
+197,306,Greater Geelong (C),Bell Post Hill,Geelong,538,535
+198,307,Greater Geelong (C),Bell Park,Geelong,613,619
+199,308,Greater Geelong (C),Bell Post Hill,Geelong,119,118
+200,309,Greater Geelong (C),North Geelong - Rippleside,Geelong,24,319
+201,310,Greater Geelong (C),Bell Park,Geelong,481,483
+202,311,Greater Geelong (C),Bell Post Hill,NO_INFO,210,206
+203,312,Greater Geelong (C),Bell Post Hill,Geelong,533,530
+204,313,Greater Geelong (C),Hamlyn Heights,Geelong,486,492
+205,314,Greater Geelong (C),Hamlyn Heights,Geelong,696,703
+206,315,Greater Geelong (C),Hamlyn Heights,Geelong,508,513
+207,316,Greater Geelong (C),Hamlyn Heights,Geelong,602,608
+208,317,Greater Geelong (C),Hamlyn Heights,Geelong,510,515
+209,318,Greater Geelong (C),Hamlyn Heights,Geelong,39,40
+210,319,Greater Geelong (C),Hamlyn Heights,Geelong,555,560
+211,320,Greater Geelong (C),Hamlyn Heights,Geelong,514,519
+212,321,Greater Geelong (C),Hamlyn Heights,Geelong,590,596
+213,322,Greater Geelong (C),Hamlyn Heights,Geelong,706,713
+214,323,Greater Geelong (C),Hamlyn Heights,Geelong,590,596
+215,324,Greater Geelong (C),Hamlyn Heights,Geelong,519,524
+216,325,Greater Geelong (C),Herne Hill - Fyansford,Geelong,607,629
+217,326,Greater Geelong (C),Lovely Banks - Batesford - Moorabool,NO_INFO,263,264
+218,327,Greater Geelong (C),Herne Hill - Fyansford,NO_INFO,154,155
+219,328,Greater Geelong (C),East Geelong,Geelong,0,0
+220,329,Greater Geelong (C),East Geelong,Geelong,695,701
+221,330,Greater Geelong (C),East Geelong,Geelong,625,627
+222,331,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,625,660
+223,332,Greater Geelong (C),East Geelong,Geelong,593,604
+224,333,Greater Geelong (C),East Geelong,Geelong,13,13
+225,334,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,192,249
+226,335,Greater Geelong (C),East Geelong,Geelong,670,675
+227,336,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,157,166
+228,337,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,453,474
+229,338,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,446,439
+230,339,Greater Geelong (C),Thomson - Breakwater,Geelong,444,442
+231,340,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,122,126
+232,341,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,137,821
+233,342,Greater Geelong (C),Thomson - Breakwater,Geelong,775,771
+234,343,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,182,499
+235,344,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,498,487
+236,345,Greater Geelong (C),East Geelong,Geelong,632,635
+237,346,Greater Geelong (C),Thomson - Breakwater,Geelong,370,372
+238,347,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,280,326
+239,348,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,424,420
+240,349,Greater Geelong (C),Thomson - Breakwater,Geelong,0,0
+241,350,Greater Geelong (C),Thomson - Breakwater,Geelong,548,544
+242,351,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,483,473
+243,352,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,98,102
+244,353,Greater Geelong (C),Thomson - Breakwater,Geelong,538,534
+245,354,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,415,406
+246,355,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,444,563
+247,356,Greater Geelong (C),Thomson - Breakwater,Geelong,6,6
+248,357,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,753,738
+249,358,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,147,144
+250,359,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,9,9
+251,360,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,29,28
+252,361,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,0,0
+253,362,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,0,0
+254,363,Greater Geelong (C),Thomson - Breakwater,Geelong,466,463
+255,364,Greater Geelong (C),Thomson - Breakwater,Geelong,23,23
+256,365,Greater Geelong (C),Thomson - Breakwater,NO_INFO,0,0
+257,366,Greater Geelong (C),North Geelong - Rippleside,Geelong,535,552
+258,367,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+259,368,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,567,559
+260,369,Greater Geelong (C),North Geelong - Rippleside,Geelong,27,27
+261,370,Greater Geelong (C),North Geelong - Rippleside,Geelong,633,591
+262,371,Greater Geelong (C),Geelong - South Geelong - Drumcondra,Geelong,282,285
+263,372,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+264,373,Greater Geelong (C),Geelong West,Geelong,22,22
+265,374,Greater Geelong (C),North Geelong - Rippleside,Geelong,560,519
+266,375,Greater Geelong (C),North Geelong - Rippleside,Geelong,0,0
+267,376,Greater Geelong (C),Geelong West,Geelong,487,481
+268,377,Greater Geelong (C),Geelong West,Geelong,"1,181","1,165"
+269,378,Greater Geelong (C),Geelong West,Geelong,573,565
+270,379,Greater Geelong (C),Geelong West,Geelong,603,598
+271,380,Greater Geelong (C),Geelong West,Geelong,661,653
+272,381,Greater Geelong (C),Geelong West,Geelong,542,548
+273,382,Greater Geelong (C),Geelong West,Geelong,585,577
+274,383,Greater Geelong (C),Manifold Heights,Geelong,613,601
+275,384,Greater Geelong (C),Geelong West,Geelong,661,652
+276,385,Greater Geelong (C),Geelong West,Geelong,650,641
+277,386,Greater Geelong (C),Manifold Heights,Geelong,649,636
+278,387,Greater Geelong (C),Geelong West,Geelong,602,594
+279,388,Greater Geelong (C),Herne Hill - Fyansford,Geelong,601,602
+280,389,Greater Geelong (C),Manifold Heights,Geelong,628,615
+281,390,Greater Geelong (C),Herne Hill - Fyansford,Geelong,601,603
+282,391,Greater Geelong (C),Manifold Heights,Geelong,787,771
+283,392,Greater Geelong (C),Herne Hill - Fyansford,Geelong,494,495
+284,393,Greater Geelong (C),Herne Hill - Fyansford,Geelong,603,604
+285,394,Greater Geelong (C),Herne Hill - Fyansford,Geelong,0,0
+286,395,Greater Geelong (C),Herne Hill - Fyansford,Geelong,618,619
+287,396,Greater Geelong (C),Portarlington,Portarlington,225,250
+288,397,Greater Geelong (C),St Leonards - Indented Head,Indented Head,800,832
+289,398,Greater Geelong (C),Portarlington,Portarlington,782,836
+290,399,Greater Geelong (C),Portarlington,Portarlington,585,568
+291,400,Greater Geelong (C),Portarlington,Portarlington,784,841
+292,401,Greater Geelong (C),Portarlington,Portarlington,965,956
+293,402,Greater Geelong (C),St Leonards - Indented Head,St Leonards,523,517
+294,403,Greater Geelong (C),Portarlington,NO_INFO,153,170
+295,404,Greater Geelong (C),St Leonards - Indented Head,St Leonards,923,959
+296,405,Greater Geelong (C),Drysdale,NO_INFO,630,626
+297,406,Greater Geelong (C),Clifton Springs,Drysdale,561,555
+298,407,Greater Geelong (C),Clifton Springs,Drysdale,870,861
+299,408,Greater Geelong (C),Clifton Springs,Drysdale,520,515
+300,409,Greater Geelong (C),Clifton Springs,Drysdale,743,789
+301,410,Greater Geelong (C),Clifton Springs,Drysdale,477,472
+302,411,Greater Geelong (C),Drysdale,Drysdale,677,673
+303,412,Greater Geelong (C),Clifton Springs,Drysdale,572,566
+304,413,Greater Geelong (C),Clifton Springs,Drysdale,334,331
+305,414,Greater Geelong (C),Clifton Springs,Drysdale,937,928
+306,415,Greater Geelong (C),Clifton Springs,Drysdale,623,646
+307,416,Greater Geelong (C),Drysdale,Drysdale,716,711
+308,417,Greater Geelong (C),Clifton Springs,Drysdale,761,753
+309,418,Greater Geelong (C),Drysdale,Drysdale,708,933
+310,419,Greater Geelong (C),Clifton Springs,Drysdale,593,587
+311,420,Greater Geelong (C),Drysdale,Drysdale,615,612
+312,421,Greater Geelong (C),Drysdale,Drysdale,782,778
+313,422,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,102,104
+314,423,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,150,150
+315,424,Greater Geelong (C),Rural Bellarine Peninsula,Point Lonsdale,875,886
+316,425,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,581,652
+317,426,Greater Geelong (C),Ocean Grove,Ocean Grove,940,"1,090"
+318,427,Greater Geelong (C),Ocean Grove,Ocean Grove,708,689
+319,428,Greater Geelong (C),Ocean Grove,Ocean Grove,648,628
+320,429,Greater Geelong (C),Ocean Grove,Ocean Grove,21,20
+321,430,Greater Geelong (C),Ocean Grove,Ocean Grove,130,128
+322,431,Greater Geelong (C),Ocean Grove,Ocean Grove,538,522
+323,432,Greater Geelong (C),Ocean Grove,Ocean Grove,664,644
+324,433,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,476,493
+325,434,Greater Geelong (C),Ocean Grove,Ocean Grove,280,272
+326,435,Greater Geelong (C),Ocean Grove,Ocean Grove,0,0
+327,436,Greater Geelong (C),Ocean Grove,Ocean Grove,346,335
+328,437,Greater Geelong (C),Ocean Grove,Ocean Grove,572,554
+329,438,Greater Geelong (C),Ocean Grove,Ocean Grove,412,400
+330,439,Greater Geelong (C),Ocean Grove,Ocean Grove,580,563
+331,440,Greater Geelong (C),Ocean Grove,Ocean Grove,730,707
+332,441,Greater Geelong (C),Ocean Grove,Ocean Grove,704,683
+333,442,Greater Geelong (C),Ocean Grove,Ocean Grove,635,654
+334,443,Greater Geelong (C),Ocean Grove,Ocean Grove,730,708
+335,444,Greater Geelong (C),Ocean Grove,Ocean Grove,795,771
+336,445,Greater Geelong (C),Ocean Grove,Ocean Grove,537,556
+337,446,Greater Geelong (C),Ocean Grove,Ocean Grove,804,837
+338,447,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,Barwon Heads,0,0
+339,448,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,Barwon Heads,615,634
+340,449,Greater Geelong (C),Ocean Grove,Ocean Grove,7,7
+341,450,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,Barwon Heads,616,634
+342,451,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,Barwon Heads,946,974
+343,452,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,Barwon Heads,842,921
+344,453,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,Barwon Heads,529,"1,013"
+345,454,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,Barwon Heads,46,74
+346,455,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,NO_INFO,297,307
+347,456,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,NO_INFO,7,7
+348,457,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,NO_INFO,191,197
+349,458,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,NO_INFO,0,0
+350,459,Greater Geelong (C),Rural North,NO_INFO,394,395
+351,460,Greater Geelong (C),Rural North,NO_INFO,78,90
+352,461,Greater Geelong (C),Lara,Lara,415,403
+353,462,Greater Geelong (C),Rural North,NO_INFO,486,488
+354,463,Greater Geelong (C),Rural North,NO_INFO,23,23
+355,464,Greater Geelong (C),Lara,NO_INFO,119,119
+356,465,Greater Geelong (C),Rural North,NO_INFO,551,550
+357,466,Greater Geelong (C),Newtown,Geelong,510,512
+358,467,Greater Geelong (C),Newtown,Geelong,623,629
+359,468,Greater Geelong (C),Newtown,Geelong,666,668
+360,469,Greater Geelong (C),Newtown,Geelong,546,547
+361,470,Greater Geelong (C),Newtown,Geelong,509,510
+362,471,Greater Geelong (C),Newtown,Geelong,684,694
+363,472,Greater Geelong (C),Newtown,Geelong,530,538
+364,473,Greater Geelong (C),Newtown,Geelong,595,606
+365,474,Greater Geelong (C),Newtown,Geelong,628,659
+366,475,Greater Geelong (C),Newtown,Geelong,616,621
+367,476,Greater Geelong (C),Newtown,Geelong,770,771
+368,477,Greater Geelong (C),Newtown,Geelong,630,630
+369,478,Greater Geelong (C),Newtown,Geelong,112,112
+370,479,Greater Geelong (C),Newtown,Geelong,490,494
+371,480,Greater Geelong (C),Newtown,Geelong,592,593
+372,481,Greater Geelong (C),Highton - Ceres,Geelong,1,1
+373,482,Greater Geelong (C),Newtown,Geelong,514,577
+374,483,Greater Geelong (C),Newtown,Geelong,440,440
+375,484,Greater Geelong (C),Newtown,Geelong,492,492
+376,485,Greater Geelong (C),Belmont,Geelong,12,12
+377,486,Greater Geelong (C),Armstrong Creek Growth Area,NO_INFO,14,13
+378,487,Greater Geelong (C),Armstrong Creek Growth Area,NO_INFO,98,90
+379,488,Greater Geelong (C),Belmont,Geelong,462,478
+380,489,Greater Geelong (C),Belmont,Geelong,595,617
+381,490,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,NO_INFO,0,0
+382,491,Greater Geelong (C),Belmont,Geelong,560,582
+383,492,Greater Geelong (C),Belmont,Geelong,106,108
+384,493,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,51,129
+385,494,Greater Geelong (C),Armstrong Creek Growth Area,NO_INFO,51,47
+386,495,Greater Geelong (C),Belmont,Geelong,645,668
+387,496,Greater Geelong (C),Belmont,Geelong,474,489
+388,497,Greater Geelong (C),Belmont,Geelong,437,454
+389,498,Greater Geelong (C),Belmont,Geelong,586,601
+390,499,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,25,23
+391,500,Greater Geelong (C),Belmont,Geelong,513,543
+392,501,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,NO_INFO,29,30
+393,502,Greater Geelong (C),Highton - Ceres,Geelong,510,499
+394,503,Greater Geelong (C),Belmont,Geelong,593,609
+395,504,Greater Geelong (C),Belmont,Geelong,579,594
+396,505,Greater Geelong (C),Belmont,Geelong,586,610
+397,506,Greater Geelong (C),Grovedale - Marshall,Geelong,622,913
+398,507,Greater Geelong (C),Belmont,Geelong,618,635
+399,508,Greater Geelong (C),Belmont,Geelong,569,583
+400,509,Greater Geelong (C),Highton - Ceres,Geelong,669,655
+401,510,Greater Geelong (C),Belmont,Geelong,473,485
+402,511,Greater Geelong (C),Belmont,Geelong,596,614
+403,512,Greater Geelong (C),Grovedale - Marshall,Geelong,682,766
+404,513,Greater Geelong (C),Belmont,Geelong,573,588
+405,514,Greater Geelong (C),Highton - Ceres,Geelong,498,488
+406,515,Greater Geelong (C),Highton - Ceres,Geelong,793,777
+407,516,Greater Geelong (C),Belmont,Geelong,482,494
+408,517,Greater Geelong (C),Highton - Ceres,Geelong,589,577
+409,518,Greater Geelong (C),Grovedale - Marshall,Geelong,27,27
+410,519,Greater Geelong (C),Belmont,Geelong,603,618
+411,520,Greater Geelong (C),Belmont,Geelong,558,573
+412,521,Greater Geelong (C),Grovedale - Marshall,Geelong,827,"1,013"
+413,522,Greater Geelong (C),Highton - Ceres,Geelong,2,2
+414,523,Greater Geelong (C),Highton - Ceres,Geelong,0,0
+415,524,Greater Geelong (C),Belmont,Geelong,546,560
+416,525,Greater Geelong (C),Highton - Ceres,Geelong,475,465
+417,526,Greater Geelong (C),Barwon Heads - Connewarre - Breamlea,NO_INFO,31,32
+418,527,Greater Geelong (C),Highton - Ceres,Geelong,636,623
+419,528,Greater Geelong (C),Highton - Ceres,Geelong,592,734
+420,529,Greater Geelong (C),Belmont,Geelong,503,517
+421,530,Greater Geelong (C),Belmont,Geelong,551,566
+422,531,Greater Geelong (C),Belmont,Geelong,679,697
+423,532,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,17,185
+424,533,Greater Geelong (C),Belmont,Geelong,0,0
+425,534,Greater Geelong (C),Grovedale - Marshall,Geelong,717,731
+426,535,Greater Geelong (C),Highton - Ceres,Geelong,5,5
+427,536,Greater Geelong (C),Belmont,Geelong,516,539
+428,537,Greater Geelong (C),Grovedale - Marshall,Geelong,624,718
+429,538,Greater Geelong (C),Highton - Ceres,Geelong,606,594
+430,539,Greater Geelong (C),Grovedale - Marshall,Geelong,57,57
+431,540,Greater Geelong (C),Highton - Ceres,Geelong,627,641
+432,541,Greater Geelong (C),Highton - Ceres,Geelong,451,452
+433,542,Greater Geelong (C),Grovedale - Marshall,Geelong,636,643
+434,543,Greater Geelong (C),Highton - Ceres,Geelong,108,437
+435,544,Greater Geelong (C),Grovedale - Marshall,Geelong,674,679
+436,545,Greater Geelong (C),Grovedale - Marshall,Geelong,361,361
+437,546,Greater Geelong (C),Grovedale - Marshall,Geelong,510,551
+438,547,Greater Geelong (C),Highton - Ceres,Geelong,663,649
+439,548,Greater Geelong (C),Highton - Ceres,Geelong,662,649
+440,549,Greater Geelong (C),Highton - Ceres,Geelong,555,543
+441,550,Greater Geelong (C),Highton - Ceres,Geelong,557,544
+442,551,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,7,7
+443,552,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,53,53
+444,553,Greater Geelong (C),Highton - Ceres,Geelong,31,351
+445,554,Greater Geelong (C),Highton - Ceres,Geelong,521,511
+446,555,Greater Geelong (C),Belmont,Geelong,491,747
+447,556,Greater Geelong (C),Grovedale - Marshall,Geelong,601,601
+448,557,Greater Geelong (C),Highton - Ceres,Geelong,155,697
+449,558,Greater Geelong (C),Grovedale - Marshall,Geelong,654,663
+450,559,Greater Geelong (C),Belmont,Geelong,531,544
+451,560,Greater Geelong (C),Highton - Ceres,Geelong,367,358
+452,561,Greater Geelong (C),Grovedale - Marshall,Geelong,477,476
+453,562,Greater Geelong (C),Grovedale - Marshall,Geelong,616,616
+454,563,Greater Geelong (C),Armstrong Creek Growth Area,NO_INFO,24,22
+455,564,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,32,286
+456,565,Greater Geelong (C),Highton - Ceres,Geelong,635,621
+457,566,Greater Geelong (C),Highton - Ceres,Geelong,350,343
+458,567,Greater Geelong (C),Wandana Heights,Geelong,550,519
+459,568,Greater Geelong (C),Grovedale - Marshall,Geelong,478,478
+460,569,Greater Geelong (C),Highton - Ceres,Geelong,553,545
+461,570,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,27,25
+462,571,Greater Geelong (C),Highton - Ceres,Geelong,694,686
+463,572,Greater Geelong (C),Grovedale - Marshall,Geelong,571,577
+464,573,Greater Geelong (C),Highton - Ceres,Geelong,509,533
+465,574,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,23,480
+466,575,Greater Geelong (C),Wandana Heights,Geelong,610,576
+467,576,Greater Geelong (C),Highton - Ceres,Geelong,4,13
+468,577,Greater Geelong (C),Highton - Ceres,Geelong,506,495
+469,578,Greater Geelong (C),Grovedale - Marshall,Geelong,562,562
+470,579,Greater Geelong (C),Grovedale - Marshall,Geelong,309,310
+471,580,Greater Geelong (C),Highton - Ceres,Geelong,412,403
+472,581,Greater Geelong (C),Highton - Ceres,Geelong,39,591
+473,582,Greater Geelong (C),Grovedale - Marshall,Geelong,605,605
+474,583,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,15,146
+475,584,Greater Geelong (C),Wandana Heights,Geelong,574,541
+476,585,Greater Geelong (C),Grovedale - Marshall,Geelong,541,541
+477,586,Greater Geelong (C),Grovedale - Marshall,Geelong,438,438
+478,587,Greater Geelong (C),Highton - Ceres,Geelong,656,643
+479,588,Greater Geelong (C),Grovedale - Marshall,Geelong,391,391
+480,589,Greater Geelong (C),Wandana Heights,Geelong,179,540
+481,590,Greater Geelong (C),Grovedale - Marshall,Geelong,1,1
+482,591,Greater Geelong (C),Grovedale - Marshall,Geelong,555,555
+483,592,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,11,10
+484,593,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,4,3
+485,594,Greater Geelong (C),Highton - Ceres,Geelong,738,858
+486,595,Greater Geelong (C),Highton - Ceres,Geelong,"1,100","1,173"
+487,596,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,27,142
+488,597,Greater Geelong (C),Grovedale - Marshall,Geelong,599,599
+489,598,Greater Geelong (C),Grovedale - Marshall,Geelong,669,669
+490,599,Greater Geelong (C),Grovedale - Marshall,Geelong,630,630
+491,600,Greater Geelong (C),Grovedale - Marshall,Geelong,540,540
+492,601,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),Geelong,840,841
+493,602,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,40,330
+494,603,Greater Geelong (C),Highton - Ceres,NO_INFO,320,322
+495,604,Greater Geelong (C),Grovedale - Marshall,Geelong,898,"1,022"
+496,605,Greater Geelong (C),Armstrong Creek Growth Area,NO_INFO,24,22
+497,606,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,54,"1,203"
+498,607,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),Geelong,831,817
+499,608,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,16,16
+500,609,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),NO_INFO,18,18
+501,610,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),Geelong,"1,107","1,247"
+502,611,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,43,40
+503,612,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),Geelong,676,678
+504,613,Greater Geelong (C),Armstrong Creek Growth Area,NO_INFO,58,53
+505,614,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),NO_INFO,274,277
+506,615,Greater Geelong (C),Armstrong Creek Growth Area,Geelong,15,54
+507,616,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),NO_INFO,228,223
+508,617,Greater Geelong (C),Armstrong Creek Growth Area,NO_INFO,43,39
+509,618,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),NO_INFO,35,35
+510,619,Greater Geelong (C),Waurn Ponds - Mount Duneed (West),NO_INFO,88,89
+511,2704,Greater Geelong (C),Leopold,Leopold,17,64
+512,2705,Greater Geelong (C),Leopold,Leopold,150,794
+513,2706,Greater Geelong (C),Leopold,Leopold,198,319
+514,2707,Greater Geelong (C),Leopold,Leopold,3,3
+515,2708,Greater Geelong (C),Lara,Lara,8,7
+516,2709,Greater Geelong (C),Lara,NO_INFO,212,207
+517,2710,Greater Geelong (C),Corio,Geelong,585,702
+518,2711,Greater Geelong (C),Bell Post Hill,Geelong,13,13
+519,2712,Greater Geelong (C),Herne Hill - Fyansford,Geelong,23,434
+520,2713,Greater Geelong (C),St Leonards - Indented Head,St Leonards,75,75
+521,2714,Greater Geelong (C),St Leonards - Indented Head,St Leonards,647,747
+522,2715,Greater Geelong (C),St Leonards - Indented Head,St Leonards,2,378
+523,2716,Greater Geelong (C),Portarlington,Portarlington,8,14
+524,2717,Greater Geelong (C),Portarlington,Portarlington,5,8
+525,2718,Greater Geelong (C),St Leonards - Indented Head,Indented Head,18,21
+526,2719,Greater Geelong (C),Drysdale,Drysdale,86,125
+527,2720,Greater Geelong (C),Drysdale,Drysdale,15,15
+528,2721,Greater Geelong (C),Drysdale,Drysdale,10,10
+529,2722,Greater Geelong (C),Portarlington,Portarlington,10,11
+530,2723,Greater Geelong (C),Portarlington,Portarlington,0,34
+531,2724,Greater Geelong (C),Rural Bellarine Peninsula,Drysdale,33,"1,367"
+532,2725,Greater Geelong (C),Drysdale,Drysdale,211,270
+533,2726,Greater Geelong (C),Ocean Grove,Ocean Grove,0,213
+534,2727,Greater Geelong (C),Rural Bellarine Peninsula,Point Lonsdale,5,135
+535,2728,Greater Geelong (C),Ocean Grove,Ocean Grove,55,222
+536,2729,Greater Geelong (C),Rural Bellarine Peninsula,Ocean Grove,4,4
+537,2730,Greater Geelong (C),Rural Bellarine Peninsula,Point Lonsdale,135,141
+538,2731,Greater Geelong (C),Ocean Grove,Ocean Grove,12,173
+539,2732,Greater Geelong (C),Lara,NO_INFO,0,0
+540,2733,Greater Geelong (C),Lara,Lara,8,7
+541,2734,Greater Geelong (C),Rural North,NO_INFO,49,49
+542,2735,Greater Geelong (C),Rural North,Lara,149,149
+543,2736,Greater Geelong (C),Wandana Heights,Geelong,12,11
+544,2737,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,160,164
+545,2738,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,78,80
+546,2739,Greater Geelong (C),Drysdale,NO_INFO,73,73
+547,2740,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,63,63
+548,2741,Greater Geelong (C),Rural Bellarine Peninsula,NO_INFO,104,105
+549,2742,Greater Geelong (C),Rural Bellarine Peninsula,Ocean Grove,23,25
+550,2743,Greater Geelong (C),Ocean Grove,Ocean Grove,0,170
+551,2744,Greater Geelong (C),Rural Bellarine Peninsula,Ocean Grove,87,89
+552,2745,Greater Geelong (C),Rural Bellarine Peninsula,Ocean Grove,38,38
+553,2746,Greater Geelong (C),Ocean Grove,Ocean Grove,0,348
+554,2747,Greater Geelong (C),Ocean Grove,Ocean Grove,630,847
+555,2748,Greater Geelong (C),Ocean Grove,Ocean Grove,77,162
+556,2749,Greater Geelong (C),Ocean Grove,Ocean Grove,427,416
+557,2750,Greater Geelong (C),Ocean Grove,Ocean Grove,421,409
+558,2751,Greater Geelong (C),Ocean Grove,Ocean Grove,223,218
+559,2752,Greater Geelong (C),Ocean Grove,Ocean Grove,315,308

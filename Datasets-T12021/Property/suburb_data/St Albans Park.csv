@@ -1,0 +1,811 @@
+Address,Sell Price,Sell Date,Last Sell Price,Last Sell Date,Auction,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Car,Suburb,Suburb_Code
+3 Mervyn Court,"489,000",Mar 2021,"320,000",Dec 2017,,o,Portfolio. Boasting,332,102,,,,St Albans Park,27
+4 Collins Street,"490,000",Mar 2021,"87,500",Jun 1989,,,,594,,3,2,2,St Albans Park,27
+8 Filipi Drive,"482,000",Mar 2021,"185,000",Jun 2003,,,,589,,3,2,2,St Albans Park,27
+14 Zazzman Court,"615,000",Feb 2021,"135,000",Jul 2007,,,,604,225,,,,St Albans Park,27
+17A Westmoreland Street,"505,000",Feb 2021,"235,000",May 2009,,285,Jun 2010,766,,3,1,,St Albans Park,27
+14 Roseview Way,"725,000",Feb 2021,"118,000",Jul 2003,,,,938,,4,2,2,St Albans Park,27
+36 Paramount Crescent,"681,000",Feb 2021,,,,,,831,,4,2,2,St Albans Park,27
+"1,2&3/253 Wilsons Road","680,000",Jan 2021,,,,,,665,,,,,St Albans Park,27
+12&3/253 Wilsons Road,"680,000",Jan 2021,,,,,,665,,,,,St Albans Park,27
+38 Govett Crescent,"620,000",Jan 2021,"461,100",Apr 2018,,320,Dec 2008,665,137,3,1,2,St Albans Park,27
+5/35-37 East End Crescent,"325,000",Jan 2021,"200,000",Sep 2011,,,,145,,,,,St Albans Park,27
+30C Grafton Street,"455,500",Dec 2020,"328,000",Sep 2014,,320,Jun 2015,275,124,3,2,1,St Albans Park,27
+12 Tabess Court,"657,000",Dec 2020,"110,000",Jan 2004,,,,777,,,,,St Albans Park,27
+442-460 Coppards Road,"980,000",Dec 2020,,,,,,"90,393",,,,,St Albans Park,27
+7 Manikato Court,"520,000",Dec 2020,"340,000",Jun 2014,,430,Dec 2020,614,,3,2,2,St Albans Park,27
+74 Townsend Road,"425,000",Dec 2020,"240,000",Nov 2011,,420,Jan 2021,669,101,3,1,4,St Albans Park,27
+29 Paramount Crescent,"550,000",Dec 2020,"320,000",Jul 2009,1.0,,,669,,5,2,2,St Albans Park,27
+2/302 Wilsons Road,"335,000",Dec 2020,"236,000",Nov 2015,,300,Oct 2020,227,,2,1,1,St Albans Park,27
+19 East End Crescent,"540,000",Dec 2020,"100,000",Nov 1997,,,,718,,3,2,2,St Albans Park,27
+22 Aldershot Road,"420,000",Nov 2020,"64,000",Sep 2002,,,,657,,,,,St Albans Park,27
+52 Meadenhall Drive,"562,000",Nov 2020,"315,000",Dec 2010,,,,648,,3,1,2,St Albans Park,27
+4 Garnfield Place,"485,000",Nov 2020,"180,000",Oct 2002,,310,Oct 2015,603,,3,1,4,St Albans Park,27
+54 Meadenhall Drive,"545,000",Nov 2020,"120,000",May 2004,,,,650,,,,,St Albans Park,27
+6/40-42 Townsend Road,"370,000",Nov 2020,"330,000",Jul 2018,,295,Jul 2017,311,,,,,St Albans Park,27
+7 Lymington Court,"440,000",Oct 2020,"113,000",Nov 2000,,,,606,,3,1,1,St Albans Park,27
+2 Townsend Road,"375,000",Sep 2020,,,,,,539,,4,1,2,St Albans Park,27
+14A Townsend Road,"415,000",Aug 2020,,,,,,768,,3,1,1,St Albans Park,27
+13 Aldershot Road,"430,000",Aug 2020,"213,000",Feb 2000,,320,Jun 2016,608,117,3,2,2,St Albans Park,27
+24 Filipi Drive,"455,000",Aug 2020,"230,000",Sep 2009,,350,Jun 2015,621,109,3,1,1,St Albans Park,27
+25 Paramount Crescent,"530,000",Aug 2020,"321,000",Aug 2013,,360,Feb 2014,581,,4,2,5,St Albans Park,27
+6 Strathmore Court,"455,000",Jul 2020,"315,500",Oct 2015,,320,Jun 2017,792,,3,1,1,St Albans Park,27
+11 Bronte Court,"530,000",Jul 2020,"339,000",May 2011,,,,716,,3,2,2,St Albans Park,27
+5 Enfield Drive,"490,000",Jul 2020,"280,000",Oct 2014,,,,573,98,3,1,2,St Albans Park,27
+1/25-27 Enfield Drive,"335,000",Jun 2020,"220,000",Aug 2016,,270,Mar 2017,140,,,,,St Albans Park,27
+1/44 Townsend Road,"380,000",Jun 2020,,,,360,Apr 2019,213,,,,,St Albans Park,27
+26 St Albans Street,"500,000",Jun 2020,"317,000",Jan 2015,,,,590,,4,2,2,St Albans Park,27
+4 Chandos Court,"383,000",May 2020,"220,000",Sep 2004,,,,500,,2,2,5,St Albans Park,27
+48 Enfield Drive,"450,000",May 2020,"295,000",Sep 2014,,390,Sep 2020,652,112,3,1,1,St Albans Park,27
+31 East End Crescent,"441,000",May 2020,,,,,,726,,,,,St Albans Park,27
+64 Grafton Street,"425,500",Apr 2020,"282,500",Sep 2010,,,,500,,3,1,2,St Albans Park,27
+311 Wilsons Road,"469,000",Mar 2020,"93,500",Feb 2000,,,,673,,3,2,2,St Albans Park,27
+12 Meadenhall Drive,"402,500",Mar 2020,"105,000",May 2000,,,,398,,,,,St Albans Park,27
+14 Alcott Road,"570,000",Mar 2020,"309,000",Apr 2007,,,,740,,3,2,4,St Albans Park,27
+8B East End Crescent,"475,000",Mar 2020,,,,,,,,,,,St Albans Park,27
+10 Grafton Street,"357,000",21 Mar 2020,"225,000",Jul 2007,1.0,,,575,,3,2,1,St Albans Park,27
+35 Westmoreland Street,"488,000",Mar 2020,"365,000",Mar 2018,,,,669,,3,1,1,St Albans Park,27
+7 Jenna Court,"465,000",Mar 2020,,,,,,673,,,,,St Albans Park,27
+13 Chandos Court,"408,500",Mar 2020,"220,000",Sep 2005,,320,Aug 2018,568,,3,1,2,St Albans Park,27
+1 Nada Close,"430,000",Feb 2020,"149,000",Mar 2002,,,,588,,3,2,2,St Albans Park,27
+2/315-317 Boundary Road,"285,000",Feb 2020,"140,000",Apr 2006,,150,Mar 2006,67,,,,,St Albans Park,27
+36 Pinder Court,"445,000",Feb 2020,"310,000",May 2014,,270,Sep 2008,647,112,3,1,2,St Albans Park,27
+52 Paratone Crescent,"545,000",Feb 2020,"370,000",Mar 2011,,,,684,173,3,2,2,St Albans Park,27
+52 Paratone Cresent,"545,000",Feb 2020,,,,,,,,3,2,4,St Albans Park,27
+10 Roseview Way,"622,000",Feb 2020,"350,000",Jul 2006,,,,757,,4,2,5,St Albans Park,27
+20 Bronte Court,"390,000",Jan 2020,"385,000",Jul 2018,,270,Jun 2010,341,99,2,1,2,St Albans Park,27
+48 Chandos Court,"405,000",Jan 2020,,,,370,Nov 2018,285,,3,2,2,St Albans Park,27
+27 Durran Street,"450,000",Jan 2020,,,,,,619,,3,2,4,St Albans Park,27
+81 Homestead Drive,"610,000",Jan 2020,,,,,,725,,4,2,2,St Albans Park,27
+6A St James Street,"420,000",Dec 2019,"320,000",Jun 2016,,,,281,,3,2,1,St Albans Park,27
+63 St Albans Street,"450,000",Dec 2019,"265,000",Jun 2013,,320,Aug 2015,568,,3,1,1,St Albans Park,27
+26 Grafton Street,"422,000",Dec 2019,"240,500",Oct 2014,,350,Apr 2019,726,114,3,1,1,St Albans Park,27
+62-64 Homestead Drive,"540,000",Dec 2019,"325,000",Sep 2012,1.0,,,730,,5,2,4,St Albans Park,27
+10 Ardula Court,"440,000",Dec 2019,"235,000",Oct 2005,,340,Aug 2015,664,,3,1,1,St Albans Park,27
+21 Bronte Court,"397,000",Dec 2019,"263,000",Sep 2012,,,,407,,,,,St Albans Park,27
+21 Alcott Road,"645,000",Nov 2019,,,,,,786,,,,,St Albans Park,27
+27 St James Street,"405,000",Nov 2019,"195,000",Feb 2008,,275,Sep 2016,590,,3,1,2,St Albans Park,27
+4 Aldershot Road,"425,000",Nov 2019,"82,500",Mar 1989,,,,638,,4,2,1,St Albans Park,27
+34 Enfield Drive,"470,000",Nov 2019,"232,000",Sep 2009,,295,Jul 2010,569,117,4,1,,St Albans Park,27
+62 St Albans Street,"410,500",Nov 2019,"245,000",Sep 2012,,275,Aug 2017,679,,2,1,2,St Albans Park,27
+13 Durran Street,"440,000",Nov 2019,"335,000",Jul 2015,,430,Jul 2017,623,245,4,3,2,St Albans Park,27
+23 Westmoreland Street,"442,000",Oct 2019,,,,385,Nov 2019,768,,3,1,4,St Albans Park,27
+262 Wilsons Road,"581,000",26 Oct 2019,,,1.0,,,"1,218",,3,,,St Albans Park,27
+2/202 Coppards Road,"412,000",Oct 2019,"223,000",Sep 2004,,,,385,135,,,,St Albans Park,27
+64 St Albans Street,"405,000",Oct 2019,,,,,,666,,4,1,2,St Albans Park,27
+2/158-162 Townsend Road,"295,000",Oct 2019,"225,000",Aug 2012,,,,241,,,,,St Albans Park,27
+25 Homestead Drive,"476,000",Oct 2019,,,,,,629,,3,2,2,St Albans Park,27
+40 Filipi Drive,"472,500",Oct 2019,"377,000",Jul 2017,,270,Aug 2008,611,115,3,2,2,St Albans Park,27
+331 Boundary Road,"345,000",Oct 2019,"247,000",Oct 2012,,,,558,132,3,1,1,St Albans Park,27
+24 East End Crescent,"407,000",Oct 2019,"224,000",Feb 2009,,360,Nov 2019,681,107,3,1,2,St Albans Park,27
+30 Mayfield Crescent,"670,000",Oct 2019,,,,,,878,,4,2,4,St Albans Park,27
+58 Chandos Court,"449,000",Oct 2019,"144,900",Aug 2014,,,,411,,,,,St Albans Park,27
+40 Paramount Crescent,"412,000",Sep 2019,"250,000",Sep 2009,,360,Oct 2019,418,99,3,1,2,St Albans Park,27
+32B Grafton Street,"416,000",Sep 2019,,,,,,282,,,,,St Albans Park,27
+6 Ottoman Court,"356,000",Sep 2019,"92,000",Jun 1999,,330,Nov 2020,574,,3,1,2,St Albans Park,27
+41 Paratone Crescent,"500,000",Sep 2019,"81,000",Mar 2003,,,,729,,3,2,2,St Albans Park,27
+51 Paramount Crescent,"420,000",05 Sep 2019,"325,000",Feb 2016,1.0,320,May 2011,433,121,3,2,2,St Albans Park,27
+2/46 Paratone Crescent,"375,000",Sep 2019,"300,000",Nov 2012,,330,Nov 2014,306,,,,,St Albans Park,27
+33 Carbine Drive,"475,000",Aug 2019,"390,000",Feb 2014,,,,578,222,4,2,4,St Albans Park,27
+2C Elizabeth Street,"280,000",Aug 2019,,,,,,78,,,,,St Albans Park,27
+17 Pinder Court,"387,000",Aug 2019,,,,,,774,,,,,St Albans Park,27
+2/4 Grafton Street,"381,000",Jul 2019,"325,000",May 2017,,,,311,100,,,,St Albans Park,27
+92 Homestead Drive,"530,000",Jul 2019,"269,000",Jul 2003,,480,Aug 2020,666,152,4,2,3,St Albans Park,27
+23-25 Roseview Way,"626,000",20 Jul 2019,"490,000",Jul 2014,1.0,"495,000",May 2014,929,,4,2,6,St Albans Park,27
+52 Townsend Road,"395,000",Jul 2019,,,,340,Sep 2019,861,,3,1,2,St Albans Park,27
+9 Aitken Court,"420,000",Jul 2019,"214,000",May 2008,,380,Jul 2019,736,101,3,1,2,St Albans Park,27
+9 Crozier Court,"442,000",Jul 2019,"305,000",May 2011,,320,Nov 2011,839,114,3,1,8,St Albans Park,27
+29 Pinder Court,"505,000",Jul 2019,,,,,,774,,3,2,4,St Albans Park,27
+122-124 Homestead Drive,"819,000",Jun 2019,"260,000",Jun 2001,,,,"2,210",,6,2,6,St Albans Park,27
+4 Ranken Lane,"425,000",Jun 2019,"310,000",Apr 2011,,,,372,,3,2,1,St Albans Park,27
+289 Boundary Road,"390,000",Jun 2019,"336,000",Jul 2016,1.0,330,Nov 2017,553,111,3,1,2,St Albans Park,27
+7 Pinder Court,"400,000",Jun 2019,"275,000",Feb 2014,,340,Nov 2015,616,,3,1,1,St Albans Park,27
+36 Meadenhall Drive,"415,000",Jun 2019,,,,330,May 2018,688,,3,2,5,St Albans Park,27
+7 Tantalla Court,"540,000",Jun 2019,"179,000",Feb 2000,,,,669,,4,2,3,St Albans Park,27
+4 Strathmore Court,"422,000",May 2019,"325,000",Aug 2015,,380,Dec 2019,659,,3,1,7,St Albans Park,27
+19 Durran Street,"397,000",May 2019,"197,000",Sep 2007,,300,May 2017,614,,3,1,3,St Albans Park,27
+35 Carbine Drive,"465,000",May 2019,"330,000",Jan 2012,1.0,385,Oct 2020,567,,3,2,2,St Albans Park,27
+28 Govett Crescent,"425,000",Apr 2019,"84,500",Mar 1991,,,,567,115,3,1,4,St Albans Park,27
+5 East End Crescent,"485,000",Apr 2019,"365,000",Mar 2017,,,,699,,4,2,2,St Albans Park,27
+3 Ardula Court,"475,000",Apr 2019,"149,000",Jan 2002,,,,595,,4,2,6,St Albans Park,27
+9 Strathmore Court,"412,000",Mar 2019,"212,750",Sep 2004,,,,681,,3,1,,St Albans Park,27
+20 Enfield Drive,"410,000",Mar 2019,"205,000",May 2007,,,,556,,3,1,4,St Albans Park,27
+32a Grafton Street,"396,000",Mar 2019,"349,000",Jul 2014,,350,Jun 2017,274,134,,,,St Albans Park,27
+27 Homestead Drive,"446,000",Mar 2019,"265,000",Oct 2009,,200,Jun 2005,640,125,3,1,1,St Albans Park,27
+62 Paratone Crescent,"483,000",Mar 2019,"80,000",Jul 2007,,360,May 2016,399,,3,2,2,St Albans Park,27
+3/44 Townsend Road,"360,000",Mar 2019,,,,,,,,,,,St Albans Park,27
+2/51 Grafton Street,"368,500",Feb 2019,"252,000",Aug 2010,,,,393,,,,,St Albans Park,27
+16 Meadenhall Drive,"400,000",Feb 2019,"250,000",Aug 2011,,,,647,,3,1,3,St Albans Park,27
+15 Grafton Street,"362,500",Feb 2019,"114,000",Oct 2013,,,,464,,4,2,1,St Albans Park,27
+10 Nivek Court,"540,000",Feb 2019,"324,000",Oct 2009,,380,Feb 2016,609,,3,2,3,St Albans Park,27
+63 Govett Crescent,"415,000",Feb 2019,"195,000",Aug 2003,,,,586,,3,1,3,St Albans Park,27
+49 Paramount Crescent,"435,000",Jan 2019,,,,,,429,,3,2,2,St Albans Park,27
+16 Lucy Court,"344,000",Jan 2019,"218,000",Dec 2009,,220,Jul 2008,364,90,3,1,2,St Albans Park,27
+5 McGill Court,"450,000",Jan 2019,,,,,,739,,3,2,2,St Albans Park,27
+16 Grafton Street,"250,000",Dec 2018,,,,,,617,,,,,St Albans Park,27
+61 Meadenhall Drive,"505,000",Dec 2018,"390,000",Mar 2017,,,,706,158,,,,St Albans Park,27
+21 St James Street,"360,000",Dec 2018,"265,000",Aug 2014,,,,594,126,3,1,2,St Albans Park,27
+8 Ottoman Court,"373,000",Dec 2018,"279,000",Apr 2017,,185,Oct 2007,570,,3,1,1,St Albans Park,27
+6 Ranken Lane,"647,000",Dec 2018,"391,000",Jun 2009,,,,"1,037",297,4,2,7,St Albans Park,27
+271 Wilsons Road,"287,000",Nov 2018,,,,,,725,,,,,St Albans Park,27
+7 Garnfield Place,"450,000",Nov 2018,"147,000",Apr 2002,,,,647,,3,1,2,St Albans Park,27
+8-10 ST JAMES Street,"470,000",24 Nov 2018,"83,000",Dec 1996,1.0,380,Feb 2020,407,,3,1,2,St Albans Park,27
+8 St James Street,"470,000",24 Nov 2018,"83,000",Dec 1996,1.0,,,809,,3,1,2,St Albans Park,27
+27 Chandos Court,"430,000",Nov 2018,"211,500",Dec 2005,,,,644,108,3,1,3,St Albans Park,27
+6-8 Freeman Court,"714,500",Nov 2018,"590,000",Apr 2015,,,,"2,513",,4,2,8,St Albans Park,27
+8 Garnfield Place,"555,000",Nov 2018,"290,500",Jul 2003,,,,645,,4,2,2,St Albans Park,27
+293 Wilsons Road,"407,000",Nov 2018,"280,000",Mar 2014,,340,Sep 2019,569,109,3,1,,St Albans Park,27
+14 Lucy Court,"378,000",Nov 2018,"77,000",May 1997,,300,Jul 2013,403,,3,1,3,St Albans Park,27
+4 Nivek Court,"480,000",Nov 2018,"280,000",Mar 2005,,,,746,,4,2,4,St Albans Park,27
+2 Tresco Court,"412,000",Oct 2018,"240,000",Dec 2005,,,,292,,3,2,2,St Albans Park,27
+2/8 Westmoreland Street,"349,000",Oct 2018,"232,000",Dec 2009,,290,May 2017,235,,,,,St Albans Park,27
+121-123 Homestead Drive,"1,050,000",Oct 2018,"770,000",Feb 2014,,,,"2,248",,4,3,8,St Albans Park,27
+50 Grafton Street,"485,000",Oct 2018,"305,000",Feb 2009,,,,580,,3,2,2,St Albans Park,27
+46 Grafton Street,"451,000",Oct 2018,"192,500",Dec 2003,,,,562,,2,1,2,St Albans Park,27
+1 Taminga Mews,"427,000",Oct 2018,,,,350,Dec 2016,501,,3,2,1,St Albans Park,27
+12 Bronte Court,"550,000",Oct 2018,"380,000",Mar 2010,,,,661,200,4,2,4,St Albans Park,27
+59 St Albans Street,"360,000",Oct 2018,"141,000",Oct 2001,,,,566,,3,1,4,St Albans Park,27
+19 Jenna Court,"520,000",Sep 2018,"315,000",Jan 2008,,400,Sep 2015,691,,4,2,2,St Albans Park,27
+307 Boundary Road,"340,000",Sep 2018,"261,500",Nov 2015,,330,Dec 2018,273,,2,1,1,St Albans Park,27
+6-7 Cedarwood Court,"1,069,000",Sep 2018,"263,000",Mar 2009,,,,"3,396",,4,2,8,St Albans Park,27
+8 East End Crescent,"270,000",Sep 2018,,,,,,,,,,,St Albans Park,27
+23 Mayfield Crescent,"498,000",Sep 2018,,,,,,603,,3,2,6,St Albans Park,27
+3 Mersey Court,"430,000",Sep 2018,"265,000",Dec 2014,,310,May 2016,676,132,3,1,2,St Albans Park,27
+29 Filipi Drive,"494,000",Sep 2018,"279,000",Feb 2000,,,,585,,4,2,4,St Albans Park,27
+16-18 Townsend Road,"705,000",Sep 2018,,,,,,"1,821",,3,1,4,St Albans Park,27
+243 Boundary Road,"440,500",Aug 2018,,,,,,426,,3,2,2,St Albans Park,27
+51 Govett Crescent,"450,000",Aug 2018,"310,000",Jul 2016,,380,Oct 2018,646,103,3,1,4,St Albans Park,27
+17 Jenna Court,"520,000",Aug 2018,,,,380,Aug 2015,687,,3,2,6,St Albans Park,27
+3/315 Boundary Road,"278,000",Aug 2018,"179,000",Apr 2010,,240,Sep 2016,63,,,,,St Albans Park,27
+319 Wilsons Road,"425,000",11 Aug 2018,"93,500",May 1993,1.0,,,570,,3,1,1,St Albans Park,27
+27 Carbine Drive,"408,000",Aug 2018,"103,000",Mar 2000,,350,Aug 2018,577,,3,2,,St Albans Park,27
+2 Lymington Court,"485,000",Aug 2018,"160,000",Feb 2000,,,,679,,3,2,4,St Albans Park,27
+50 Chandos Court,"420,000",Aug 2018,"124,900",Dec 2014,,,,286,,3,2,2,St Albans Park,27
+19 Aldershot Road,"398,000",Aug 2018,"56,500",May 1985,,,,592,,3,1,2,St Albans Park,27
+42 Homestead Drive,"515,000",Aug 2018,"342,000",Nov 2013,,,,710,148,4,2,2,St Albans Park,27
+10 Aitken Court,"477,000",Jul 2018,"320,000",Mar 2010,,,,693,,3,2,5,St Albans Park,27
+38 Chandos Court,"400,000",Jul 2018,"139,900",Jan 2015,,370,Sep 2018,347,,3,2,4,St Albans Park,27
+1 Zazzman Court,"540,500",Jul 2018,"124,000",Nov 2006,,,,587,,3,2,2,St Albans Park,27
+10/20 Trenton Parade,"320,000",Jul 2018,"273,000",Dec 2010,,285,Oct 2014,254,,,,,St Albans Park,27
+14 Grafton Street,"456,500",Jul 2018,,,,,,595,,3,2,6,St Albans Park,27
+1 Paratone Crescent,"420,000",Jul 2018,"375,000",Jul 2009,,270,Feb 2009,476,,3,2,1,St Albans Park,27
+7 Tresco Court,"500,000",Jun 2018,"345,000",Jun 2014,,400,Jan 2016,589,180,3,2,2,St Albans Park,27
+13 Sirius Court,"383,500",Jun 2018,"230,000",Feb 2006,,,,676,134,3,1,1,St Albans Park,27
+6 McGill Court,"470,000",May 2018,"330,000",Jul 2015,,,,813,,4,1,6,St Albans Park,27
+1/40-42 Townsend Road,"335,000",May 2018,"258,000",Aug 2013,,250,Apr 2008,325,101,,,,St Albans Park,27
+7-8 Oakwood Ridge,"889,000",May 2018,,,,490,Oct 2018,"3,489",,4,2,4,St Albans Park,27
+8 Mervyn Court,"445,000",May 2018,"134,000",Sep 1997,,,,724,,4,1,5,St Albans Park,27
+53 East End Crescent,"470,000",May 2018,"260,000",May 2005,,,,775,,5,2,2,St Albans Park,27
+43 St Albans Street,"546,000",12 May 2018,,,1.0,320,Aug 2018,863,,3,1,2,St Albans Park,27
+12 Mandela Court,"515,000",May 2018,"168,000",Aug 2010,,,,544,173,4,2,2,St Albans Park,27
+1 Belkan Court,"413,000",May 2018,"330,000",Nov 2014,,,,344,,3,2,2,St Albans Park,27
+14 Nivek Court,"515,000",May 2018,"382,500",Oct 2012,,450,Jun 2018,625,170,4,2,2,St Albans Park,27
+7 Doreimus Court,"590,000",Apr 2018,,,,,,832,,4,2,2,St Albans Park,27
+258 Wilsons Road,"501,000",Apr 2018,,,,,,"1,216",,3,1,1,St Albans Park,27
+1/302 Wilsons Road,"315,000",Apr 2018,"245,000",Mar 2013,,,,166,93,,,,St Albans Park,27
+12 Aldershot Road,"485,000",Apr 2018,"340,000",Jan 2015,,470,May 2018,668,153,3,1,1,St Albans Park,27
+12 Westmoreland Street,"425,000",Apr 2018,"218,500",Jun 2007,,,,650,120,3,1,4,St Albans Park,27
+6 Mersey Court,"408,000",Apr 2018,"245,000",2009,,,,575,,3,1,1,St Albans Park,27
+28 Townsend Road,"360,000",Apr 2018,,,,240,Jul 2013,785,,2,1,2,St Albans Park,27
+1/40 Chandos Court,"365,000",Apr 2018,,,,,,,,3,1,1,St Albans Park,27
+1/12 ST JAMES STREET,"280,000",Apr 2018,"195,000",Jan 2012,,310,May 2019,206,,,,,St Albans Park,27
+1/27 Newhaven Avenue,"391,000",Apr 2018,,,,,,320,,,,,St Albans Park,27
+79-81 Woods Road,"735,000",Mar 2018,,,,,,"2,231",,4,2,2,St Albans Park,27
+2/200 Coppards Road,"325,000",Mar 2018,"245,000",Sep 2016,,,,301,,,,,St Albans Park,27
+16 Paratone Crescent,"515,000",Mar 2018,"290,000",May 2005,,,,773,,4,2,2,St Albans Park,27
+47 Townsend Road,"410,000",Mar 2018,,,,,,,,3,2,4,St Albans Park,27
+32 Langer Drive,"488,000",Mar 2018,"375,000",Sep 2015,,,,805,,4,2,2,St Albans Park,27
+3 Ellstone Avenue,"400,000",24 Feb 2018,"240,000",Feb 2010,1.0,340,May 2017,661,,3,2,2,St Albans Park,27
+30 Filipi Drive,"420,000",Feb 2018,"230,000",Jan 2009,,340,Feb 2017,578,106,3,1,4,St Albans Park,27
+11 Alcott Road,"575,000",Feb 2018,"510,000",Apr 2016,,,,758,,5,2,2,St Albans Park,27
+33 Chandos Court,"410,000",Jan 2018,"167,000",Nov 2002,,,,620,,3,1,2,St Albans Park,27
+1-3 Newhaven Avenue,"442,000",Jan 2018,,,,,,575,,4,2,2,St Albans Park,27
+1 Templeton Court,"365,000",Jan 2018,"250,000",Oct 2010,1.0,335,May 2016,429,,3,2,,St Albans Park,27
+56 Grafton Street,"390,000",Dec 2017,,,,,,557,,3,1,2,St Albans Park,27
+51 St James Street,"380,000",16 Dec 2017,,,1.0,,,616,,3,1,2,St Albans Park,27
+17 Birchwood Drive,"775,000",Dec 2017,"610,000",Jun 2013,,,,"1,119",,5,4,6,St Albans Park,27
+7 Taras Court,"522,500",Dec 2017,"50,000",Jul 2001,,,,901,166,4,2,4,St Albans Park,27
+1/299 Boundary Road,"240,000",Dec 2017,"205,000",May 2015,,260,Feb 2017,133,,,,,St Albans Park,27
+73 Enfield Drive,"380,000",Nov 2017,"104,000",Jun 2000,,,,572,,1,1,2,St Albans Park,27
+38 Meadenhall Drive,"380,000",Nov 2017,,,,,,487,,3,2,2,St Albans Park,27
+16 Manikato Court,"510,000",Nov 2017,,,,460,Oct 2019,670,,4,2,3,St Albans Park,27
+18-20 Riseborough Court,"975,000",Nov 2017,,,,,,"2,638",,,,,St Albans Park,27
+18 Riseborough Court,"975,000",Nov 2017,,,,,,"2,637",,5,3,6,St Albans Park,27
+1-2 Malua Court,"500,000",Nov 2017,"395,000",Jul 2013,,,,717,,4,2,4,St Albans Park,27
+48 Townsend Road,"329,000",Nov 2017,"191,000",Jan 2010,,380,Feb 2019,519,,3,1,1,St Albans Park,27
+22 Mandela Court,"455,000",Nov 2017,"347,500",Apr 2014,,,,555,,3,2,2,St Albans Park,27
+3/11 Roseview Way,"288,000",Nov 2017,"265,000",Feb 2013,,,,229,,,,,St Albans Park,27
+2 & 3/254 Wilsons Road,"320,000",Nov 2017,,,,,,,,,,,St Albans Park,27
+65 Meadenhall Drive,"460,000",Oct 2017,"336,000",Jul 2013,,,,490,168,4,2,2,St Albans Park,27
+2-4 Homestead Drive,"410,000",Oct 2017,"294,770",Mar 2007,,,,638,208,5,2,4,St Albans Park,27
+1/254 Wilsons Road,"345,000",Oct 2017,,,,,,429,,2,2,1,St Albans Park,27
+5 Mersey Court,"450,000",Oct 2017,"310,000",Jan 2013,,,,655,,3,2,2,St Albans Park,27
+85 Homestead Drive,"460,000",Oct 2017,"327,000",Dec 2010,,390,May 2016,668,,4,2,2,St Albans Park,27
+304 Wilsons Road,"379,000",Oct 2017,"210,000",May 2004,,340,Dec 2017,648,,,,,St Albans Park,27
+30a Grafton Street,"395,000",Oct 2017,"350,000",Mar 2014,,380,Dec 2016,312,140,3,2,1,St Albans Park,27
+15 Mervyn Court,"392,000",Oct 2017,,,,,,692,,3,2,2,St Albans Park,27
+35 Grafton Street,"371,000",Sep 2017,"195,000",Aug 2006,,340,Oct 2017,652,112,3,1,2,St Albans Park,27
+13 Paramount Crescent,"366,000",Sep 2017,"227,500",Oct 2007,,,,605,110,3,1,2,St Albans Park,27
+12 Enfield Drive,"377,000",Sep 2017,,,,,,573,,4,2,6,St Albans Park,27
+3/14 Elizabeth Street,"250,000",Sep 2017,,,,,,,,,,,St Albans Park,27
+5/3-5 GOVETT Crescent,"255,000",Aug 2017,"71,000",Nov 1991,,275,Apr 2016,167,,,,,St Albans Park,27
+4 Roseview Way,"568,000",Aug 2017,"510,000",Dec 2011,,,,885,244,4,3,2,St Albans Park,27
+38 Grafton Street,"348,000",Aug 2017,"280,000",Jun 2010,,335,Sep 2011,540,110,3,1,2,St Albans Park,27
+3/14-16 Elizabeth Street,"250,000",Aug 2017,"55,900",Aug 1985,,300,Nov 2020,173,,,,,St Albans Park,27
+2/53-55 Govett Crescent,"275,000",Aug 2017,"110,000",Nov 2009,,,,160,,,,,St Albans Park,27
+1 Riseborough Court,"285,000",Aug 2017,"245,000",Jan 2014,,,,863,,,,,St Albans Park,27
+98 Homestead Drive,"445,000",Aug 2017,"273,000",Dec 2004,,430,Jun 2019,482,,4,2,2,St Albans Park,27
+29 Carbine Drive,"359,000",Aug 2017,"165,000",Aug 2002,,,,577,,3,2,4,St Albans Park,27
+16 Mayfield Crescent,"410,000",Aug 2017,"120,000",May 1999,,,,665,,3,2,2,St Albans Park,27
+1/58 Townsend Road,"307,000",Jul 2017,"237,500",Feb 2012,,,,429,118,3,1,1,St Albans Park,27
+8 Malua Court,"600,000",Jul 2017,"135,000",Jul 2005,,,,767,,,,,St Albans Park,27
+299 Wilsons Road,"370,000",Jul 2017,"290,000",Dec 2011,,,,570,,3,2,2,St Albans Park,27
+1/4 Lucy Court,"258,000",Jul 2017,"77,000",Mar 1994,,270,Aug 2016,425,,,,,St Albans Park,27
+76 Homestead Drive,"495,000",Jul 2017,"374,000",May 2010,,,,738,,3,2,6,St Albans Park,27
+2/50 St James Street,"260,000",Jul 2017,"195,000",Sep 2003,,290,Jul 2017,214,,2,1,1,St Albans Park,27
+29 East End Crescent,"349,950",Jun 2017,,,,350,Oct 2018,814,,3,1,1,St Albans Park,27
+2/164-166 Townsend Road,"258,000",Jun 2017,,,,330,Feb 2021,218,,,,,St Albans Park,27
+23 Mandela Court,"516,000",Jun 2017,"185,000",Jul 2010,,,,869,212,4,2,2,St Albans Park,27
+22 Filipi Drive,"330,000",Jun 2017,"283,000",Apr 2014,,,,645,,3,1,1,St Albans Park,27
+9 Westmoreland Street,"349,000",May 2017,"267,000",Apr 2010,,300,Jul 2015,785,,3,1,4,St Albans Park,27
+3 Lucy Court,"275,000",May 2017,"69,500",Jan 1992,,,,387,,2,1,1,St Albans Park,27
+11 Bradford Street,"331,000",20 May 2017,"157,000",Feb 2000,1.0,,,561,,3,2,1,St Albans Park,27
+4 Govett Crescent,"425,000",May 2017,"275,000",Feb 2000,,,,749,,4,2,1,St Albans Park,27
+18 Mayfield Crescent,"430,000",13 May 2017,"330,000",Sep 2012,1.0,,,665,,3,2,4,St Albans Park,27
+9 Zazzman Court,"520,000",May 2017,"142,000",Feb 2000,,,,833,,4,2,4,St Albans Park,27
+38 Filipi Drive,"345,000",May 2017,"229,000",Sep 2006,,230,Aug 2004,580,,3,1,2,St Albans Park,27
+4/4-6 Enfield Drive,"245,000",May 2017,"179,500",Mar 2014,,300,Jul 2018,96,,,,,St Albans Park,27
+39 Govett Crescent,"344,000",May 2017,,,,,,574,,3,1,1,St Albans Park,27
+35 Newhaven Avenue,"510,000",May 2017,"132,000",Feb 2000,,,,688,,4,2,2,St Albans Park,27
+6 Coonara Court,"165,000",May 2017,"158,000",Mar 2002,,,,653,,,,,St Albans Park,27
+6 Mandela Court,"480,000",Apr 2017,"165,000",Jul 2010,,500,Apr 2018,557,,4,2,2,St Albans Park,27
+2/4 Lucy Court,"300,000",Apr 2017,"220,000",May 2011,,300,Nov 2016,383,,2,1,1,St Albans Park,27
+24 Govett Crescent,"355,000",Apr 2017,"277,000",Jul 2011,,365,Jan 2020,653,,3,1,4,St Albans Park,27
+3 Belkan Court,"476,000",Apr 2017,"247,500",Sep 2005,,,,781,,3,2,6,St Albans Park,27
+84 Homestead Drive,"485,000",Apr 2017,"320,000",Sep 2005,,400,Jun 2010,738,,4,3,2,St Albans Park,27
+42 Westmoreland Street,"270,000",Mar 2017,,,,,,500,,5,1,2,St Albans Park,27
+49 St Albans Street,"305,000",25 Mar 2017,"215,000",May 2005,1.0,,,577,128,4,1,8,St Albans Park,27
+42 Paramount Crescent,"425,000",Mar 2017,,,,,,714,,3,2,3,St Albans Park,27
+3 Gandross Place,"350,000",Mar 2017,"280,000",Apr 2010,,370,Aug 2019,649,104,3,1,1,St Albans Park,27
+3 Grafton Street,"299,000",Mar 2017,"180,000",Apr 2004,,300,Apr 2016,425,114,3,1,1,St Albans Park,27
+57 Langer Drive,"315,000",Mar 2017,"294,000",May 2013,,300,Dec 2013,396,,2,1,1,St Albans Park,27
+10 Silverwood Court,"560,000",Mar 2017,"320,000",May 2012,,,,"3,660",,,,,St Albans Park,27
+11-12 Oakwood Ridge,"610,000",Mar 2017,"470,000",May 2009,,,,"2,493",,5,2,5,St Albans Park,27
+37 Newhaven Avenue,"390,000",Mar 2017,"130,000",Aug 2006,,460,Jun 2019,676,,3,2,2,St Albans Park,27
+4 Pinder Court,"315,000",Mar 2017,"275,000",Oct 2013,,,,225,,2,1,1,St Albans Park,27
+7 Zazzman Court,"415,000",Mar 2017,"373,250",Dec 2015,,350,Jun 2011,522,,3,2,2,St Albans Park,27
+3/35-37 East End Crescent,"212,000",Feb 2017,,,,220,Sep 2014,137,,2,1,1,St Albans Park,27
+7/25-27 Enfield Drive,"250,000",Feb 2017,"155,000",Apr 2005,,250,Dec 2013,141,,,,,St Albans Park,27
+31 Chandos Court,"364,000",Feb 2017,"134,000",Sep 2002,,,,643,,,,,St Albans Park,27
+11 Lymington Court,"355,000",Feb 2017,"345,000",Jan 2013,,380,Jul 2012,714,142,3,2,2,St Albans Park,27
+22 Tabess Court,"379,000",Feb 2017,"280,000",Sep 2004,,,,451,,3,2,2,St Albans Park,27
+3 Tantalla Court,"429,000",Feb 2017,"282,000",Sep 2005,,,,705,153,3,2,2,St Albans Park,27
+20 Mandela Court,"460,000",Feb 2017,"165,000",May 2010,,440,Oct 2017,562,180,4,2,2,St Albans Park,27
+80 Townsend Road,"290,000",Feb 2017,,,,295,Sep 2014,653,119,3,1,2,St Albans Park,27
+7 Meadenhall Drive,"318,000",04 Feb 2017,"88,000",Sep 1996,1.0,,,658,,3,1,3,St Albans Park,27
+26A Collins Street,"107,500",Feb 2017,,,,,,330,,,,,St Albans Park,27
+1/8-10 Strathmore Court,"260,000",Feb 2017,"247,000",Sep 2012,,305,Apr 2015,360,,,,,St Albans Park,27
+2/27 Newhaven Avenue,"359,000",Feb 2017,"335,000",May 2014,,360,Mar 2017,360,,3,2,2,St Albans Park,27
+1/8 Strathmore Court,"260,000",Feb 2017,"247,000",Oct 2012,,,,363,,,,,St Albans Park,27
+178-180 Townsend Road,"255,000",Jan 2017,"240,000",Jan 2010,,290,Jan 2010,764,,3,1,2,St Albans Park,27
+1/4 Grafton Street,"303,000",Jan 2017,,,,310,Jul 2016,312,,,,,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27
+75 Enfield Drive,"275,000",Jan 2017,"187,500",Jul 2005,,260,Jan 2013,306,,,,,St Albans Park,27
+5 Gannet Court,"311,000",Jan 2017,"275,000",Jun 2015,,,,663,,3,1,5,St Albans Park,27
+301 Wilsons Road,"368,000",Jan 2017,"290,000",Mar 2012,,345,May 2011,567,144,3,1,2,St Albans Park,27
+44 Paratone Crescent,"593,000",Jan 2017,"545,000",Mar 2012,,,,762,323,5,2,4,St Albans Park,27
+34 Townsend Road,"228,000",Jan 2017,"52,000",Sep 1985,,180,Nov 2009,786,,3,1,1,St Albans Park,27
+9 Nivek Court,"317,500",Jan 2017,"110,000",Oct 2005,,,,709,,3,1,,St Albans Park,27
+61 Homestead Drive,"450,000",Jan 2017,"146,000",Sep 2000,,,,830,,4,2,2,St Albans Park,27
+49 Grafton Street,"330,000",Dec 2016,"270,000",Feb 2000,,350,Apr 2017,651,,3,2,1,St Albans Park,27
+15 Mandela Court,"468,000",Dec 2016,"178,000",Jun 2010,,,,763,168,3,2,4,St Albans Park,27
+9 Ottoman Court,"300,000",Dec 2016,"270,000",Jan 2011,,,,557,118,3,1,1,St Albans Park,27

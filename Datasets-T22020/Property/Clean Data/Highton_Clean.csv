@@ -1,0 +1,301 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,4/15-16 Jewell Place," 610,000 ", Aug 2020,0," 370,000 ", Apr 2008, ,, 419 ,,0,0,0,Highton
+1,161 Mt Pleasant Road," 745,000 ", Aug 2020,0," 210,000 ", Sep 2000, ,, 595 ,,3,2,2,Highton
+2,28B Victory Way," 540,000 ", Aug 2020,0, ,, 480 , Aug 2020, ,,0,0,0,Highton
+3,90 Leigh Road," 825,000 ", Aug 2020,0," 177,000 ", Jun 2009, ,, 704 ,,0,0,0,Highton
+4,20 Moreton Bay Drive," 490,000 ", Aug 2020,0," 365,000 ", Oct 2013, 260 , Oct 2012, 612 ,,3,1,1,Highton
+5,3/165 Barrabool Road," 428,000 ", Aug 2020,0," 270,000 ", Oct 2014, 350 , Aug 2020, 176 ,,0,0,0,Highton
+6,16 Amberley Court," 910,000 ", Aug 2020,0," 545,000 ", Apr 2010, 420 , Jan 2009," 1,003 ",,4,2,2,Highton
+7,126 South Valley Road," 450,000 ", Aug 2020,0," 97,500 ", Jun 2004, ,, 669  ,  149 ,3,1,1,Highton
+8,5 Lambhill Crescent," 612,000 ", Aug 2020,0, ,, ,, 701 ,,3,1,1,Highton
+9,6 Torulosa Court," 660,000 ", Aug 2020,0," 495,000 ", Oct 2017, 480 , Dec 2019, 614 ,,3,1,1,Highton
+10,7 Stoneleigh Crescent," 360,000 ", Aug 2020,0," 165,000 ", Jul 2013, ,, 754  ,  318 ,0,0,0,Highton
+11,4/29 Hutcheson Avenue," 520,000 ", Aug 2020,0," 135,000 ", Jan 1994, ,, 107 ,,0,0,0,Highton
+12,49 Leigh Road," 680,000 ", Aug 2020,0," 65,000 ", Jul 2001, ,, 472 ,,0,0,0,Highton
+13,6 Vanessa Avenue," 490,000 ", Aug 2020,0, ,, ,, 890 ,,0,0,0,Highton
+14,25 Broughton Drive," 512,000 ", Aug 2020,0," 430,000 ", Aug 2016, ,, 465 ,,3,1,2,Highton
+15,20 Jinjella Road," 884,000 ", 08 Aug 2020,1," 65,000 ", Jun 1991, ,, 751 ,,0,0,0,Highton
+16,15 Knollbrook Close," 730,000 ", Aug 2020,0," 132,000 ", Jan 2004, ,, 826 ,,0,0,0,Highton
+17,48 Barwon Boulevard," 760,000 ", Aug 2020,0," 550,000 ", Feb 2016, ,, 884  ,  180 ,3,2,2,Highton
+18,278 Scenic Road," 901,500 ", 08 Aug 2020,1," 517,500 ", Sep 2013, ,," 1,043 ",,4,2,5,Highton
+19,12 Avondale Avenue," 735,000 ", Aug 2020,0," 187,000 ", Jul 2007, ,, 620 ,,0,0,0,Highton
+20,2/129 Barrabool Road," 310,000 ", Aug 2020,0," 202,000 ", Mar 2014, 250 , Sep 2012, 74 ,,2,1,1,Highton
+21,2 Desmond Street," 630,000 ", 05 Aug 2020,1," 272,000 ", Dec 2007, 180 , Dec 2004," 1,003 ",,3,2,2,Highton
+22,5 Carina Way," 355,000 ", Aug 2020,0, ,, ,, 765 ,,0,0,0,Highton
+23,22 Patern Street," 720,000 ", Aug 2020,0, ,, 380 , Aug 2020, 767 ,,3,1,3,Highton
+24,56 Belle Vue Avenue," 601,000 ", 03 Aug 2020,1," 360,000 ", Apr 2016, 400 , Nov 2017, 765  ,  96 ,3,1,1,Highton
+25,4 Lichen Grove," 710,000 ", 01 Aug 2020,1, ,, ,," 1,011 ",,0,0,0,Highton
+26,6/15-16 Jewell Place," 590,000 ", Jul 2020,0," 370,000 ", Apr 2008, ,, 439 ,,0,0,0,Highton
+27,24 Vanessa Avenue," 751,000 ", Jul 2020,0," 65,000 ", Sep 1990, ,, 868 ,,4,0,0,Highton
+28,1 Knollbrook Close," 575,000 ", 25 Jul 2020,1," 420,000 ", Jul 2014, ,, 565  ,  192 ,3,2,2,Highton
+29,11 Shire Court," 365,000 ", Jul 2020,0," 66,700 ", Jul 2001, ,, 682 ,,4,2,2,Highton
+30,6/15 Jewell Place," 590,000 ", Jul 2020,0," 370,000 ", Apr 2008, ,, 439 ,,0,0,0,Highton
+31,10 Lipizzaner Court," 980,000 ", Jul 2020,0," 597,500 ", Jun 2016, 480 , Jul 2015, 562  ,  272 ,4,2,2,Highton
+32,2/127 Barrabool Road," 639,000 ", Jul 2020,0, ,, ,, 148 ,,0,0,0,Highton
+33,17 Nedlands Drive," 770,000 ", Jul 2020,0," 173,000 ", Jan 2009, ,, 729 ,,0,0,0,Highton
+34,2/168 Thornhill Road," 360,000 ", Jul 2020,0," 297,000 ", Feb 2015, 330 , Apr 2019, 264 ,,0,0,0,Highton
+35,36 Porter Avenue," 521,000 ", Jul 2020,0, ,, ,, 589 ,,2,1,2,Highton
+36,22 Montrose Place," 930,000 ", Jul 2020,0, ,, ,, 951 ,,4,2,2,Highton
+37,14 Rathmines Place," 600,000 ", Jul 2020,0," 330,000 ", May 2004, 395 , Apr 2012, 411 ,,3,1,2,Highton
+38,7 Percy Jones Court," 822,000 ", Jul 2020,0," 568,000 ", Dec 2011, ,, 913  ,  226 ,4,2,4,Highton
+39,16 Duggan Court," 640,000 ", 11 Jul 2020,1, ,, ,, 712 ,,0,0,0,Highton
+40,18 Aringa Avenue," 642,000 ", Jul 2020,0, ,, ,, 632 ,,0,0,0,Highton
+41,15 Villawood Court," 657,000 ", 11 Jul 2020,1," 53,000 ", Mar 1994, ,, 924 ,,0,0,0,Highton
+42,16 Moreton Bay Drive," 692,000 ", 11 Jul 2020,1," 550,000 ", Jun 2017, ,, 593 ,,3,1,2,Highton
+43,32 Molesworth Drive," 790,000 ", Jul 2020,0," 580,000 ", Feb 2011, ,, 718 ,,4,2,2,Highton
+44,12 Kennedy Grove," 570,000 ", 11 Jul 2020,1," 345,000 ", May 2012, 370 , May 2012, 586  ,  118 ,3,1,1,Highton
+45,124 Province Boulevard," 260,000 ", Jul 2020,0," 215,000 ", May 2018, ,, 751 ,,0,0,0,Highton
+46,70 Augustine Drive," 722,500 ", Jul 2020,0," 487,500 ", Mar 2013, 450 , Dec 2015, 704  ,  230 ,4,2,2,Highton
+47,1/7 Leigh Road," 605,000 ", Jul 2020,0, ,, 450 , Aug 2017, 310 ,,0,0,0,Highton
+48,11 Northbridge Road," 620,000 ", Jul 2020,0," 155,000 ", Dec 2016, ,, 357 ,,0,0,0,Highton
+49,21 Cara Road," 756,000 ", Jul 2020,0," 430,000 ", Aug 2010, 340 , Dec 2014, 817  ,  165 ,3,2,2,Highton
+50,43 Cara Road," 595,000 ", 27 Jun 2020,1," 58,000 ", Mar 1980, ,, 687 ,,3,2,2,Highton
+51,3 Ettric Way," 560,000 ", Jun 2020,0," 437,000 ", Mar 2016, 410 , May 2015, 362  ,  128 ,3,2,2,Highton
+52,14 Clydesdale Way," 733,800 ", Jun 2020,0," 530,000 ", May 2013, ,, 708 ,,3,2,2,Highton
+53,96 Fogarty Avenue," 815,000 ", Jun 2020,0," 570,000 ", May 2006, ,, 665 ,,4,2,2,Highton
+54,3/132 South Valley Road," 402,000 ", Jun 2020,0," 283,000 ", Apr 2014, ,, 187  ,  71 ,0,0,0,Highton
+55,8 Highpoint Crescent," 296,000 ", Jun 2020,0, ,, ,, 726 ,,0,0,0,Highton
+56,9/12 Cedar Grove," 359,000 ", Jun 2020,0," 255,000 ", Feb 2015, 340 , May 2019," 3,682 ",,0,0,0,Highton
+57,26 Pepperdine Way," 1,062,500 ", Jun 2020,0," 307,500 ", Apr 2016, ,, 683 ,,0,0,0,Highton
+58,2/25 Elizabeth Street," 325,000 ", Jun 2020,0," 244,000 ", Feb 2012, 260 , Nov 2015, 95 ,,2,1,1,Highton
+59,4 Highpoint Crescent," 250,000 ", Jun 2020,0, ,, ,, 659 ,,0,0,0,Highton
+60,3 Swanbourne Avenue," 640,000 ", Jun 2020,0," 552,000 ", Jul 2015, 550 , Apr 2013, 309  ,  206 ,3,2,2,Highton
+61,2 Lansbury Crescent," 635,000 ", Jun 2020,0," 435,000 ", Oct 2011, ,, 675 ,,3,2,2,Highton
+62,59 Stoneleigh Crescent," 1,012,000 ", Jun 2020,0," 194,000 ", Aug 2010, 650 , Jun 2020, 988  ,  270 ,0,0,0,Highton
+63,5 Nelson Avenue," 582,000 ", 06 Jun 2020,1, ,, ,, 656 ,,3,0,0,Highton
+64,5/3 Augustine Drive," 400,000 ", Jun 2020,0," 97,000 ", May 1992, 340 , Dec 2017, 204 ,,0,0,0,Highton
+65,8 (Lot 695) Narrawong Avenue," 260,000 ", Jun 2020,0, ,, ,, ,,0,0,0,Highton
+66,5 Elliott Avenue," 613,250 ", May 2020,0, ,, ,, 650 ,,3,1,2,Highton
+67,1/1 Waddington Court," 469,000 ", May 2020,0," 130,040 ", Apr 1992, 340 , Jul 2013, 414 ,,0,0,0,Highton
+68,31 Lansell Drive," 722,000 ", 23 May 2020,1," 485,000 ", Sep 2010, ,, 813  ,  205 ,4,2,2,Highton
+69,4/114 South Valley Road," 565,000 ", May 2020,0, ,, ,, ,,0,0,0,Highton
+70,11 Cuthbert Avenue," 500,000 ", May 2020,0, ,, ,, 589 ,,3,1,2,Highton
+71,13 Huntly Close," 605,000 ", 14 May 2020,1," 153,000 ", Oct 1989, 380 , Oct 2014, 870 ,,3,2,1,Highton
+72,8 Victory Way," 675,000 ", May 2020,0," 50,250 ", Aug 1996, 430 , Jan 2015, 671  ,  220 ,5,3,2,Highton
+73,2 Rivington Court," 1,280,000 ", May 2020,0," 1,000,000 ", Apr 2015, ,, 650 ,,4,3,3,Highton
+74,21 Montrose Place," 1,044,999 ", May 2020,0," 70,000 ", Oct 1998, ,, 676  ,  250 ,4,2,2,Highton
+75,15 Pepperdine Way," 725,000 ", May 2020,0," 401,000 ", Apr 2009, ,, 791 ,,3,2,2,Highton
+76,34 Remony Avenue," 745,000 ", May 2020,0, ,, ,," 1,087 ",,3,2,2,Highton
+77,10 Glastonbury Drive," 641,000 ", May 2020,0," 163,000 ", Jun 1987, ,, 660 ,,4,0,0,Highton
+78,206 Mt Pleasant Road," 790,000 ", May 2020,0," 442,500 ", Jul 2012, ,, 910 ,,4,2,2,Highton
+79,2/3 Hillcrest Court," 516,000 ", Apr 2020,0," 295,000 ", Apr 2009, ,, 341 ,,0,0,0,Highton
+80,14 Maidie Street," 635,000 ", Apr 2020,0," 56,000 ", Jul 1983, ,, 653 ,,3,2,2,Highton
+81,7 Caudry Street," 780,000 ", Apr 2020,0," 182,000 ", Jan 2010, ,, 825  ,  212 ,0,0,0,Highton
+82,2/54 Daly Boulevard," 457,000 ", Apr 2020,0," 270,000 ", Jan 2008, ,, 283 ,,0,0,0,Highton
+83,3 Meadow Court," 1,225,000 ", Apr 2020,0," 355,000 ", Nov 2015, ,," 1,322 ",,0,0,0,Highton
+84,82 Reigate Road," 665,000 ", Apr 2020,0," 565,000 ", Mar 2014, ,, 739 ,,3,3,4,Highton
+85,161 Grantham Drive," 850,000 ", Apr 2020,0," 215,000 ", Jun 2012, ,, 720  ,  325 ,0,0,0,Highton
+86,34 Cuthbert Avenue," 565,000 ", Apr 2020,0," 75,000 ", Apr 1987, ,, 590 ,,3,1,2,Highton
+87,22 Strickland Avenue," 491,000 ", Apr 2020,0," 88,000 ", Aug 1996, ,, 589 ,,3,0,0,Highton
+88,12 Lansell Drive," 695,000 ", Apr 2020,0," 177,000 ", Dec 1999, ,, 606 ,,4,2,2,Highton
+89,2 Orchardview Court," 935,000 ", Apr 2020,0," 240,000 ", Aug 2009, 520 , Aug 2015, 933 ,,3,2,3,Highton
+90,12 Maidie Street," 700,000 ", Mar 2020,0," 165,000 ", Mar 2000, ,, 656 ,,3,2,2,Highton
+91,59 South Valley Road," 728,000 ", Mar 2020,0," 417,500 ", Oct 2014, ,, 594 ,,3,1,2,Highton
+92,3 Oxbow Court," 240,000 ", Mar 2020,0, ,, ,, 363 ,,0,0,0,Highton
+93,13-15 Clemont Street," 745,000 ", Mar 2020,0," 210,000 ", Jan 2017, ,, 700 ,,0,0,0,Highton
+94,1/41 South Valley Road," 465,000 ", Mar 2020,0," 382,502 ", Mar 2015, 260 , Dec 2008, 293  ,  104 ,2,1,1,Highton
+95,50 Reigate Road," 770,000 ", Mar 2020,0," 650,000 ", Jul 2016, ,, 790 ,,4,2,4,Highton
+96,39 Wallaroo Way," 925,000 ", Mar 2020,0, ,, ,, 703 ,,0,0,0,Highton
+97,8 Mosman Way," 290,000 ", Mar 2020,0," 139,000 ", Sep 2009, ,, 687 ,,0,0,0,Highton
+98,8/114 South Valley Road," 560,000 ", Mar 2020,0, ,, ,, ,,0,0,0,Highton
+99,4 Galloway Court," 750,000 ", Mar 2020,0, ,, ,, 511 ,,3,2,2,Highton
+100,5 Kooyong Place," 587,500 ", 14 Mar 2020,1, ,, ,, 869 ,,0,0,0,Highton
+101,7 Caroline Street," 700,000 ", 14 Mar 2020,1," 150,000 ", Mar 1990, ,, 717 ,,4,0,0,Highton
+102,37 Lansell Drive," 744,000 ", 14 Mar 2020,1," 490,000 ", Oct 2014, 440 , Oct 2016, 570 ,,4,2,2,Highton
+103,6-8 Jewell Place," 940,000 ", Mar 2020,0," 730,000 ", Nov 2012, ,, 633 ,,3,0,0,Highton
+104,9 Cahill Court," 665,000 ", Mar 2020,0," 122,500 ", Nov 2002, ,, 722 ,,4,2,2,Highton
+105,28 Leigh Road," 1,010,000 ", Mar 2020,0," 766,000 ", Dec 2017, ,, 642 ,,5,3,2,Highton
+106,118 Grantham Drive," 910,000 ", Mar 2020,0," 730,000 ", Apr 2016, ,, 922  ,  300 ,4,4,2,Highton
+107,22B St Cloud Court," 875,000 ", Mar 2020,0, ,, ,, ,,0,0,0,Highton
+108,1/1 Triumph Court," 640,000 ", Mar 2020,0, ,, ,, ,,0,0,0,Highton
+109,9 Fryers Road," 638,000 ", 07 Mar 2020,1," 255,000 ", Dec 2004, ,, 658 ,,3,0,0,Highton
+110,68 Clydesdale Way," 915,000 ", Mar 2020,0," 250,000 ", May 2008, ,, 996 ,,4,2,0,Highton
+111,39 Pepperdine Way," 905,000 ", 07 Mar 2020,1," 760,000 ", Dec 2018, ,, 657 ,,4,2,3,Highton
+112,1/11 Patern Street," 545,000 ", Mar 2020,0, ,, 400 , Jan 2017, 239 ,,0,0,0,Highton
+113,3/17 Jinjella Road," 520,000 ", Mar 2020,0," 345,000 ", Sep 2015, 430 , Jan 2020, 132 ,,0,0,0,Highton
+114,50 Glastonbury Drive," 500,000 ", Mar 2020,0, ,, ,, 672 ,,0,0,0,Highton
+115,11-13 Cara Road," 1,885,000 ", Feb 2020,0," 714,000 ", Dec 2015, ,, 785 ,,3,2,2,Highton
+116,22 Shoubra Drive," 862,000 ", 22 Feb 2020,1, ,, ,," 1,045 ",,0,0,0,Highton
+117,135 South Valley Road," 490,000 ", 22 Feb 2020,1, ,, ,, 654 ,,0,0,0,Highton
+118,1/15 Waddington Court," 445,000 ", 22 Feb 2020,1," 131,000 ", Nov 1997, ,, 249 ,,0,0,0,Highton
+119,9 Mcevoy Close," 490,000 ", Feb 2020,0," 266,500 ", Mar 2005, 375 , Dec 2015, 303  ,  108 ,3,1,1,Highton
+120,4 Roncliffe Road," 808,000 ", Feb 2020,0," 520,000 ", Dec 2016, 410 , Jul 2012, 724  ,  135 ,3,1,1,Highton
+121,4 Vaucluse Rise," 680,000 ", Feb 2020,0," 64,000 ", Apr 2000, ,, 703 ,,3,2,1,Highton
+122,31 Pepperdine Way," 1,006,250 ", Feb 2020,0," 565,000 ", Mar 2005, ,, 911 ,,5,4,2,Highton
+123,14 Orana Road," 1,250,000 ", Feb 2020,0," 245,000 ", Jun 2007, ,, 984 ,,0,0,0,Highton
+124,39 Molesworth Drive," 845,000 ", Feb 2020,0," 162,000 ", Sep 2006, ,, 738 ,,0,0,0,Highton
+125,12 Fryers Road," 580,000 ", 08 Feb 2020,1, ,, 350 , Apr 2011, 664 ,,3,1,0,Highton
+126,5 Cuthbert Avenue," 624,000 ", 08 Feb 2020,1," 402,000 ", May 2015, ,, 590  ,  103 ,3,1,2,Highton
+127,10 Fenland Court," 641,000 ", Feb 2020,0, ,, ,, 635 ,,0,0,0,Highton
+128,15 Leigh Road," 697,000 ", Feb 2020,0," 386,000 ", Apr 2008, ,, 670 ,,3,2,2,Highton
+129,3/12 Patern Street," 170,000 ", Jan 2020,0, ,, ,, 160 ,,0,0,0,Highton
+130,9 Shetland Close," 1,170,000 ", Jan 2020,0," 106,000 ", Jun 2001, ,," 1,248 ",,0,0,0,Highton
+131,8/6 Nelson Avenue," 373,000 ", Jan 2020,0," 199,000 ", Nov 2007, ,, 172  ,  77 ,0,0,0,Highton
+132,12 Patern Street," 170,000 ", Jan 2020,0," 72,500 ", Mar 2011, ,, 766 ,,2,0,0,Highton
+133,2-4 Esperence Crescent," 712,500 ", Jan 2020,0," 187,000 ", Nov 2009, 510 , Oct 2017, 807 ,,4,2,2,Highton
+134,124 South Valley Road," 592,000 ", Jan 2020,0," 225,000 ", Jul 2008, ,, 327  ,  111 ,3,1,1,Highton
+135,8 Rice Court," 580,000 ", Jan 2020,0," 112,000 ", Jun 2003, 460 , Nov 2018, 539  ,  153 ,0,0,0,Highton
+136,37 Grantham Drive," 825,000 ", Jan 2020,0," 530,000 ", Apr 2012, ,, 725 ,,3,2,6,Highton
+137,66 Mulquiney Crescent," 650,000 ", Jan 2020,0," 435,000 ", Jul 2011, 495 , Feb 2018, 759 ,,4,2,2,Highton
+138,3/16 Montague Street," 450,000 ", Jan 2020,0," 60,000 ", Dec 2002, ,, 159 ,,0,0,0,Highton
+139,13B BUCKLEY FALLS ROAD," 425,000 ", Jan 2020,0," 350,000 ", Feb 2017, ,, 577 ,,0,0,0,Highton
+140,2/45 Vanessa Avenue," 433,000 ", Jan 2020,0," 190,100 ", Jul 2008, 260 , Dec 2015, 140  ,  64 ,0,0,0,Highton
+141,2 Highpoint Crescent," 258,500 ", Jan 2020,0, ,, ,, 647 ,,0,0,0,Highton
+142,14 Valencay Avenue," 815,000 ", Dec 2019,0," 178,000 ", Nov 2009, ,, 736  ,  226 ,0,0,0,Highton
+143,21 Stoneleigh Crescent," 840,000 ", Dec 2019,0," 202,000 ", Apr 2012, ,, 725  ,  198 ,0,0,0,Highton
+144,17 Porter Avenue," 540,000 ", Dec 2019,0, ,, ,, 589 ,,0,0,0,Highton
+145,4/150 South Valley Road," 350,000 ", Dec 2019,0," 177,000 ", Apr 2002, 310 , Feb 2018, 307  ,  95 ,0,0,0,Highton
+146,1 Villawood Court," 790,000 ", Dec 2019,0," 410,000 ", Aug 2009, ,, 699  ,  195 ,4,2,2,Highton
+147,27 Strickland Avenue," 540,000 ", Dec 2019,0," 350,000 ", Jan 2012, 340 , May 2017, 589  ,  123 ,3,1,2,Highton
+148,9-11 Mosman Way," 1,070,000 ", Dec 2019,0, ,, ,," 1,077 ",,0,0,0,Highton
+149,30 St Cloud Court," 630,000 ", Dec 2019,0, ,, ,, 769 ,,0,0,0,Highton
+150,50 Parkwood Drive," 795,000 ", Dec 2019,0," 92,000 ", May 2002, ,, 721 ,,4,2,0,Highton
+151,16 Wynfield Drive," 715,000 ", Dec 2019,0, ,, ,, 649 ,,0,0,0,Highton
+152,27 Grantham Drive," 902,000 ", Dec 2019,0," 767,000 ", Dec 2013, ,, 676 ,,5,4,2,Highton
+153,73 Fogarty Avenue," 795,000 ", Dec 2019,0," 495,000 ", Sep 2010, ,, 703 ,,4,2,2,Highton
+154,104 Belle Vue Avenue," 535,000 ", 14 Dec 2019,1, ,, ,, 681 ,,0,0,0,Highton
+155,21 Aitkenside Avenue," 657,000 ", Dec 2019,0, ,, ,, 585 ,,0,0,0,Highton
+156,8 Woolondoon Drive," 580,000 ", Dec 2019,0," 180,000 ", Dec 2013, 410 , Oct 2017, 407 ,,3,2,3,Highton
+157,1/22 Elizabeth Street," 427,000 ", Dec 2019,0," 310,000 ", Aug 2016, 365 , Jan 2019, 863  ,  89 ,2,1,1,Highton
+158,116 Mill Race Road," 1,350,000 ", Dec 2019,0, ,, ,, 805 ,,5,3,2,Highton
+159,21 Daly Boulevard," 695,000 ", Dec 2019,0," 360,000 ", Apr 2007, ,, 722  ,  216 ,3,2,2,Highton
+160,1 Merrick Court," 825,000 ", Dec 2019,0," 58,000 ", Jun 1996, ,, 965 ,,0,0,0,Highton
+161,6 Thwaites Close," 595,000 ", Dec 2019,0," 420,000 ", Apr 2012, 440 , Apr 2016, 629 ,,3,2,2,Highton
+162,11 Thwaites Close," 685,000 ", Dec 2019,0," 501,000 ", Mar 2014, 500 , Jun 2014, 525 ,,4,2,2,Highton
+163,35 Montpellier Drive," 630,000 ", Dec 2019,0, ,, ,, 720 ,,0,0,0,Highton
+164,39 Belle Vue Avenue," 725,000 ", 07 Dec 2019,1," 255,000 ", Oct 2007, ,, 656  ,  110 ,3,1,0,Highton
+165,14 Koorong Court," 770,000 ", Dec 2019,0," 253,500 ", Nov 1998, ,, 813 ,,3,3,3,Highton
+166,13 Majestic Drive," 285,500 ", Dec 2019,0, ,, ,, 857 ,,0,0,0,Highton
+167,2 Senior Court," 540,000 ", Dec 2019,0," 330,000 ", Feb 2000, ,, 314 ,,0,0,0,Highton
+168,6/157-159 Barrabool Road," 585,000 ", Dec 2019,0," 415,000 ", Apr 2012, 500 , Aug 2020, 235 ,,0,0,0,Highton
+169,20 Arkana Avenue," 610,000 ", 30 Nov 2019,1, ,, ,, 761 ,,0,0,0,Highton
+170,5 Oakview Court," 760,000 ", Nov 2019,0," 64,000 ", Mar 2000, ,," 1,167 ",,0,0,0,Highton
+171,192 Mt Pleasant Road," 980,000 ", 30 Nov 2019,1," 415,000 ", Dec 2012, ,, 713  ,  220 ,5,2,2,Highton
+172,69 Belle Vue Avenue," 550,000 ", Nov 2019,0," 330,000 ", Aug 2012, ,, 652 ,,3,1,2,Highton
+173,2 Jalana Court," 729,500 ", Nov 2019,0," 150,000 ", Aug 1990, 550 , Feb 2020, 858  ,  204 ,4,2,1,Highton
+174,32 Esperence Crescent," 690,000 ", Nov 2019,0," 191,000 ", Jul 2008, 570 , Feb 2018, 643  ,  221 ,0,0,0,Highton
+175,31 Montpellier Drive," 760,000 ", Nov 2019,0," 750,000 ", Nov 2017, ,, 508 ,,0,0,0,Highton
+176,15 Challambra Crescent," 845,000 ", Nov 2019,0," 605,000 ", Aug 2013, 330 , Nov 2005, 345 ,,4,3,4,Highton
+177,10 Pepperdine Way," 810,000 ", 23 Nov 2019,1," 203,000 ", Apr 1993, ,, 824 ,,0,0,0,Highton
+178,151 Stoneleigh Crescent," 955,000 ", Nov 2019,0, ,, ,, 512 ,,0,0,0,Highton
+179,39 Bonsey Road," 665,000 ", Nov 2019,0," 550,000 ", Mar 2014, 240 , Sep 2005, 862  ,  174 ,4,2,1,Highton
+180,6 Rice Court," 700,000 ", Nov 2019,0," 122,000 ", Mar 2003, ,, 834 ,,4,2,2,Highton
+181,15 Northam Avenue," 530,000 ", Nov 2019,0," 278,000 ", Dec 2007, ,, 652 ,,3,3,1,Highton
+182,3 Sweeney Court," 790,000 ", Nov 2019,0," 435,000 ", Mar 2004, ,," 1,239 ",,4,2,2,Highton
+183,106 Thornhill Road," 550,000 ", Nov 2019,0, ,, ,, 671 ,,3,2,1,Highton
+184,1 Cannes Court," 624,000 ", 09 Nov 2019,1," 70,250 ", Apr 1981, ,, 645 ,,3,2,2,Highton
+185,33 Dunsmore Road," 637,500 ", 09 Nov 2019,1," 519,500 ", Oct 2015, 480 , Dec 2019, 677  ,  199 ,4,2,2,Highton
+186,31 Gwyther Road," 610,000 ", 09 Nov 2019,1," 120,000 ", Sep 1988, ,, 734 ,,3,2,2,Highton
+187,166 Thornhill Road," 1,150,000 ", 09 Nov 2019,1," 705,000 ", Sep 2016, ,," 2,291 ",,3,2,2,Highton
+188,1 Badenoch Court," 820,000 ", Nov 2019,0," 525,000 ", Oct 2009, ,, 789  ,  226 ,3,2,2,Highton
+189,132 MILL RACE Road," 645,000 ", Nov 2019,0," 262,000 ", Feb 2015, ,, 374 ,,3,2,2,Highton
+190,4 Jellindale Court," 706,000 ", 02 Nov 2019,1," 65,000 ", Oct 1986, ,, 854 ,,0,0,0,Highton
+191,10 Fryers Road," 525,000 ", Nov 2019,0," 256,000 ", Jan 2004, ,, 654 ,,4,2,2,Highton
+192,19 Cedarville Close," 590,000 ", Nov 2019,0," 400,000 ", Mar 2011, 410 , Feb 2011, 944  ,  150 ,3,2,2,Highton
+193,26B Grantham Drive," 250,000 ", Nov 2019,0, ,, ,, 300 ,,0,0,0,Highton
+194,4/45 Vanessa Avenue," 400,000 ", Nov 2019,0," 195,000 ", Mar 2005, 335 , Aug 2016, 167 ,,0,0,0,Highton
+195,1/60 Barwon Boulevard," 682,500 ", Oct 2019,0," 299,000 ", Apr 2002, 380 , Jul 2013, 249 ,,3,2,2,Highton
+196,43-45 Hewat Drive," 655,000 ", Oct 2019,0," 331,000 ", Oct 2012, 340 , Jun 2013, 623 ,,5,1,1,Highton
+197,58 Dryden Way," 270,000 ", Oct 2019,0, ,, ,, 546 ,,0,0,0,Highton
+198,2/156 South Valley Road," 410,000 ", Oct 2019,0," 99,500 ", May 1993, ,, 364 ,,0,0,0,Highton
+199,17 Exmoor Close," 635,000 ", Oct 2019,0," 534,000 ", Feb 2016, ,, 747  ,  152 ,3,2,2,Highton
+200,10 Glenmire Street," 571,000 ", 26 Oct 2019,1," 150,000 ", Dec 2000, ,, 634 ,,3,2,2,Highton
+201,13 Oakview Court," 502,000 ", Oct 2019,0," 325,000 ", Sep 2008, 280 , Apr 2007, 560  ,  143 ,3,2,2,Highton
+202,23 Arkana Avenue," 588,000 ", 26 Oct 2019,1," 547,000 ", Sep 2018, 350 , Feb 2015, 613 ,,3,1,1,Highton
+203,18 Roncliffe Road," 517,500 ", Oct 2019,0," 320,000 ", Dec 2013, 285 , Mar 2011, 343 ,,2,1,1,Highton
+204,9 Strickland Avenue," 535,000 ", Oct 2019,0," 53,500 ", May 1984, ,, 589  ,  122 ,3,1,1,Highton
+205,9 Lascelles Place," 805,000 ", 19 Oct 2019,1," 716,000 ", Feb 2018, ,, 722 ,,4,2,2,Highton
+206,22 Granby Crescent," 655,000 ", 19 Oct 2019,1," 472,000 ", Oct 2010, ,, 735 ,,4,2,2,Highton
+207,4 Woolondoon Drive," 895,000 ", Oct 2019,0," 215,000 ", May 2015, ,, 846 ,,4,2,2,Highton
+208,12 Hillary Court," 650,000 ", Oct 2019,0," 415,000 ", May 2003, 550 , Aug 2020, 429 ,,3,2,2,Highton
+209,36 Cuthbert Avenue," 540,000 ", Oct 2019,0," 295,000 ", Feb 2009, 390 , Nov 2018, 589  ,  104 ,3,1,1,Highton
+210,1/59-69 Victory Way," 465,000 ", Oct 2019,0," 295,000 ", Aug 2011, 330 , Feb 2011, 201 ,,3,2,2,Highton
+211,20 Aitkenside Avenue," 690,000 ", Oct 2019,0, ,, ,, 635 ,,4,2,2,Highton
+212,5 Floreat Avenue," 610,000 ", Oct 2019,0," 473,000 ", Jun 2015, 480 , Nov 2019, 734  ,  163 ,4,2,2,Highton
+213,1 Cedmar Avenue," 578,000 ", 05 Oct 2019,1, ,, 290 , Mar 2018, 771 ,,3,1,2,Highton
+214,66 Belle Vue Avenue," 580,000 ", 05 Oct 2019,1, ,, ,, 701 ,,0,0,0,Highton
+215,7 Bundoora Crescent," 782,000 ", 05 Oct 2019,1," 66,000 ", Sep 1981, ,, 697 ,,4,2,1,Highton
+216,12 Pinecrest Drive," 610,000 ", Oct 2019,0," 335,000 ", Aug 2007, ,, 643 ,,4,2,2,Highton
+217,27 Stoneleigh Crescent," 1,018,000 ", Oct 2019,0," 169,000 ", Feb 2000, 640 , Oct 2019, 725 ,,0,0,0,Highton
+218,1 Melrose Avenue," 687,500 ", Oct 2019,0," 365,000 ", Jun 2008, ,, 840 ,,3,2,2,Highton
+219,5 Woolondoon Drive," 660,000 ", Oct 2019,0," 188,000 ", Mar 2013, ,, 529  ,  168 ,3,2,2,Highton
+220,1/32 Bonsey Road," 415,000 ", Sep 2019,0," 112,000 ", Mar 1999, ,, 159 ,,0,0,0,Highton
+221,6/271 Roslyn Road," 340,000 ", Sep 2019,0, ,, ,, 158 ,,0,0,0,Highton
+222,41-43 Highland Way," 940,000 ", Sep 2019,0, ,, ,," 1,008 ",,4,2,4,Highton
+223,9 Oakbank Avenue," 780,000 ", Sep 2019,0," 755,000 ", Jun 2018, 470 , Sep 2011, 726  ,  212 ,4,3,2,Highton
+224,2 Bundoora Crescent," 596,000 ", 21 Sep 2019,1, ,, 450 , Jan 2020, ,,4,2,2,Highton
+225,2/19 Granby Crescent," 615,000 ", Sep 2019,0, ,, ,, 448 ,,0,0,0,Highton
+226,11 Jewell Place," 910,000 ", 21 Sep 2019,1," 200,000 ", Sep 2008, ,, 406  ,  264 ,4,2,2,Highton
+227,11 Oakhill Avenue," 1,240,000 ", Sep 2019,0," 230,000 ", Feb 2000, ,," 1,001  ",  323 ,4,4,2,Highton
+228,2 Maidie Street," 868,000 ", 17 Sep 2019,1," 520,000 ", Apr 2014, ,," 1,060 ",,4,2,1,Highton
+229,1 Adelaide Street," 526,000 ", 14 Sep 2019,1, ,, ,, 711 ,,3,1,4,Highton
+230,23 Evwick Crescent," 500,000 ", Sep 2019,0," 78,000 ", Oct 1987, ,, 622 ,,3,1,2,Highton
+231,15 Thoroughbred Drive," 695,000 ", Sep 2019,0," 174,000 ", Jul 2004, 620 , Oct 2018, 715  ,  4839 ,5,2,2,Highton
+232,5/28 Barrabool Road," 365,000 ", Sep 2019,0," 255,000 ", Jan 2013, ,, 159 ,,0,0,0,Highton
+233,14 Woolbrae Place," 385,000 ", Sep 2019,0, ,, ,, ,,0,0,0,Highton
+234,7/228 Roslyn Road," 377,000 ", Sep 2019,0," 275,500 ", Apr 2018, 240 , Mar 2015, 145  ,  80 ,0,0,0,Highton
+235,179A Barrabool Road," 600,000 ", Sep 2019,0, ,, ,, 312 ,,0,0,0,Highton
+236,6 Cobden Street," 485,000 ", Sep 2019,0, ,, 290 , Aug 2018, 658 ,,3,1,1,Highton
+237,31 Hewat Drive," 955,000 ", Aug 2019,0," 134,000 ", Jul 2008, ,, 755 ,,8,8,2,Highton
+238,2/22 Molesworth Drive," 480,000 ", Aug 2019,0," 285,000 ", Apr 2005, ,, 238 ,,0,0,0,Highton
+239,7 Mawarra Court," 1,300,000 ", Aug 2019,0," 112,500 ", Feb 2000, ,, 993  ,  276 ,4,2,2,Highton
+240,1/11 Cedarville Close," 450,000 ", Aug 2019,0," 271,000 ", Mar 2006, ,, 241 ,,0,0,0,Highton
+241,25 Shire Court," 805,000 ", Aug 2019,0," 606,000 ", Apr 2009, ,, 587  ,  223 ,3,2,2,Highton
+242,20/27-29 Montague Street," 400,000 ", Aug 2019,0," 340,000 ", Mar 2018, 340 , Apr 2019, 71 ,,0,0,0,Highton
+243,84 Mulquiney Crescent," 529,000 ", Aug 2019,0, ,, ,, 354 ,,0,0,0,Highton
+244,35 Reigate Road," 652,000 ", 21 Aug 2019,1," 320,000 ", Feb 2000, 560 , Dec 2018, 725 ,,5,2,2,Highton
+245,46 Stoneleigh Crescent," 1,130,000 ", Aug 2019,0," 275,000 ", Jun 2010, ,, 756 ,,4,2,2,Highton
+246,8 Northam Avenue," 538,000 ", Aug 2019,0," 54,000 ", Jan 1981, ,, 650 ,,4,1,2,Highton
+247,1/13 Finningley Court," 545,000 ", Aug 2019,0," 171,500 ", May 1998, ,, 358 ,,0,0,0,Highton
+248,3 Wynfield Drive," 782,000 ", Aug 2019,0," 739,000 ", Jun 2017, ,, 722 ,,4,2,2,Highton
+249,4 Taylor Court," 1,340,000 ", Aug 2019,0," 60,000 ", May 1982, 500 , Feb 2020," 2,304 ",,4,2,2,Highton
+250,35 Dryden Way," 767,000 ", Aug 2019,0," 268,000 ", Nov 2014, ,, 647 ,,4,2,2,Highton
+251,7 Northbridge Road," 615,000 ", Aug 2019,0," 320,000 ", Jan 2013, ,, 357 ,,4,2,2,Highton
+252,20 Stanbury Avenue," 755,000 ", Aug 2019,0," 215,002 ", Apr 2007, ,, 885 ,,4,2,2,Highton
+253,101 Belle Vue Avenue," 675,000 ", 10 Aug 2019,1," 390,000 ", Nov 2013, 375 , Jul 2013, 706  ,  121 ,3,1,2,Highton
+254,27 Cara Road," 735,000 ", Aug 2019,0," 236,000 ", Feb 2001, ,, 837  ,  180 ,4,2,2,Highton
+255,14 Galloway Court," 685,000 ", Jul 2019,0," 253,000 ", Mar 2000, ,, 466 ,,4,2,2,Highton
+256,7 Lipizzaner Court," 720,000 ", Jul 2019,0, ,, 550 , Oct 2015, 673 ,,4,3,2,Highton
+257,5 Caroline Street," 730,000 ", Jul 2019,0, ,, ,, 718 ,,4,2,6,Highton
+258,13 Roycroft Avenue," 500,000 ", Jul 2019,0," 111,000 ", Jan 1998, ,, 652 ,,3,1,2,Highton
+259,123a Thornhill Road," 421,250 ", Jul 2019,0," 382,000 ", Sep 2017, 270 , May 2009, 325  ,  99 ,0,0,0,Highton
+260,14 Adelaide Street," 523,000 ", 13 Jul 2019,1, ,, 310 , Oct 2013, 737 ,,3,1,1,Highton
+261,6 Molesworth Drive," 835,000 ", 13 Jul 2019,1," 792,000 ", Jan 2018, ,, 715  ,  247 ,5,2,2,Highton
+262,18/27 Montague Street," 368,000 ", Jul 2019,0," 257,000 ", Dec 2012, 270 , Feb 2015, 65  ,  69 ,0,0,0,Highton
+263,10 Radstock Avenue," 265,000 ", Jul 2019,0, ,, ,, 803 ,,0,0,0,Highton
+264,21 Montpellier Drive," 655,000 ", Jul 2019,0," 95,000 ", May 1995, 460 , Sep 2019, 597 ,,4,2,3,Highton
+265,12 Lipizzaner Court," 525,000 ", Jul 2019,0," 227,000 ", Jun 2001, ,, 512 ,,3,2,2,Highton
+266,30 Elliott Avenue," 550,000 ", Jul 2019,0," 365,000 ", Nov 2013, 220 , Dec 2005, 651  ,  132 ,3,1,3,Highton
+267,24 Daly Boulevard," 720,000 ", Jul 2019,0," 330,000 ", Sep 2009, ,, 619  ,  320 ,4,2,3,Highton
+268,3 Norman Court," 615,000 ", 06 Jul 2019,1," 391,000 ", Oct 2011, 350 , Jun 2015, 669 ,,3,1,2,Highton
+269,4 Rivington Court," 905,000 ", Jul 2019,0," 80,000 ", May 1989, ,, 651 ,,4,2,2,Highton
+270,5 Hutcheson Avenue," 479,000 ", Jul 2019,0," 82,000 ", Nov 1996, 365 , Dec 2017, 651 ,,3,1,1,Highton
+271,108 Province Boulevard," 715,000 ", Jul 2019,0, ,, ,, 313 ,,3,2,2,Highton
+272,15/27-29 Montague Street," 355,000 ", Jun 2019,0," 235,000 ", Mar 2014, 230 , Jul 2013, 69 ,,2,1,1,Highton
+273,9 Clearview Court," 447,500 ", Jun 2019,0," 235,000 ", Dec 2011, ,, 876 ,,0,0,0,Highton
+274,21/20 Ficinia Mews," 225,000 ", Jun 2019,0, ,, 265 , Dec 2017, ,,0,0,0,Highton
+275,41 DRYDEN WAY," 343,000 ", Jun 2019,0," 255,000 ", Feb 2016, ,, 646 ,,0,0,0,Highton
+276,274 Mt Pleasant Road," 525,000 ", Jun 2019,0," 415,000 ", Mar 2016, 280 , Jan 2010, 586  ,  110 ,3,1,1,Highton
+277,15 Mawarra Court," 810,000 ", Jun 2019,0," 382,000 ", Oct 2005, ,, 822 ,,4,2,2,Highton
+278,28C Lambhill Crescent," 610,000 ", Jun 2019,0, ,, ,, 365 ,,0,0,0,Highton
+279,12B Larcombe Street," 635,000 ", Jun 2019,0, ,, 390 , Oct 2017, 430 ,,3,2,2,Highton
+280,1/9 Cedar Grove," 535,000 ", Jun 2019,0," 353,000 ", Oct 2010, ,," 1,084  ",  128 ,3,1,2,Highton
+281,17 Strickland Avenue," 565,000 ", Jun 2019,0," 350,000 ", Jan 2014, 380 , Mar 2012, 589  ,  124 ,3,1,3,Highton
+282,7 Montril Court," 665,000 ", Jun 2019,0," 235,000 ", May 2011, ,, 633  ,  190 ,4,2,2,Highton
+283,27 Highland Way," 1,000,000 ", Jun 2019,0," 205,000 ", Nov 2004, ,, 865  ,  400 ,5,2,2,Highton
+284,43 Victory Way," 900,000 ", Jun 2019,0," 210,000 ", Jan 2007, ,, 754  ,  322 ,5,3,2,Highton
+285,7 Tarring Court," 660,000 ", Jun 2019,0, ,, ,, 792 ,,4,2,2,Highton
+286,18 Valencay Avenue," 930,000 ", Jun 2019,0," 795,000 ", Jul 2015, ,, 680  ,  240 ,5,3,2,Highton
+287,9 Clemont Street," 806,000 ", Jun 2019,0," 182,000 ", Oct 2009, ,, 804 ,,4,2,2,Highton
+288,14 Cara Road," 775,000 ", Jun 2019,0," 184,000 ", Nov 2000, ,, 844 ,,4,2,2,Highton
+289,80 Fogarty Avenue," 535,000 ", Jun 2019,0," 329,000 ", Jun 2008, ,, 368 ,,3,2,2,Highton
+290,3/233 Roslyn Road," 423,000 ", Jun 2019,0," 387,000 ", Feb 2000, ,, 193 ,,0,0,0,Highton
+291,11B St Elmo Crescent," 495,000 ", Jun 2019,0, ,, 430 , Jun 2019, 455 ,,3,1,1,Highton
+292,97 Victory Way," 780,000 ", Jun 2019,0," 765,000 ", Feb 2014, ,, 420 ,,3,2,2,Highton
+293,76 South Valley Road," 551,000 ", 01 Jun 2019,1," 385,000 ", Feb 2010, ,, 633  ,  138 ,3,1,1,Highton
+294,49 Larcombe Street," 792,000 ", 01 Jun 2019,1," 545,000 ", Dec 2011, ,, 805 ,,4,2,2,Highton
+295,14 Fryers Road," 460,000 ", May 2019,0," 72,500 ", Jul 1986, ,, 945 ,,3,1,2,Highton
+296,229 Roslyn Road," 844,000 ", May 2019,0," 84,500 ", Aug 1997, ,, 766 ,,6,1,7,Highton
+297,5 Lascelles Place," 763,500 ", 25 May 2019,1," 74,500 ", Jan 2001, ,, 737  ,  240 ,3,2,2,Highton
+298,7 South Valley Road," 647,000 ", May 2019,0," 345,000 ", Mar 2010, ,, 644  ,  146 ,4,2,2,Highton
+299,32 Augustine Drive," 650,000 ", May 2019,0, ,, ,, 822 ,,4,2,2,Highton

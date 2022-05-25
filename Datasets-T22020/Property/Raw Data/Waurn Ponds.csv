@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,6 Tannin Way,"Sold $545,000 in Aug 2020","Last Sold $185,000 in Apr 2011",Rent $410pw in Nov 2014,House: 4  2  2 ,Land size: 524 sqm
+1,7 Bollinger Street,"Sold $690,000 in Jun 2020", , ,House: 4  2  3 ,Land size: 536 sqm
+2,2-3 Champagne Court,"Sold $1,120,000 in Jun 2020", , ,House: ,"Land size: 1,820 sqm"
+3,74 Rossack Drive,"Sold $575,000 in Jun 2020","Last Sold $440,000 in Jun 2015", ,House: 3  2  2 ,Land size: 612 sqm
+4,14-15 Chandon Court,"Sold $1,190,000 in May 2020","Last Sold $630,000 in Apr 2012", , ,"Land size: 2,192 sqm"
+5,32 Shiraz Drive,"Sold $460,000 in Apr 2020","Last Sold $340,000 in Dec 2014",Rent $340pw in Feb 2016,House: 3  1  1 ,Land size: 356 sqm | Building size: 130 sqm
+6,8 CHABLIS Court,"Sold $535,000 in Apr 2020","Last Sold $195,000 in Mar 2016",Rent $640pw in Dec 2017, ,Land size: 419 sqm
+7,115 Ghazeepore Road,"Sold $667,000 in Mar 2020","Last Sold $110,000 in Nov 2002", , ,Land size: 949 sqm
+8,1 Katelyn Court,"Sold $530,000 in Mar 2020","Last Sold $278,000 in Sep 2005", ,House: 3  2  1 ,Land size: 323 sqm | Building size: 128 sqm
+9,18 Chardonnay Court,"Sold $560,000 in Mar 2020","Last Sold $93,000 in May 2003",Rent $440pw in Mar 2020, ,Land size: 452 sqm
+10,51 Oakwood Crescent,"Sold $480,000 in Mar 2020","Last Sold $320,000 in Nov 2009", ,House: 3  2  1 ,Land size: 313 sqm
+11,1/14 Ghazeepore Road,"Sold $525,000 in Mar 2020", ,Rent $420pw in Mar 2018, ,Land size: 777 sqm
+12,17 Tree Street,"Sold $575,500 in Feb 2020","Last Sold $380,000 in Feb 2014", ,House: 3  2  2 ,Land size: 399 sqm
+13,30 Ironbark Street,"Sold $675,000 in Jan 2020","Last Sold $138,000 in Mar 2006",Rent $480pw in Feb 2020, ,Land size: 583 sqm
+14,15 Monterey Drive,"Sold $710,000 in Dec 2019", , ,House: ,Land size: 674 sqm
+15,88 Ghazeepore Road,"Sold $610,000 in Dec 2019","Last Sold $115,000 in Feb 2000",Rent $450pw in Nov 2016,House: 4  2  2 ,Land size: 776 sqm | Building size: 186 sqm
+16,4 Merlot Street,"Sold $630,500 in Dec 2019","Last Sold $495,000 in Jan 2018", ,House: 3  2  2 ,Land size: 480 sqm
+17,8 Mumm Street,"Sold $550,000 in Dec 2019", , ,House: ,Land size: 578 sqm
+18,3/14 Ghazeepore Road,"Sold $490,000 in Dec 2019","Last Sold $62,500 in Aug 1998",Rent $650pw in Jan 2020, ,"Land size: 2,193 sqm | Building size: 150 sqm"
+19,15 Cabernet Court,"Sold $671,000 in Dec 2019", , ,House: 3  2  1 ,Land size: 678 sqm
+20,43 Tannin Way,"Sold $520,000 in Nov 2019","Last Sold $180,000 in Jun 2012",Rent $400pw in Aug 2017, ,Land size: 457 sqm | Building size: 124 sqm
+21,35 Burgundy Drive,"Sold $685,000 in Nov 2019","Last Sold $535,000 in Mar 2017",Rent $425pw in Dec 2014,House: 4  2  2 ,Land size: 682 sqm
+22,11 Chenin Mews,"Sold $470,000 in Nov 2019","Last Sold $256,000 in Nov 2007", ,House: 3  1  1 ,Land size: 355 sqm
+23,70 Paget Road,"Sold $1,160,100 in Oct 2019", , ,House: 4  2  4 ,"Land size: 20,888 sqm"
+24,4 Grenache Drive,"Sold $700,000 in Oct 2019","Last Sold $600,000 in Jun 2012", ,House: 5  3  2 ,Land size: 640 sqm | Building size: 314 sqm
+25,1/55 Ironbark Street,"Sold $480,000 in Oct 2019","Last Sold $300,000 in May 2009",Rent $380pw in Jun 2017,House: 3  1  1 ,Land size: 289 sqm | Building size: 118 sqm
+26,17 Viogner Place,"Sold $675,000 in Oct 2019","Last Sold $465,000 in Aug 2013",Rent $600pw in Mar 2019,House: 4  2  2 ,Land size: 754 sqm | Building size: 330 sqm
+27,19 Viogner Place,"Sold $475,000 in Oct 2019","Last Sold $425,500 in Nov 2017",Rent $400pw in Sep 2019,House: 3  1  2 ,Land size: 357 sqm | Building size: 123 sqm
+28,10 Vintage Court,"Sold $640,000 in Sep 2019","Last Sold $102,000 in Dec 2002", , ,Land size: 534 sqm
+29,20 Willesden Drive,"Sold $680,000 in Sep 2019","Last Sold $53,500 in Oct 2000", , ,Land size: 914 sqm | Building size: 230 sqm
+30,3 Mclaren Court,"Sold $1,010,000 in Sep 2019","Last Sold $185,000 in Jun 2004", ,House: 4  2  7 ,"Land size: 3,186 sqm | Building size: 291 sqm"
+31,16 Pinot Street,"Sold $635,000 in Aug 2019","Last Sold $540,000 in Nov 2016", ,House: 3  2  2 ,Land size: 531 sqm
+32,38 Blackheath Mews,"Sold $785,000 in Aug 2019","Last Sold $153,500 in Sep 2006", ,House: 4  2  2 ,Land size: 801 sqm | Building size: 293 sqm
+33,2 Bordeaux Drive,"Sold $695,000 in Aug 2019","Last Sold $395,000 in May 2005", ,House: 4  2  2 ,"Land size: 1,065 sqm"
+34,8 Bodega Street,"Sold $525,000 in Aug 2019","Last Sold $160,000 in Jul 2012",Rent $400pw in Jun 2017,House: 3  2  2 ,Land size: 375 sqm
+35,12 Blackheath Mews,"Sold $750,000 in 10 Aug 2019(Auction)","Last Sold $110,000 in Dec 2003", ,House: 5  2  2 ,Land size: 789 sqm
+36,9 Delgany Mews,"Sold $690,000 in Aug 2019","Last Sold $432,000 in Feb 2008",Rent $650pw in Aug 2019,House: 5  2  2 ,Land size: 798 sqm | Building size: 229 sqm
+37,1-2 Tuscan Court,"Sold $880,000 in Jul 2019","Last Sold $715,000 in Dec 2015", ,House: 5  2  4 ,"Land size: 1,404 sqm | Building size: 288 sqm"
+38,1 Resolute Drive,"Sold $507,000 in Jul 2019","Last Sold $400,000 in Jun 2016",Rent $370pw in Jul 2013,House: 3  2  2 ,Land size: 450 sqm | Building size: 126 sqm
+39,14 RESOLUTE DRIVE,"Sold $540,000 in Jun 2019","Last Sold $307,000 in Nov 2007",Rent $280pw in Dec 2005,House: 5  2  1 ,Land size: 387 sqm
+40,4 Muscat Place,"Sold $457,000 in Jun 2019","Last Sold $269,000 in Oct 2004",Rent $390pw in Jun 2019,House: 3  1  1 ,Land size: 358 sqm
+41,10 Cottonwood Way,"Sold $570,000 in Jun 2019","Last Sold $170,000 in Jan 2011",Rent $460pw in Feb 2017,House: 5  2  2 ,Land size: 478 sqm
+42,5 Merlot Street,"Sold $677,000 in Jun 2019","Last Sold $105,000 in May 2003", ,House: 4  2  2 ,Land size: 613 sqm | Building size: 211 sqm
+43,24 The Vineyard,"Sold $549,990 in Jun 2019","Last Sold $382,500 in Nov 2008",Rent $450pw in Sep 2016,House: 3  2  2 ,Land size: 412 sqm
+44,9 Carradale Street,"Sold $505,000 in May 2019","Last Sold $112,000 in Nov 2004",Rent $450pw in Jun 2019,House: 3  2  1 ,Land size: 454 sqm
+45,7 Rene Street,"Sold $635,000 in Apr 2019","Last Sold $565,000 in Oct 2017", ,House: 3  2  2 ,Land size: 512 sqm
+46,45 Grange Park Drive,"Sold $300,000 in Apr 2019", , , ,Land size: 404 sqm
+47,41 Burgundy Drive,"Sold $630,000 in Apr 2019","Last Sold $480,000 in Oct 2015", ,House: 4  2  3 ,Land size: 610 sqm
+48,66 Ghazeepore Road,"Sold $655,000 in Apr 2019","Last Sold $119,000 in Jun 2004", ,House: 4  2  2 ,Land size: 631 sqm
+49,15 Chenin Mews,"Sold $530,000 in Mar 2019", , ,House: 3  2  2 ,Land size: 447 sqm
+50,26 Blackheath Mews,"Sold $655,000 in Mar 2019","Last Sold $465,000 in Apr 2013", ,House: 4  2  2 ,Land size: 720 sqm | Building size: 191 sqm
+51,7 Sugargum Drive,"Sold $599,000 in Feb 2019","Last Sold $479,000 in Feb 2015",Rent $500pw in Mar 2018,House: 4  2  2 ,Land size: 674 sqm
+52,2/55 Ironbark Street,"Sold $484,000 in Feb 2019","Last Sold $303,000 in Apr 2009",Rent $380pw in Mar 2011, ,Land size: 318 sqm
+53,5-6 McLaren Court,"Sold $1,115,000 in Feb 2019","Last Sold $175,000 in May 2004", ,House: 6  2  5 ,"Land size: 1,888 sqm"
+54,2 Banyan Court,"Sold $710,000 in Feb 2019", , ,House: 5  2  2 ,Land size: 781 sqm
+55,31 Tannin Way,"Sold $630,000 in Feb 2019","Last Sold $450,000 in Feb 2014",Rent $445pw in Jan 2014,House: 4  2  2 ,Land size: 569 sqm
+56,5 Tree Street,"Sold $509,000 in Jan 2019","Last Sold $355,000 in Jun 2011",Rent $365pw in Sep 2013,House: 3  1  2 ,Land size: 360 sqm | Building size: 123 sqm
+57,20 Grange Park Drive,"Sold $1,300,000 in 15 Dec 2018(Auction)","Last Sold $249,000 in Mar 2009", ,House: 4  2  3 ,"Land size: 3,551 sqm"
+58,33-34 Barossa Court,"Sold $1,290,000 in Dec 2018","Last Sold $620,000 in Jul 2008", ,House: 5  3  10 ,"Land size: 2,672 sqm"
+59,56 Ironbark Street,"Sold $660,000 in Dec 2018","Last Sold $152,500 in Oct 2007",Rent $550pw in Aug 2020,House: 4  2  2 ,Land size: 648 sqm
+60,6 Mumm Street,"Sold $571,000 in Dec 2018", ,Rent $420pw in Sep 2015,House: 4  2  2 ,Land size: 578 sqm
+61,17 The Vineyard,"Sold $540,000 in Oct 2018","Last Sold $326,000 in Jan 2009",Rent $300pw in May 2006,House: 3  2  2 ,Land size: 376 sqm
+62,28 Monterey Drive,"Sold $657,000 in Sep 2018","Last Sold $224,000 in Nov 2000", ,House: 3  2  2 ,Land size: 733 sqm
+63,25 Willesden Drive,"Sold $623,000 in Sep 2018","Last Sold $345,150 in Aug 2006",Rent $450pw in Sep 2017,House: 4  2  2 ,Land size: 927 sqm | Building size: 194 sqm
+64,16 Merlot Street,"Sold $635,000 in Sep 2018","Last Sold $99,000 in May 2003", ,House: 4  2  2 ,Land size: 490 sqm
+65,151 Lemins Road,"Sold $1,375,000 in Aug 2018", , ,House: 4  2  4 ,"Land size: 10,351 sqm"
+66,5 Ironbark Street,"Sold $566,000 in Aug 2018","Last Sold $450,000 in Feb 2013",Rent $430pw in Sep 2018,House: 3  2  2 ,Land size: 783 sqm
+67,42 Oakwood Crescent,"Sold $625,000 in Aug 2018","Last Sold $360,000 in Oct 2009",Rent $570pw in Apr 2009,House: 6  2  2 ,Land size: 580 sqm
+68,1 Ash Court,"Sold $447,000 in Aug 2018","Last Sold $296,000 in May 2007",Rent $390pw in Sep 2018,House: 3  2  1 ,Land size: 427 sqm | Building size: 135 sqm
+69,3/63 Oakwood Crescent,"Sold $465,000 in Aug 2018","Last Sold $329,500 in May 2011",Rent $330pw in Aug 2015, ,Land size: 771 sqm | Building size: 105 sqm
+70,1/21 Ghazeepore Road,"Sold $530,000 in Aug 2018","Last Sold $185,000 in Nov 2016", , ,Land size: 303 sqm
+71,38-40 Ironbark Street,"Sold $615,000 in Jul 2018","Last Sold $479,500 in Oct 2014",Rent $450pw in Jul 2014,House: 4  2  2 ,Land size: 699 sqm
+72,120 Rossack Drive,"Sold $720,000 in Jul 2018","Last Sold $147,000 in Oct 2005", ,House: 4  2  2 ,Land size: 704 sqm | Building size: 704 sqm
+73,39-40 Ironbark Street,"Sold $615,000 in Jul 2018", , , , 
+74,110 Lemins Road,"Sold $1,670,000 in Jun 2018", ,Rent $650pw in Jan 2019, ,"Land size: 2,081 sqm"
+75,33 Oakwood Crescent,"Sold $670,000 in Jun 2018","Last Sold $442,000 in Oct 2013", ,House: 4  2  2 ,Land size: 648 sqm | Building size: 24 sqm
+76,103 Ghazeeprore Road,"Sold $695,000 in Jun 2018", , , , 
+77,103 Ghazeepore Road,"Sold $695,000 in Jun 2018","Last Sold $75,000 in Oct 2001", ,House: 5  2  4 ,Land size: 949 sqm
+78,11 Rene Street,"Sold $730,000 in Jun 2018","Last Sold $181,700 in Nov 2014", ,House: 5  2  2 ,Land size: 460 sqm
+79,15 Temt Terrace,"Sold $512,000 in Jun 2018", ,Rent $450pw in Dec 2016,House: 4  2  4 , 
+80,132 Rossack Drive,"Sold $670,000 in Jun 2018","Last Sold $175,000 in Jul 2009", ,House: 4  2  3 ,Land size: 630 sqm
+81,30 Pethajohn Parade,"Sold $641,500 in May 2018", , , , 
+82,10 Shiraz Drive,"Sold $525,000 in May 2018","Last Sold $440,000 in Dec 2016", ,House: 3  2  2 ,Land size: 648 sqm
+83,6 Bodega Street,"Sold $720,000 in May 2018","Last Sold $155,000 in Jun 2012",Rent $165pw in Feb 2018,House: 7  2  2 ,Land size: 359 sqm
+84,6 Monterey Drive,"Sold $715,000 in May 2018","Last Sold $390,000 in Dec 2009", ,House: 4  2  2 ,Land size: 743 sqm | Building size: 267 sqm
+85,9 Monterey Drive,"Sold $607,000 in Apr 2018","Last Sold $443,000 in Oct 2015", ,House: 4  2  2 ,Land size: 750 sqm
+86,16 Ghazeepore Road,"Sold $450,000 in Apr 2018","Last Sold $360,000 in Nov 2013",Rent $450pw in Jun 2018,House: 3  2  3 ,Land size: 495 sqm | Building size: 122 sqm
+87,9 Blackheath Mews,"Sold $457,500 in Apr 2018","Last Sold $290,000 in Jul 2009",Rent $330pw in Nov 2014,House: 3  1  1 ,Land size: 468 sqm | Building size: 107 sqm
+88,9 Kinsmead Street,"Sold $605,000 in Apr 2018","Last Sold $481,000 in Sep 2016", ,House: 4  2  2 ,Land size: 794 sqm
+89,8 Monterey Drive,"Sold $620,000 in Mar 2018","Last Sold $290,000 in May 2007",Rent $445pw in Jun 2010,House: 4  2  2 ,Land size: 771 sqm | Building size: 177 sqm
+90,5 Mica Court,"Sold $580,000 in Mar 2018","Last Sold $330,000 in Jan 2007",Rent $400pw in Oct 2014,House: 4  2  2 ,Land size: 565 sqm
+91,15 Grange Park Drive,"Sold $907,000 in Mar 2018","Last Sold $114,000 in Jun 2004",Rent $650pw in May 2018, ,"Land size: 1,438 sqm"
+92,18 Tannin Way,"Sold $540,000 in Feb 2018","Last Sold $175,700 in May 2014", ,House: 4  2  2 ,Land size: 446 sqm | Building size: 154 sqm
+93,25 Shiraz Drive,"Sold $647,000 in Feb 2018","Last Sold $500,000 in Feb 2012", ,House: 4  2  2 ,Land size: 616 sqm | Building size: 210 sqm
+94,118 Rossack Drive,"Sold $675,000 in Feb 2018","Last Sold $147,000 in Sep 2005",Rent $490pw in Nov 2015,House: 4  2  2 ,Land size: 709 sqm | Building size: 226 sqm
+95,23 Grange Park Drive,"Sold $231,000 in Jan 2018", , , ,"Land size: 1,048 sqm"
+96,20 Peppertree Rise,"Sold $562,500 in Jan 2018","Last Sold $122,000 in Jul 2005",Rent $500pw in Dec 2018,House: 4  2  3 ,Land size: 596 sqm
+97,3 Bordeaux Drive,"Sold $609,000 in Jan 2018","Last Sold $253,000 in Mar 2003", ,House: 3  2  3 ,Land size: 935 sqm
+98,26 Bodega Street,"Sold $605,000 in Jan 2018","Last Sold $200,000 in Aug 2015", ,House: 4  2  2 ,Land size: 607 sqm
+99,20 Viogner Place,"Sold $466,000 in Jan 2018","Last Sold $318,500 in Jul 2010", ,House: 3  1  2 ,Land size: 398 sqm
+100,3/15 Bourbon Way,"Sold $423,500 in Jan 2018", ,Rent $400pw in Nov 2015,House: 3  1  2 ,Land size: 268 sqm
+101,2/15 Bourbon Way,"Sold $465,000 in Jan 2018", ,Rent $435pw in Dec 2015,House: 3  2  2 ,Land size: 253 sqm
+102,5 Pine Court,"Sold $606,000 in Jan 2018","Last Sold $54,000 in Mar 2001", ,House: 3  2  2 ,Land size: 749 sqm
+103,65 Monterey Drive,"Sold $530,000 in Dec 2017","Last Sold $409,000 in Apr 2012", ,House: 3  2  1 ,Land size: 480 sqm
+104,Lot 2 Chablis Court,"Sold $190,000 in Dec 2017", , , , 
+105,80 Paget Road,"Sold $1,150,000 in Dec 2017", , ,House: 4  3  9 ,"Land size: 20,483 sqm"
+106,6-jul Kia Court,"Sold $1,075,000 in 16 Dec 2017(Auction)", , ,House: 5  2  5 , 
+107,6 Kia Court,"Sold $1,075,000 in 16 Dec 2017(Auction)", , ,House: 5  2  5 ,"Land size: 1,959 sqm"
+108,6-7 Kia Court,"Sold $1,075,000 in 16 Dec 2017(Auction)","Last Sold $238,000 in Mar 2005",Rent $600pw in Nov 2013,House: 5  2  5 ,"Land size: 1,962 sqm"
+109,5 Acacia Lane,"Sold $545,000 in Dec 2017","Last Sold $205,000 in May 2001", ,House: 3  2  2 ,Land size: 700 sqm
+110,9 Tigerlilly Lane,"Sold $517,000 in Dec 2017","Last Sold $203,000 in Aug 2012",Rent $450pw in Nov 2019,House: 4  2  2 ,Land size: 572 sqm | Building size: 173 sqm
+111,4 Elm Court,"Sold $495,000 in 02 Dec 2017(Auction)", , ,House: 3  2  2 ,Land size: 908 sqm
+112,6 Carradale Street,"Sold $425,000 in Dec 2017","Last Sold $380,500 in Nov 2016",Rent $320pw in Aug 2012,House: 2  1  2 ,Land size: 320 sqm | Building size: 97 sqm
+113,5 Jasmin Court,"Sold $555,000 in 29 Nov 2017(Auction)", ,Rent $390pw in Mar 2013,House: 3  2  2 ,Land size: 736 sqm
+114,24 CHABLIS Court,"Sold $250,000 in Nov 2017","Last Sold $209,000 in Mar 2016", , ,Land size: 454 sqm
+115,25 Merlot Street,"Sold $550,000 in 23 Nov 2017(Auction)","Last Sold $124,000 in Oct 2004", ,House: 4  2  2 ,Land size: 544 sqm | Building size: 165 sqm
+116,122 Rossack Drive,"Sold $660,000 in Nov 2017","Last Sold $147,000 in Nov 2005", ,House: 4  2  2 ,Land size: 698 sqm | Building size: 306 sqm
+117,21 Malbec Loop,"Sold $526,000 in Nov 2017","Last Sold $405,000 in Dec 2013", ,House: 3  2  2 ,Land size: 418 sqm | Building size: 417 sqm
+118,2/33 Shiraz Drive,"Sold $320,000 in Nov 2017","Last Sold $157,000 in May 2002",Rent $240pw in Sep 2009, ,Land size: 178 sqm
+119,51 Grange Park Drive,"Sold $291,000 in Oct 2017", , , ,Land size: 576 sqm
+120,23 Tannin Way,"Sold $632,000 in Oct 2017","Last Sold $200,000 in Apr 2011", ,House: 4  2  2 ,Land size: 610 sqm
+121,2 The Vineyard,"Sold $486,000 in Oct 2017","Last Sold $346,000 in Nov 2012", ,House: 3  1  2 ,Land size: 659 sqm
+122,2 Roaming Creek Court,"Sold $457,500 in 23 Sep 2017(Auction)","Last Sold $287,500 in Apr 2004", ,House: 3  2  2 ,Land size: 381 sqm
+123,7 Hoop Court,"Sold $565,000 in Sep 2017","Last Sold $342,750 in Dec 2004", ,House: 5  2  2 ,Land size: 522 sqm
+124,12 Burgundy Drive,"Sold $640,000 in 23 Sep 2017(Auction)","Last Sold $395,000 in Aug 2010",Rent $560pw in Aug 2019,House: 4  2  3 ,Land size: 748 sqm | Building size: 170 sqm
+125,2--17 Cabernet Court,"Sold $433,500 in Sep 2017", , , , 
+126,2/3 Pine Court,"Sold $430,000 in Sep 2017", ,Rent $400pw in Jan 2019, ,Land size: 257 sqm
+127,31 Shiraz Drive,"Sold $520,000 in 09 Sep 2017(Auction)","Last Sold $463,500 in Jul 2012", ,House: 3  2  2 ,Land size: 599 sqm
+128,16 Burgundy Drive,"Sold $720,000 in 02 Sep 2017(Auction)", , ,House: 4  3  2 ,Land size: 700 sqm
+129,2 Roaming Court,"Sold $457,000 in Sep 2017", , , , 
+130,17 Cabernet Court,"Sold $433,000 in Sep 2017","Last Sold $305,000 in Feb 2000",Rent $350pw in Jun 2012,House: 3  2  2 ,Land size: 482 sqm
+131,39 Monterey Drive,"Sold $585,000 in Aug 2017","Last Sold $309,000 in Oct 2004", ,House: 3  2  2 ,Land size: 649 sqm | Building size: 176 sqm
+132,48 Ironbark Street,"Sold $420,000 in Aug 2017","Last Sold $142,500 in Nov 2007",Rent $430pw in Jan 2019,House: 3  1  2 ,Land size: 493 sqm | Building size: 128 sqm
+133,3/14 Huon Court,"Sold $426,000 in Aug 2017", ,Rent $400pw in Nov 2019,House: 3  2  2 ,Land size: 354 sqm
+134,60 Hams Road,"Sold $770,000 in 05 Aug 2017(Auction)", , ,House: 3  2  4 ,"Land size: 1,000 sqm"
+135,7 Banyan Court,"Sold $548,000 in Jul 2017","Last Sold $392,500 in Aug 2005",Rent $550pw in Jun 2019,House: 5  2  2 ,Land size: 734 sqm
+136,58 Willesden Drive,"Sold $300,000 in Jul 2017","Last Sold $132,000 in Apr 2005", , ,Land size: 551 sqm
+137,42 Shiraz Drive,"Sold $530,000 in Jul 2017","Last Sold $435,000 in Aug 2011", ,House: 3  2  2 ,Land size: 620 sqm
+138,22 Chablis Court,"Sold $247,500 in Jun 2017", , , ,Land size: 447 sqm
+139,1-21 Lemins Road,"Sold $1,800,000 in Jun 2017","Last Sold $1,690,500 in Jan 2016", ,House: 5  3  4 ,"Land size: 26,843 sqm"
+140,30 Monterey Drive,"Sold $651,000 in May 2017","Last Sold $54,000 in Oct 2000",Rent $530pw in Aug 2017,House: 5  2  2 ,Land size: 889 sqm
+141,4 Katelyn Court,"Sold $580,000 in May 2017","Last Sold $530,000 in Jan 2016",Rent $600pw in Oct 2017,House: 4  2  2 ,Land size: 612 sqm
+142,8 Tree Street,"Sold $510,000 in May 2017","Last Sold $175,000 in May 2008",Rent $470pw in Jul 2016,House: 4  2  2 ,Land size: 730 sqm
+143,4 Semillion Place,"Sold $524,000 in May 2017","Last Sold $335,000 in Mar 2007", ,House: 3  2  2 ,Land size: 504 sqm | Building size: 151 sqm
+144,25 Ironbark Street,"Sold $535,000 in May 2017","Last Sold $88,500 in Nov 2002", ,House: 3  2  2 ,Land size: 737 sqm | Building size: 129 sqm
+145,15 Ghazeepore Road,"Sold $558,000 in May 2017","Last Sold $412,000 in May 2009",Rent $470pw in Oct 2019,House: 4  2  2 ,Land size: 742 sqm
+146,114 Rossack Drive,"Sold $622,000 in May 2017","Last Sold $579,000 in Jan 2014",Rent $575pw in Dec 2015,House: 4  2  2 ,Land size: 680 sqm | Building size: 200 sqm
+147,2 Cork Place,"Sold $430,000 in May 2017","Last Sold $305,000 in May 2008", ,House: 3  2  2 ,Land size: 400 sqm
+148,60 Willesden Drive,"Sold $600,000 in Apr 2017","Last Sold $145,000 in Nov 2005",Rent $500pw in Jun 2018,House: 4  2  2 ,Land size: 694 sqm | Building size: 219 sqm
+149,2/21 Ghazeepore Road,"Sold $175,000 in Apr 2017", , , ,Land size: 433 sqm
+150,97 Ghazeepore Road,"Sold $558,880 in Apr 2017","Last Sold $542,000 in Jul 2013",Rent $600pw in Mar 2013,House: 4  2  6 ,Land size: 913 sqm | Building size: 224 sqm
+151,1-2 Alva Court,"Sold $430,000 in Apr 2017","Last Sold $243,250 in Mar 2003", ,House: 3  2  4 ,Land size: 450 sqm
+152,22 Ironbark Street,"Sold $520,000 in Mar 2017","Last Sold $65,000 in Oct 2001",Rent $450pw in Jun 2018,House: 3  2  2 ,Land size: 649 sqm
+153,8 Viogner Place,"Sold $538,000 in Mar 2017","Last Sold $163,000 in Jun 2009", , ,Land size: 658 sqm | Building size: 200 sqm
+154,18 Ghazeepore Road,"Sold $405,000 in Mar 2017","Last Sold $72,000 in Nov 1999",Rent $390pw in Mar 2018,House: 2  1  2 ,Land size: 503 sqm
+155,4 Tigerlilly Lane,"Sold $640,000 in Mar 2017","Last Sold $144,000 in Aug 2005",Rent $500pw in Jul 2012, ,Land size: 724 sqm | Building size: 215 sqm
+156,20 The Vineyard,"Sold $465,000 in Mar 2017","Last Sold $395,000 in Feb 2011",Rent $430pw in Jun 2018,House: 3  2  2 ,Land size: 439 sqm
+157,26 Shiraz Drive,"Sold $492,000 in Mar 2017","Last Sold $317,000 in Nov 2006", ,House: 3  2  2 ,Land size: 648 sqm
+158,18 The Vineyard,"Sold $470,000 in Mar 2017","Last Sold $105,000 in Sep 2003", ,House: 3  2  2 ,Land size: 453 sqm
+159,53 Oakwood Crescent,"Sold $483,000 in Mar 2017","Last Sold $171,000 in Nov 2009",Rent $450pw in Apr 2019,House: 3  2  2 ,Land size: 658 sqm | Building size: 156 sqm
+160,2 Pine Court,"Sold $533,000 in Mar 2017","Last Sold $435,000 in Jan 2011", ,House: 4  2  2 ,Land size: 831 sqm | Building size: 160 sqm
+161,4 Monterey Drive,"Sold $580,000 in Mar 2017", ,Rent $490pw in Dec 2010,House: 4  2  2 ,Land size: 735 sqm
+162,7 Blackheath Mews,"Sold $520,000 in Feb 2017","Last Sold $410,000 in Nov 2014",Rent $155pw in Oct 2018,House: 6  2  2 ,Land size: 480 sqm | Building size: 169 sqm
+163,4/1 Bourbon Way,"Sold $275,000 in Feb 2017","Last Sold $265,250 in Sep 2012",Rent $290pw in Mar 2017, ,Land size: 246 sqm | Building size: 100 sqm
+164,5/15 Bourbon Way,"Sold $430,000 in Feb 2017", ,Rent $435pw in Oct 2014,House: 3  2  3 ,Land size: 339 sqm
+165,26 Semillion Place,"Sold $555,000 in Feb 2017","Last Sold $465,000 in Jun 2007", ,House: 4  3  2 ,Land size: 584 sqm | Building size: 253 sqm
+166,145 Lemins Road,"Sold $1,055,000 in Jan 2017","Last Sold $840,000 in Sep 2014", ,House: 4  3  8 ,"Land size: 21,468 sqm"
+167,5 Mumm Street,"Sold $525,000 in Jan 2017","Last Sold $180,000 in May 2014", ,House: 4  2  2 ,Land size: 453 sqm
+168,33-35 Blackheath Mews,"Sold $480,000 in Jan 2017","Last Sold $170,500 in Nov 2009",Rent $430pw in Apr 2014,House: 4  2  2 ,Land size: 662 sqm
+169,33 Blackheath Mews,"Sold $480,000 in Jan 2017","Last Sold $170,500 in Nov 2009",Rent $440pw in Oct 2016,House: 4  2  2 ,Land size: 662 sqm
+170,14 Vintage Court,"Sold $516,500 in Jan 2017","Last Sold $325,000 in May 2007", ,House: 4  2  2 ,Land size: 668 sqm | Building size: 142 sqm
+171,5 Banyan Court,"Sold $650,000 in Jan 2017","Last Sold $53,000 in Dec 1998", , ,Land size: 845 sqm | Building size: 283 sqm
+172,530 Princes Highway,"Sold $1,500,000 in Dec 2016", , , ,Land size: 92 sqm
+173,30 Burgundy Drive,"Sold $707,000 in Dec 2016","Last Sold $560,000 in Feb 2012", ,House: 4  2  4 ,Land size: 729 sqm
+174,9 Cabernet Court,"Sold $403,000 in Dec 2016","Last Sold $345,000 in Oct 2010",Rent $340pw in Nov 2013,House: 3  1  1 ,Land size: 480 sqm
+175,7 Merribell Drive,"Sold $434,000 in Dec 2016","Last Sold $385,000 in May 2015", ,House: 2  1  1 ,Land size: 369 sqm | Building size: 114 sqm
+176,13 Alva Court,"Sold $530,000 in Dec 2016","Last Sold $435,000 in Jun 2012",Rent $460pw in Aug 2014,House: 4  2  2 ,Land size: 715 sqm | Building size: 197 sqm
+177,45 Peppertree Rise,"Sold $552,600 in Dec 2016","Last Sold $445,000 in Feb 2012",Rent $450pw in Feb 2017,House: 3  2  2 ,Land size: 712 sqm | Building size: 182 sqm
+178,60 Burgundy Drive,"Sold $530,000 in 10 Dec 2016(Auction)","Last Sold $443,000 in Dec 2011", ,House: 3  2  2 ,Land size: 657 sqm | Building size: 211 sqm
+179,22 Bodega Street,"Sold $680,000 in Dec 2016","Last Sold $202,500 in Jan 2015", ,House: 7  2  2 ,Land size: 522 sqm
+180,8-9 Traminer Court,"Sold $730,000 in Dec 2016","Last Sold $260,000 in Dec 2007",Rent $795pw in Apr 2011,House: 6  3  4 ,"Land size: 2,089 sqm"
+181,8 Traminer Court,"Sold $730,000 in Dec 2016","Last Sold $260,000 in Dec 2007",Rent $795pw in May 2011,House: 6  3  4 ,"Land size: 2,089 sqm"
+182,111 Ghazeepore Road,"Sold $635,000 in 30 Nov 2016(Auction)", , ,House: 3  2  2 ,Land size: 949 sqm | Building size: 246 sqm
+183,6-7 Champagne Court,"Sold $780,000 in 26 Nov 2016(Auction)", , ,House: 4  2  3 ,"Land size: 1,940 sqm"
+184,6 Champagne Court,"Sold $780,000 in 26 Nov 2016(Auction)","Last Sold $233,000 in Dec 2005", ,House: 4  2  3 ,"Land size: 1,952 sqm"
+185,112 Rossack Drive,"Sold $501,000 in Nov 2016","Last Sold $390,000 in Jun 2006", ,House: 3  2  2 ,Land size: 544 sqm
+186,37 Tannin Way,"Sold $490,000 in Nov 2016","Last Sold $187,500 in Feb 2000",Rent $480pw in Oct 2019,House: 4  2  2 ,Land size: 529 sqm | Building size: 20 sqm
+187,37 Burgundy Drive,"Sold $467,500 in Nov 2016","Last Sold $315,000 in Dec 2003", ,House: 3  2  2 ,Land size: 572 sqm | Building size: 176 sqm
+188,50 Brumor Place,"Sold $1,275,000 in Nov 2016", , ,House: 4  3  6 ,"Land size: 12,140 sqm"
+189,22 Willesden Drive,"Sold $420,000 in Nov 2016","Last Sold $119,000 in Dec 1995",Rent $400pw in Jan 2017,House: 4  2  2 ,Land size: 769 sqm | Building size: 168 sqm
+190,5 Shiraz Drive,"Sold $418,000 in Oct 2016","Last Sold $369,000 in Nov 2013",Rent $370pw in Jun 2012,House: 3  2  4 ,Land size: 543 sqm | Building size: 15 sqm
+191,13 Kinsmead Street,"Sold $460,000 in Oct 2016", , ,House: 3  2  2 ,Land size: 760 sqm
+192,10 Bodega Street,"Sold $500,000 in Oct 2016","Last Sold $193,000 in Dec 2013", ,House: 4  2  2 ,Land size: 465 sqm | Building size: 176 sqm
+193,5 Vintage Court,"Sold $560,000 in Oct 2016","Last Sold $470,000 in Aug 2010", ,House: 3  2  2 ,Land size: 460 sqm
+194,16-18 Grange Park Drive,"Sold $815,000 in Oct 2016","Last Sold $195,000 in Jun 2004",Rent $280pw in May 2005,House: 4  2  3 ,"Land size: 1,792 sqm | Building size: 26 sqm"
+195,12 Cortona Place,"Sold $430,000 in Oct 2016","Last Sold $170,000 in Jun 2012", ,House: 3  2  2 ,Land size: 419 sqm | Building size: 150 sqm
+196,8 Maple Place,"Sold $467,000 in Oct 2016","Last Sold $378,000 in Feb 2015",Rent $285pw in Apr 2007,House: 4  2  2 ,Land size: 650 sqm
+197,49 Ironbark Street,"Sold $600,000 in Sep 2016","Last Sold $150,000 in Jan 2006", ,House: 4  2  2 ,Land size: 713 sqm | Building size: 27 sqm
+198,16 Blackheath Mews,"Sold $600,000 in Sep 2016","Last Sold $501,000 in Mar 2013", ,House: 4  2  2 ,Land size: 737 sqm | Building size: 237 sqm
+199,1-3 Ghazeepore Road,"Sold $1,200,026 in Sep 2016", , ,House: 3  1  ,"Land size: 5,008 sqm"
+200,1/3 Pine Court,"Sold $420,000 in Sep 2016", ,Rent $400pw in Aug 2017, ,Land size: 272 sqm
+201,14 Oakwood Crescent,"Sold $530,000 in Sep 2016","Last Sold $393,500 in Feb 2008", ,House: 4  2  2 ,Land size: 799 sqm | Building size: 206 sqm
+202,2/32 Blackheath Mews,"Sold $385,000 in Sep 2016","Last Sold $306,000 in Mar 2009", , ,Land size: 435 sqm | Building size: 130 sqm
+203,1/59 Oakwood Crescent,"Sold $385,000 in Sep 2016","Last Sold $345,000 in Nov 2011", ,House: 3  2  2 ,Land size: 320 sqm
+204,19 Blackheath Mews,"Sold $501,000 in Sep 2016","Last Sold $134,000 in Nov 2006", ,House: 4  2  2 ,Land size: 544 sqm | Building size: 196 sqm
+205,121 Ghazeepore Road,"Sold $345,575 in Sep 2016","Last Sold $280,000 in Feb 2000", ,House: 2  1  1 ,Land size: 214 sqm | Building size: 96 sqm
+206,5 Monterey Drive,"Sold $420,000 in Aug 2016", , ,House: 3  2  ,Land size: 749 sqm
+207,1 Mclaren Court,"Sold $800,000 in Aug 2016","Last Sold $785,000 in Aug 2015",Rent $560pw in Oct 2016,House: 4  2  3 ,Land size: 964 sqm | Building size: 32 sqm
+208,5 Katelyn Court,"Sold $650,000 in Aug 2016","Last Sold $240,000 in Aug 2015", , ,Land size: 579 sqm
+209,5 Cabernet Court,"Sold $380,000 in Aug 2016","Last Sold $289,000 in Jan 2006",Rent $400pw in Sep 2019,House: 3  2  2 ,Land size: 345 sqm
+210,11 Cottonwood Way,"Sold $482,000 in Aug 2016","Last Sold $210,000 in Jun 2012",Rent $450pw in Sep 2016,House: 4  2  2 ,Land size: 539 sqm
+211,18 CHABLIS Court,"Sold $211,000 in Aug 2016", , ,House: 4  2  2 ,Land size: 526 sqm
+212,14 Huon Court,"Sold $395,000 in Aug 2016","Last Sold $248,000 in Nov 2008", , ,Land size: 209 sqm
+213,1/27 Ironbark Street,"Sold $400,000 in Jul 2016","Last Sold $362,000 in Dec 2010",Rent $395pw in Sep 2014, ,Land size: 311 sqm
+214,17 Malbec Loop,"Sold $480,000 in Jul 2016","Last Sold $137,000 in Aug 2005",Rent $450pw in Jul 2017,House: 3  2  2 ,Land size: 488 sqm | Building size: 178 sqm
+215,26 Sugargum Drive,"Sold $525,000 in Jul 2016","Last Sold $198,000 in Aug 2010",Rent $600pw in Jun 2019,House: 7  2  2 ,Land size: 758 sqm | Building size: 220 sqm
+216,9 Willesden Drive,"Sold $460,000 in Jul 2016","Last Sold $400,000 in Apr 2009", ,House: 4  2  5 ,Land size: 865 sqm | Building size: 187 sqm
+217,16 Grange Park Drive,"Sold $815,000 in Jul 2016","Last Sold $80,000 in Jul 2001", , ,"Land size: 1,792 sqm"
+218,6 Mica Court,"Sold $180,000 in Jul 2016","Last Sold $80,000 in Aug 2003", , ,Land size: 324 sqm | Building size: 140 sqm
+219,1 Hoop Court,"Sold $382,000 in Jun 2016","Last Sold $322,500 in Dec 2010",Rent $370pw in Feb 2019,House: 3  2  2 ,Land size: 726 sqm
+220,1-2 Hoop Court,"Sold $382,000 in Jun 2016","Last Sold $322,500 in Dec 2010",Rent $350pw in Mar 2016,House: 3  2  1 ,Land size: 726 sqm
+221,135 Lemins Road,"Sold $785,000 in Jun 2016", , ,House: 4  2  3 ,"Land size: 15,113 sqm"
+222,1 Beaujolais Place,"Sold $567,000 in Jun 2016","Last Sold $140,000 in Oct 2004",Rent $460pw in Dec 2016,House: 3  2  2 ,Land size: 722 sqm | Building size: 250 sqm
+223,34 Monterey Drive,"Sold $475,000 in Jun 2016","Last Sold $323,000 in Oct 2008", ,House: 4  2  2 ,Land size: 728 sqm | Building size: 179 sqm
+224,7 Cortona Place,"Sold $375,000 in Jun 2016","Last Sold $170,000 in Jun 2012",Rent $350pw in Aug 2014,House: 3  2  1 ,Land size: 419 sqm
+225,28 Tannin Way,"Sold $565,000 in Jun 2016","Last Sold $198,500 in Aug 2014", ,House: 4  2  2 ,Land size: 420 sqm
+226,10 Blackheath Mews,"Sold $402,500 in Jun 2016","Last Sold $292,500 in Jul 2007",Rent $380pw in Jun 2016,House: 3  1  1 ,Land size: 450 sqm | Building size: 130 sqm
+227,Lot 2/11 Katelyn Court,"Sold $404,000 in Jun 2016", , , ,Land size: 319 sqm | Building size: 116 sqm
+228,66 Rossack Drive,"Sold $503,000 in May 2016", , ,House: 4  2  2 ,Land size: 612 sqm
+229,47 Oakwood Crescent,"Sold $550,000 in May 2016","Last Sold $360,000 in Oct 2009",Rent $570pw in Apr 2009,House: 6  2  2 ,Land size: 605 sqm | Building size: 163 sqm
+230,15 Cortona Place,"Sold $440,000 in May 2016", , ,House: 3  2  3 ,Land size: 494 sqm
+231,7 Alva Court,"Sold $515,000 in May 2016","Last Sold $72,000 in Jan 2002", ,House: 4  3  2 ,Land size: 804 sqm
+232,7 Tannin Way,"Sold $440,000 in May 2016","Last Sold $187,500 in Mar 2011",Rent $410pw in Sep 2014,House: 4  2  2 ,Land size: 568 sqm | Building size: 223 sqm
+233,11B KATELYN Court,"Sold $389,000 in May 2016", , ,House: 3  2  1 ,Land size: 247 sqm
+234,8 Bollinger Way,"Sold $470,000 in May 2016", ,Rent $440pw in Mar 2018,House: 4  2  2 , 
+235,5 Hoop Court,"Sold $653,888 in May 2016","Last Sold $607,500 in Nov 2009", ,House: 5  2  2 ,Land size: 967 sqm | Building size: 367 sqm
+236,7 Monterey Drive,"Sold $441,000 in May 2016", , ,House: 3  2  2 ,Land size: 759 sqm | Building size: 160 sqm
+237,8 Bollinger Street,"Sold $470,000 in May 2016","Last Sold $172,800 in Jul 2014", , ,Land size: 437 sqm
+238,14-15 Cortona Place,"Sold $440,000 in May 2016","Last Sold $192,200 in Dec 2012", ,House: 3  2  3 ,Land size: 494 sqm
+239,14 Cortona Place,"Sold $440,000 in May 2016","Last Sold $192,200 in Dec 2012", , ,Land size: 494 sqm
+240,3 CHABLIS Court,"Sold $820,000 in May 2016", , ,House: 3  2  2 ,"Land size: 2,393 sqm"
+241,45 Oakwood Crescent,"Sold $515,000 in May 2016","Last Sold $355,000 in Oct 2009",Rent $140pw in Dec 2017,House: 6  2  2 ,Land size: 611 sqm | Building size: 165 sqm
+242,39 Ironbark Street,"Sold $465,000 in Apr 2016","Last Sold $150,000 in May 2006", ,House: 4  2  2 ,Land size: 702 sqm
+243,31-32 Barossa Court,"Sold $1,350,000 in Apr 2016","Last Sold $1,300,000 in Jul 2013", ,House: 5  3  4 ,"Land size: 2,503 sqm | Building size: 72 sqm"
+244,200 Waurn Ponds Drive,"Sold $706,000 in 09 Apr 2016(Auction)", ,Rent $600pw in Sep 2016,House: 6  3  5 ,"Land size: 14,126 sqm | Building size: 112 sqm"
+245,47 GRANGE PARK Drive,"Sold $203,000 in Mar 2016", , , ,Land size: 425 sqm
+246,3 Cork Place,"Sold $550,000 in Mar 2016","Last Sold $155,000 in Jun 2007",Rent $545pw in Jun 2014,House: 5  2  2 ,Land size: 757 sqm
+247,15 Sugargum Drive,"Sold $495,000 in Mar 2016","Last Sold $165,000 in Apr 2009", ,House: 4  2  2 ,Land size: 643 sqm | Building size: 218 sqm
+248,21 CHABLIS Court,"Sold $201,000 in Mar 2016", ,Rent $175pw in Dec 2019,House: 4  2  2 ,Land size: 421 sqm
+249,2/9 Resolute Drive,"Sold $352,635 in Mar 2016", ,Rent $350pw in Jan 2019,House: 3  1  1 ,Land size: 359 sqm
+250,3 Reward Court,"Sold $510,000 in Mar 2016","Last Sold $125,000 in Dec 2004", ,House: 4  2  2 ,Land size: 772 sqm | Building size: 185 sqm
+251,19 Cottonwood Way,"Sold $490,000 in Mar 2016","Last Sold $215,000 in Feb 2000", ,House: 5  2  2 ,Land size: 601 sqm
+252,1-2 CHABLIS Court,"Sold $272,000 in Mar 2016", , , ,Land size: 718 sqm
+253,11 CHABLIS Court,"Sold $210,000 in Mar 2016", , , ,Land size: 479 sqm
+254,12 CHABLIS Court,"Sold $211,000 in Mar 2016", ,Rent $450pw in Jul 2020,House: 5  3  2 ,Land size: 479 sqm
+255,6 CHABLIS Court,"Sold $195,000 in Mar 2016", ,Rent $460pw in Mar 2018,House: 4  2  2 ,Land size: 420 sqm
+256,52 GRANGE PARK Drive,"Sold $214,000 in Mar 2016", , , ,Land size: 579 sqm
+257,5 CHABLIS Court,"Sold $195,000 in Mar 2016", ,Rent $490pw in Sep 2018,House: 4  2  2 ,Land size: 420 sqm
+258,23 CHABLIS Court,"Sold $209,000 in Mar 2016", , , ,Land size: 479 sqm
+259,10 CHABLIS Court,"Sold $203,000 in Mar 2016", ,Rent $175pw in Jan 2020,House: 9  4  5 ,Land size: 449 sqm
+260,50 GRANGE PARK Drive,"Sold $265,500 in Mar 2016", , , ,Land size: 689 sqm
+261,6 Chenin Mews,"Sold $358,000 in Feb 2016","Last Sold $311,500 in Feb 2011",Rent $380pw in Jun 2018,House: 3  1  2 ,Land size: 487 sqm
+262,36 Burgundy Drive,"Sold $520,000 in Feb 2016","Last Sold $415,500 in Dec 2006",Rent $480pw in May 2015,House: 4  2  2 ,Land size: 664 sqm | Building size: 230 sqm
+263,9 CHABLIS Court,"Sold $202,000 in Feb 2016", , , ,Land size: 449 sqm
+264,19 CHABLIS Court,"Sold $225,000 in Feb 2016", ,Rent $600pw in Nov 2018,House: 4  2  2 ,Land size: 509 sqm
+265,10 Sugargum Drive,"Sold $484,000 in Jan 2016","Last Sold $176,000 in May 2009", ,House: 4  2  2 ,Land size: 746 sqm | Building size: 200 sqm
+266,13 Viogner Place,"Sold $435,000 in Jan 2016","Last Sold $396,000 in Jun 2011", ,House: 4  2  2 ,Land size: 616 sqm
+267,7 Resolute Drive,"Sold $515,000 in Jan 2016","Last Sold $72,500 in Jun 2002",Rent $400pw in Sep 2014,House: 3  2  4 ,Land size: 721 sqm | Building size: 176 sqm
+268,38-40 Grange Park Drive,"Sold $500,000 in Jan 2016", , , ,"Land size: 2,236 sqm"
+269,49 GRANGE PARK Drive,"Sold $195,000 in Jan 2016", , , ,Land size: 400 sqm
+270,Lot 1/11 Katelyn Court,"Sold $389,000 in Dec 2015", , , ,Land size: 243 sqm | Building size: 106 sqm
+271,53 Ironbark Street,"Sold $370,000 in Dec 2015","Last Sold $300,000 in Oct 2008",Rent $400pw in Jun 2018,House: 3  1  2 ,Land size: 382 sqm | Building size: 113 sqm
+272,70 Rossack Drive,"Sold $410,000 in Dec 2015","Last Sold $382,000 in Aug 2009", ,House: 3  2  2 ,Land size: 612 sqm | Building size: 169 sqm
+273,3 Cottonwood Way,"Sold $630,000 in Dec 2015","Last Sold $147,000 in Feb 2000",Rent $490pw in Jun 2015,House: 4  2  3 ,Land size: 736 sqm
+274,124-126 Ghazeepore Road,"Sold $700,000 in Dec 2015","Last Sold $670,000 in May 2014", ,House: 4  2  2 ,"Land size: 1,919 sqm | Building size: 24 sqm"
+275,2/19 Ghazeepore Road,"Sold $350,000 in Dec 2015", ,Rent $330pw in Mar 2014,House: 2  2  2 ,Land size: 354 sqm
+276,8 Katelyn Court,"Sold $545,000 in Nov 2015","Last Sold $213,000 in Feb 2000", ,House: 4  2  2 ,Land size: 557 sqm | Building size: 236 sqm
+277,27 Burgundy Drive,"Sold $646,000 in Nov 2015","Last Sold $74,500 in Mar 2003", ,House: 4  2  2 ,Land size: 722 sqm | Building size: 260 sqm
+278,3 Resolute Drive,"Sold $392,500 in Nov 2015","Last Sold $298,000 in Jul 2004", ,House: 3  2  2 ,Land size: 451 sqm | Building size: 132 sqm
+279,6 Platina Avenue,"Sold $469,000 in Nov 2015","Last Sold $118,000 in Nov 2003",Rent $400pw in Jul 2014,House: 4  2  2 ,Land size: 720 sqm | Building size: 171 sqm
+280,53 GRANGE PARK Drive,"Sold $258,750 in Nov 2015", , , ,Land size: 696 sqm
+281,20 CHABLIS Court,"Sold $251,250 in Nov 2015", , ,House: 4  2  2 ,Land size: 667 sqm
+282,36 Willesden Drive,"Sold $355,000 in Nov 2015","Last Sold $227,000 in Mar 2006",Rent $380pw in Mar 2020,House: 2  1  1 ,Land size: 432 sqm
+283,6 Viogner Place,"Sold $450,000 in Oct 2015","Last Sold $400,000 in Apr 2013", ,House: 4  2  2 ,Land size: 797 sqm | Building size: 166 sqm
+284,30 Ghazeepore Road,"Sold $697,500 in Oct 2015","Last Sold $72,000 in Jan 1990", ,House: 4  2  2 ,"Land size: 2,000 sqm"
+285,24 Tannin Way,"Sold $550,000 in Oct 2015","Last Sold $175,700 in Jul 2014", ,House: 4  2  2 ,Land size: 444 sqm
+286,34 Blackheath Mews,"Sold $570,000 in Oct 2015","Last Sold $152,500 in Nov 2006", ,House: 5  2  5 ,Land size: 800 sqm | Building size: 266 sqm
+287,8-10 Semillion Place,"Sold $520,000 in Oct 2015", , ,House: 4  2  2 ,Land size: 517 sqm
+288,8 Vintage Court,"Sold $595,000 in Oct 2015","Last Sold $89,500 in Oct 2002", ,House: 4  2  2 ,Land size: 635 sqm
+289,33 Monterey Drive,"Sold $500,000 in Oct 2015","Last Sold $365,000 in Feb 2000", ,House: 4  2  2 ,Land size: 682 sqm | Building size: 207 sqm
+290,3 Katelyn Court,"Sold $355,000 in Oct 2015","Last Sold $80,000 in Aug 2003",Rent $350pw in Dec 2015,House: 3  1  1 ,Land size: 325 sqm
+291,3 Muscat Place,"Sold $382,000 in Oct 2015","Last Sold $67,000 in Apr 2002",Rent $350pw in Sep 2015,House: 3  1  2 ,Land size: 451 sqm | Building size: 109 sqm
+292,21 The Vineyard,"Sold $475,000 in Sep 2015","Last Sold $398,000 in Nov 2007", ,House: 4  2  2 ,Land size: 752 sqm | Building size: 195 sqm
+293,5 Cassis Court,"Sold $802,500 in Sep 2015","Last Sold $252,000 in Mar 2007",Rent $600pw in Oct 2015,House: 5  2  4 ,"Land size: 1,727 sqm | Building size: 269 sqm"
+294,8 Acacia Lane,"Sold $454,000 in Sep 2015","Last Sold $325,000 in Nov 2007",Rent $470pw in Dec 2018,House: 5  2  2 ,Land size: 721 sqm
+295,63 Willesden Drive,"Sold $565,000 in Sep 2015","Last Sold $159,000 in Aug 2007", ,House: 4  2  2 ,Land size: 642 sqm
+296,44-46 Burgundy Drive,"Sold $630,000 in Sep 2015","Last Sold $445,000 in Jul 2009",Rent $440pw in Oct 2008,House: 4  2  2 ,"Land size: 1,000 sqm | Building size: 27 sqm"
+297,39 Blackheath Mews,"Sold $344,500 in Sep 2015", ,Rent $370pw in Nov 2018,House: 2  1  1 ,Land size: 290 sqm | Building size: 95 sqm
+298,180-200 McPherson Road,"Sold $450,000 in Sep 2015", , , ,"Land size: 10,978 sqm"
+299,86 Ghazeepore Road,"Sold $497,000 in Sep 2015","Last Sold $130,000 in Sep 2005", ,House: 5  2  2 ,Land size: 790 sqm | Building size: 217 sqm

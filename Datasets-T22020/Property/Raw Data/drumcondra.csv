@@ -1,0 +1,293 @@
+,address,sold,last sold,rent,house_info,land_size
+0,37 Bell Parade,"Sold $1,215,000 in Jun 2020","Last Sold $915,000 in Apr 2015", ,House: 3  2  3 ,Land size: 646 sqm | Building size: 177 sqm
+1,1/55 The Esplanade,"Sold $1,900,000 in 18 May 2020(Auction)", , ,House: 3  ,Land size: 421 sqm
+2,55A The Esplanade,"Sold $1,900,000 in 18 May 2020(Auction)", , ,House: 3  2  3 , 
+3,28 Wattletree Road,"Sold $1,520,000 in Mar 2020", , , ,Land size: 343 sqm
+4,23 Beach Parade,"Sold $1,100,000 in 15 Feb 2020(Auction)","Last Sold $626,000 in May 2012", ,House: 3  1  3 ,Land size: 613 sqm
+5,1/26 Lunan Avenue,"Sold $865,000 in Feb 2020","Last Sold $316,500 in Sep 2000", , ,Land size: 215 sqm
+6,39 The Esplanade,"Sold $2,275,000 in Jul 2019", ,Rent $660pw in Oct 2019,House: 5  2  4 ,Land size: 730 sqm
+7,9 Grandview Grove,"Sold $1,219,000 in Mar 2019","Last Sold $590,000 in Oct 2005", ,House: 4  2  ,Land size: 625 sqm | Building size: 253 sqm
+8,3 Lunan Avenue,"Sold $900,000 in Mar 2019","Last Sold $775,000 in Dec 2012", ,House: 3  2  2 ,Land size: 610 sqm
+9,15 Drumcondra Avenue,"Sold $901,000 in 14 Apr 2018(Auction)", ,Rent $420pw in Jun 2016,House: 4  1  1 ,Land size: 624 sqm
+10,9A Wattletree Road,"Sold $885,000 in 16 Dec 2017(Auction)", ,Rent $470pw in May 2019,House: 3  1  1 ,Land size: 624 sqm
+11,53 Princes Highway,"Sold $640,000 in Dec 2017","Last Sold $435,000 in Oct 2011", ,House: 4  1  1 ,Land size: 835 sqm
+12,53 Melbourne Road,"Sold $640,000 in 09 Dec 2017(Auction)","Last Sold $435,000 in Oct 2011", ,House: 3  1  1 ,Land size: 640 sqm
+13,3 Bell Parade,"Sold $680,000 in Nov 2017","Last Sold $360,000 in 2009", ,House: 3  2  1 ,Land size: 330 sqm | Building size: 122 sqm
+14,16 Drumcondra Avenue,"Sold $1,225,000 in Oct 2017","Last Sold $111,500 in Jun 1992", ,House: 4  2  2 ,Land size: 626 sqm
+15,1/2 Grandview Grove,"Sold $520,000 in 05 Aug 2017(Auction)","Last Sold $405,000 in Jan 2016", ,Townhouse: 2  2  1 ,Land size: 195 sqm | Building size: 148 sqm
+16,24 Drumcondra Avenue,"Sold $832,000 in Jul 2017", , ,House: 4  1  1 ,Land size: 613 sqm
+17,11 Beach Parade,"Sold $1,096,000 in 18 Mar 2017(Auction)","Last Sold $760,000 in Jun 2015", ,House: 4  1  3 ,Land size: 613 sqm | Building size: 270 sqm
+18,57 Princes Highway,"Sold $390,000 in Nov 2016", ,Rent $320pw in Feb 2000,House: 2  1  1 ,Land size: 531 sqm
+19,57 Melbourne Road,"Sold $390,000 in 19 Nov 2016(Auction)","Last Sold $285,000 in Aug 2008", ,House: 2  1  1 ,Land size: 531 sqm | Building size: 144 sqm
+20,19 Drumcondra Avenue,"Sold $800,000 in 22 Oct 2016(Auction)", , ,House: 3  1  1 ,Land size: 613 sqm | Building size: 12 sqm
+21,2 Wattletree Road,"Sold $925,000 in Oct 2016","Last Sold $700,000 in Jan 2012", ,House: 4  3  2 ,Land size: 625 sqm
+22,6 Grandview Grove,"Sold $825,050 in Sep 2016","Last Sold $395,000 in Jul 2003", ,House: 4  2  2 ,Land size: 638 sqm
+23,16 Grandview Grove,"Sold $725,000 in 27 Aug 2016(Auction)", , ,House: 3  1  1 ,Land size: 633 sqm | Building size: 144 sqm
+24,5 Grandview Grove,"Sold $665,000 in Aug 2016", ,Rent $375pw in Oct 2015,House: 3  1  1 ,Land size: 625 sqm | Building size: 224 sqm
+25,3/2-4 Drumcondra Avenue,"Sold $313,500 in Aug 2016","Last Sold $215,000 in Mar 2005", , ,Land size: 279 sqm
+26,16 Beach Parade,"Sold $955,000 in May 2016","Last Sold $245,000 in Nov 1998", ,House: 3  2  2 ,Land size: 59 sqm
+27,25 Glenleith Avenue,"Sold $1,070,000 in Feb 2016","Last Sold $870,000 in May 2013", ,House: 4  2  3 ,Land size: 971 sqm
+28,10 Wattletree Road,"Sold $685,000 in 13 Feb 2016(Auction)", , ,House: 3  1  2 ,Land size: 625 sqm | Building size: 110 sqm
+29,21 Lunan Avenue,"Sold $815,000 in Dec 2015", , ,House: 4  2  1 ,Land size: 611 sqm
+30,53 The Esplanade,"Sold $2,375,000 in Nov 2015","Last Sold $1,875,000 in Mar 2008", ,House: 4  2  2 ,Land size: 899 sqm | Building size: 427 sqm
+31,24 Beach Parade,"Sold $1,205,000 in 31 Oct 2015(Auction)","Last Sold $145,000 in Aug 2008", ,House: 4  2  2 ,Land size: 675 sqm | Building size: 275 sqm
+32,41 Princes Highway,"Sold $725,000 in Aug 2015", , ,House: 4  2  2 ,Land size: 703 sqm
+33,41 Melbourne Road,"Sold $725,000 in Jul 2015","Last Sold $81,500 in Dec 1984", ,House: 4  2  2 ,Land size: 700 sqm
+34,1/2-4 Drumcondra Avenue,"Sold $293,500 in May 2015","Last Sold $64,500 in Sep 1986", , ,Land size: 202 sqm
+35,3/2 Drumcondra Avenue,"Sold $293,500 in May 2015","Last Sold $89,500 in Apr 1999", ,Townhouse: 2  1  1 ,Land size: 279 sqm | Building size: 97 sqm
+36,39 Bell Parade,"Sold $725,000 in 11 Apr 2015(Auction)", ,Rent $350pw in Jun 2019,House: 3  1  1 ,Land size: 646 sqm
+37,18 Grandview Grove,"Sold $745,000 in Jan 2015","Last Sold $72,500 in Aug 1986", ,House: 4  1  2 ,Land size: 620 sqm
+38,8 Wattletree Road,"Sold $695,000 in Dec 2014", ,Rent $440pw in Apr 2016,House: 4  2  2 ,Land size: 625 sqm
+39,23 Lunan Avenue,"Sold $1,160,000 in Dec 2014","Last Sold $300,000 in Nov 2006", ,House: 4  2  3 ,Land size: 611 sqm
+40,25 Bell Parade,"Sold $748,000 in 13 Dec 2014(Auction)", ,Rent $450pw in Jun 2017,House: 4  1  3 ,Land size: 728 sqm
+41,20-22 Lunan Avenue,"Sold $640,000 in Nov 2014", , ,House: 3  1  ,Land size: 653 sqm
+42,22 Lunan Avenue,"Sold $640,000 in 01 Nov 2014(Auction)", , ,House: 3  1  2 ,Land size: 653 sqm
+43,14 Lunan Avenue,"Sold $766,000 in Oct 2014","Last Sold $210,000 in Jul 1995", ,House: 4  2  2 ,Land size: 653 sqm
+44,15 Glenleith Avenue,"Sold $1,100,000 in Oct 2014","Last Sold $190,000 in Nov 1989", ,House: 4  2  2 ,Land size: 970 sqm | Building size: 264 sqm
+45,27 Princes Highway,"Sold $560,000 in Sep 2014","Last Sold $95,000 in Jul 1997", , ,Land size: 408 sqm | Building size: 200 sqm
+46,11 Wattletree Road,"Sold $736,000 in Sep 2014","Last Sold $310,000 in Feb 2000", ,House: 3  1  1 ,Land size: 625 sqm
+47,27 Melbourne Road,"Sold $560,000 in Sep 2014","Last Sold $95,000 in Jul 1997", , ,Land size: 408 sqm
+48,2/31 Bell Parade,"Sold $250,000 in Aug 2014","Last Sold $72,500 in Aug 1997", , ,Land size: 202 sqm | Building size: 94 sqm
+49,1/20-22 Lunan Avenue,"Sold $505,000 in Jul 2014", , , ,Land size: 653 sqm
+50,1/20 Lunan Avenue,"Sold $505,000 in 19 Jul 2014(Auction)", ,Rent $390pw in Jan 2016, ,Land size: 267 sqm | Building size: 116 sqm
+51,2/20 Lunan Avenue,"Sold $505,000 in Jul 2014", ,Rent $360pw in Oct 2012,Townhouse: 3  1  1 ,Land size: 653 sqm
+52,1/31 Bell Parade,"Sold $350,000 in Jun 2014","Last Sold $81,500 in Jan 1997", , ,Land size: 252 sqm | Building size: 92 sqm
+53,16 Glenleith Avenue,"Sold $630,000 in May 2014","Last Sold $178,000 in Jul 1986", ,House: 4  2  3 , 
+54,23 Bell Parade,"Sold $527,000 in 22 Mar 2014(Auction)", , ,House: 3  1  1 ,Land size: 572 sqm
+55,11 Lunan Avenue,"Sold $920,000 in Mar 2014","Last Sold $270,000 in Jul 2001", ,House: 4  3  6 ,Land size: 611 sqm | Building size: 134 sqm
+56,14 Beach Parade,"Sold $730,000 in Feb 2014", ,Rent $470pw in Apr 2015,House: 3  2  4 ,Land size: 613 sqm
+57,1 Grandview Grove,"Sold $815,000 in Feb 2014","Last Sold $750,000 in Apr 2005", ,House: 5  3  2 ,Land size: 624 sqm
+58,59 The Esplanade,"Sold $2,100,000 in Dec 2013","Last Sold $480,000 in Feb 1991", ,House: 4  ,"Land size: 1,157 sqm"
+59,6/17 The Esplanade,"Sold $375,000 in Nov 2013", ,Rent $300pw in Sep 2013, , 
+60,2 Beach Parade,"Sold $1,150,000 in Nov 2013","Last Sold $750,000 in Jan 2008", ,House: 4  2  4 ,Land size: 808 sqm | Building size: 186 sqm
+61,6a Lunan Avenue,"Sold $640,000 in Oct 2013", , ,House: 3  2  1 ,Land size: 653 sqm
+62,6 Lunan Avenue,"Sold $640,000 in Oct 2013", , ,House: 2  2 ,Land size: 653 sqm | Building size: 212 sqm
+63,16 Lunan Avenue,"Sold $640,000 in 28 Sep 2013(Auction)", ,Rent $330pw in Sep 2016,House: 3  1  2 ,Land size: 653 sqm
+64,3 Grandview Grove,"Sold $895,000 in Sep 2013", ,Rent $550pw in May 2011,House: 6  3  2 ,Land size: 625 sqm | Building size: 264 sqm
+65,14a Glenleith Court,"Sold $309,000 in Aug 2013", , ,House: 2  1  1 , 
+66,17 Bell Parade,"Sold $600,000 in 17 Aug 2013(Auction)", , ,House: 3  2  1 ,Land size: 652 sqm | Building size: 150 sqm
+67,13 Glenleith Avenue,"Sold $950,000 in Aug 2013", , ,House: 3  2  2 ,Land size: 970 sqm
+68,17 Grandview Grove,"Sold $1,070,000 in Jul 2013","Last Sold $726,000 in Nov 2010(Auction)", ,House: 4  2  2 ,Land size: 613 sqm | Building size: 238 sqm
+69,25 Grandview Grove,"Sold $735,000 in Jun 2013", , ,House: 4  2  1 ,Land size: 612 sqm
+70,8 Lunan Avenue,"Sold $710,000 in May 2013","Last Sold $315,000 in Mar 2000", ,House: 3  2  2 ,Land size: 653 sqm
+71,25 Wattletree Road,"Sold $650,000 in May 2013", , ,House: 3  1  2 ,Land size: 188 sqm
+72,76 Keera Street,"Sold $1,763,250 in Apr 2013", , ,House: 4  2  2 , 
+73,2/21 Drumcondra Avenue,"Sold $200,000 in Apr 2013","Last Sold $95,000 in Feb 2002", ,Townhouse: 1  1  1 ,Land size: 99 sqm
+74,2 Lunan Avenue,"Sold $550,000 in Mar 2013","Last Sold $450,000 in Dec 2006", ,House: 1  1  2 ,Land size: 655 sqm | Building size: 123 sqm
+75,14 Kooyong Road,"Sold $471,000 in Jan 2013", , ,House: 4  2  2 , 
+76,5 Mc Millan Avenue,"Sold $650,000 in Nov 2012", , ,House: 5  3  2 ,Land size: 520 sqm
+77,26 Beach Parade,"Sold $763,000 in 03 Nov 2012(Auction)", , ,House: 3  1  2 ,Land size: 674 sqm | Building size: 164 sqm
+78,4 Wattletree Road,"Sold $725,000 in Oct 2012", ,Rent $570pw in Nov 2012,House: 3  2  2 ,Land size: 625 sqm | Building size: 190 sqm
+79,1/2A Wattletree Road,"Sold $360,000 in Oct 2012","Last Sold $300,000 in Oct 2007", , ,Land size: 236 sqm
+80,1/2 Wattletree Road,"Sold $360,000 in Oct 2012", , , , 
+81,9 Bell Parade,"Sold $655,000 in Oct 2012","Last Sold $460,000 in Jun 2009", ,House: 3  2  2 ,Land size: 655 sqm
+82,27 Wattletree Road,"Sold $1,110,000 in Sep 2012","Last Sold $405,000 in Nov 2002", ,House: 4  2  2 ,Land size: 93 sqm
+83,9 Glenleith Avenue,"Sold $950,000 in Jun 2012", , ,House: 4  1  2 ,Land size: 970 sqm
+84,2/55 Princes Highway,"Sold $475,000 in May 2012", , , ,Land size: 220 sqm
+85,1/6 Stradling Avenue,"Sold $504,000 in 12 May 2012(Auction)", , ,House: 2  2  2 ,Land size: 63 sqm
+86,2/55 Melbourne Road,"Sold $475,002 in May 2012", , ,Townhouse: 3  2  2 ,Land size: 220 sqm | Building size: 157 sqm
+87,10 Mcmillan Avenue,"Sold $625,000 in Apr 2012","Last Sold $69,000 in Mar 1985", ,House: 2  2  2 , 
+88,75 The Esplanade,"Sold $1,900,000 in Apr 2012","Last Sold $1,750,000 in Feb 2010", ,House: 4  3  3 ,Land size: 912 sqm
+89,15 McMillan Avenue,"Sold $605,000 in Mar 2012", , ,House: 4  2  2 ,Land size: 520 sqm
+90,7a York Street,"Sold $347,600 in Mar 2012", ,Rent $750pw in Apr 2012,House: 3  3  2 , 
+91,31 Beach Parade,"Sold $700,000 in 11 Feb 2012(Auction)", ,Rent $390pw in Nov 2017,House: 3  1  1 ,Land size: 613 sqm | Building size: 613 sqm
+92,7 Bell Parade,"Sold $670,000 in Jan 2012","Last Sold $390,000 in Oct 2006", ,House: 4  3  2 ,Land size: 655 sqm | Building size: 191 sqm
+93,1/21 The Esplanade,"Sold $630,000 in Dec 2011", ,Rent $300pw in Nov 2010, , 
+94,1/53 Melbourne Road,"Sold $435,000 in Oct 2011","Last Sold $54,000 in Jun 1984", , ,Land size: 640 sqm
+95,47 Princes Highway,"Sold $405,000 in Sep 2011","Last Sold $280,000 in Nov 2003", ,House: 3  1  1 ,Land size: 684 sqm
+96,47 Melbourne Road,"Sold $405,000 in Sep 2011", ,Rent $280pw in Sep 2013,House: 3  1  1 ,Land size: 684 sqm
+97,8 Glenleith Avenue,"Sold $790,000 in Sep 2011", , ,House: 5  2  2 , 
+98,11 Drumcondra Avenue,"Sold $625,000 in Jul 2011", , ,House: 3  2  2 ,Land size: 626 sqm
+99,5 Lunan Avenue,"Sold $1,250,000 in Jun 2011", ,Rent $650pw in Aug 2008,House: 3  2  2 ,Land size: 611 sqm | Building size: 255 sqm
+100,22 Mont Albert Road,"Sold $369,000 in May 2011", , ,House: 3  1  1 , 
+101,2/19 McMillan Avenue,"Sold $317,000 in 30 Apr 2011(Auction)", ,Rent $210pw in Feb 2008, ,Land size: 331 sqm
+102,13 Mont Albert Road,"Sold $580,000 in Apr 2011", ,Rent $450pw in Oct 2012,House: 3  2  3 , 
+103,6 Wattletree Road,"Sold $710,000 in Mar 2011","Last Sold $158,000 in Sep 1994", ,House: 1  1  2 ,Land size: 625 sqm
+104,22 Wattletree Road,"Sold $800,000 in 19 Mar 2011(Auction)", ,Rent $630pw in Jan 2016,House: 3  2  2 ,Land size: 613 sqm
+105,24 Lunan Avenue,"Sold $935,000 in 01 Mar 2011(Auction)","Last Sold $500,000 in Jun 2003", ,House: 4  3  2 ,Land size: 522 sqm | Building size: 228 sqm
+106,19 Grandview Grove,"Sold $760,000 in Dec 2010", , ,House: 3  2  2 ,Land size: 613 sqm | Building size: 176 sqm
+107,41 Bell Parade,"Sold $660,000 in 01 Dec 2010(Auction)", , ,House: 3  1  2 ,Land size: 644 sqm
+108,7 Glenleith Avenue,"Sold $1,080,000 in Nov 2010","Last Sold $650,000 in Mar 2006", ,House: 3  2  1 ,Land size: 861 sqm
+109,3 Stradling Avenue,"Sold $615,000 in 16 Oct 2010(Auction)", ,Rent $400pw in Oct 2008,House: 3  1  1 ,Land size: 615 sqm
+110,14 York Street,"Sold $475,000 in Jul 2010","Last Sold $87,500 in Dec 1997", ,House: 3  1  1 , 
+111,79 The Esplanade,"Sold $1,220,000 in Jul 2010", ,Rent $450pw in Jul 2014,House: 4  1  1 ,Land size: 675 sqm | Building size: 180 sqm
+112,37 The Esplanade,"Sold $1,150,000 in Jun 2010","Last Sold $960,000 in Oct 2004", ,House: 4  1  2 ,Land size: 503 sqm
+113,10 Mont Albert Road,"Sold $604,500 in Mar 2010","Last Sold $60,000 in Mar 1986", ,House: 3  2  1 , 
+114,10 Drumcondra Avenue,"Sold $604,500 in Mar 2010","Last Sold $86,000 in Jul 1984", ,House: 3  3  2 ,Land size: 625 sqm
+115,59 Melbourne Road,"Sold $337,000 in Mar 2010", , ,House: 3  1  1 ,Land size: 530 sqm | Building size: 145 sqm
+116,1/7 Glenleith Avenue,"Sold $1,080,000 in Mar 2010", , , ,Land size: 860 sqm
+117,17 Drumcondra Avenue,"Sold $650,000 in Mar 2010", , ,House: 2  1  ,Land size: 613 sqm | Building size: 175 sqm
+118,1/12 Glenleith Avenue,"Sold $335,000 in Feb 2010", ,Rent $350pw in Nov 2015, ,Land size: 235 sqm
+119,13 Wattletree Road,"Sold $670,500 in Feb 2010","Last Sold $560,000 in Jun 2007", ,House: 2  1  1 ,Land size: 625 sqm
+120,29 The Esplanade,"Sold $2,500,000 in Jan 2010", , ,House: 4  2  3 ,Land size: 968 sqm
+121,6/21 The Esplanade,"Sold $389,000 in Jan 2010", , , ,"Land size: 1,425 sqm"
+122,21 Grandview Grove,"Sold $513,000 in Dec 2009", , ,House: 3  2  2 ,Land size: 613 sqm | Building size: 147 sqm
+123,13 Kooyong Road,"Sold $289,000 in Dec 2009", , ,House: 2  1  1 , 
+124,6 Drumcondra Avenue,"Sold $750,000 in Dec 2009","Last Sold $270,000 in Nov 2000", ,House: 4  2  2 ,Land size: 624 sqm | Building size: 257 sqm
+125,20 Grandview Grove,"Sold $505,000 in Nov 2009", , ,House: 2  1  2 ,Land size: 619 sqm | Building size: 136 sqm
+126,4 York Street,"Sold $560,000 in Nov 2009","Last Sold $135,000 in Apr 1999", ,House: 3  2  , 
+127,18 Beach Parade,"Sold $875,000 in Sep 2009","Last Sold $320,000 in Sep 1999", ,House: 4  2  2 ,Land size: 687 sqm
+128,6a Glenleith Court,"Sold $252,000 in Mar 2009", ,Rent $320pw in Nov 2012, , 
+129,2 Grandview Grove,"Sold $300,000 in Mar 2009", , ,House: 3  ,Land size: 639 sqm
+130,1 Bell Parade,"Sold $392,950 in Jan 2009","Last Sold $242,500 in Feb 2004", ,House: 3  ,Land size: 327 sqm
+131,1A Bell Parade,"Sold $392,950 in Dec 2008", , ,House: 3  2  1 ,Land size: 327 sqm
+132,21 Beach Parade,"Sold $965,000 in Oct 2008","Last Sold $546,000 in Nov 2001", ,House: 4  2  ,Land size: 305 sqm | Building size: 211 sqm
+133,33 Glenleith Avenue,"Sold $452,000 in Oct 2008","Last Sold $180,000 in Sep 2004", ,House: 3  2  2 ,Land size: 250 sqm
+134,2/15 Mont Albert Road,"Sold $240,000 in Oct 2008","Last Sold $120,000 in Apr 1989", ,Townhouse: 2  1  , 
+135,27 Bell Parade,"Sold $520,000 in Jun 2008", , ,House: 3  1  2 ,Land size: 571 sqm
+136,55 Melbourne Road,"Sold $375,000 in Feb 2008", , ,House: 4  2  3 ,Land size: 144 sqm
+137,26 Grandview Grove,"Sold $547,500 in Oct 2007","Last Sold $452,800 in Oct 2002", ,House: 3  2  2 ,Land size: 616 sqm
+138,15 Stradling Avenue,"Sold $726,000 in Oct 2007", , ,House: 4  2  1 ,Land size: 637 sqm
+139,3 Glenleith Avenue,"Sold $655,000 in Oct 2007", , ,House: 4  2  ,Land size: 823 sqm
+140,5 Bell Parade,"Sold $390,000 in Oct 2007", , ,House: 4  3  ,Land size: 656 sqm | Building size: 271 sqm
+141,3/21 Drumcondra Avenue,"Sold $175,000 in Sep 2007","Last Sold $82,000 in Apr 1990", , ,Land size: 114 sqm
+142,65 The Esplanade,"Sold $1,712,000 in Aug 2007", , ,House: 4  2  2 ,Land size: 910 sqm
+143,67 Melbourne Road,"Sold $720,000 in Jul 2007","Last Sold $280,000 in Sep 1998", ,House: ,"Land size: 2,168 sqm"
+144,17 Lunan Avenue,"Sold $585,000 in Mar 2007","Last Sold $210,000 in Mar 1999", ,House: 3  1  2 ,Land size: 611 sqm | Building size: 222 sqm
+145,18 Lunan Avenue,"Sold $420,000 in Jan 2007", ,Rent $270pw in Mar 2007,House: 4  1  2 ,Land size: 653 sqm | Building size: 310 sqm
+146,3 Wattletree Road,"Sold $560,000 in Oct 2006","Last Sold $167,000 in Nov 1993", ,House: 4  2  1 ,Land size: 625 sqm | Building size: 195 sqm
+147,1 Stradling Avenue,"Sold $530,000 in Sep 2006", , ,House: 3  2  ,Land size: 646 sqm
+148,31 Glenleith Avenue,"Sold $260,000 in Aug 2006","Last Sold $155,000 in Aug 2001", ,House: 3  1  1 ,Land size: 482 sqm | Building size: 167 sqm
+149,22 Grandview Grove,"Sold $625,000 in Dec 2005","Last Sold $493,800 in Aug 2001", ,House: 5  2  2 ,Land size: 618 sqm
+150,25 The Esplanade,"Sold $2,400,000 in Jun 2005", , ,House: ,"Land size: 1,392 sqm"
+151,10 Lunan Avenue,"Sold $435,500 in Nov 2004", , ,House: 4  2  1 ,Land size: 653 sqm | Building size: 238 sqm
+152,5 The Esplanade,"Sold $1,415,000 in May 2004", , ,House: ,Land size: 893 sqm
+153,1/1 Glenleith Avenue,"Sold $360,000 in May 2004", , ,Townhouse: 2  ,Land size: 317 sqm
+154,2/12 Glenleith Avenue,"Sold $250,000 in Feb 2004", , , ,Land size: 200 sqm
+155,12 Beach Parade,"Sold $625,000 in Feb 2004","Last Sold $164,000 in Dec 1988", ,House: 5  3  2 ,Land size: 552 sqm | Building size: 260 sqm
+156,15 Grandview Grove,"Sold $529,000 in Dec 2003", , ,House: 2  ,Land size: 625 sqm
+157,3/10B The Esplanade,"Sold $768,000 in Aug 2003", , , ,Land size: 264 sqm
+158,13 Bell Parade,"Sold $427,000 in Jul 2003","Last Sold $116,500 in Oct 1991", ,House: 5  2  2 ,Land size: 653 sqm
+159,1 Wattletree Road,"Sold $390,000 in Jan 2003", , ,House: 3  3  3 ,Land size: 624 sqm
+160,11 The Esplanade,"Sold $1,341,000 in Dec 2002","Last Sold $575,000 in Dec 1989", , ,Land size: 891 sqm
+161,29 Beach Parade,"Sold $526,000 in Nov 2002","Last Sold $120,000 in Jun 1996", ,House: 3  2  1 ,Land size: 613 sqm
+162,18 Glenleith Avenue,"Sold $438,500 in Oct 2002","Last Sold $167,500 in Aug 1987", ,House: 4  4  2 , 
+163,1/15 The Esplanade,"Sold $1,500,000 in Jun 2002", , , , 
+164,14 Drumcondra Avenue,"Sold $365,000 in Jun 2002", ,Rent $300pw in Jun 2009, ,Land size: 625 sqm
+165,12 Drumcondra Avenue,"Sold $380,000 in May 2002","Last Sold $95,000 in Feb 1989", ,House: 3  3  3 ,Land size: 625 sqm
+166,29 Melbourne Road,"Sold $275,000 in Apr 2002", , ,House: , 
+167,17 Wattletree Road,"Sold $255,000 in Dec 2001","Last Sold $125,000 in Aug 1994", ,House: 2  1  3 ,Land size: 613 sqm
+168,15 Bell Parade,"Sold $285,000 in Nov 2001", , ,House: 3  2  2 ,Land size: 652 sqm | Building size: 271 sqm
+169,7 Lunan Avenue,"Sold $240,000 in Oct 2001","Last Sold $185,000 in Aug 2000", ,House: 3  3  3 ,Land size: 611 sqm
+170,23 Drumcondra Avenue,"Sold $305,000 in Jul 2001", ,Rent $360pw in Sep 2016,House: 3  1  1 ,Land size: 613 sqm | Building size: 170 sqm
+171,7 Drumcondra Avenue,"Sold $362,500 in Apr 2001","Last Sold $118,500 in Jul 1995", ,House: 2  3  3 ,Land size: 625 sqm
+172,1/21 Drumcondra Avenue,"Sold $135,000 in Apr 2001", ,Rent $300pw in Aug 2018, ,Land size: 236 sqm
+173,33 Gleneith Avenue,"Sold $89,000 in Apr 2001", , , , 
+174,3/21 The Esplanade,"Sold $170,000 in Mar 2001", ,Rent $350pw in Aug 2011, , 
+175,1 Melbourne Road,"Sold $261,000 in Mar 2001", , ,House: 2  2  2 ,Land size: 529 sqm
+176,10 Beach Parade,"Sold $275,000 in Feb 2001", , ,House: 3  2  2 ,Land size: 797 sqm | Building size: 203 sqm
+177,1A Lunan Avenue,"Sold $225,000 in Feb 2001", , ,House: 3  3  3 ,Land size: 550 sqm
+178,1 Lunan Avenue,"Sold $225,000 in Feb 2001","Last Sold $143,000 in Sep 1998", ,House: 3  1  1 ,Land size: 615 sqm | Building size: 155 sqm
+179,61 The Esplanade,"Sold $850,000 in Jan 2001", , , ,"Land size: 1,272 sqm"
+180,3 Mont Albert Road,"Sold $153,000 in Nov 2000", , , , 
+181,18 Wattletree Road,"Sold $360,000 in Sep 2000","Last Sold $200,000 in May 1991", ,House: ,Land size: 613 sqm
+182,12 Wattletree Road,"Sold $315,000 in Sep 2000","Last Sold $89,500 in Jun 1986", ,House: 3  3  3 ,Land size: 625 sqm
+183,1/14A Glenleith Avenue,"Sold $120,000 in Aug 2000", , , , 
+184,24 Grandview Grove,"Sold $210,000 in Apr 2000","Last Sold $100,000 in Jul 1990", ,House: 3  ,Land size: 617 sqm
+185,7 Grandview Grove,"Sold $335,000 in Feb 2000","Last Sold $235,000 in Mar 1995", ,House: 5  3  2 ,Land size: 625 sqm
+186,43 The Esplanade,"Sold $900,000 in Feb 2000", , ,House: ,"Land size: 1,221 sqm"
+187,12 Mcmillan Avenue,"Sold $285,000 in Feb 2000", , , , 
+188,3 Mcmillan Avenue,"Sold $67,500 in Feb 2000", , , , 
+189,7 Mcmillan Avenue,"Sold $62,000 in Feb 2000", , , , 
+190,6 Mont Albert Road,"Sold $148,500 in Feb 2000", , , , 
+191,33 Beach Parade,"Sold $112,000 in Feb 2000", , ,House: 4  3  3 ,Land size: 610 sqm
+192,8 Drumcondra Avenue,"Sold $113,000 in Feb 2000", , ,House: 5  2  2 ,Land size: 625 sqm
+193,4 Lunan Avenue,"Sold $100,000 in Feb 2000", , ,House: 3  3  3 ,Land size: 653 sqm
+194,2/26 Lunan Avenue,"Sold $275,000 in Feb 2000", , , ,Land size: 232 sqm
+195,7 Beach Parade,"Sold $227,500 in Feb 2000","Last Sold $56,500 in Jan 1990", ,House: 4  2  2 ,Land size: 613 sqm | Building size: 285 sqm
+196,8 Grandview Grove,"Sold $165,000 in Feb 2000", , ,House: 3  ,Land size: 637 sqm
+197,13 Lunan Avenue,"Sold $270,000 in Feb 2000","Last Sold $170,000 in Jan 1997", ,House: ,Land size: 611 sqm
+198,1 Toorak Parade,"Sold $114,000 in Feb 2000", ,Rent $550pw in Jun 2011,House: 4  2  2 , 
+199,19 The Esplanade,"Sold $1,300,000 in Dec 1999", , , , 
+200,63 The Esplanade,"Sold $650,000 in Nov 1999", , ,House: ,"Land size: 1,387 sqm"
+201,25 Lunan Avenue,"Sold $300,000 in Nov 1999", , ,House: 3  3  3 ,Land size: 509 sqm
+202,39 Melbourne Road,"Sold $120,000 in Jul 1999", ,Rent $390pw in Nov 2013,House: 3  1  1 ,Land size: 109 sqm
+203,3 Drumcondra Avenue,"Sold $285,000 in Apr 1999","Last Sold $152,000 in Mar 1994", ,House: 4  2  2 ,Land size: 625 sqm | Building size: 216 sqm
+204,2/13 Grandview Grove,"Sold $235,000 in Dec 1998", , ,House: ,Land size: 625 sqm
+205,13 Grandview Grove,"Sold $235,000 in Dec 1998", , ,House: ,Land size: 625 sqm
+206,7 The Esplanade,"Sold $651,250 in Nov 1998", , ,House: 5  3  ,Land size: 891 sqm
+207,9 York Street,"Sold $65,000 in Nov 1998", , , , 
+208,25 Melbourne Road,"Sold $210,000 in Oct 1998", , , ,Land size: 915 sqm
+209,19 Melbourne Road,"Sold $210,000 in Oct 1998", , , ,Land size: 915 sqm
+210,41 The Esplanade,"Sold $260,000 in Sep 1998", ,Rent $560pw in Jul 2019,House: 4  2  4 ,Land size: 863 sqm
+211,37 Melbourne Road,"Sold $151,000 in Sep 1998", ,Rent $445pw in Mar 2020,House: 4  2  4 ,Land size: 693 sqm
+212,7/5 Glenleith Avenue,"Sold $83,000 in Aug 1998", , , , 
+213,28 Beach Parade,"Sold $330,000 in Dec 1997", , ,House: 3  2  2 ,Land size: 675 sqm | Building size: 208 sqm
+214,24 Wattletree Road,"Sold $200,000 in Dec 1997","Last Sold $127,000 in Mar 1988", ,House: ,Land size: 612 sqm
+215,31a Bell Parade,"Sold $72,500 in Aug 1997", ,Rent $270pw in Nov 2014,House: 2  1  1 ,Land size: 195 sqm
+216,15 Beach Parade,"Sold $204,000 in Jun 1997", , ,House: 2  ,Land size: 613 sqm
+217,4R Glenleith Avenue,"Sold $64,000 in Oct 1996", , ,House: ,Land size: 608 sqm
+218,3/27 Lunan Avenue,"Sold $165,000 in Jan 1996", , , ,Land size: 578 sqm
+219,27 Lunan Avenue,"Sold $165,000 in Jan 1996", , ,House: 3  ,Land size: 578 sqm
+220,57 The Esplanade,"Sold $560,000 in Nov 1995", ,Rent $750pw in Apr 2015,House: 3  2  2 ,"Land size: 1,042 sqm"
+221,69 The Esplanade,"Sold $475,000 in Nov 1995", , ,House: ,"Land size: 1,649 sqm"
+222,19 Glenleith Avenue,"Sold $210,000 in Oct 1995","Last Sold $102,000 in Nov 1987", ,House: 4  1  1 ,Land size: 970 sqm
+223,30 Beach Parade,"Sold $230,000 in Sep 1995","Last Sold $215,000 in Dec 1992", ,House: 1  3  3 ,Land size: 674 sqm
+224,27 Beach Parade,"Sold $271,000 in Aug 1995","Last Sold $98,000 in May 1988", ,House: 3  3  3 ,Land size: 613 sqm
+225,10 Grandview Grove,"Sold $120,000 in Jun 1995", , ,House: 3  ,Land size: 636 sqm
+226,1 Mcmillan Avenue,"Sold $110,000 in Jun 1995", , , , 
+227,32 Beach Parade,"Sold $112,000 in May 1995", , ,House: 3  3  3 ,Land size: 272 sqm
+228,3/17 The Esplanade,"Sold $99,000 in Mar 1995", , , , 
+229,26 Drumcondra Avenue,"Sold $173,000 in Jan 1995", , ,House: 1  3  3 ,Land size: 613 sqm
+230,35 Bell Parade,"Sold $82,500 in Dec 1994", , ,House: 2  ,Land size: 518 sqm
+231,1/51 Princes Highway,"Sold $140,000 in Sep 1994", , , ,Land size: 681 sqm
+232,1/51 Melbourne Road,"Sold $140,000 in Sep 1994", , , ,Land size: 680 sqm
+233,28 Drumcondra Avenue,"Sold $142,250 in Apr 1994", ,Rent $700pw in Nov 2019,House: 4  3  2 ,Land size: 613 sqm
+234,11 Glenleith Avenue,"Sold $182,500 in Apr 1994", , ,House: 1  1  3 ,Land size: 970 sqm
+235,33 Margaret Street,"Sold $74,700 in Jan 1994", , , , 
+236,5 Wattletree Road,"Sold $136,000 in Sep 1993", , ,House: 3  ,Land size: 625 sqm
+237,1/25 The Esplanade,"Sold $435,000 in Aug 1993", , , , 
+238,12 Lunan Avenue,"Sold $123,000 in Jul 1993", , ,House: ,Land size: 653 sqm
+239,9/1 Glenleith Avenue,"Sold $74,000 in Apr 1993", , , , 
+240,8 The Esplanade,"Sold $300,000 in Apr 1993", , ,House: ,Land size: 371 sqm
+241,33 Bell Parade,"Sold $150,000 in Jan 1992", , ,House: 3  3  3 ,Land size: 648 sqm
+242,63 Melbourne Road,"Sold $115,000 in Jan 1992", , ,House: ,Land size: 731 sqm
+243,23 Glenleith Avenue,"Sold $135,000 in Sep 1991", ,Rent $490pw in Apr 2007,House: 6  2  3 ,Land size: 970 sqm
+244,49 The Esplanade,"Sold $432,000 in Dec 1990", ,Rent $510pw in Nov 2019,House: 3  1  4 ,"Land size: 1,028 sqm"
+245,67 The Esplanade,"Sold $350,000 in Nov 1990", , ,House: ,"Land size: 1,649 sqm"
+246,19 Wattletree Road,"Sold $143,000 in Oct 1990","Last Sold $65,000 in Sep 1985", ,House: 1  3  3 ,Land size: 613 sqm
+247,34 Beach Parade,"Sold $186,500 in Sep 1990", , ,House: 3  ,Land size: 540 sqm
+248,43 Melbourne Road,"Sold $159,000 in Aug 1990", , ,House: ,Land size: 700 sqm
+249,23 Wattletree Road,"Sold $166,500 in May 1990", , ,House: 4  ,Land size: 612 sqm
+250,45 The Esplanade,"Sold $950,000 in Apr 1990", , ,House: 2  1  1 ,"Land size: 1,201 sqm"
+251,51 The Esplanade,"Sold $56,500 in Jan 1990", , ,House: 4  2  ,"Land size: 1,228 sqm | Building size: 365 sqm"
+252,13 Mcmillan Avenue,"Sold $108,000 in Dec 1989", ,Rent $520pw in Jun 2012,House: 3  2  2 , 
+253,19 Bell Parade,"Sold $115,000 in Nov 1989", , ,House: 3  3  3 ,Land size: 652 sqm
+254,2/10 Glenleith Avenue,"Sold $112,500 in Oct 1989", ,Rent $310pw in Jul 2015, , 
+255,15 The Esplanade,"Sold $800,000 in Jul 1989", , , , 
+256,10/17 The Esplanade,"Sold $114,000 in Jul 1989", , , , 
+257,26 Lunan Avenue,"Sold $142,000 in May 1989", , ,House: ,Land size: 214 sqm
+258,2/2A WATTLETREE Road,"Sold $91,500 in Mar 1989", ,Rent $270pw in Jul 2017, ,Land size: 164 sqm
+259,11 Grandview Grove,"Sold $269,000 in Mar 1989","Last Sold $100,000 in Jun 1986", ,House: 3  ,Land size: 625 sqm
+260,2/2 Wattletree Road,"Sold $91,500 in Mar 1989", , , ,Land size: 625 sqm
+261,9 Mcmillan Avenue,"Sold $109,000 in Mar 1989", , , , 
+262,3/15 Mont Albert Road,"Sold $115,000 in Mar 1989", , , , 
+263,1/14 Glenleith Avenue,"Sold $93,500 in Jul 1988", ,Rent $290pw in Jun 2013, , 
+264,12 Vincent Avenue,"Sold $105,000 in Jun 1987", , , , 
+265,21 Bell Parade,"Sold $101,000 in May 1987", , ,House: 3  3  3 ,Land size: 652 sqm
+266,1/10 Glenleith Avenue,"Sold $72,000 in Mar 1987", ,Rent $285pw in Dec 2014, , 
+267,23 Grandview Grove,"Sold $165,000 in Jan 1987", , ,House: 4  2  1 ,Land size: 613 sqm | Building size: 253 sqm
+268,3/4 Mcmillan Avenue,"Sold $58,000 in Nov 1986", , , , 
+269,14 The Esplanade,"Sold $79,800 in Nov 1986", , ,House: , 
+270,5 Drumcondra Avenue,"Sold $64,500 in Oct 1986", , ,House: 2  1  1 ,Land size: 625 sqm
+271,4/6 Mcmillan Avenue,"Sold $56,000 in Oct 1986", , , , 
+272,1/2 Drumcondra Avenue,"Sold $64,500 in Sep 1986", , , ,Land size: 202 sqm | Building size: 92 sqm
+273,10 The Esplanade,"Sold $135,000 in Sep 1986", , ,House: , 
+274,4 Mont Albert Road,"Sold $53,500 in Jun 1986", , , , 
+275,24A Lunan Avenue,"Sold $227,500 in May 1986", , ,House: ,"Land size: 6,027 sqm"
+276,20 Drumcondra Avenue,"Sold $88,000 in Apr 1986", , ,House: 3  3  3 ,Land size: 625 sqm
+277,4 Kooyong Road,"Sold $53,500 in Nov 1985", , , , 
+278,43 BELL Parade,"Sold $90,000 in Aug 1985", , ,House: 1  3  3 ,Land size: 375 sqm
+279,9 Kooyong Road,"Sold $53,700 in Aug 1985", ,Rent $370pw in Mar 2014,House: 3  1  , 
+280,15 Wattletree Road,"Sold $59,500 in Apr 1985", , ,House: 5  3  3 ,Land size: 613 sqm
+281,7 Wattletree Road,"Sold $80,500 in Feb 1985", ,Rent $330pw in Aug 2018,House: 3  1  3 ,Land size: 625 sqm
+282,14 Grandview Grove,"Sold $65,000 in Feb 1985", , ,House: ,Land size: 634 sqm
+283,4 Grandview Grove,"Sold $63,000 in Feb 1985", , ,House: 4  2  ,Land size: 639 sqm
+284,30 Drumcondra Avenue,"Sold $71,000 in Nov 1984", , ,House: 5  ,Land size: 612 sqm
+285,9 Lunan Avenue,"Sold $67,500 in Jun 1984", , ,House: 3  3  3 ,Land size: 611 sqm
+286,27 Glenleith Avenue,"Sold $54,000 in Jan 1984", , ,House: ,Land size: 964 sqm
+287,15 Lunan Avenue,"Sold $54,000 in Nov 1983", , ,House: 3  2  3 ,Land size: 611 sqm | Building size: 160 sqm
+288,1A Glenleith Avenue,"Sold $74,000 in Jun 1979", , ,House: 3  1  2 ,Land size: 477 sqm | Building size: 186 sqm
+289,4 Toorak Parade,"Sold $66,000 in Dec 1978", , , , 
+290,71 The Esplanade,"Sold $76,000 in Sep 1978", , ,House: 4  ,Land size: 897 sqm
+291,35 The Esplanade,"Sold $62,500 in Apr 1978", , ,House: ,"Land size: 1,059 sqm"

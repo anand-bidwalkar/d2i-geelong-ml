@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,55 lot 1004 Edenhope Circuit,"Sold $283,000 in Sep 2020", , , , 
+1,12 Seifferts Street,"Sold $550,000 in Aug 2020","Last Sold $183,000 in May 2014", , ,Land size: 504 sqm
+2,5 Seifferts Street,"Sold $650,000 in Aug 2020","Last Sold $545,000 in Oct 2017", ,House: 4  2  2 ,Land size: 546 sqm
+3,44 Noosa Circuit,"Sold $500,000 in Aug 2020", , ,House: , 
+4,23 Rottness Drive,"Sold $598,000 in Aug 2020", , ,House: 4  2  2 ,Land size: 510 sqm
+5,10 MCKINLEY Avenue,"Sold $500,000 in Aug 2020","Last Sold $152,000 in Apr 2016",Rent $390pw in Sep 2019, ,Land size: 400 sqm
+6,20 Ross Street,"Sold $575,000 in Aug 2020", , , ,Land size: 399 sqm
+7,14 Daybreak Avenue,"Sold $625,000 in Aug 2020","Last Sold $491,000 in Apr 2017", ,House: 4  2  2 ,Land size: 489 sqm
+8,49 Middleton Road,"Sold $580,000 in Aug 2020", , ,House: ,Land size: 455 sqm
+9,Lot 107/17 Atherton Street,"Sold $307,500 in Aug 2020", , , , 
+10,14 Chelsea Drive,"Sold $197,500 in Aug 2020", , , , 
+11,18 Tenterfield Street,"Sold $495,000 in Aug 2020", , ,House: 4  2  1 , 
+12,25 Mallacoota Crescent,"Sold $620,000 in Aug 2020","Last Sold $550,000 in Feb 2018", ,House: 4  2  2 ,Land size: 448 sqm | Building size: 222 sqm
+13,14 Saltbreeze Boulevard,"Sold $605,500 in Aug 2020","Last Sold $445,000 in Jun 2015", ,House: 4  2  2 ,Land size: 506 sqm | Building size: 177 sqm
+14,Lot 329 McArthur Crescent,"Sold $240,000 in Aug 2020", , , , 
+15,26 Nature Street,"Sold $320,000 in Aug 2020", , , ,Land size: 513 sqm
+16,15 Hammond Street,"Sold $545,000 in Aug 2020", ,Rent $430pw in Jun 2019,House: 4  2  2 ,Land size: 446 sqm
+17,40 Daybreak Avenue,"Sold $572,500 in Aug 2020","Last Sold $162,000 in May 2013", , ,Land size: 498 sqm | Building size: 168 sqm
+18,1/5 Kookaburra Drive,"Sold $420,000 in Aug 2020", , , , 
+19,3 Corella Road,"Sold $396,000 in Aug 2020", , ,House: , 
+20,77A Iris Loop,"Sold $495,000 in Aug 2020", , ,House: 3  2  2 ,Land size: 336 sqm
+21,Lot 9417/21 Swaine Street,"Sold $255,000 in Aug 2020", , , , 
+22,12 Chelsea Drive,"Sold $217,000 in Jul 2020", , , , 
+23,13 McCormack Avenue,"Sold $462,000 in Jul 2020", ,Rent $400pw in Aug 2020,House: 3  2  2 ,Land size: 262 sqm
+24,15 Canoe Street,"Sold $570,000 in Jul 2020","Last Sold $175,500 in Jul 2014", , ,Land size: 447 sqm | Building size: 168 sqm
+25,24 Lance Drive,"Sold $650,000 in Jul 2020", , ,House: 4  2  2 ,Land size: 505 sqm
+26,Lot 9415/17 Swaine Street,"Sold $255,000 in Jul 2020", , , , 
+27,40 MALLACOOTA Crescent,"Sold $486,000 in Jul 2020","Last Sold $160,000 in Feb 2016", , ,Land size: 424 sqm
+28,"Lot 628, 8 Myna Way","Sold $272,000 in Jul 2020", , , , 
+29,23 Lampard Street,"Sold $650,000 in Jul 2020", , , ,Land size: 554 sqm
+30,804 Barwon Heads Road,"Sold $512,000 in Jul 2020","Last Sold $152,000 in Aug 2010", , ,Land size: 399 sqm
+31,Lot 9624/17 Vienet Avenue,"Sold $279,000 in Jul 2020", , , , 
+32,31-35 Sirrom Crescent,"Sold $765,000 in Jul 2020", , ,House: 5  3  6 ,Land size: 703 sqm
+33,6 Esperance Avenue,"Sold $547,500 in Jul 2020", , , ,Land size: 350 sqm
+34,15 Beekeeper Road,"Sold $645,000 in Jul 2020","Last Sold $186,000 in Apr 2012", , ,Land size: 592 sqm | Building size: 212 sqm
+35,10 Sanderling Avenue,"Sold $455,000 in Jul 2020", , ,House: 3  2  2 ,Land size: 507 sqm
+36,Lot 323 McArthur Crescent,"Sold $240,000 in Jul 2020", , , , 
+37,26-28 Wild Oak Avenue,"Sold $558,000 in Jul 2020", , ,House: ,Land size: 462 sqm
+38,Lot 211 Atherton Street,"Sold $216,000 in Jul 2020", , , , 
+39,51 Element Circuit,"Sold $525,000 in Jul 2020", , ,House: 4  2  2 , 
+40,16 Neville Drive,"Sold $490,000 in Jul 2020","Last Sold $156,000 in Dec 2015",Rent $390pw in Mar 2017,House: 3  2  2 ,Land size: 337 sqm
+41,15 Secluded Drive,"Sold $605,000 in Jul 2020", , ,House: 4  2  2 ,Land size: 452 sqm
+42,11 Madeira Street,"Sold $485,000 in Jul 2020", , ,House: ,Land size: 274 sqm
+43,49 Lance Drive,"Sold $550,000 in Jul 2020", , ,House: 3  2  2 ,Land size: 448 sqm
+44,19 KOSLOW Street,"Sold $619,000 in Jul 2020","Last Sold $189,000 in Feb 2016",Rent $460pw in Jul 2019, ,Land size: 447 sqm
+45,Lot 310 McArthur Crescent,"Sold $272,000 in Jul 2020", , , , 
+46,12 Holbrook Drive,"Sold $520,000 in Jul 2020", , ,House: 4  2  3 ,Land size: 571 sqm
+47,Lot 323/11 Element Circuit,"Sold $239,000 in Jun 2020", , , , 
+48,16 Rainford Place,"Sold $640,000 in Jun 2020","Last Sold $185,000 in Feb 2000", , ,Land size: 475 sqm
+49,"Lot 640, 13 Pintail Road","Sold $262,000 in Jun 2020", , , , 
+50,62 Edenhope Circuit,"Sold $600,000 in Jun 2020", , ,House: ,Land size: 447 sqm
+51,36 Lampard Street,"Sold $550,000 in Jun 2020","Last Sold $183,000 in Oct 2012", , ,Land size: 448 sqm
+52,335 CHARLEMONT Road,"Sold $285,000 in Jun 2020","Last Sold $185,000 in Sep 2015", , ,Land size: 499 sqm
+53,17 Glide Way,"Sold $585,000 in Jun 2020","Last Sold $175,000 in Mar 2014", , ,Land size: 449 sqm | Building size: 172 sqm
+54,Lot 1218 Garfield Drive,"Sold $245,000 in Jun 2020", , , , 
+55,9 Rise Avenue,"Sold $740,000 in Jun 2020","Last Sold $185,000 in Aug 2011", ,House: 4  2  2 ,Land size: 476 sqm | Building size: 281 sqm
+56,23 Fistral Street,"Sold $494,300 in Jun 2020", , ,House: 3  2  2 ,Land size: 336 sqm
+57,17 Hammond Street,"Sold $515,000 in Jun 2020", , ,House: 4  2  2 ,Land size: 400 sqm
+58,13 Silvercrest Way,"Sold $637,000 in Jun 2020","Last Sold $188,000 in Jun 2010", , ,Land size: 636 sqm | Building size: 202 sqm
+59,2 Rutherford Grove,"Sold $570,000 in Jun 2020", , ,House: 4  2  2 ,Land size: 588 sqm
+60,Lot 9222/14 McCormack Avenue,"Sold $252,500 in Jun 2020", , , , 
+61,119 Ambrosia Drive,"Sold $405,000 in May 2020", , , ,"Land size: 6,348 sqm"
+62,101 Iris Loop,"Sold $637,000 in May 2020", , ,House: ,Land size: 503 sqm
+63,26 Southwinds Road,"Sold $512,000 in May 2020","Last Sold $167,000 in Sep 2010", , ,Land size: 415 sqm | Building size: 135 sqm
+64,20 Nature Street,"Sold $610,000 in May 2020", , ,House: 5  2  2 ,Land size: 449 sqm
+65,Lot 85/8 Chelsea Drive,"Sold $229,000 in May 2020", , , , 
+66,165 Coastside Drive,"Sold $495,000 in May 2020","Last Sold $146,000 in Dec 2016",Rent $390pw in Dec 2017,House: 3  2  2 ,Land size: 323 sqm
+67,18 Carter Road,"Sold $579,000 in May 2020","Last Sold $180,000 in Aug 2010",Rent $440pw in Nov 2016,House: 4  2  6 ,Land size: 528 sqm | Building size: 171 sqm
+68,7 Yellowbox Avenue,"Sold $595,000 in May 2020","Last Sold $470,000 in Sep 2017",Rent $440pw in May 2013,House: 4  2  2 ,Land size: 412 sqm | Building size: 179 sqm
+69,48 Albanel Street,"Sold $540,000 in May 2020", , , ,Land size: 401 sqm
+70,45 MALLACOOTA Crescent,"Sold $517,000 in May 2020","Last Sold $173,000 in Feb 2016", ,House: 4  2  2 ,Land size: 404 sqm
+71,15 Romley Avenue,"Sold $560,000 in Apr 2020", , ,House: ,Land size: 400 sqm
+72,95 Iris Loop,"Sold $550,000 in Apr 2020", , ,House: 4  2  2 ,Land size: 410 sqm
+73,16 Noosa Circuit,"Sold $497,500 in Apr 2020", , , ,Land size: 335 sqm
+74,17 Falcon Street,"Sold $430,000 in Apr 2020", , , ,Land size: 251 sqm
+75,17 Lance Drive,"Sold $555,000 in Apr 2020", , ,House: ,Land size: 447 sqm
+76,34 Sanderling Avenue,"Sold $470,000 in Apr 2020","Last Sold $167,000 in Nov 2016",Rent $410pw in Jan 2020,House: 4  2  2 ,Land size: 401 sqm
+77,24 Abode Street,"Sold $260,000 in Apr 2020", , , ,Land size: 349 sqm
+78,2181 Warralily Boulevard,"Sold $615,000 in Apr 2020", , ,House: ,Land size: 544 sqm
+79,17 Coastside Drive,"Sold $670,000 in Apr 2020","Last Sold $525,000 in Apr 2015", ,House: 3  2  2 ,Land size: 446 sqm | Building size: 211 sqm
+80,631 Sanctuary Boulevard,"Sold $453,900 in Mar 2020", , ,House: 3  2  2 , 
+81,8 Restful Way,"Sold $590,000 in Mar 2020", , ,House: ,Land size: 446 sqm
+82,36 Sanctuary Boulevard,"Sold $787,000 in Mar 2020", , , ,Land size: 576 sqm
+83,2 Hammond Street,"Sold $480,000 in Mar 2020", , , ,Land size: 290 sqm
+84,Lot 9124/178 Batten Road,"Sold $255,000 in Mar 2020", , , , 
+85,2/5 Kookaburra Drive,"Sold $425,000 in Mar 2020", , , , 
+86,209 Warralily Boulevard,"Sold $522,000 in Mar 2020", , ,House: 4  2  2 ,Land size: 447 sqm
+87,1 Harvey Avenue,"Sold $585,000 in Mar 2020","Last Sold $171,000 in Jun 2013", , ,Land size: 525 sqm
+88,Lot 8115/31 Lance Drive,"Sold $266,500 in Mar 2020", , , , 
+89,12 Ross Street,"Sold $510,000 in Mar 2020", , , ,Land size: 335 sqm
+90,7 Carter Road,"Sold $685,000 in Feb 2020", , , ,Land size: 605 sqm
+91,50 Lance Drive,"Sold $542,000 in Feb 2020","Last Sold $184,000 in Aug 2016",Rent $440pw in Oct 2018,House: 4  2  2 ,Land size: 418 sqm
+92,Lot 2012/46 Creekward Drive,"Sold $292,500 in Feb 2020", , , , 
+93,19 McCormack Avenue,"Sold $505,000 in Feb 2020", ,Rent $420pw in Aug 2019,House: 4  2  2 ,Land size: 300 sqm
+94,23 Rochford Drive,"Sold $500,000 in Feb 2020","Last Sold $159,750 in Nov 2011",Rent $420pw in Nov 2019,House: 5  2  2 ,Land size: 400 sqm
+95,13 Vienet Avenue,"Sold $530,000 in Feb 2020", , , ,Land size: 400 sqm
+96,3 Falcon Street,"Sold $535,000 in Feb 2020", , ,House: ,Land size: 495 sqm
+97,25 Abode Street,"Sold $540,000 in Feb 2020", , ,House: 4  2  2 ,Land size: 399 sqm
+98,18 Hammond Street,"Sold $489,000 in Feb 2020", , ,House: 3  2  2 ,Land size: 280 sqm
+99,56 Coastside Drive,"Sold $570,000 in Feb 2020","Last Sold $190,000 in Jun 2012",Rent $420pw in Apr 2018,House: 4  2  2 ,Land size: 581 sqm | Building size: 167 sqm
+100,Lot 9419/17 Vaughan Drive,"Sold $235,000 in Feb 2020", , , , 
+101,2209 Warralily Boulevard,"Sold $685,000 in 10 Feb 2020(Auction)", , ,House: 4  ,Land size: 447 sqm
+102,26 Freshwater Drive,"Sold $660,000 in Feb 2020","Last Sold $195,000 in Feb 2000", , ,Land size: 602 sqm
+103,11 Cassava Street,"Sold $250,000 in Feb 2020", , , ,Land size: 401 sqm
+104,16 Cassava Street,"Sold $274,000 in Feb 2020", , , ,Land size: 436 sqm
+105,24 Prominence Boulevard,"Sold $525,000 in Feb 2020","Last Sold $155,000 in Feb 2000", , ,Land size: 400 sqm | Building size: 156 sqm
+106,189 Warralily Boulevard,"Sold $503,000 in Feb 2020", , ,House: 3  2  1 ,Land size: 339 sqm
+107,3 WHITEHAVEN Chase,"Sold $460,000 in Feb 2020","Last Sold $385,000 in Jul 2017",Rent $400pw in Aug 2019, ,Land size: 315 sqm
+108,7 Hudson Street,"Sold $545,000 in Feb 2020","Last Sold $169,500 in May 2012", , ,Land size: 507 sqm
+109,15 Shearwater Drive,"Sold $432,000 in Feb 2020", , , ,Land size: 249 sqm
+110,85 Southwinds Road,"Sold $430,000 in Jan 2020","Last Sold $140,000 in Mar 2015", , ,Land size: 300 sqm
+111,35 Jacana Way,"Sold $288,000 in Jan 2020", , , ,Land size: 511 sqm
+112,164 Warralily Boulevard,"Sold $545,000 in Jan 2020","Last Sold $162,000 in Sep 2013", , ,Land size: 448 sqm | Building size: 156 sqm
+113,20 Macedon Street,"Sold $520,000 in Jan 2020", , ,House: 3  2  2 ,Land size: 369 sqm
+114,5 Rise Avenue,"Sold $541,000 in Jan 2020","Last Sold $182,000 in Mar 2016",Rent $420pw in Dec 2019, ,Land size: 425 sqm
+115,8 Seal Street,"Sold $263,500 in Jan 2020", , , ,Land size: 391 sqm
+116,20 Caitlin Chase,"Sold $685,000 in Jan 2020","Last Sold $177,000 in May 2012", ,House: ,Land size: 528 sqm
+117,10 Maroubra Street,"Sold $685,000 in Jan 2020", , ,House: 4  2  2 ,Land size: 512 sqm
+118,25 Lismore Street,"Sold $535,000 in Jan 2020", , ,House: 4  2  2 ,Land size: 369 sqm
+119,19 Middleton Road,"Sold $275,000 in Jan 2020", , , ,Land size: 447 sqm
+120,38 Sirrom Crescent,"Sold $486,000 in Jan 2020","Last Sold $147,000 in Jul 2014", , ,Land size: 336 sqm
+121,27 Vaughan Drive,"Sold $507,000 in Jan 2020", , ,House: 4  2  4 ,Land size: 400 sqm
+122,11 Flanagan Close,"Sold $445,000 in Jan 2020", ,Rent $375pw in Jan 2019,House: 3  2  1 ,Land size: 248 sqm
+123,13 Decourcy Way,"Sold $525,000 in Jan 2020", , ,House: 4  2  2 ,Land size: 381 sqm
+124,9 Cootamundra Drive,"Sold $630,000 in Jan 2020", , ,House: 4  2  2 ,Land size: 448 sqm
+125,307 Charlemont Road,"Sold $460,000 in Jan 2020","Last Sold $165,000 in Mar 2016",Rent $420pw in Jan 2018,House: 4  2  2 ,Land size: 360 sqm
+126,16 Bolton Street,"Sold $527,500 in Dec 2019", , ,House: ,Land size: 447 sqm
+127,21 Macedon Street,"Sold $525,000 in Dec 2019", , ,House: 4  2  2 ,Land size: 399 sqm
+128,336 Charlemont Road,"Sold $550,000 in Dec 2019", , ,House: ,Land size: 527 sqm
+129,Lot 9138 152 Batten Road,"Sold $281,000 in Dec 2019", , , , 
+130,32 Mandalay Avenue,"Sold $525,000 in Dec 2019", , ,House: 3  2  2 ,Land size: 399 sqm
+131,45 Ambrosia Drive,"Sold $620,000 in Dec 2019", , ,House: ,Land size: 500 sqm
+132,20 ROCKINGHAM Street,"Sold $510,000 in Dec 2019","Last Sold $166,000 in Dec 2015",Rent $430pw in Feb 2018,House: 4  2  2 ,Land size: 447 sqm
+133,14 Tenneyson Close,"Sold $515,000 in Dec 2019","Last Sold $164,000 in Nov 2013", , ,Land size: 448 sqm | Building size: 161 sqm
+134,Lot 504/15 Hedge Street,"Sold $265,000 in Dec 2019", , , , 
+135,15 Sanctuary Boulevard,"Sold $250,000 in Dec 2019", , , ,Land size: 375 sqm
+136,14-16 Ploughman Place,"Sold $510,000 in Dec 2019", , ,House: ,Land size: 464 sqm
+137,43 Stephenson Drive,"Sold $260,000 in Dec 2019", , , ,Land size: 399 sqm
+138,9 Jacana Way,"Sold $465,000 in Dec 2019", , ,House: ,Land size: 315 sqm
+139,14 Flanagan Close,"Sold $547,500 in Dec 2019", , ,House: 4  2  2 ,Land size: 448 sqm
+140,13 Ashbury Boulevard,"Sold $535,000 in Dec 2019", , ,House: ,Land size: 447 sqm
+141,8 Tumino Way,"Sold $438,000 in Dec 2019","Last Sold $145,000 in Jun 2014",Rent $355pw in May 2015,House: 3  2  1 ,Land size: 339 sqm
+142,13 Booker Place,"Sold $525,000 in Dec 2019","Last Sold $109,000 in Nov 2015",Rent $430pw in Oct 2019,House: 4  2  ,Land size: 279 sqm
+143,15 Silky Oak Lane,"Sold $550,000 in Nov 2019","Last Sold $451,000 in Nov 2014", ,House: 3  2  2 ,Land size: 512 sqm
+144,Lot 336 6 Anglet Way,"Sold $320,000 in Nov 2019", , , , 
+145,Lot 9809 37 Stephenson Drive,"Sold $285,000 in Nov 2019", , , , 
+146,42 Snedden Street,"Sold $545,000 in Nov 2019", , ,House: 4  2  2 ,Land size: 450 sqm
+147,39 Iris Loop,"Sold $545,000 in Nov 2019", ,Rent $400pw in Aug 2019,House: 4  2  2 ,Land size: 400 sqm
+148,Lot 717 Element Circuit,"Sold $479,990 in Oct 2019", , ,House: 4  2  2 , 
+149,18 Southwinds Road,"Sold $505,000 in Oct 2019","Last Sold $172,000 in Dec 2010",Rent $360pw in Nov 2015,House: 3  1  2 ,Land size: 453 sqm | Building size: 151 sqm
+150,21 Coastside Drive,"Sold $555,000 in Oct 2019","Last Sold $490,000 in Jul 2016", ,House: 4  2  2 ,Land size: 400 sqm | Building size: 170 sqm
+151,9 ACKLAND Street,"Sold $415,000 in Oct 2019","Last Sold $113,000 in Dec 2015", , ,Land size: 218 sqm
+152,7 Chucklecreek Lane,"Sold $470,000 in Oct 2019","Last Sold $147,500 in Oct 2014",Rent $365pw in Jun 2017,House: 3  2  1 ,Land size: 334 sqm
+153,18 Rottness Drive,"Sold $540,000 in Oct 2019", ,Rent $440pw in Nov 2019,House: 4  2  2 ,Land size: 400 sqm
+154,15 Albanel Street,"Sold $515,000 in Oct 2019", , ,House: 3  2  2 ,Land size: 293 sqm
+155,Lot 502 20 Corella Road,"Sold $267,000 in Oct 2019", , , , 
+156,11 Cloudbreak Street,"Sold $560,000 in Oct 2019","Last Sold $173,000 in May 2014", , ,Land size: 439 sqm
+157,4 Kookaburra Drive,"Sold $431,500 in Oct 2019", , ,House: ,Land size: 237 sqm
+158,Lot 84 6 Chelsea Drive,"Sold $265,000 in Oct 2019", , , , 
+159,11 Trinity Way,"Sold $442,500 in Oct 2019","Last Sold $144,900 in May 2016",Rent $350pw in Nov 2016,House: 3  2  1 ,Land size: 299 sqm
+160,4 Vaughan Drive,"Sold $270,000 in Oct 2019", , , ,Land size: 449 sqm
+161,49 Hedge Street,"Sold $238,000 in Oct 2019", , , ,Land size: 351 sqm
+162,58 Southwinds Road,"Sold $528,000 in Oct 2019", , ,House: 4  2  2 ,Land size: 402 sqm
+163,10 Coastside Drive,"Sold $620,000 in Oct 2019","Last Sold $192,250 in Sep 2014",Rent $500pw in Mar 2018,House: 4  2  2 ,Land size: 496 sqm | Building size: 185 sqm
+164,111 Coastside Drive,"Sold $540,000 in Oct 2019", , ,House: 4  2  2 ,Land size: 448 sqm
+165,5 Daybreak Avenue,"Sold $540,000 in Oct 2019","Last Sold $197,500 in Jan 2016",Rent $450pw in Nov 2019,House: 4  2  2 ,Land size: 617 sqm | Building size: 178 sqm
+166,67 Southwinds Road,"Sold $480,000 in Oct 2019", , ,House: 3  2  2 ,Land size: 298 sqm
+167,22 Vaughan Drive,"Sold $530,000 in Oct 2019", , ,House: 4  2  2 ,Land size: 399 sqm
+168,LOT 332 Flannery Circuit,"Sold $410,921 in Oct 2019", , ,House: 3  2  1 , 
+169,17 Carisbrook Street,"Sold $475,000 in Sep 2019", , ,House: 4  2  1 ,Land size: 271 sqm
+170,Lot 526 40 Hedge,"Sold $255,000 in Sep 2019", , , , 
+171,3 Forresters Way,"Sold $590,000 in Sep 2019", , ,House: 4  2  2 ,Land size: 512 sqm
+172,20 Fistral Street,"Sold $280,000 in Sep 2019", , , ,Land size: 512 sqm
+173,13 Mistybrook Place,"Sold $555,000 in Sep 2019","Last Sold $183,000 in Jul 2010",Rent $400pw in Jan 2017,House: 4  2  2 ,Land size: 586 sqm | Building size: 189 sqm
+174,Lot 535 6 Amiable Parade,"Sold $290,000 in Sep 2019", , , , 
+175,14 Jindabyne Street,"Sold $595,000 in Sep 2019", , ,House: 4  2  2 ,Land size: 511 sqm
+176,90 Southwinds Road,"Sold $495,000 in Sep 2019","Last Sold $425,000 in Aug 2017", ,House: 4  2  2 ,Land size: 451 sqm | Building size: 163 sqm
+177,Lot 7513 64 Iris Loop,"Sold $240,000 in Sep 2019", , , , 
+178,23 Beekeeper Road,"Sold $515,000 in Sep 2019","Last Sold $169,000 in Feb 2000", ,House: 3  2  2 ,Land size: 441 sqm
+179,18 Ackland Street,"Sold $625,000 in Aug 2019", , ,House: 4  2  2 ,Land size: 520 sqm
+180,56 Southwinds Road,"Sold $530,000 in Aug 2019", , ,House: 3  2  2 ,Land size: 444 sqm
+181,193 Warralily Boulevard,"Sold $540,000 in Aug 2019", , ,House: 4  2  2 ,Land size: 476 sqm
+182,14 Swaine Street,"Sold $345,000 in Aug 2019", , , ,Land size: 600 sqm
+183,7 Lismore Street,"Sold $530,000 in Aug 2019", , ,House: 4  2  2 ,Land size: 498 sqm
+184,5 Spoonbill Drive,"Sold $230,000 in Aug 2019", ,Rent $410pw in Aug 2020, ,Land size: 447 sqm
+185,6 Creekward Drive,"Sold $550,000 in Aug 2019","Last Sold $149,000 in Feb 2000", ,House: 4  2  2 ,Land size: 447 sqm
+186,34 Holbrook Drive,"Sold $580,000 in Aug 2019", , ,House: 4  2  2 ,Land size: 511 sqm
+187,LOT 325 Flannery Circuit,"Sold $449,073 in Aug 2019", , ,House: 3  2  2 ,Land size: 263 sqm | Building size: 157 sqm
+188,16 Rottness Drive,"Sold $550,000 in Aug 2019", , ,House: 4  2  2 ,Land size: 400 sqm
+189,24 Mcmahon Avenue,"Sold $555,000 in Aug 2019","Last Sold $177,000 in Jul 2012", ,House: 3  2  2 ,Land size: 501 sqm
+190,13 Caitlin Chase,"Sold $680,000 in Aug 2019","Last Sold $177,000 in Jun 2010", ,House: 4  2  2 ,Land size: 528 sqm
+191,13 Rockingham Street,"Sold $540,000 in Aug 2019", , ,House: 4  2  2 ,Land size: 510 sqm
+192,15 Rainford Place,"Sold $530,000 in Aug 2019", ,Rent $420pw in Jun 2015,House: 4  2  2 ,Land size: 447 sqm
+193,27 Prevelly Circuit,"Sold $505,000 in Jul 2019","Last Sold $165,000 in Sep 2013",Rent $385pw in Aug 2014,House: 4  2  2 ,Land size: 374 sqm
+194,5 Madeira Street,"Sold $471,000 in Jul 2019", , ,House: 3  2  2 ,Land size: 271 sqm
+195,19 Carisbrook Street,"Sold $478,000 in Jul 2019", , ,House: 4  2  1 ,Land size: 271 sqm
+196,15 Rochford Drive,"Sold $525,000 in Jul 2019","Last Sold $164,750 in Oct 2011", ,House: 4  2  2 ,Land size: 447 sqm | Building size: 179 sqm
+197,30 Shearwater Drive,"Sold $615,000 in Jul 2019", , ,House: 3  2  3 ,Land size: 588 sqm
+198,67 Coastside Drive,"Sold $586,000 in Jul 2019","Last Sold $180,000 in Oct 2012", ,House: 4  2  2 ,Land size: 495 sqm | Building size: 214 sqm
+199,20 Mcmahon Avenue,"Sold $485,000 in Jul 2019","Last Sold $164,000 in Apr 2014", ,House: 3  2  2 ,Land size: 456 sqm
+200,180 WARRALILY Boulevard,"Sold $678,000 in Jul 2019","Last Sold $175,000 in Apr 2016",Rent $580pw in Aug 2019,House: 5  2  6 ,Land size: 541 sqm
+201,15 Silvercrest Way,"Sold $560,000 in Jul 2019","Last Sold $181,000 in Jun 2010",Rent $430pw in Mar 2017,House: 4  2  2 ,Land size: 574 sqm | Building size: 188 sqm
+202,22 Noosa Circuit,"Sold $685,000 in Jul 2019", , ,House: 4  2  2 ,Land size: 512 sqm
+203,10 Rottness Drive,"Sold $560,000 in Jul 2019", , ,House: 4  2  2 ,Land size: 447 sqm
+204,92 Creekward Drive,"Sold $522,500 in Jul 2019","Last Sold $160,000 in Dec 2012",Rent $400pw in Jun 2020,House: 4  2  2 ,Land size: 502 sqm | Building size: 167 sqm
+205,50 Sanctuary Boulevard,"Sold $285,000 in Jul 2019", , , ,"Land size: 32,002 sqm"
+206,311 Charlemont Road,"Sold $520,000 in Jul 2019", , ,House: 4  2  3 ,Land size: 420 sqm
+207,156 Warralily Boulevard,"Sold $535,000 in Jul 2019","Last Sold $445,000 in Sep 2017",Rent $400pw in Nov 2016,House: 4  2  2 ,Land size: 416 sqm
+208,2-4 Wanders Way,"Sold $620,000 in Jul 2019","Last Sold $435,000 in Mar 2014", ,House: 4  2  2 ,Land size: 587 sqm
+209,118/1 Hillsborough Walk,"Sold $405,000 in Jul 2019", , , , 
+210,200 Warralily Boulevard,"Sold $525,000 in Jul 2019", , ,House: 4  2  2 ,Land size: 447 sqm
+211,Lot 335 6 Anglet Way,"Sold $279,500 in Jul 2019", , , , 
+212,13 Snedden Street,"Sold $530,000 in Jul 2019", ,Rent $430pw in Jul 2019,House: 4  2  2 ,Land size: 400 sqm
+213,Lot 9120 186 Batten Road,"Sold $250,000 in Jul 2019", , , , 
+214,13 Whitfords Drive,"Sold $496,500 in Jun 2019","Last Sold $153,000 in Aug 2014",Rent $385pw in Feb 2015,House: 4  2  2 ,Land size: 393 sqm | Building size: 163 sqm
+215,LOT 1105 Beaumont Avenue,"Sold $418,679 in Jun 2019", , ,House: 3  2  1 , 
+216,Lot 14 Gardiners Lane,"Sold $404,000 in Jun 2019", , ,House: 3  2  2 ,Land size: 108 sqm | Building size: 176 sqm
+217,20-22 Hedge Street,"Sold $215,000 in Jun 2019", , , ,Land size: 286 sqm
+218,Lot 9724 50 Vaughan Drive,"Sold $260,000 in Jun 2019", , , , 
+219,19 Milla Avenue,"Sold $650,000 in Jun 2019", , ,House: 4  3  2 ,Land size: 511 sqm
+220,12 Torse Avenue,"Sold $529,000 in Jun 2019","Last Sold $178,000 in May 2012", ,House: 4  2  2 ,Land size: 439 sqm | Building size: 175 sqm
+221,5 Forresters Way,"Sold $530,000 in Jun 2019","Last Sold $182,000 in Aug 2015",Rent $430pw in Jun 2017,House: 4  2  2 ,Land size: 512 sqm
+222,6 Chucklecreek Lane,"Sold $456,000 in Jun 2019","Last Sold $144,000 in Jul 2014",Rent $350pw in Feb 2016,House: 4  2  3 ,Land size: 350 sqm
+223,Lot 7415 62 Madeira Street,"Sold $275,000 in Jun 2019", , , , 
+224,Lot 7332 29 Madeira Street,"Sold $279,900 in Jun 2019", , , , 
+225,Lot 510 25 Hedge Street,"Sold $250,000 in Jun 2019", , , , 
+226,12 Maroubra Street,"Sold $575,000 in Jun 2019", , ,House: 3  2  2 ,Land size: 448 sqm
+227,Lot 7328 19-21 Madeira Street,"Sold $220,000 in Jun 2019", , , , 
+228,20 Daybreak Avenue,"Sold $497,500 in Jun 2019","Last Sold $440,000 in Nov 2017",Rent $400pw in Apr 2016,House: 4  2  2 ,Land size: 385 sqm
+229,Lot 339 6 Anglet Way,"Sold $299,000 in May 2019", , , , 
+230,Lot 45/722-770 Barwon Heads Road,"Sold $395,955 in May 2019", , , ,Land size: 206 sqm | Building size: 115 sqm
+231,Lot 27/722-770 Barwon Heads Road,"Sold $471,555 in May 2019", , , ,Land size: 275 sqm | Building size: 131 sqm
+232,Lot 1/722-770 Barwon Heads Road,"Sold $499,905 in May 2019", , , ,Land size: 291 sqm | Building size: 132 sqm
+233,13 Mcmahon Avenue,"Sold $490,000 in May 2019","Last Sold $169,000 in Oct 2012", ,House: 3  2  2 ,Land size: 444 sqm
+234,16 Cloudbreak Street,"Sold $510,000 in May 2019","Last Sold $160,000 in Aug 2014", ,House: 3  2  2 ,Land size: 401 sqm
+235,7 Rainford Place,"Sold $560,000 in May 2019","Last Sold $410,000 in Nov 2013(Auction)",Rent $470pw in Feb 2019,House: 4  2  2 ,Land size: 404 sqm | Building size: 181 sqm
+236,10 Flanagan Close,"Sold $590,000 in May 2019", , ,House: 4  2  2 ,Land size: 472 sqm
+237,41 Prevelly Circuit,"Sold $695,000 in May 2019","Last Sold $190,000 in Dec 2013", ,House: 5  3  2 , 
+238,25 Beard Street,"Sold $580,000 in May 2019", , ,House: 3  2  2 ,Land size: 557 sqm
+239,104 Coastside Drive,"Sold $590,000 in May 2019", ,Rent $470pw in Jul 2020,House: 4  2  2 ,Land size: 501 sqm
+240,34 Ashbury Boulevard,"Sold $540,000 in May 2019", ,Rent $440pw in Mar 2019,House: 4  2  2 ,Land size: 448 sqm
+241,790 Barwon Heads Road,"Sold $480,000 in May 2019","Last Sold $140,500 in Aug 2014",Rent $420pw in Jun 2019,House: 4  2  2 ,Land size: 336 sqm | Building size: 139 sqm
+242,14 Bondi Street,"Sold $550,000 in May 2019","Last Sold $176,000 in Nov 2014",Rent $440pw in Nov 2016,House: 5  2  3 ,Land size: 448 sqm
+243,20 Hudson Street,"Sold $590,000 in Apr 2019","Last Sold $179,500 in Feb 2000", ,House: 4  2  2 ,Land size: 515 sqm | Building size: 214 sqm
+244,Lot 7224 35 Iris Loop,"Sold $300,000 in Apr 2019", , , , 
+245,22 Rockingham Street,"Sold $545,000 in Apr 2019", , ,House: 4  2  2 ,Land size: 446 sqm
+246,7 Teags Way,"Sold $480,000 in Apr 2019","Last Sold $145,000 in Feb 2000", ,House: 3  2  1 ,Land size: 315 sqm | Building size: 114 sqm
+247,15 Snedden Street,"Sold $247,500 in Apr 2019", ,Rent $430pw in Apr 2020, ,Land size: 400 sqm
+248,LOT 2047 Mulberry Street,"Sold $426,224 in Apr 2019", , ,House: 3  2  1 , 
+249,25-27 PORTRUSH LOOP,"Sold $561,000 in Apr 2019","Last Sold $164,000 in Mar 2014", ,House: 4  2  2 ,Land size: 422 sqm
+250,12 Teags Way,"Sold $485,000 in Apr 2019","Last Sold $154,000 in Mar 2014",Rent $400pw in Sep 2017,House: 3  2  2 ,Land size: 398 sqm
+251,21 Hudson Street,"Sold $600,000 in Apr 2019","Last Sold $179,500 in May 2012", ,House: 4  2  2 ,Land size: 517 sqm
+252,126 Warralily Boulevard,"Sold $590,000 in Apr 2019","Last Sold $440,000 in Jul 2016",Rent $450pw in Jul 2017,House: 4  2  2 ,Land size: 579 sqm
+253,37 Portrush Loop,"Sold $507,000 in Apr 2019","Last Sold $147,000 in Dec 2013", ,House: 3  2  2 ,Land size: 365 sqm | Building size: 134 sqm
+254,12 Lismore Street,"Sold $535,000 in Apr 2019", , ,House: 3  2  2 ,Land size: 391 sqm
+255,LOT 10606 Fletcher Drive,"Sold $606,190 in Mar 2019", , ,House: 4  2  2 , 
+256,Lot 7207 46 Iris Loop,"Sold $310,000 in Mar 2019", , , , 
+257,10 Lance Drive,"Sold $660,000 in Mar 2019", , ,House: 4  2  2 ,Land size: 511 sqm
+258,21 Caitlin Chase,"Sold $700,000 in Mar 2019","Last Sold $177,000 in May 2012", ,House: 4  2  2 ,Land size: 528 sqm
+259,6 Wynn Avenue,"Sold $250,000 in Mar 2019", , , ,Land size: 348 sqm
+260,8 Rottness Drive,"Sold $570,000 in Mar 2019", , ,House: 3  2  2 ,Land size: 510 sqm
+261,LOT 10619 Fletcher Drive,"Sold $517,067 in Mar 2019", , ,House: 4  2  2 , 
+262,LOT 10622 Fletcher Drive,"Sold $531,567 in Mar 2019", , ,House: 4  2  2 , 
+263,7 Lodge Place,"Sold $555,000 in Mar 2019", , ,House: 4  2  2 ,Land size: 448 sqm
+264,11 Milla Avenue,"Sold $600,000 in Mar 2019", , ,House: 4  2  2 ,Land size: 400 sqm
+265,LOT 10603 Fletcher Drive,"Sold $529,561 in Mar 2019", , ,House: 4  2  2 , 
+266,31 Portrush Loop,"Sold $507,500 in Mar 2019","Last Sold $159,000 in Mar 2016", ,House: 3  2  2 ,Land size: 351 sqm
+267,12 ABIGAIL Court,"Sold $570,000 in Mar 2019","Last Sold $178,000 in Apr 2013", ,House: 4  2  2 ,Land size: 519 sqm
+268,5 Glide Way,"Sold $465,000 in Mar 2019","Last Sold $138,000 in Sep 2014",Rent $365pw in Jan 2017,House: 3  2  1 ,Land size: 300 sqm | Building size: 120 sqm
+269,12 Flanagan Close,"Sold $560,000 in Feb 2019", , ,House: 4  2  2 ,Land size: 453 sqm
+270,Lot 9129 168 Batten Road,"Sold $270,000 in Feb 2019", , , , 
+271,16 Booker Place,"Sold $515,000 in Feb 2019", , ,House: 4  2  4 ,Land size: 413 sqm
+272,9 Yellowbox Avenue,"Sold $577,500 in Feb 2019", , ,House: 4  2  2 ,Land size: 456 sqm
+273,22 Beard Street,"Sold $279,500 in Feb 2019", , , ,Land size: 399 sqm
+274,15 Prevelly Circuit,"Sold $530,000 in Feb 2019","Last Sold $155,000 in Nov 2013", ,House: 4  2  2 ,Land size: 399 sqm | Building size: 183 sqm
+275,15 Baenschs Lane,"Sold $1,154,000 in Feb 2019", , ,House: 4  2  2 ,"Land size: 54,304 sqm"
+276,9 Flanagan Close,"Sold $451,000 in Feb 2019", , ,House: 3  2  1 ,Land size: 306 sqm
+277,191 Warralily Boulevard,"Sold $573,000 in Feb 2019","Last Sold $168,000 in Dec 2014",Rent $430pw in Apr 2020,House: 4  2  2 ,Land size: 522 sqm
+278,23-27 Iris Loop,"Sold $350,000 in Feb 2019", , , ,Land size: 564 sqm
+279,10 Coastal Drive,"Sold $632,000 in Feb 2019","Last Sold $189,000 in Feb 2000", ,House: 4  2  2 ,Land size: 528 sqm
+280,14 Trinity Way,"Sold $460,000 in Feb 2019","Last Sold $144,000 in Apr 2016",Rent $390pw in Oct 2017,House: 3  2  2 ,Land size: 310 sqm
+281,1 Kingscliff Avenue,"Sold $600,000 in Jan 2019", , , , 
+282,5 Kingscliff Avenue,"Sold $600,000 in Jan 2019","Last Sold $183,000 in Dec 2012", ,House: 4  2  2 ,Land size: 528 sqm | Building size: 200 sqm
+283,14 Barleycorn Bend,"Sold $575,000 in Jan 2019","Last Sold $161,000 in Apr 2012", ,House: 4  2  2 ,Land size: 438 sqm
+284,72 Coastside Drive,"Sold $665,000 in Jan 2019","Last Sold $191,500 in Jun 2014",Rent $525pw in Jun 2020,House: 4  2  2 ,Land size: 513 sqm | Building size: 223 sqm
+285,Lot 9327 8 Sneddon Street,"Sold $299,000 in Jan 2019", , , , 
+286,11 McKinley Avenue,"Sold $445,000 in Jan 2019", , ,House: 3  2  1 ,Land size: 238 sqm
+287,9 Lodge Place,"Sold $248,000 in Jan 2019", , , ,Land size: 396 sqm
+288,87 Iris Loop,"Sold $495,000 in Jan 2019", , ,House: 3  2  2 ,Land size: 311 sqm
+289,Lot 2043 Mulberry Street,"Sold $415,060 in Jan 2019", , ,House: 3  2  1 , 
+290,31 Wild Oak Avenue,"Sold $640,000 in Jan 2019","Last Sold $460,000 in Nov 2015",Rent $450pw in Nov 2015,House: 4  2  2 ,Land size: 583 sqm | Building size: 247 sqm
+291,7 Rochford Drive,"Sold $555,000 in Jan 2019","Last Sold $182,000 in Jul 2011", ,House: 4  2  2 ,Land size: 528 sqm
+292,11 Crystall Place,"Sold $480,000 in Dec 2018","Last Sold $360,000 in May 2016", ,House: 4  2  1 ,Land size: 319 sqm | Building size: 158 sqm
+293,16 Whitfords Drive,"Sold $545,000 in Dec 2018","Last Sold $165,000 in Apr 2014", ,House: 4  2  2 ,Land size: 491 sqm
+294,14 Cloudbreak Street,"Sold $625,000 in Dec 2018","Last Sold $172,000 in Mar 2014", ,House: 4  2  2 ,Land size: 448 sqm | Building size: 206 sqm
+295,13 Daybreak Avenue,"Sold $569,000 in Dec 2018","Last Sold $157,000 in Mar 2013",Rent $410pw in Sep 2019,House: 4  2  2 ,Land size: 513 sqm | Building size: 174 sqm
+296,18 Caitlin Chase,"Sold $550,000 in Dec 2018","Last Sold $159,000 in Jun 2011", ,House: 4  2  2 ,Land size: 448 sqm
+297,14 Simony Drive,"Sold $470,000 in Dec 2018", ,Rent $400pw in Jan 2019,House: 4  2  1 ,Land size: 292 sqm
+298,28 NEVILLE Drive,"Sold $710,000 in Dec 2018","Last Sold $210,000 in Dec 2015", ,House: 4  2  2 ,Land size: 512 sqm
+299,LOT 1127 Hadley Street,"Sold $434,665 in Dec 2018", , ,House: 3  2  2 , 

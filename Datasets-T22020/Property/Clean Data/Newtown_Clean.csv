@@ -1,0 +1,298 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,24 Stinton Avenue," 855,000 ", Aug 2020,0, ,, ,, ,,0,0,0,Newtown
+1,13 Churchill Avenue," 445,000 ", 22 Aug 2020,1, ,, ,, 360 ,,3,0,0,Newtown
+2,255 Noble Street," 1,530,000 ", Aug 2020,0," 1,175,000 ", Aug 2012, ,, 779  ,  300 ,4,1,2,Newtown
+3,444 Latrobe Terrace," 540,000 ", Aug 2020,0, ,, 410 , Oct 2019, 210 ,,3,1,1,Newtown
+4,114 Skene Street," 802,000 ", 14 Aug 2020,1," 135,000 ", Aug 1992, ,, 439 ,,2,0,0,Newtown
+5,32 Craigie Road," 755,000 ", Jul 2020,0," 117,000 ", Dec 1998, 340 , Oct 2019, 741 ,,2,1,0,Newtown
+6,9/199 Noble Street," 402,000 ", Jul 2020,0," 290,000 ", Jul 2015, 295 , Sep 2013, 93 ,,2,1,1,Newtown
+7,38 Cook Street," 890,000 ", Jul 2020,0, ,, ,, 679 ,,4,2,1,Newtown
+8,25 Ballater Avenue," 700,000 ", 11 Jul 2020,1, ,, ,, 717 ,,0,0,0,Newtown
+9,5 Bosanquet Avenue," 525,000 ", Jul 2020,0," 320,000 ", Jun 2008, 390 , Mar 2020, 746 ,,3,1,1,Newtown
+10,35 Upper Skene Street," 1,360,000 ", Jul 2020,0," 180,000 ", Sep 1998, ,, 525  ,  275 ,4,2,2,Newtown
+11,36-38 Russell Street," 1,030,000 ", Jul 2020,0, ,, ,, ,,0,0,0,Newtown
+12,14 Sherbourne Terrace," 486,000 ", Jun 2020,0," 265,500 ", Mar 2007, 325 , Apr 2014, 264 ,,3,1,1,Newtown
+13,185 Aberdeen Street," 420,000 ", Jun 2020,0," 397,500 ", May 2018, 300 , Jul 2018, 357 ,,0,0,0,Newtown
+14,39 Cumberland Street," 1,080,000 ", Jun 2020,0," 555,000 ", Dec 2004, 550 , Nov 2010, 387 ,,4,2,2,Newtown
+15,51 Upper Skene Street," 1,080,000 ", Jun 2020,0," 701,600 ", Oct 2013, 400 , Feb 2009, 519 ,,3,2,2,Newtown
+16,2/251 Noble Street," 610,000 ", Jun 2020,0," 300,000 ", Nov 2015, ,, 137 ,,2,1,1,Newtown
+17,19 Ardlui Drive," 1,500,000 ", Jun 2020,0," 465,000 ", Feb 2011, 450 , Feb 2011, 725  ,  134 ,3,2,2,Newtown
+18,8 Neiley Street," 810,000 ", Jun 2020,0," 372,000 ", Jun 2010, 330 , Apr 2014, 766 ,,3,1,2,Newtown
+19,3 Marshall Street," 825,000 ", May 2020,0," 600,000 ", Mar 2016, 450 , Aug 2014, 457 ,,4,1,2,Newtown
+20,86 Aphrasia Street," 1,630,000 ", May 2020,0," 700,000 ", Apr 2007, ,, 828 ,,3,2,1,Newtown
+21,3/2 Upper Skene Street," 580,000 ", May 2020,0," 330,000 ", Dec 2014, 330 , Feb 2016, 144 ,,2,1,2,Newtown
+22,452-456 Latrobe Terrace," 1,200,000 ", 23 May 2020,1, ,, ,, ,,2,1,0,Newtown
+23,1/116 Nicholas Street," 670,000 ", May 2020,0," 200,000 ", Apr 1999, ,, 352 ,,0,0,0,Newtown
+24,Lot 2 Scarsdale-Pitfield Road," 149,000 ", May 2020,0, ,, ,, ,,0,0,0,Newtown
+25,10 Allen Street," 525,000 ", May 2020,0, ,, 440 , Jan 2019, 287 ,,3,2,2,Newtown
+26,6 Montmorency Street," 675,000 ", Apr 2020,0," 627,500 ", Nov 2015, 400 , May 2016, 426  ,  195 ,4,2,1,Newtown
+27,1/13 Stinton Avenue," 370,000 ", Apr 2020,0," 194,000 ", Jul 1998, ,, 112 ,,0,0,0,Newtown
+28,45 Roebuck Street," 1,410,000 ", Apr 2020,0," 395,000 ", Jul 2004, ,, 522 ,,3,1,1,Newtown
+29,80A Noble Street," 870,000 ", Apr 2020,0, ,, ,, 273 ,,3,2,2,Newtown
+30,7/22-26 Craigie Road," 282,000 ", Apr 2020,0," 57,000 ", Oct 1994, ,, 53 ,,0,0,0,Newtown
+31,33 Stinton Avenue," 1,061,000 ", Mar 2020,0, ,, ,, 501 ,,0,0,0,Newtown
+32,83 Nicholas Street," 790,000 ", Mar 2020,0," 460,000 ", Jan 2011, ,, 597  ,  134 ,3,1,2,Newtown
+33,361 Autumn Street," 790,000 ", 28 Mar 2020,1," 369,000 ", Apr 2011, ,, 602 ,,3,1,1,Newtown
+34,7/22 Craigie Road," 282,000 ", Mar 2020,0," 57,000 ", Oct 1994, ,, 53 ,,0,0,0,Newtown
+35,94 Buckingham Road," 975,000 ", Mar 2020,0, ,, ,, 884 ,,0,0,0,Newtown
+36,4/28 Upper Skene Street," 370,000 ", 21 Mar 2020,1," 173,000 ", Oct 2007, ,, 65 ,,0,0,0,Newtown
+37,23 Clarke Street," 555,000 ", Mar 2020,0," 430,000 ", Jul 2016, 360 , Nov 2018, 210 ,,2,1,1,Newtown
+38,32 Aphrasia Street," 1,430,000 ", 19 Mar 2020,1," 920,000 ", Mar 2011, ,, 879 ,,5,1,2,Newtown
+39,3/11 Elcho Street," 240,000 ", Mar 2020,0," 220,000 ", May 2018, 240 , Nov 2019, 639 ,,0,0,0,Newtown
+40,14 Camden Road," 1,610,000 ", Mar 2020,0," 1,100,000 ", Oct 2015, ,, 781 ,,3,3,2,Newtown
+41,143 Aberdeen Street," 745,000 ", 14 Mar 2020,1," 590,000 ", Dec 2015, 550 , Apr 2020, 459  ,  146 ,3,1,1,Newtown
+42,6/133 Aberdeen Street," 439,000 ", Mar 2020,0," 270,000 ", Aug 2007, ,, 164 ,,2,1,1,Newtown
+43,70 West Fyans Street," 610,000 ", Mar 2020,0," 286,000 ", Jul 2008, ,, 277  ,  122 ,3,2,0,Newtown
+44,11 Vista Road," 935,000 ", 29 Feb 2020,1," 580,000 ", Dec 2012, ,," 1,067  ",  125 ,2,1,1,Newtown
+45,"2, 1 Cairns Avenue"," 850,000 ", Feb 2020,0, ,, ,, ,,0,0,0,Newtown
+46,Lot 2 1 Cairns Avenue," 850,000 ", Feb 2020,0, ,, ,, ,,0,0,0,Newtown
+47,8 Stephen Street," 1,140,000 ", 22 Feb 2020,1, ,, ,, 694 ,,0,0,0,Newtown
+48,8/2 Aphrasia Street," 260,500 ", Feb 2020,0," 185,000 ", Oct 2015, 105 , Aug 2004, 878 ,,0,0,0,Newtown
+49,4/16-18 WEST FYANS Street," 325,000 ", Feb 2020,0," 188,500 ", Jul 2009, 180 , Sep 2007, 79 ,,2,1,1,Newtown
+50,313 Pakington Street," 2,400,000 ", Feb 2020,0," 790,000 ", Aug 2006, ,, 775 ,,0,0,0,Newtown
+51,3/35 Marshall Street," 524,000 ", Feb 2020,0," 251,000 ", Sep 2006, 295 , Sep 2017, 235 ,,0,0,0,Newtown
+52,299 Pitfield-Scarsdale Road," 380,000 ", Feb 2020,0, ,, ,, ,,0,0,0,Newtown
+53,109 Aberdeen Street," 890,000 ", 08 Feb 2020,1," 305,000 ", Apr 2005, 510 , Apr 2020, 543 ,,2,1,0,Newtown
+54,16 Sharp Street," 1,170,000 ", Feb 2020,0," 815,000 ", Jun 2016, ,, 870  ,  187 ,4,2,3,Newtown
+55,1/62 Bond Street," 445,000 ", Feb 2020,0," 53,000 ", Sep 1984, ,, 109 ,,0,0,0,Newtown
+56,65 Bond Street," 615,000 ", Feb 2020,0," 410,000 ", Feb 2010, 395 , Apr 2011, 162 ,,2,1,1,Newtown
+57,32 Mervyn Street," 1,004,999 ", Feb 2020,0, ,, ,, 662 ,,0,0,0,Newtown
+58,42 Laurel Bank Parade," 1,560,000 ", Feb 2020,0," 838,000 ", Dec 2012, ,, 511  ,  322 ,4,1,1,Newtown
+59,31 Fairview Avenue," 1,004,999 ", Feb 2020,0," 94,500 ", Apr 1997, ,, 477 ,,3,1,1,Newtown
+60,5 Queens Road," 1,335,000 ", Jan 2020,0," 800,000 ", Oct 2007, ,, 901  ,  263 ,4,2,2,Newtown
+61,299 Pitfield Scarsdale Road," 380,000 ", Jan 2020,0, ,, ,, ,,3,1,4,Newtown
+62,Lot 12 Haywards Road," 210,000 ", Jan 2020,0," 160,000 ", Jun 2018, ,, ,,0,0,0,Newtown
+63,Lot 1 Scarsdale Pitfield Road," 259,000 ", Jan 2020,0, ,, ,, ,,0,0,0,Newtown
+64,C/A 1 Scarsdale-Pitfield Road," 259,000 ", Jan 2020,0, ,, ,, ,,0,0,0,Newtown
+65,185 Minerva Road," 641,500 ", Jan 2020,0," 400,000 ", Jan 2014, ,, 591  ,  122 ,3,0,0,Newtown
+66,32 Cumberland Street," 765,000 ", Jan 2020,0," 440,000 ", May 2012, 350 , Apr 2014, 256 ,,3,1,1,Newtown
+67,26 Stinton Avenue," 1,225,000 ", Jan 2020,0," 1,100,000 ", Mar 2018, 290 , Mar 2006, 590  ,  178 ,3,2,2,Newtown
+68,6 Chelmsford Avenue," 650,000 ", Dec 2019,0," 345,000 ", Mar 2009, ,, 317  ,  125 ,3,2,2,Newtown
+69,6B Elcho Street," 765,000 ", Dec 2019,0, ,, 650 , Nov 2019, 528 ,,4,3,1,Newtown
+70,113a Noble Street," 1,450,000 ", Dec 2019,0," 1,225,000 ", Sep 2012, ,," 1,013 ",,5,3,4,Newtown
+71,2 Neiley Street," 902,000 ", Dec 2019,0, ,, ,, 760 ,,3,1,1,Newtown
+72,16 Russell Street," 695,000 ", Dec 2019,0," 510,000 ", Jul 2015, 450 , Apr 2019, 326 ,,3,1,1,Newtown
+73,7 Clarke Street," 1,530,000 ", Dec 2019,0," 936,000 ", Sep 2015, ,, 672 ,,4,3,1,Newtown
+74,37 Fairview Avenue," 910,000 ", 14 Dec 2019,1," 79,500 ", Jul 1997, ,, 321 ,,3,1,1,Newtown
+75,27 Cumberland Street," 685,000 ", Dec 2019,0," 158,500 ", Feb 2000, ,, 261 ,,2,2,2,Newtown
+76,2A Neiley Street," 765,000 ", 07 Dec 2019,1, ,, 440 , Apr 2015, 305 ,,3,2,1,Newtown
+77,48 Clarendon Street," 600,000 ", 07 Dec 2019,1," 417,500 ", Jun 2016, 430 , Nov 2018, 204 ,,2,1,1,Newtown
+78,330 Shannon Avenue," 965,000 ", Dec 2019,0," 112,000 ", Aug 1988, ,, 926  ,  193 ,4,2,1,Newtown
+79,3/94 Aphrasia Street," 230,000 ", Nov 2019,0," 195,000 ", Oct 2017, 240 , Feb 2019, 29 ,,0,0,0,Newtown
+80,16 Elderslie Terrace," 1,180,000 ", Nov 2019,0," 651,000 ", Nov 2012, 530 , Sep 2014, 520  ,  219 ,4,2,2,Newtown
+81,1/94 Aphrasia Street," 407,000 ", 23 Nov 2019,1," 205,000 ", Aug 2009, 320 , Feb 2012, 64 ,,0,0,0,Newtown
+82,2/71 Clarke Street," 810,000 ", Nov 2019,0," 220,000 ", May 2010, ,, 727  ,  162 ,3,2,2,Newtown
+83,4/11 Elcho Street," 220,000 ", Nov 2019,0," 105,000 ", Dec 2005, 220 , Sep 2019, 57 ,,0,0,0,Newtown
+84,4 Woodstock Street," 565,000 ", Nov 2019,0, ,, ,, ,,2,1,2,Newtown
+85,49 Bond Street," 1,350,000 ", 10 Nov 2019,1," 540,000 ", Sep 2011, 400 , Sep 2011, 490 ,,5,2,3,Newtown
+86,11 Grant Street," 832,000 ", 09 Nov 2019,1, ,, 350 , Jan 2017, 677 ,,2,1,1,Newtown
+87,4/199 Noble Street," 383,000 ", Nov 2019,0," 310,000 ", Oct 2015, 280 , Dec 2015, 99 ,,0,0,0,Newtown
+88,1/67 Nicholas Street," 730,000 ", Nov 2019,0," 550,000 ", Jul 2013, ,, 270 ,,3,2,0,Newtown
+89,250 Scarsdale-Pitfield Road," 370,000 ", Nov 2019,0, ,, ,," 2,022 ",,3,0,0,Newtown
+90,13b Craigie Road," 585,000 ", Oct 2019,0," 481,000 ", Dec 2012, ,, 292 ,,3,2,2,Newtown
+91,7/2 Aphrasia Street," 261,000 ", Oct 2019,0," 166,000 ", Aug 2007, 260 , Nov 2019, 878 ,,0,0,0,Newtown
+92,12 Churchill Avenue," 612,500 ", 26 Oct 2019,1," 225,000 ", Apr 2006, ,, 392 ,,3,1,1,Newtown
+93,82 Noble Street," 1,165,000 ", 26 Oct 2019,1," 525,000 ", Aug 2006, ,, 603 ,,4,2,2,Newtown
+94,2/96 West Fyans Street," 612,000 ", Oct 2019,0," 460,000 ", Nov 2014, 440 , Oct 2014, 141 ,,2,2,1,Newtown
+95,2A Huntingdon Street," 1,200,000 ", Oct 2019,0," 1,050,000 ", Aug 2014, 780 , Nov 2019, 266  ,  240 ,4,3,2,Newtown
+96,45 Retreat Road," 1,550,000 ", Oct 2019,0," 810,000 ", Apr 2005, ,, 704 ,,5,3,2,Newtown
+97,3/154 Skene Street," 390,000 ", Oct 2019,0," 305,000 ", Sep 2012, 330 , Nov 2019, 99 ,,0,0,0,Newtown
+98,1/8-10 Elcho Street," 310,000 ", Oct 2019,0," 173,000 ", Apr 2010, 250 , Mar 2019," 1,494 ",,0,0,0,Newtown
+99,152 West Fyans Street," 642,000 ", 19 Oct 2019,1," 60,790 ", Mar 1984, ,, 653 ,,3,2,2,Newtown
+100,139 Skene Street," 1,125,000 ", 12 Oct 2019,1, ,, ,," 1,322 ",,3,1,2,Newtown
+101,4/69A Camden Road," 350,000 ", Oct 2019,0," 127,000 ", Nov 2015, ,, 111 ,,0,0,0,Newtown
+102,8 Vista Road," 830,000 ", 12 Oct 2019,1," 86,000 ", Apr 1997, ,, 741 ,,3,1,1,Newtown
+103,3/33 Clarendon Street," 315,000 ", Oct 2019,0," 180,000 ", Aug 2007, ,, 634 ,,1,1,1,Newtown
+104,12 Elcho Street," 770,000 ", Oct 2019,0," 155,000 ", Jan 2002, 310 , Jan 2016, 698  ,  140 ,3,1,4,Newtown
+105,137 Skene Street," 671,000 ", 05 Oct 2019,1, ,, ,, 543 ,,3,1,0,Newtown
+106,18 Ballater Avenue," 590,000 ", 05 Oct 2019,1," 257,500 ", Mar 2006, ,, 623  ,  102 ,2,1,1,Newtown
+107,402 Shannon Avenue," 780,000 ", Sep 2019,0," 80,000 ", Aug 1997, ,, 697 ,,4,1,1,Newtown
+108,35 Camden Road," 873,000 ", 21 Sep 2019,1, ,, ,, 784 ,,3,2,1,Newtown
+109,38 Sandringham Parade," 648,000 ", Sep 2019,0," 610,000 ", Dec 2017, 350 , May 2012, 816 ,,3,2,2,Newtown
+110,5 Louis Court," 590,000 ", Sep 2019,0," 585,000 ", Feb 2018, ,, 743 ,,0,0,0,Newtown
+111,4 Cumberland Street," 940,000 ", Sep 2019,0," 575,000 ", Nov 2012, 390 , Aug 2009, 521 ,,3,1,2,Newtown
+112,14 Chester Street," 736,000 ", 07 Sep 2019,1, ,, ,, 603 ,,0,0,0,Newtown
+113,35 Sharp Street," 900,000 ", 07 Sep 2019,1," 535,000 ", Nov 2013, 520 , Mar 2020, 551 ,,3,2,3,Newtown
+114,6/199 Noble Street," 410,000 ", Sep 2019,0," 358,500 ", Dec 2017, 360 , Dec 2019, 97 ,,0,0,0,Newtown
+115,68 Bond Street," 586,000 ", 31 Aug 2019,1, ,, 300 , Nov 2019, 263 ,,2,1,0,Newtown
+116,2/71 Marshall Street," 985,000 ", Aug 2019,0, ,, ,, 271 ,,3,2,2,Newtown
+117,15 Blessington Street," 940,000 ", Aug 2019,0," 465,000 ", Apr 2015, 600 , Oct 2018, 324  ,  101 ,3,2,1,Newtown
+118,74 Sandringham Parade," 650,000 ", Aug 2019,0, ,, ,, 689 ,,3,1,1,Newtown
+119,2/304 Pakington Street," 640,000 ", Aug 2019,0," 152,500 ", Nov 1995, ,, 288 ,,2,1,1,Newtown
+120,23 Hermitage Road," 1,365,000 ", Aug 2019,0," 120,000 ", May 1979, 750 , Nov 2019, 660 ,,4,2,2,Newtown
+121,1/7 Churchill Avenue," 365,000 ", Aug 2019,0," 255,000 ", Mar 2015, 350 , Jul 2017, 234 ,,3,1,1,Newtown
+122,114b Aphrasia Street," 522,000 ", Aug 2019,0, ,, ,, ,,0,0,0,Newtown
+123,7 Bosanquet Avenue," 621,750 ", Aug 2019,0, ,, ,, 369 ,,3,2,1,Newtown
+124,39 Saffron Street," 1,000,000 ", Jul 2019,0," 501,000 ", Sep 2015, 340 , Oct 2013, 420 ,,3,2,2,Newtown
+125,73B Noble Street," 630,000 ", Jul 2019,0, ,, 550 , Apr 2019, 209 ,,3,2,1,Newtown
+126,28/12-14 Balcombe Road," 825,000 ", 27 Jul 2019,1, ,, 500 , Mar 2017, ,,3,2,2,Newtown
+127,4 John Place," 610,000 ", 27 Jul 2019,1, ,, ,, 147 ,,2,1,0,Newtown
+128,309 Autumn Street," 720,000 ", 27 Jul 2019,1," 415,000 ", May 2012, ,, 665 ,,3,1,2,Newtown
+129,66 Virginia Street," 1,820,000 ", Jul 2019,0," 1,425,000 ", Oct 2013, ,," 1,142 ",,4,3,4,Newtown
+130,2/73 Marshall Street," 500,000 ", Jul 2019,0," 372,500 ", Jul 2010, 345 , Nov 2015, 123 ,,3,2,2,Newtown
+131,317 Autumn Street," 535,000 ", Jul 2019,0," 393,500 ", Feb 2011, 380 , May 2018, 325  ,  107 ,3,1,1,Newtown
+132,76 Saffron Street," 715,000 ", Jul 2019,0," 165,000 ", Mar 2008, 340 , Nov 2018, 390  ,  95 ,3,1,1,Newtown
+133,40 George Street," 1,315,000 ", 10 Jul 2019,1," 1,125,000 ", Jul 2013, ,, 638 ,,4,2,1,Newtown
+134,5 Vista Road," 871,000 ", 06 Jul 2019,1," 288,000 ", Dec 2001, 340 , Apr 2014, 831  ,  163 ,3,1,6,Newtown
+135,5/155-157 Minerva Road," 269,000 ", Jul 2019,0," 205,000 ", Mar 2015, ,, 68 ,,0,0,0,Newtown
+136,185 West Fyans Street," 640,000 ", Jun 2019,0, ,, ,, 757 ,,3,2,3,Newtown
+137,48 Upper Skene Street," 656,000 ", 22 Jun 2019,1, ,, ,, 468 ,,3,1,0,Newtown
+138,118 Skene Street," 800,000 ", 22 Jun 2019,1, ,, ,, 575 ,,3,2,2,Newtown
+139,1/6 Huntingdon Street," 725,000 ", 22 Jun 2019,1," 350,000 ", Dec 2012, 490 , Aug 2019, 346 ,,3,2,2,Newtown
+140,5/41-43 Buckingham Road," 280,000 ", Jun 2019,0," 191,500 ", Feb 2008, 245 , Sep 2012, 84 ,,0,0,0,Newtown
+141,159 Minerva Road," 669,000 ", Jun 2019,0," 447,000 ", Sep 2014, 650 , Nov 2019, 374 ,,3,2,1,Newtown
+142,21 Roebuck Street," 845,000 ", 08 Jun 2019,1," 80,000 ", Nov 1984, ,, 517 ,,4,2,2,Newtown
+143,20 Manning Street," 680,000 ", Jun 2019,0," 450,000 ", Apr 2002, ,, 556 ,,3,2,1,Newtown
+144,82 Balcombe Road," 840,000 ", Jun 2019,0," 620,000 ", Aug 2013, ,, 645  ,  176 ,3,2,1,Newtown
+145,2/57 Fairview Avenue," 571,000 ", Jun 2019,0," 71,000 ", May 1985, ,, 130 ,,0,0,0,Newtown
+146,44 Clarendon Street," 1,000,000 ", May 2019,0, ,, ,, 245 ,,3,3,2,Newtown
+147,10 Whyte Court," 815,000 ", May 2019,0," 800,000 ", Oct 2015, 620 , Dec 2011, 694 ,,4,2,3,Newtown
+148,27 Gairloch Grove," 820,000 ", 25 May 2019,1," 327,500 ", Jul 2003, 270 , Oct 2009, 690 ,,2,1,1,Newtown
+149,11 Marshall Street," 689,000 ", May 2019,0," 515,000 ", Feb 2015, 290 , Jun 2009, 575  ,  105 ,3,1,2,Newtown
+150,18 Buckland Avenue," 1,310,000 ", May 2019,0," 640,000 ", Feb 2007, 850 , Jul 2019, 766  ,  212 ,4,3,1,Newtown
+151,12B Ballater Avenue," 1,064,000 ", May 2019,0, ,, 650 , Jan 2017, 303 ,,3,2,2,Newtown
+152,34 Skene Street," 800,000 ", May 2019,0, ,, ,, 604 ,,0,0,0,Newtown
+153,2/83 Camden Road," 230,000 ", May 2019,0," 177,000 ", Nov 2013, 225 , Jan 2018, 852  ,  52 ,0,0,0,Newtown
+154,2/377 Autumn Street," 625,000 ", May 2019,0," 400,000 ", Oct 2013, 540 , May 2019, 259  ,  175 ,0,0,0,Newtown
+155,13/12 Balcombe Road," 800,000 ", Apr 2019,0," 679,000 ", Jan 2015, ,," 9,857  ",  191 ,3,2,2,Newtown
+156,13 Pleasant Street," 755,000 ", Apr 2019,0, ,, ,, 382 ,,4,1,1,Newtown
+157,47 Clarke Street," 823,000 ", Apr 2019,0, ,, 370 , Jun 2016, 699 ,,3,1,1,Newtown
+158,1/1 Holyrood Avenue," 338,000 ", Apr 2019,0," 235,000 ", Nov 2010, 250 , Apr 2015, 65 ,,0,0,0,Newtown
+159,10 Cumberland Street," 1,175,000 ", Apr 2019,0," 295,000 ", Apr 1997, ,, 695  ,  200 ,4,2,3,Newtown
+160,95 Camden Road," 792,250 ", Mar 2019,0," 190,000 ", Jul 1990, ,, 780 ,,4,2,2,Newtown
+161,2A Stinton Avenue," 385,000 ", Mar 2019,0," 349,000 ", Jan 2016, 285 , Jul 2017, 897 ,,0,0,0,Newtown
+162,22/12 Balcombe Road," 700,000 ", Mar 2019,0," 230,000 ", Dec 2013, 480 , Jul 2017, 320  ,  167 ,3,2,1,Newtown
+163,6 Carmichael Avenue," 862,000 ", Mar 2019,0, ,, 580 , May 2019, 271 ,,3,2,2,Newtown
+164,5 Warwick Street," 510,000 ", 23 Mar 2019,1, ,, 320 , Feb 2017, 552 ,,3,1,0,Newtown
+165,9 Camden Road," 900,000 ", Mar 2019,0, ,, 700 , Nov 2019, 373 ,,3,2,5,Newtown
+166,355 Autumn Street," 755,000 ", Mar 2019,0," 655,000 ", Jul 2013, 650 , Jan 2019, 602 ,,4,2,3,Newtown
+167,25 Nantes Street," 1,750,000 ", Mar 2019,0," 905,000 ", Feb 2015, ,," 1,036  ",  310 ,5,2,3,Newtown
+168,21 Blessington Street," 678,000 ", 16 Mar 2019,1," 415,250 ", Mar 2013, 400 , Mar 2019, 366 ,,3,1,1,Newtown
+169,1C Carmichael Avenue," 660,000 ", Mar 2019,0," 120,000 ", Apr 2001, 370 , May 2019, 818 ,,4,1,2,Newtown
+170,134 West Fyans Street," 612,000 ", Mar 2019,0," 306,000 ", Jul 2008, ,, 340  ,  117 ,3,1,0,Newtown
+171,2/2A BALLATER Avenue," 370,000 ", Mar 2019,0," 74,000 ", Dec 1988, ,, 544 ,,0,0,0,Newtown
+172,369 Shannon Avenue," 803,500 ", Mar 2019,0," 115,000 ", Nov 1993, ,, 505 ,,4,1,2,Newtown
+173,2/4 Belfast Street," 562,000 ", 09 Mar 2019,1," 400,000 ", Apr 2010, 350 , Jul 2014, 213 ,,0,0,0,Newtown
+174,27 Chadwick Street," 682,000 ", Mar 2019,0," 390,000 ", Jul 2004, 580 , Mar 2019, 215 ,,3,2,1,Newtown
+175,63 Saffron Street," 650,000 ", 02 Mar 2019,1," 399,000 ", Jun 2013, ,, 225 ,,3,1,0,Newtown
+176,6 Bond Street," 666,000 ", Feb 2019,0," 450,000 ", Dec 2009, 500 , Jun 2019, 419 ,,3,2,1,Newtown
+177,2/33 Buckingham Road," 545,000 ", Feb 2019,0," 367,000 ", Aug 2012, 440 , May 2017, 415  ,  12 ,3,2,2,Newtown
+178,4 Pinaroo Street," 605,000 ", Feb 2019,0," 445,000 ", May 2015, 450 , Jun 2019, 409 ,,4,1,1,Newtown
+179,3/299 Autumn Street," 372,000 ", Feb 2019,0," 245,000 ", Jan 2012, 330 , Oct 2019, 101  ,  83 ,0,0,0,Newtown
+180,40 Nantes Street," 950,000 ", 16 Feb 2019,1," 148,000 ", May 1991, 475 , Jul 2019, 763 ,,3,2,2,Newtown
+181,8 Austin Terrace," 525,000 ", Feb 2019,0," 74,500 ", Jul 1995, 315 , Feb 2013, 206  ,  72 ,2,1,0,Newtown
+182,34 Stinton Avenue," 740,000 ", Feb 2019,0," 690,000 ", May 2016, 490 , Jun 2017, 438 ,,3,2,2,Newtown
+183,23 Craigie Road," 585,000 ", Feb 2019,0," 248,000 ", May 2005, 380 , Jun 2016, 689 ,,3,1,1,Newtown
+184,15 Clarendon Street," 740,000 ", Jan 2019,0," 366,000 ", Nov 2007, 370 , Jan 2016, 420 ,,3,1,2,Newtown
+185,3/16-18 West Fyans Street," 330,330 ", Jan 2019,0," 225,000 ", Aug 2015, 330 , Apr 2019, 77 ,,0,0,0,Newtown
+186,10/199 Noble Street," 365,000 ", Jan 2019,0," 65,500 ", Apr 1988, 285 , Oct 2015, 103 ,,0,0,0,Newtown
+187,45 Mervyn Street," 825,000 ", Jan 2019,0," 561,000 ", Jul 2014, 595 , Dec 2018, 561 ,,3,1,1,Newtown
+188,59 George Street," 1,700,000 ", Jan 2019,0," 575,000 ", Mar 2016," 1,100 ", Dec 2018, 575 ,,4,2,2,Newtown
+189,24 Virginia Street," 1,875,000 ", Jan 2019,0," 1,850,000 ", May 2016, 850 , Jan 2014, 514  ,  380 ,4,3,2,Newtown
+190,59a Fairview Avenue," 1,015,000 ", Dec 2018,0," 863,000 ", Nov 2011, ,, 555 ,,4,2,2,Newtown
+191,19 Camden Road," 730,000 ", Dec 2018,0," 370,000 ", Jul 2008, 420 , Apr 2019, 773  ,  130 ,3,1,2,Newtown
+192,2/22 Stinton Avenue," 472,500 ", Dec 2018,0," 247,000 ", Jul 2006, 325 , Oct 2011, 113  ,  88 ,2,1,1,Newtown
+193,4/133 Aberdeen Street," 460,000 ", Dec 2018,0," 340,000 ", Apr 2012, ,, 183 ,,0,0,0,Newtown
+194,2/319 Autumn Street," 677,500 ", Dec 2018,0," 490,000 ", Jun 2016, ,, 440 ,,4,2,1,Newtown
+195,6/11 Elcho Street," 185,000 ", Dec 2018,0," 105,000 ", Aug 2006, 185 , Dec 2015, 51 ,,0,0,0,Newtown
+196,301b Pakington Street," 1,065,000 ", Dec 2018,0, ,, ,, 394 ,,3,2,2,Newtown
+197,226 Pitfield-Scarsdale Road," 183,000 ", Dec 2018,0, ,, ,, ,,0,0,0,Newtown
+198,136 Skene Street," 1,175,000 ", Dec 2018,0," 576,000 ", Nov 2004, ,, 662 ,,4,2,2,Newtown
+199,2/4 Percy Street," 730,000 ", Dec 2018,0," 565,000 ", May 2014, ,, 402  ,  149 ,3,2,2,Newtown
+200,233-235 West Fyans Street," 925,000 ", Dec 2018,0, ,, 500 , May 2020, 684 ,,3,1,1,Newtown
+201,11 Braemar Court," 691,000 ", Dec 2018,0," 505,000 ", Sep 2016, ,, 636 ,,3,2,3,Newtown
+202,1/379 Shannon Avenue," 280,000 ", Dec 2018,0," 195,000 ", Sep 2014, 245 , Nov 2017, 62  ,  42 ,1,1,1,Newtown
+203,2c Stinton Avenue," 392,000 ", Dec 2018,0," 275,000 ", Dec 2008, 340 , Jun 2019, 169  ,  86 ,0,0,0,Newtown
+204,53 Mervyn Street," 870,000 ", Dec 2018,0," 735,000 ", Jan 2016, ,, 278  ,  147 ,3,2,1,Newtown
+205,17 Camden Road," 787,500 ", Dec 2018,0," 345,000 ", Nov 2002, 470 , Mar 2018, 728 ,,4,2,2,Newtown
+206,8 Hollyrood Avenue," 549,000 ", Dec 2018,0, ,, ,, ,,0,0,0,Newtown
+207,8 Holyrood Avenue," 549,000 ", 08 Dec 2018,1, ,, ,, 653 ,,3,1,1,Newtown
+208,74 Noble Street," 1,075,000 ", 08 Dec 2018,1," 826,000 ", Jan 2016, ,, 643 ,,5,2,2,Newtown
+209,1/52 Clarendon Street," 760,000 ", 08 Dec 2018,1," 733,600 ", Sep 2011, 420 , Jun 2012, 214 ,,3,2,1,Newtown
+210,2/138 West Fyans Street," 273,000 ", Dec 2018,0," 200,000 ", Sep 2011, 295 , Dec 2018, 55 ,,0,0,0,Newtown
+211,9/2 Aphrasia Street," 245,000 ", Dec 2018,0," 52,000 ", May 1997, 220 , Apr 2018, 878 ,,0,0,0,Newtown
+212,3/17 Aberdeen Street," 350,000 ", Dec 2018,0," 113,000 ", Jun 1997, 270 , Apr 2013, 65 ,,0,0,0,Newtown
+213,35 Grant Street," 777,000 ", 01 Dec 2018,1," 470,000 ", Jan 2015, 420 , Jan 2019, 677  ,  105 ,3,1,1,Newtown
+214,1/35 Buckingham Road," 466,000 ", Nov 2018,0, ,, 410 , Feb 2019, 337 ,,3,1,2,Newtown
+215,4/22 Percy Street," 890,000 ", Nov 2018,0, ,, 550 , Aug 2013, 309 ,,3,2,2,Newtown
+216,1 Allen Street," 370,000 ", Nov 2018,0," 125,500 ", Jun 2001, 310 , Dec 2018, 208  ,  238 ,1,1,2,Newtown
+217,45 Read Street," 1,030,000 ", 28 Nov 2018,1," 359,000 ", Jan 2008, 330 , Jul 2011, 578  ,  229 ,4,2,2,Newtown
+218,15 Braemer Court," 590,000 ", Nov 2018,0, ,, ,, ,,0,0,0,Newtown
+219,10 Shelley Avenue," 620,000 ", 24 Nov 2018,1, ,, ,, 529 ,,2,1,1,Newtown
+220,86 Prospect Road," 1,515,000 ", Nov 2018,0," 653,000 ", Oct 2007, 295 , Jan 2005, 870  ,  220 ,3,2,1,Newtown
+221,15 Braemar Court," 590,000 ", Nov 2018,0," 153,000 ", Sep 2001, 350 , Aug 2013, 576 ,,3,1,2,Newtown
+222,3 Mervyn Street," 1,250,000 ", Nov 2018,0," 255,000 ", Mar 2005, ,, 566 ,,2,1,1,Newtown
+223,16/199 Noble Street," 345,000 ", Nov 2018,0," 220,000 ", Oct 2009, 320 , Apr 2019, 104  ,  80 ,2,1,1,Newtown
+224,5/16-18 West Fyans Street," 305,000 ", Nov 2018,0," 210,000 ", Feb 2009, 180 , Nov 2009, 81 ,,0,0,0,Newtown
+225,1/304 Pakington Street," 635,000 ", Nov 2018,0," 415,000 ", May 2016, 400 , Nov 2017, 248  ,  125 ,2,1,2,Newtown
+226,11 Aphrasia Street," 1,790,000 ", Nov 2018,0, ,, ,, 190 ,,5,2,2,Newtown
+227,14 Mercer Parade," 1,325,000 ", Nov 2018,0," 147,500 ", Sep 1991, ,," 7,057 ",,6,4,2,Newtown
+228,12 Chesterfield Court," 850,000 ", 15 Nov 2018,1," 205,000 ", Sep 1988, ,, 622 ,,5,2,2,Newtown
+229,2/428 Latrobe Terrace," 295,000 ", Nov 2018,0," 165,000 ", Feb 2000, 350 , May 2019, 142 ,,0,0,0,Newtown
+230,1B Carmichael Avenue," 835,000 ", Nov 2018,0," 242,000 ", Apr 2013, ,, 369 ,,0,0,0,Newtown
+231,14 Churchill Avenue," 516,000 ", Nov 2018,0," 290,000 ", Mar 2011, ,, 392  ,  80 ,3,1,2,Newtown
+232,110A Skene Street," 972,500 ", Nov 2018,0, ,, ,, ,,0,0,0,Newtown
+233,100A Skene Street," 972,500 ", Nov 2018,0," 742,000 ", Mar 2015, ,, 291 ,,3,3,4,Newtown
+234,84 Fairview Avenue," 1,810,000 ", Nov 2018,0," 1,250,001 ", May 2013, ,," 1,016  ",  316 ,5,3,2,Newtown
+235,30 Fairmont Road," 1,250,000 ", 10 Nov 2018,1," 280,000 ", Nov 2013, ,, 647 ,,3,2,2,Newtown
+236,85 Buckingham Road," 430,000 ", 10 Nov 2018,1," 282,000 ", Oct 2012, 350 , Apr 2019, 180  ,  67 ,0,0,0,Newtown
+237,365 Shannon Avenue," 797,000 ", Nov 2018,0," 115,000 ", Sep 1990, ,, 697 ,,3,2,3,Newtown
+238,20 Sharp Street," 812,500 ", 07 Nov 2018,1," 507,500 ", Jul 2012, 400 , Mar 2011, 296  ,  123 ,3,2,1,Newtown
+239,384 Aberdeen Street," 742,000 ", 27 Oct 2018,1, ,, 400 , Oct 2013, 622 ,,3,1,2,Newtown
+240,32 Laurel Bank Parade," 1,920,000 ", 27 Oct 2018,1, ,, ,, 510 ,,4,2,2,Newtown
+241,19/54 Percy Street," 380,000 ", Oct 2018,0," 245,530 ", Apr 2013, 310 , Jan 2016, 75 ,,2,1,1,Newtown
+242,1/46 Russell Street," 589,000 ", Oct 2018,0," 521,000 ", Feb 2017, 380 , Oct 2017, 282 ,,2,2,2,Newtown
+243,1/71 Nicholas Street," 770,125 ", Oct 2018,0," 250,000 ", Aug 2006, 620 , Feb 2019, 261  ,  144 ,3,2,2,Newtown
+244,7/28 Upper Skene Street," 354,000 ", 13 Oct 2018,1," 163,000 ", Nov 2004, ,, 69 ,,0,0,0,Newtown
+245,32 William Street," 970,000 ", Oct 2018,0," 865,000 ", Apr 2017, 700 , Jan 2019, 494 ,,3,2,1,Newtown
+246,25 Stinton Avenue," 1,280,000 ", Oct 2018,0," 515,000 ", Jul 2004, ,, 763 ,,4,2,2,Newtown
+247,17 Austin Street," 945,000 ", 06 Oct 2018,1, ,, ,, 663 ,,3,1,1,Newtown
+248,39 Bond Street," 1,000,000 ", Oct 2018,0," 135,000 ", Jul 1998, ,, 608 ,,4,2,1,Newtown
+249,50 Buckingham Road," 595,000 ", Sep 2018,0," 234,000 ", Oct 2013, 400 , Dec 2019, 665 ,,3,1,3,Newtown
+250,14 Daisy Street," 1,327,500 ", 22 Sep 2018,1," 350,000 ", May 2003, ,, 723 ,,0,0,0,Newtown
+251,13 Huntingdon Street," 695,000 ", Sep 2018,0, ,, 300 , Nov 2018, 370 ,,2,1,2,Newtown
+252,24 Sharp Street," 755,000 ", 15 Sep 2018,1," 600,000 ", Mar 2016, 415 , Dec 2010," 14,407  ",  118 ,3,2,1,Newtown
+253,4 Sharp Street," 590,000 ", Sep 2018,0," 370,000 ", Apr 2011, 330 , Apr 2016, 256 ,,3,1,2,Newtown
+254,2/28 Upper Skene Street," 320,000 ", Sep 2018,0," 56,000 ", Mar 1997, 300 , Dec 2018, 63 ,,0,0,0,Newtown
+255,39 Sharp Street," 1,225,000 ", Sep 2018,0, ,, ,, 682 ,,4,3,2,Newtown
+256,74 Saffron Street," 595,000 ", 08 Sep 2018,1," 336,000 ", Nov 2009, ,, 302  ,  85 ,2,1,1,Newtown
+257,4/13-15 Glamis Street," 373,000 ", Sep 2018,0, ,, ,, 101 ,,2,1,1,Newtown
+258,64 Russell Street," 1,080,000 ", Sep 2018,0," 175,000 ", Apr 2001, ,, 481 ,,5,2,2,Newtown
+259,84 Saffron Street," 670,000 ", Aug 2018,0, ,, ,, 315 ,,2,1,2,Newtown
+260,1/28 Mercer Parade," 1,700,000 ", Aug 2018,0, ,, ,, 411 ,,3,2,2,Newtown
+261,130 Noble Street," 1,700,000 ", Aug 2018,0, ,, ,, 619 ,,5,3,2,Newtown
+262,9A Fernery Grove," 965,000 ", Aug 2018,0, ,, ,, 296 ,,3,2,2,Newtown
+263,31 Clarendon Street," 1,050,000 ", Aug 2018,0," 725,500 ", Jul 2017, ,, 419 ,,3,2,2,Newtown
+264,2/130 West Fyans Street," 450,000 ", Aug 2018,0," 129,950 ", Feb 2000, 350 , Oct 2018, 215 ,,2,1,1,Newtown
+265,1 Ascot (Cnr Mercer Prd) Street," 1,880,000 ", Aug 2018,0, ,, ,, ,,4,2,4,Newtown
+266,266 Latrobe Terrace," 495,000 ", Aug 2018,0," 400,000 ", Apr 2015, ,, 299 ,,2,1,2,Newtown
+267,2/2a Skene Street," 305,000 ", Aug 2018,0," 194,000 ", Aug 2007, 250 , Jan 2017," 1,121 ",,0,0,0,Newtown
+268,3/12 Balcombe Road," 660,000 ", Aug 2018,0," 195,000 ", Dec 2013, ,, 269 ,,3,2,1,Newtown
+269,16 Riversdale Road," 657,000 ", 11 Aug 2018,1," 222,500 ", Aug 2004, ,, 590 ,,2,1,1,Newtown
+270,8a Fernery Grove," 1,345,000 ", 11 Aug 2018,1," 1,030,000 ", Mar 2010, ,, ,,4,2,2,Newtown
+271,11/94 Aphrasia Street," 239,100 ", Aug 2018,0," 160,000 ", May 2007, 190 , Oct 2015, 45 ,,0,0,0,Newtown
+272,3/34 Nicholas Street," 540,000 ", Aug 2018,0," 185,000 ", Jun 2001, ,, 272 ,,0,0,0,Newtown
+273,15 Cairns Avenue," 805,000 ", 30 Jul 2018,1, ,, ,, 490 ,,3,2,3,Newtown
+274,450 Latrobe Terrace," 800,000 ", Jul 2018,0, ,, ,, 403 ,,4,2,2,Newtown
+275,2/67 Nicholas Street," 712,000 ", Jul 2018,0," 660,000 ", Mar 2017, ,, 273 ,,0,0,0,Newtown
+276,97 Nicholas Street," 440,000 ", Jul 2018,0, ,, ,, 84  ,  39 ,0,0,0,Newtown
+277,3a Bosanquet Avenue," 880,000 ", Jul 2018,0, ,, ,, 413 ,,3,2,2,Newtown
+278,9B Fernery Grove," 950,000 ", Jul 2018,0, ,, ,, 248 ,,3,2,2,Newtown
+279,109 Aphrasia Street," 1,500,000 ", 07 Jul 2018,1," 507,000 ", May 2012, ,, 583 ,,4,2,2,Newtown
+280,30 Chester Street," 842,000 ", Jul 2018,0," 313,500 ", Nov 2008, 550 , May 2016, 602 ,,3,2,2,Newtown
+281,5 Craigie Road," 600,000 ", Jun 2018,0, ,, ,, 689 ,,3,1,2,Newtown
+282,69 Buckingham ROAD," 685,000 ", Jun 2018,0," 430,000 ", Dec 2013, ,, 690 ,,3,1,2,Newtown
+283,29 Camden Road," 675,000 ", Jun 2018,0, ,, ,, 789 ,,3,1,2,Newtown
+284,292A Pakington Street," 900,000 ", Jun 2018,0," 400,000 ", Jun 2009, 550 , Nov 2015, 532  ,  173 ,4,2,2,Newtown
+285,109 Skene Street," 870,000 ", Jun 2018,0," 215,000 ", Oct 1994, ,, 530 ,,4,2,3,Newtown
+286,17/54 Percy Street," 392,500 ", Jun 2018,0, ,, 310 , Oct 2016, 90 ,,2,1,1,Newtown
+287,23 Austin Street," 1,020,000 ", Jun 2018,0," 250,000 ", Sep 1997, ,," 1,723 ",,0,0,0,Newtown
+288,52 Fairview Avenue," 1,700,000 ", Jun 2018,0, ,, ,," 1,115 ",,4,2,1,Newtown
+289,29 Glens Road," 365,000 ", Jun 2018,0," 320,000 ", Dec 2015, ,," 8,498 ",,3,1,6,Newtown
+290,32 Belfast Street," 1,115,000 ", Jun 2018,0," 203,000 ", Mar 2000, ,, 709  ,  187 ,4,2,2,Newtown
+291,158 Skene Street," 970,000 ", Jun 2018,0," 870,000 ", Nov 2012, ,, 396 ,,3,2,2,Newtown
+292,59 Buckingham Road," 700,000 ", 16 Jun 2018,1, ,, 380 , Sep 2019, 697 ,,3,1,1,Newtown
+293,53 Virginia Street," 1,300,000 ", Jun 2018,0," 128,750 ", Dec 1983, 495 , Aug 2018, 537 ,,3,2,1,Newtown
+294,17 Retreat Road," 2,400,000 ", Jun 2018,0," 1,550,000 ", Jul 2014, ,, 718  ,  258 ,4,2,1,Newtown
+295,61 Buckingham Road," 725,000 ", Jun 2018,0," 450,000 ", Sep 2015, 300 , Apr 2016, 688 ,,3,2,2,Newtown
+296,1/26 Mercer Parade," 2,075,000 ", Jun 2018,0," 1,550,000 ", Feb 2000, ,, 447  ,  253 ,0,0,0,Newtown

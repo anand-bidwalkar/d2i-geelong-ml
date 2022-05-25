@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,4/44 Myers Street,"Sold $510,000 in Sep 2020", , , , 
+1,9 The Esplanade,"Sold $2,375,000 in 29 Aug 2020(Auction)", , ,House: , 
+2,158 Garden Street,"Sold $1,240,000 in Aug 2020","Last Sold $155,000 in Aug 2001", ,House: 3  1  1 ,Land size: 667 sqm | Building size: 214 sqm
+3,86 Sydney Parade,"Sold $560,000 in 15 Aug 2020(Auction)","Last Sold $65,000 in Mar 1996", ,House: 3  ,Land size: 319 sqm
+4,2/52 Mundy Street,"Sold $720,000 in Aug 2020","Last Sold $657,000 in Jan 2016",Rent $500pw in Sep 2014,Townhouse: 5  2  2 ,Land size: 410 sqm
+5,144 Corio Street,"Sold $1,325,000 in Aug 2020","Last Sold $675,000 in Oct 2011(Auction)", ,House: 3  1  2 ,Land size: 305 sqm | Building size: 115 sqm
+6,158 Kilgour Street,"Sold $855,000 in 25 Jul 2020(Auction)","Last Sold $113,000 in Aug 1991", ,House: 3  1  2 ,Land size: 561 sqm | Building size: 174 sqm
+7,1104/18-20 Cavendish Street,"Sold $735,000 in Jul 2020", , , , 
+8,91 Swanston Street,"Sold $725,000 in 18 Jul 2020(Auction)","Last Sold $430,000 in Jan 2010",Rent $460pw in Feb 2010,House: 4  1  1 ,Land size: 398 sqm | Building size: 134 sqm
+9,404/18-20 Cavendish Street,"Sold $752,500 in Jul 2020", , , , 
+10,103/64-66 Eastern Beach Road,"Sold $850,000 in Jul 2020", , , , 
+11,2/250 Myers Street,"Sold $440,000 in Jul 2020","Last Sold $305,000 in Jul 2015",Rent $360pw in Aug 2020,Townhouse: 2  1  1 ,Land size: 148 sqm
+12,103/64 Eastern Beach Road,"Sold $850,000 in Jul 2020", , , , 
+13,5/96 Mercer Street,"Sold $389,000 in Jul 2020","Last Sold $315,000 in Dec 2014",Rent $280pw in Oct 2011, ,Land size: 716 sqm
+14,9/50 Eastern Beach Road,"Sold $625,000 in Jun 2020","Last Sold $370,000 in Apr 2009",Rent $360pw in Jan 2018, ,"Land size: 1,187 sqm"
+15,614/148 Bellerine Street,"Sold $750,000 in Jun 2020", , , , 
+16,2-4 Maud Street,"Sold $595,000 in Jun 2020","Last Sold $145,000 in Feb 2002", ,House: ,Land size: 290 sqm
+17,205/146 Bellerine Street,"Sold $540,000 in Jun 2020", , , , 
+18,71 Fitzroy Street,"Sold $1,050,000 in 07 May 2020(Auction)","Last Sold $748,500 in Oct 2014(Auction)",Rent $550pw in Feb 2015,House: 4  2  2 ,Land size: 538 sqm | Building size: 192 sqm
+19,4/15 Mundy Street,"Sold $437,500 in Apr 2020","Last Sold $240,000 in Oct 2009",Rent $295pw in Apr 2016,House: 2  1  1 ,Land size: 168 sqm
+20,2205/2 Yarra Street,"Sold $660,000 in Apr 2020","Last Sold $600,000 in Jan 2016",Rent $650pw in May 2019, ,"Land size: 2,737 sqm | Building size: 125 sqm"
+21,206 Myers Street,"Sold $2,155,000 in Mar 2020","Last Sold $233,500 in Nov 1993", , ,Land size: 919 sqm
+22,13 Vincent Avenue,"Sold $1,235,500 in Mar 2020","Last Sold $730,000 in Aug 2014(Auction)", ,House: 3  2  4 ,Land size: 564 sqm
+23,707/53 Mercer Street,"Sold $1,600,000 in Mar 2020", , , , 
+24,12 Richmond Crescent,"Sold $1,016,999 in Mar 2020","Last Sold $316,000 in Aug 2013(Auction)", ,House: 3  1  2 ,Land size: 519 sqm | Building size: 293 sqm
+25,5 Lake Street,"Sold $990,000 in Mar 2020","Last Sold $680,000 in Oct 2010",Rent $500pw in Feb 2009,House: 3  2  1 ,Land size: 332 sqm
+26,408/146 Bellerine Street,"Sold $661,000 in Feb 2020", , , , 
+27,4/17 The Esplanade,"Sold $550,000 in Feb 2020","Last Sold $183,880 in Dec 2000", , ,"Land size: 1,046 sqm"
+28,56 Sydney Parade,"Sold $615,000 in 22 Feb 2020(Auction)","Last Sold $385,000 in Sep 2013",Rent $450pw in Mar 2020,House: 2  1  1 ,Land size: 229 sqm
+29,2/3 Kilgour Court,"Sold $690,000 in Feb 2020","Last Sold $525,000 in May 2012",Rent $550pw in Dec 2018,Townhouse: 3  2  2 ,Land size: 218 sqm
+30,203/8-10 McLarty Place,"Sold $510,000 in Feb 2020", ,Rent $410pw in Nov 2016, ,Land size: 565 sqm
+31,2/4 Richmond Court,"Sold $810,000 in 08 Feb 2020(Auction)", , ,Townhouse: ,Land size: 226 sqm
+32,1/50 Eastern Beach Road,"Sold $616,000 in 08 Feb 2020(Auction)","Last Sold $199,000 in Jul 1994",Rent $210pw in Feb 2010, ,"Land size: 1,187 sqm"
+33,901/120 Brougham Street,"Sold $2,600,000 in Feb 2020","Last Sold $2,250,000 in Aug 2010", , ,Land size: 934 sqm
+34,10/141-143 Yarra Street,"Sold $626,000 in Feb 2020", , , ,Land size: 596 sqm
+35,4 Brownbill Street,"Sold $620,000 in 01 Feb 2020(Auction)", , ,House: ,Land size: 370 sqm
+36,49 Mundy Street,"Sold $750,000 in 01 Feb 2020(Auction)","Last Sold $225,000 in May 2001",Rent $400pw in Dec 2014,House: 3  1  ,Land size: 312 sqm
+37,508/53 Mercer Street,"Sold $979,500 in Jan 2020", , , , 
+38,49 Fitzroy Street,"Sold $491,500 in Dec 2019", , ,House: 1  1  ,Land size: 406 sqm
+39,7/50 Eastern Beach Road,"Sold $471,000 in Dec 2019","Last Sold $143,000 in Jan 1998",Rent $330pw in Mar 2017, ,"Land size: 1,187 sqm"
+40,3 Storrer Street,"Sold $615,000 in 07 Dec 2019(Auction)","Last Sold $90,000 in Oct 1994", ,House: 3  1  1 ,Land size: 303 sqm | Building size: 100 sqm
+41,9/4 Fitzroy Street,"Sold $359,000 in Dec 2019","Last Sold $305,000 in Apr 2014",Rent $280pw in Mar 2015, ,Land size: 799 sqm
+42,209/146-148 Bellerine Street,"Sold $442,000 in Nov 2019", , ,Townhouse: , 
+43,1/4-10 Benson Street,"Sold $456,380 in Nov 2019", , , ,Land size: 140 sqm
+44,3/154 Bellerine Street,"Sold $299,000 in Nov 2019","Last Sold $250,000 in Nov 2016",Rent $280pw in Sep 2015, ,Land size: 999 sqm
+45,5 Little Kilgour Street,"Sold $537,000 in 26 Oct 2019(Auction)","Last Sold $81,000 in Aug 1987",Rent $380pw in Nov 2019,House: 3  1  1 ,Land size: 307 sqm
+46,80 Keera Street,"Sold $640,000 in 26 Oct 2019(Auction)","Last Sold $373,200 in Mar 2013",Rent $480pw in Nov 2019,House: 3  1  4 ,Land size: 696 sqm | Building size: 124 sqm
+47,38 Henry Street,"Sold $800,000 in 12 Oct 2019(Auction)","Last Sold $241,000 in Aug 2001",Rent $390pw in Apr 2012,House: 3  1  1 ,Land size: 424 sqm | Building size: 120 sqm
+48,81 McKillop Street,"Sold $740,000 in 12 Oct 2019(Auction)","Last Sold $405,000 in Mar 2010", ,House: 3  1  2 ,Land size: 532 sqm | Building size: 92 sqm
+49,2 Richmond Street,"Sold $658,000 in 05 Oct 2019(Auction)","Last Sold $249,000 in Jun 2007",Rent $295pw in Apr 2015,House: 3  1  1 ,Land size: 539 sqm
+50,2305/2 Yarra Street,"Sold $450,000 in Sep 2019","Last Sold $360,000 in Apr 2010(Auction)",Rent $500pw in Jan 2018, ,"Land size: 2,737 sqm"
+51,2506/2 Yarra Street,"Sold $1,800,000 in Sep 2019","Last Sold $1,650,000 in Oct 2005", , ,"Land size: 2,737 sqm"
+52,304/8 Gheringhap Street,"Sold $660,000 in Sep 2019","Last Sold $580,000 in Mar 2011",Rent $600pw in Nov 2018, ,Land size: 774 sqm | Building size: 140 sqm
+53,29 Spring Street,"Sold $620,000 in Sep 2019", , , , 
+54,217 Little Malop Street,"Sold $847,000 in 24 Aug 2019(Auction)", ,Rent $460pw in Nov 2019,House: 2  1  2 ,Land size: 428 sqm
+55,5/15 Mundy Street,"Sold $440,000 in Aug 2019","Last Sold $407,000 in Oct 2017",Rent $345pw in Oct 2013,Townhouse: 2  1  1 ,Land size: 159 sqm | Building size: 75 sqm
+56,1/11 York Street,"Sold $800,000 in Aug 2019","Last Sold $602,000 in Mar 2014",Rent $580pw in Oct 2013,Townhouse: 3  3  1 ,Land size: 527 sqm
+57,126 Swanston Street,"Sold $532,000 in 17 Aug 2019(Auction)","Last Sold $90,000 in Feb 1994",Rent $380pw in Nov 2019,House: 2  1  ,Land size: 331 sqm
+58,223 Bellerine Street,"Sold $701,500 in 17 Aug 2019(Auction)","Last Sold $149,950 in Nov 1999",Rent $460pw in Nov 2019,House: 3  1  ,Land size: 238 sqm | Building size: 116 sqm
+59,8 Vincent Avenue,"Sold $1,050,000 in 16 Aug 2019(Auction)","Last Sold $624,000 in Oct 2006", ,House: 3  2  2 ,Land size: 552 sqm
+60,9 Hamblings Lane,"Sold $780,000 in Aug 2019", ,Rent $640pw in May 2019,House: 3  2  2 , 
+61,170 Yarra Street,"Sold $850,000 in Jul 2019","Last Sold $730,000 in Apr 2016", ,House: 4  3  3 ,Land size: 658 sqm
+62,2/44 Myers Street,"Sold $500,000 in Jul 2019", ,Rent $350pw in May 2017, ,Land size: 48 sqm
+63,4 Star Street,"Sold $700,000 in Jul 2019","Last Sold $455,000 in Dec 2015(Auction)", , ,Land size: 147 sqm | Building size: 90 sqm
+64,304/100 Western Beach Road,"Sold $630,000 in Jul 2019","Last Sold $575,000 in Feb 2000",Rent $470pw in Oct 2018, ,Land size: 992 sqm
+65,6 Heaths Lane,"Sold $525,000 in Jul 2019","Last Sold $275,000 in Mar 2009", ,Townhouse: 1  1  ,Land size: 65 sqm
+66,168 Yarra Street,"Sold $905,000 in Jul 2019","Last Sold $486,000 in Jul 2005",Rent $540pw in Dec 2016,House: 5  2  2 ,Land size: 665 sqm
+67,14 Mckillop Street,"Sold $700,000 in 01 Jul 2019(Auction)","Last Sold $300,000 in May 2008", ,House: 3  1  4 ,Land size: 593 sqm
+68,38 Bourke Crescent,"Sold $485,000 in 29 Jun 2019(Auction)","Last Sold $260,000 in Nov 2007",Rent $290pw in Aug 2017,House: 3  1  1 ,Land size: 192 sqm
+69,46 Bourke Crescent,"Sold $722,500 in 22 Jun 2019(Auction)","Last Sold $288,000 in Sep 2003", ,House: 3  2  ,Land size: 27 sqm
+70,205/16-18 The Esplanade South,"Sold $460,000 in Jun 2019", , , , 
+71,8/155 Verner Street,"Sold $291,000 in Jun 2019","Last Sold $132,000 in Nov 2006",Rent $250pw in Feb 2017, ,Land size: 946 sqm
+72,13 England Street,"Sold $1,100,000 in Jun 2019","Last Sold $635,000 in Mar 2006", ,House: 3  2  1 ,Land size: 120 sqm
+73,19 The Esplanade South,"Sold $720,000 in May 2019", ,Rent $650pw in Jan 2020,House: 2  1  1 , 
+74,205/110 Brougham Street,"Sold $1,130,000 in May 2019","Last Sold $830,000 in Apr 2007",Rent $850pw in Nov 2008,Townhouse: 3  2  2 ,"Land size: 1,233 sqm"
+75,404/100 Western Beach Road,"Sold $520,000 in May 2019","Last Sold $461,000 in Oct 2012",Rent $500pw in Jan 2020, ,Land size: 992 sqm
+76,204/8-10 McLarty Place,"Sold $460,000 in May 2019","Last Sold $450,000 in Jul 2015",Rent $470pw in Jun 2019, ,Land size: 566 sqm
+77,4/4 Mercer Street,"Sold $636,000 in 04 May 2019(Auction)","Last Sold $450,000 in Jul 2010",Rent $450pw in Sep 2019,Townhouse: 3  2  2 ,Land size: 723 sqm | Building size: 124 sqm
+78,12B Western Beach Road,"Sold $2,380,000 in 13 Apr 2019(Auction)","Last Sold $305,000 in Dec 1998", ,House: 3  2  2 ,Land size: 318 sqm | Building size: 282 sqm
+79,220 Myers Street,"Sold $535,000 in 06 Apr 2019(Auction)","Last Sold $350,000 in Oct 2011",Rent $400pw in Sep 2019,House: 2  1  1 ,Land size: 180 sqm | Building size: 64 sqm
+80,9/17a The Esplanade,"Sold $599,000 in Mar 2019", ,Rent $380pw in May 2019, ,Land size: 978 sqm
+81,3/44 Myers Street,"Sold $500,000 in Mar 2019", ,Rent $380pw in Mar 2019, ,Land size: 48 sqm
+82,21 Alexandra Avenue,"Sold $805,000 in Mar 2019", ,Rent $320pw in Oct 2016,House: 3  2  ,Land size: 460 sqm
+83,8/4 Fitzroy Street,"Sold $338,600 in Mar 2019","Last Sold $297,000 in Nov 2012",Rent $270pw in Jun 2018,House: 1  1  1 ,Land size: 799 sqm
+84,701/8 Gheringhap Street,"Sold $430,000 in Mar 2019","Last Sold $380,000 in Dec 2013", , ,Land size: 776 sqm | Building size: 75 sqm
+85,4 Richmond Crescent,"Sold $840,000 in 02 Mar 2019(Auction)","Last Sold $570,000 in Mar 2011",Rent $550pw in Mar 2018,House: 4  2  3 ,Land size: 642 sqm | Building size: 170 sqm
+86,2 Hope Street,"Sold $680,000 in Mar 2019","Last Sold $80,000 in Apr 1996",Rent $430pw in Nov 2018,House: 3  2  2 ,Land size: 217 sqm
+87,1104/44 Ryrie Street,"Sold $685,000 in Feb 2019", , , , 
+88,1204/44 Ryrie Street,"Sold $735,000 in Feb 2019", , , , 
+89,1303/44 Ryrie Street,"Sold $785,000 in Feb 2019", , , , 
+90,1403/44 Ryrie Street,"Sold $895,000 in Feb 2019", , , , 
+91,1101/44 Ryrie Street,"Sold $1,788,950 in Feb 2019", , , , 
+92,5/250 Malop Street,"Sold $749,000 in Feb 2019","Last Sold $552,000 in Jun 2015(Auction)", ,House: 3  1  2 ,Land size: 304 sqm
+93,1/96 Mercer Street,"Sold $445,000 in Feb 2019","Last Sold $355,000 in Jun 2013",Rent $370pw in Feb 2019, ,Land size: 716 sqm | Building size: 82 sqm
+94,101/8-10 McLarty Place,"Sold $547,500 in Feb 2019", , , ,Land size: 565 sqm
+95,2/67 Sydney Parade,"Sold $690,000 in 16 Feb 2019(Auction)","Last Sold $495,000 in Feb 2011",Rent $450pw in Nov 2014, ,Land size: 210 sqm | Building size: 155 sqm
+96,1/17 Brownbill Street,"Sold $520,000 in Feb 2019","Last Sold $325,000 in Jun 2008", ,Townhouse: 2  1  1 ,Land size: 298 sqm
+97,3/242 Ryrie Street,"Sold $850,000 in Feb 2019","Last Sold $195,000 in Dec 2001", ,Townhouse: 3  3  2 ,Land size: 174 sqm
+98,18-20 Cavendish Street,"Sold $599,900 in Feb 2019", , , ,"Land size: 2,032 sqm"
+99,17 England Street,"Sold $1,345,000 in Feb 2019","Last Sold $1,300,000 in Jul 2017(Auction)",Rent $900pw in May 2019,House: 3  2  1 ,Land size: 119 sqm
+100,14 Ryrie Street,"Sold $725,000 in Feb 2019","Last Sold $595,000 in Jun 2014", ,House: 4  1  3 ,Land size: 548 sqm | Building size: 175 sqm
+101,297A Malop (cnr Pevensey Crs) Street,"Sold $495,000 in Jan 2019", , ,Townhouse: 2  1  , 
+102,370 Ryrie Street,"Sold $837,000 in Jan 2019","Last Sold $77,000 in Apr 1987", ,House: 3  1  2 ,Land size: 506 sqm
+103,15 Adams Place,"Sold $633,000 in Jan 2019","Last Sold $545,000 in Jul 2011",Rent $460pw in Oct 2017,Townhouse: 3  1  2 ,Land size: 182 sqm | Building size: 141 sqm
+104,82 Fitzroy Street,"Sold $785,000 in Dec 2018","Last Sold $575,000 in Feb 2014(Auction)",Rent $400pw in Feb 2010,House: 3  2  2 ,Land size: 132 sqm | Building size: 126 sqm
+105,7/2 Pevensey Street,"Sold $395,000 in Dec 2018","Last Sold $232,000 in May 2006",Rent $270pw in Aug 2018, ,Land size: 740 sqm
+106,198 Garden Street,"Sold $640,000 in Dec 2018","Last Sold $120,000 in Mar 2000", ,House: 3  1  5 ,Land size: 554 sqm
+107,7/44 Myers Street,"Sold $520,000 in Dec 2018", ,Rent $450pw in Feb 2019, ,Land size: 48 sqm
+108,16 Henry Street,"Sold $586,000 in 15 Dec 2018(Auction)", , ,House: 2  1  ,Land size: 421 sqm
+109,303/64 Eastern Beach Road,"Sold $1,100,000 in 15 Dec 2018(Auction)", ,Rent $620pw in Feb 2019, , 
+110,303/64-66 Eastern Beach Road,"Sold $1,100,000 in 15 Dec 2018(Auction)", , , , 
+111,103 Swanston Street,"Sold $888,000 in Dec 2018","Last Sold $375,000 in Jan 2005", ,House: 3  2  1 ,Land size: 456 sqm
+112,6 Richmond Street,"Sold $722,500 in 15 Dec 2018(Auction)","Last Sold $558,000 in Oct 2014(Auction)", ,House: 3  2  2 ,Land size: 523 sqm | Building size: 121 sqm
+113,73 Swanston Street,"Sold $637,000 in Dec 2018","Last Sold $420,000 in Nov 2012",Rent $395pw in Nov 2016,House: 3  2  2 ,Land size: 427 sqm | Building size: 139 sqm
+114,301/120 Brougham Street,"Sold $830,000 in Dec 2018","Last Sold $650,000 in Apr 2012",Rent $590pw in Jul 2012, ,Land size: 934 sqm | Building size: 135 sqm
+115,8/73-75 Maud Street,"Sold $467,500 in 01 Dec 2018(Auction)","Last Sold $230,000 in Apr 2006",Rent $300pw in Oct 2016, ,Land size: 218 sqm
+116,8/73 Maud Street,"Sold $467,500 in 01 Dec 2018(Auction)","Last Sold $230,000 in Apr 2006", , ,Land size: 218 sqm
+117,6/44 Myers Street,"Sold $512,500 in Nov 2018", ,Rent $450pw in Dec 2018, ,Land size: 48 sqm
+118,19 Pevensey Crescent,"Sold $1,890,000 in Nov 2018","Last Sold $825,000 in May 2003",Rent $850pw in Jan 2019,House: 4  3  3 ,"Land size: 1,124 sqm"
+119,2/79 McKillop Street,"Sold $789,000 in Nov 2018","Last Sold $660,000 in Jan 2016",Rent $475pw in Apr 2009,Townhouse: 3  2  2 ,Land size: 239 sqm | Building size: 211 sqm
+120,12 Western Beach Road,"Sold $1,190,000 in Nov 2018","Last Sold $825,000 in Dec 2003",Rent $750pw in Mar 2020,House: 3  2  2 ,Land size: 210 sqm
+121,5/35 Mundy Street,"Sold $430,000 in Nov 2018","Last Sold $215,000 in Apr 2009",Rent $280pw in Apr 2017, ,Land size: 184 sqm
+122,301/8 Gheringhap Street,"Sold $390,000 in Nov 2018","Last Sold $358,000 in May 2011",Rent $320pw in Aug 2017, ,Land size: 774 sqm
+123,85 Maud Street,"Sold $1,520,000 in Nov 2018","Last Sold $116,000 in Dec 1991", ,House: 5  2  4 ,Land size: 447 sqm
+124,72 Bellerine Street,"Sold $1,950,000 in 17 Nov 2018(Auction)", , , ,Land size: 751 sqm
+125,125 Mckillop Street,"Sold $780,000 in 17 Nov 2018(Auction)","Last Sold $60,000 in Dec 1996", ,House: 3  1  2 ,Land size: 512 sqm
+126,1-6/72 Bellerine Street,"Sold $1,950,000 in 17 Nov 2018(Auction)","Last Sold $1,510,000 in Dec 2014(Auction)",Rent $300pw in Oct 2016, , 
+127,193 Kilgour Street,"Sold $907,000 in 17 Nov 2018(Auction)","Last Sold $480,000 in Oct 2010(Auction)",Rent $600pw in Jul 2019,House: 4  2  2 ,Land size: 480 sqm | Building size: 165 sqm
+128,112/6-8 Eastern Beach Road,"Sold $412,000 in Nov 2018", ,Rent $360pw in Dec 2010,House: 1  1  1 , 
+129,2/27 Richmond Crescent,"Sold $555,000 in Nov 2018","Last Sold $442,500 in Dec 2012",Rent $455pw in Jan 2019,Townhouse: 2  2  2 ,Land size: 226 sqm
+130,6/17 The Esplanade,"Sold $543,000 in Nov 2018","Last Sold $375,000 in Nov 2013",Rent $300pw in Oct 2013, ,"Land size: 1,046 sqm"
+131,213 Myers Street,"Sold $520,000 in Nov 2018","Last Sold $362,500 in Jun 2010",Rent $420pw in Jan 2020,House: 2  1  1 ,Land size: 269 sqm
+132,22/61 Brougham Street,"Sold $1,400,000 in Oct 2018","Last Sold $725,000 in Dec 1998", , ,Land size: 829 sqm | Building size: 174 sqm
+133,6 Davison Place,"Sold $710,000 in Oct 2018","Last Sold $195,000 in Aug 2010", ,Townhouse: 2  1  1 ,Land size: 166 sqm
+134,19/61 Brougham Street,"Sold $935,000 in 27 Oct 2018(Auction)","Last Sold $330,000 in Sep 1996",Rent $500pw in Mar 2005, ,Land size: 829 sqm
+135,109 Maud Street,"Sold $670,000 in Oct 2018","Last Sold $570,000 in Dec 2016(Auction)",Rent $410pw in Nov 2018,House: 3  1  3 ,Land size: 412 sqm
+136,19 Board Place,"Sold $815,000 in 13 Oct 2018(Auction)","Last Sold $440,000 in May 2009", ,House: 3  1  ,Land size: 434 sqm
+137,77 Little Myers Street,"Sold $635,000 in 13 Oct 2018(Auction)","Last Sold $84,000 in Aug 1997", ,House: 3  1  1 ,Land size: 161 sqm
+138,4/50 Eastern Beach Road,"Sold $499,000 in Oct 2018","Last Sold $312,000 in Dec 2011",Rent $365pw in Jan 2017, ,"Land size: 1,187 sqm"
+139,135 Verner Street,"Sold $990,000 in Oct 2018","Last Sold $521,000 in Sep 2016(Auction)",Rent $310pw in Feb 2012,House: 3  1  1 ,Land size: 542 sqm
+140,403/120 Brougham Street,"Sold $975,000 in Oct 2018","Last Sold $750,000 in May 2013(Auction)", , ,Land size: 934 sqm | Building size: 123 sqm
+141,371 Ryrie Street,"Sold $1,637,500 in Oct 2018","Last Sold $1,450,000 in Mar 2015(Auction)",Rent $600pw in Jul 2015,House: 4  2  2 ,"Land size: 1,154 sqm | Building size: 267 sqm"
+142,364 Ryrie Street,"Sold $815,000 in Oct 2018","Last Sold $400,000 in Sep 2006",Rent $510pw in Jan 2019,House: 3  1  2 ,Land size: 169 sqm
+143,13 Sydney Avenue,"Sold $1,300,000 in Oct 2018","Last Sold $682,500 in Jun 2011", ,House: 3  2  2 ,Land size: 574 sqm | Building size: 196 sqm
+144,1 Pevensey Crescent,"Sold $1,475,000 in Sep 2018","Last Sold $710,000 in Feb 2004", ,House: 3  2  1 ,Land size: 455 sqm
+145,703/8 Gheringhap Street,"Sold $480,000 in Sep 2018","Last Sold $415,000 in Nov 2014",Rent $425pw in Apr 2016, ,Land size: 774 sqm
+146,100 Swanston Street,"Sold $660,000 in Sep 2018","Last Sold $390,500 in Nov 2012",Rent $250pw in Sep 2007,House: 3  1  1 ,Land size: 324 sqm | Building size: 119 sqm
+147,14 Brownbill Street,"Sold $790,000 in 15 Sep 2018(Auction)","Last Sold $79,000 in Sep 1988",Rent $575pw in Mar 2020,House: 2  2  1 ,Land size: 465 sqm
+148,172 Bellerine Street,"Sold $670,000 in 15 Sep 2018(Auction)","Last Sold $422,000 in Mar 2012",Rent $450pw in Jan 2019,House: 3  1  2 ,Land size: 287 sqm
+149,1/140 Gheringhap Street,"Sold $600,000 in Sep 2018","Last Sold $432,000 in Jun 2007", ,House: 3  2  1 ,Land size: 119 sqm
+150,24 Park Street,"Sold $1,120,000 in 08 Sep 2018(Auction)", ,Rent $320pw in Jul 2020,House: 4  2  2 ,Land size: 767 sqm
+151,5 Vincent Avenue,"Sold $1,260,000 in Sep 2018","Last Sold $1,150,000 in Feb 2017", ,House: 4  2  2 ,Land size: 562 sqm
+152,160 Gheringhap Street,"Sold $595,000 in 01 Sep 2018(Auction)","Last Sold $340,000 in Dec 2009",Rent $340pw in Jan 2011,House: 3  2  1 ,Land size: 221 sqm | Building size: 127 sqm
+153,504/8 Gheringhap Street,"Sold $720,000 in Aug 2018","Last Sold $583,000 in Apr 2014",Rent $600pw in Nov 2018,House: 3  2  1 ,Land size: 774 sqm | Building size: 116 sqm
+154,304/8 Mclarty Place,"Sold $555,000 in Aug 2018","Last Sold $420,000 in Nov 2014", ,House: 2  1  1 ,Land size: 565 sqm | Building size: 86 sqm
+155,6/141 Yarra Street,"Sold $520,000 in Aug 2018","Last Sold $510,000 in Aug 2012",Rent $430pw in Mar 2015, ,Land size: 323 sqm
+156,102/64-66 Eastern Beach Road,"Sold $980,000 in 25 Aug 2018(Auction)","Last Sold $771,000 in Nov 2008",Rent $495pw in Jan 2018, , 
+157,102/64 Eastern Beach Road,"Sold $980,000 in 25 Aug 2018(Auction)","Last Sold $771,000 in Nov 2008",Rent $495pw in Feb 2018, ,"Land size: 2,538 sqm"
+158,6/141-143 Yarra Street,"Sold $520,000 in Aug 2018","Last Sold $510,000 in Aug 2012",Rent $430pw in Mar 2015,House: 2  2  1 ,Land size: 596 sqm
+159,5/73-75 Maud Street,"Sold $441,000 in 18 Aug 2018(Auction)","Last Sold $215,000 in Mar 2007",Rent $345pw in Jun 2017, ,Land size: 204 sqm
+160,5/73 Maud Street,"Sold $441,000 in 18 Aug 2018(Auction)","Last Sold $215,000 in Mar 2007",Rent $335pw in Jan 2018, ,Land size: 204 sqm
+161,1 Stringers Lane,"Sold $1,130,000 in Aug 2018","Last Sold $65,000 in Aug 1998", ,House: 3  2  2 ,Land size: 448 sqm
+162,136 Fitzroy Street,"Sold $681,000 in Aug 2018","Last Sold $450,000 in Jun 2016(Auction)", ,House: 3  1  1 ,Land size: 391 sqm
+163,4702/4 Yarra Street,"Sold $555,000 in Aug 2018","Last Sold $441,000 in 2009",Rent $395pw in Feb 2008, ,"Land size: 2,737 sqm"
+164,184 Garden Street,"Sold $730,000 in 04 Aug 2018(Auction)","Last Sold $546,000 in Apr 2011",Rent $480pw in Oct 2016,House: 3  2  1 ,Land size: 359 sqm | Building size: 149 sqm
+165,2/11 York Street,"Sold $805,000 in 04 Aug 2018(Auction)","Last Sold $580,000 in Apr 2014", ,Townhouse: 3  3  1 ,Land size: 527 sqm
+166,404/120 Brougham Street,"Sold $920,000 in Aug 2018","Last Sold $830,000 in Mar 2011(Auction)", , ,Land size: 934 sqm | Building size: 119 sqm
+167,402/100 Western Beach Road,"Sold $525,000 in Jul 2018", ,Rent $450pw in Jun 2019, ,Land size: 992 sqm
+168,11 FAGGS Place,"Sold $640,000 in 28 Jul 2018(Auction)","Last Sold $485,000 in Dec 2015",Rent $460pw in Oct 2018,House: 3  2  1 ,Land size: 154 sqm
+169,601/120 Brougham Street,"Sold $1,310,000 in Jun 2018","Last Sold $1,000,000 in Mar 2008",Rent $300pw in Jun 2012,Townhouse: 2  2  1 ,Land size: 934 sqm
+170,230 Verner Street,"Sold $720,000 in Jun 2018", , , , 
+171,40 Bourke Crescent,"Sold $840,000 in Jun 2018","Last Sold $577,500 in Sep 2014",Rent $495pw in Jul 2018,House: 3  2  1 ,Land size: 285 sqm
+172,3/37 Francis Street,"Sold $387,000 in Jun 2018", , , , 
+173,4 Suttons Lane,"Sold $656,000 in Jun 2018","Last Sold $575,000 in May 2017",Rent $390pw in Sep 2012,House: 3  2  2 ,Land size: 272 sqm
+174,151 Swanston Street,"Sold $581,000 in Jun 2018","Last Sold $272,500 in Jun 2009",Rent $335pw in Nov 2015,House: 2  1  1 ,Land size: 251 sqm
+175,29 Faggs Place,"Sold $674,000 in Jun 2018","Last Sold $460,000 in Jul 2013", ,House: 3  2  1 ,Land size: 155 sqm
+176,16 Brownbill Street,"Sold $655,000 in Jun 2018", , ,House: 3  1  1 ,Land size: 465 sqm
+177,42 Mundy Street,"Sold $950,000 in May 2018","Last Sold $198,622 in Jan 2004", ,House: 3  2  2 ,Land size: 210 sqm | Building size: 133 sqm
+178,3/35 Spring Street,"Sold $550,000 in May 2018", , , , 
+179,5/154 Bellerine Street,"Sold $300,000 in May 2018","Last Sold $271,858 in May 2014",Rent $305pw in Jan 2019, ,Land size: 999 sqm
+180,402/8 Gheringhap Street,"Sold $350,000 in May 2018","Last Sold $338,000 in Sep 2016",Rent $320pw in Mar 2017, ,Land size: 774 sqm | Building size: 54 sqm
+181,53 Little Ryrie Street,"Sold $810,000 in May 2018", , ,Townhouse: 3  2  2 ,Land size: 159 sqm
+182,148 Verner Street,"Sold $900,000 in May 2018","Last Sold $270,000 in Aug 2005",Rent $320pw in Jan 2008,House: 4  2  3 ,Land size: 435 sqm | Building size: 150 sqm
+183,141 Verner Street,"Sold $1,240,000 in May 2018","Last Sold $194,000 in Jun 2000",Rent $750pw in Jul 2018,House: 3  2  1 ,Land size: 516 sqm
+184,410/6 Bellarine Street,"Sold $660,000 in May 2018", , , , 
+185,410/6 Bellerine Street,"Sold $660,000 in May 2018", , , , 
+186,71 Carr Street,"Sold $494,500 in Apr 2018", ,Rent $320pw in May 2018,House: 3  1  1 ,Land size: 420 sqm
+187,243 Bellerine Street,"Sold $745,000 in Apr 2018","Last Sold $135,000 in Dec 1996",Rent $430pw in Jun 2019,House: 3  2  1 ,Land size: 378 sqm
+188,305/120 Brougham Street,"Sold $890,000 in Apr 2018","Last Sold $729,000 in Mar 2012",Rent $575pw in Aug 2011, ,Land size: 934 sqm | Building size: 127 sqm
+189,17 McKillop Street,"Sold $560,000 in 21 Apr 2018(Auction)","Last Sold $425,500 in Sep 2013(Auction)",Rent $430pw in Apr 2020,House: 2  1  ,Land size: 217 sqm
+190,304/8-10 McLarty Place,"Sold $480,000 in Apr 2018","Last Sold $420,000 in Nov 2014",Rent $420pw in Feb 2020, ,Land size: 566 sqm
+191,48 Eastern Beach Road,"Sold $4,000,000 in Apr 2018","Last Sold $1,300,000 in Nov 2000", ,House: 5  3  3 ,Land size: 22 sqm
+192,128 Verner Street,"Sold $500,000 in Mar 2018", , , ,Land size: 336 sqm
+193,302/16 The Esplanade South,"Sold $490,000 in Mar 2018", , , , 
+194,5/151 Gheringhap Street,"Sold $398,500 in Mar 2018","Last Sold $210,500 in Nov 2004", ,Townhouse: 2  1  1 ,Land size: 134 sqm
+195,232 Myers Street,"Sold $580,000 in Mar 2018", , ,House: 3  1  1 ,Land size: 354 sqm
+196,13 Bourke Crescent,"Sold $800,000 in Mar 2018", , ,House: 3  1  2 ,Land size: 567 sqm
+197,4 McMillan Avenue,"Sold $445,000 in Mar 2018","Last Sold $295,000 in Jun 2014",Rent $360pw in Sep 2018, ,Land size: 100 sqm
+198,5 Richmond Place,"Sold $765,000 in Mar 2018", ,Rent $600pw in Feb 2019,House: 4  2  2 ,Land size: 530 sqm
+199,62 Swanston Street,"Sold $940,000 in Mar 2018", ,Rent $410pw in Dec 2019,House: 3  1  1 ,Land size: 466 sqm
+200,118 Corio Street,"Sold $1,525,000 in Mar 2018", , ,Townhouse: 2  2  1 ,Land size: 198 sqm
+201,104/8 McLarty Place,"Sold $455,000 in Mar 2018", , , , 
+202,161 Verner Street,"Sold $1,420,000 in Mar 2018","Last Sold $319,000 in Jun 2009", , ,Land size: 860 sqm | Building size: 327 sqm
+203,705/8 Gheringhap Street,"Sold $585,000 in Mar 2018", ,Rent $495pw in Jan 2019,House: 2  2  1 ,Land size: 774 sqm
+204,303/100 Western Beach Road,"Sold $575,000 in Mar 2018","Last Sold $490,000 in Dec 2012",Rent $560pw in Apr 2018, ,Land size: 992 sqm
+205,2/83 Maud Street,"Sold $720,000 in Mar 2018","Last Sold $527,500 in May 2007",Rent $485pw in May 2018,Townhouse: 3  2  2 ,Land size: 239 sqm
+206,12/203 Little Malop Street,"Sold $461,000 in 10 Mar 2018(Auction)","Last Sold $212,500 in Sep 2005",Rent $360pw in Jul 2015, ,Land size: 106 sqm
+207,22 Faggs Place,"Sold $810,000 in Mar 2018","Last Sold $770,000 in Feb 2017", ,House: 3  2  2 ,Land size: 255 sqm
+208,12/203-207 Little Malop Street,"Sold $461,000 in Mar 2018","Last Sold $360,000 in Nov 2011",Rent $360pw in Jul 2015,Townhouse: 2  2  1 ,Land size: 106 sqm
+209,146 Garden Street,"Sold $750,000 in Mar 2018","Last Sold $333,000 in Sep 2012",Rent $260pw in Jun 2010,House: 3  2  1 ,Land size: 337 sqm | Building size: 115 sqm
+210,105/8-10 McLarty Place,"Sold $440,000 in Mar 2018","Last Sold $350,000 in Feb 2017",Rent $395pw in Dec 2015, ,Land size: 566 sqm
+211,79 Fitzroy Street,"Sold $765,000 in Mar 2018","Last Sold $616,000 in Jul 2015", ,House: 3  2  5 ,Land size: 564 sqm | Building size: 158 sqm
+212,6 Ryrie Street,"Sold $1,260,000 in Feb 2018","Last Sold $1,100,000 in Mar 2015",Rent $460pw in Dec 2011,House: 5  4  2 ,Land size: 552 sqm
+213,90 Garden Street,"Sold $500,000 in Feb 2018", , ,House: 2  1  ,Land size: 150 sqm
+214,8 Bean Street,"Sold $860,000 in Feb 2018","Last Sold $193,000 in Aug 2006", ,House: 3  2  2 ,Land size: 255 sqm
+215,7 Cogens Place,"Sold $690,000 in Feb 2018","Last Sold $335,000 in Dec 2004",Rent $395pw in Oct 2017,House: 3  1  2 ,Land size: 107 sqm | Building size: 100 sqm
+216,10 The Esplanade S,"Sold $1,300,000 in Feb 2018", , ,House: 3  ,Land size: 372 sqm
+217,108/6-8 Eastern Beach Road,"Sold $629,000 in Feb 2018","Last Sold $430,000 in Aug 2011",Rent $660pw in Jul 2017, ,"Land size: 2,126 sqm | Building size: 96 sqm"
+218,6/61 Brougham Street,"Sold $435,000 in 17 Feb 2018(Auction)","Last Sold $307,500 in Mar 2010(Auction)",Rent $390pw in Nov 2019, ,Land size: 829 sqm
+219,33 Maud Street,"Sold $875,000 in Feb 2018","Last Sold $650,000 in Nov 2010", ,House: 3  1  2 ,Land size: 489 sqm
+220,10 The Esplanade South,"Sold $1,300,000 in Feb 2018", ,Rent $800pw in Aug 2018,House: 3  2  2 , 
+221,301/64 Eastern Beach Road,"Sold $1,660,000 in 10 Feb 2018(Auction)", ,Rent $580pw in Jan 2017,House: 3  2  1 , 
+222,3/17A The Esplanade,"Sold $400,000 in Feb 2018","Last Sold $300,000 in Jan 2009",Rent $260pw in Apr 2016,House: 2  1  1 ,Land size: 976 sqm | Building size: 62 sqm
+223,407/8 Gheringhap Street,"Sold $499,000 in Feb 2018","Last Sold $475,000 in Dec 2014",Rent $390pw in Mar 2017, ,Land size: 773 sqm | Building size: 86 sqm
+224,2304/2 Yarra Street,"Sold $430,000 in Jan 2018","Last Sold $260,000 in Dec 2004", , ,"Land size: 2,737 sqm"
+225,16 McKillop Street,"Sold $820,000 in Jan 2018","Last Sold $715,000 in Dec 2015",Rent $210pw in Sep 2006,House: 4  1  2 ,Land size: 506 sqm
+226,1/126 Kilgour Street,"Sold $1,200,000 in Dec 2017","Last Sold $820,000 in Jan 2013", , ,Land size: 699 sqm | Building size: 373 sqm
+227,10 Alexander Avenue,"Sold $760,000 in Dec 2017", , , , 
+228,7/96 Mercer Street,"Sold $420,000 in Dec 2017","Last Sold $315,000 in May 2008",Rent $420pw in Jul 2019, ,Land size: 716 sqm
+229,10 Alexandra Avenue,"Sold $760,000 in Dec 2017", , ,House: 3  1  ,Land size: 442 sqm
+230,89 Carr Street,"Sold $469,000 in Dec 2017","Last Sold $218,500 in Aug 2008",Rent $310pw in Apr 2018,House: 2  1  ,Land size: 188 sqm
+231,125 Verner Street,"Sold $700,000 in Dec 2017", , ,House: 2  1  4 ,Land size: 613 sqm
+232,18/96 Mercer Street,"Sold $395,000 in Dec 2017", ,Rent $350pw in Apr 2009, ,Land size: 714 sqm
+233,2/155 Verner Street,"Sold $252,000 in Dec 2017","Last Sold $199,000 in May 2010",Rent $260pw in Jul 2019, ,Land size: 946 sqm | Building size: 63 sqm
+234,47B Lonsdale Street,"Sold $760,000 in Dec 2017", , ,Townhouse: 3  2  2 ,Land size: 319 sqm
+235,12/64-66 Eastern Beach Road,"Sold $1,170,000 in Dec 2017","Last Sold $927,500 in Mar 2007", ,Townhouse: 2  ,"Land size: 2,538 sqm"
+236,302/64-66 Eastern Beach Road,"Sold $1,170,000 in Dec 2017","Last Sold $910,000 in Feb 2015",Rent $650pw in Jan 2014, ,"Land size: 2,538 sqm"
+237,302/64 Eastern Beach Road,"Sold $1,170,000 in 09 Dec 2017(Auction)","Last Sold $910,000 in Feb 2015(Auction)",Rent $650pw in Jan 2014, ,"Land size: 2,538 sqm | Building size: 152 sqm"
+238,142 Verner Street,"Sold $780,000 in 07 Dec 2017(Auction)","Last Sold $66,000 in Sep 1996", ,House: 3  3  2 ,Land size: 471 sqm
+239,6A Sydney Avenue,"Sold $785,000 in 06 Dec 2017(Auction)", , ,Townhouse: 3  2  2 ,Land size: 260 sqm
+240,11 Stradling Avenue,"Sold $825,000 in Dec 2017", ,Rent $360pw in Feb 2018,House: 4  1  1 ,Land size: 580 sqm
+241,4408/4 Yarra Street,"Sold $630,000 in Dec 2017","Last Sold $500,000 in Jul 2005",Rent $440pw in Jan 2016,House: 2  2  1 ,"Land size: 2,737 sqm"
+242,1/19 Mcmillan Avenue,"Sold $410,000 in Dec 2017","Last Sold $56,830 in Dec 1982", , ,Land size: 331 sqm
+243,42 Richmond Crescent,"Sold $533,000 in 02 Dec 2017(Auction)","Last Sold $68,000 in Jun 1995", ,House: 1  1  2 ,Land size: 519 sqm
+244,101 Kilgour Street,"Sold $735,000 in 02 Dec 2017(Auction)","Last Sold $455,002 in Jun 2005",Rent $425pw in Dec 2015,House: 2  2  2 ,Land size: 246 sqm
+245,120 Garden Street,"Sold $965,000 in 02 Dec 2017(Auction)","Last Sold $84,500 in Oct 1994", ,House: 3  2  2 ,Land size: 648 sqm
+246,1 England Street,"Sold $1,350,000 in 02 Dec 2017(Auction)","Last Sold $1,100,000 in Jun 2010",Rent $570pw in May 2019,House: 2  2  1 ,Land size: 147 sqm | Building size: 165 sqm
+247,5 Sydney Avenue,"Sold $865,000 in Nov 2017","Last Sold $215,000 in Jun 2000",Rent $540pw in Aug 2019,House: 4  1  2 ,Land size: 478 sqm
+248,192 Garden Street,"Sold $535,000 in 25 Nov 2017(Auction)","Last Sold $281,000 in Nov 2007",Rent $340pw in Aug 2012,House: 2  1  1 ,Land size: 358 sqm
+249,607/8 Gheringhap Street,"Sold $520,000 in Nov 2017", ,"Rent $2,042pw in Nov 2019", ,Land size: 776 sqm
+250,193 Yarra Street,"Sold $542,000 in Nov 2017","Last Sold $335,000 in Jun 2010(Auction)",Rent $360pw in Jul 2019,House: 2  1  1 ,Land size: 141 sqm
+251,905/53 Mercer Street,"Sold $890,000 in Nov 2017", , , , 
+252,10/96 Mercer Street,"Sold $420,000 in Nov 2017","Last Sold $380,000 in May 2008",Rent $400pw in Dec 2018, ,Land size: 716 sqm
+253,304 Moorabool Street,"Sold $1,080,000 in 18 Nov 2017(Auction)","Last Sold $354,000 in Jun 2002", ,House: 4  3  3 ,Land size: 754 sqm | Building size: 142 sqm
+254,302/100 Western Beach,"Sold $536,000 in Nov 2017", , , , 
+255,302/100 Western Beach Road,"Sold $536,000 in Nov 2017","Last Sold $492,500 in Oct 2012",Rent $450pw in Sep 2019, ,Land size: 992 sqm
+256,1201/53 Mercer Street,"Sold $450,000 in Nov 2017", , , , 
+257,307/8 Gheringhap Street,"Sold $445,000 in Nov 2017", ,Rent $400pw in Jan 2017, ,Land size: 774 sqm
+258,43 Mundy Street,"Sold $750,000 in 04 Nov 2017(Auction)","Last Sold $590,000 in Sep 2014(Auction)",Rent $600pw in Sep 2016,House: 4  2  2 ,Land size: 470 sqm
+259,303/18 The Esplanade South,"Sold $322,500 in Nov 2017", , , , 
+260,106 Maud Street,"Sold $587,500 in Oct 2017","Last Sold $298,000 in Mar 2006",Rent $475pw in Dec 2015,House: 4  2  2 ,Land size: 212 sqm
+261,3/4-10 Benson Street,"Sold $389,000 in Oct 2017","Last Sold $320,000 in May 2014",Rent $350pw in Apr 2017,Townhouse: 2  1  1 ,Land size: 134 sqm
+262,50 Kilgour Street,"Sold $578,000 in 28 Oct 2017(Auction)","Last Sold $95,000 in Feb 2000",Rent $410pw in Aug 2020,House: 3  1  1 ,Land size: 323 sqm
+263,1/61 Brougham Street,"Sold $575,000 in Oct 2017","Last Sold $195,000 in Sep 1998",Rent $295pw in Jun 2007, ,Land size: 380 sqm
+264,16 Mundy Street,"Sold $750,000 in Oct 2017","Last Sold $585,000 in May 2013(Auction)",Rent $350pw in Jan 2016,House: 3  1  1 ,Land size: 942 sqm | Building size: 133 sqm
+265,59 Fitzroy Street,"Sold $515,000 in Oct 2017","Last Sold $415,000 in Apr 2010",Rent $375pw in Nov 2014,House: 2  1  1 ,Land size: 164 sqm | Building size: 110 sqm
+266,101/18 The Esplanade Sth,"Sold $478,000 in Oct 2017", , , , 
+267,14 & 14A Richmond Street,"Sold $960,000 in Oct 2017", , , , 
+268,39 Alexander Avenue,"Sold $1,020,000 in 14 Oct 2017(Auction)", , ,House: , 
+269,14A Richmond Street,"Sold $960,000 in 14 Oct 2017(Auction)", ,Rent $330pw in Apr 2018,House: 3  1  1 ,"Land size: 1,004 sqm"
+270,14 Richmond Street,"Sold $960,000 in 14 Oct 2017(Auction)","Last Sold $103,000 in Nov 1988",Rent $280pw in Mar 2018, ,"Land size: 1,003 sqm"
+271,39 Alexandra Avenue,"Sold $1,020,000 in 14 Oct 2017(Auction)","Last Sold $700,000 in Dec 2007",Rent $500pw in Jul 2019, ,Land size: 313 sqm
+272,13 Alexandra Avenue,"Sold $1,875,000 in Oct 2017","Last Sold $441,000 in Oct 2004", ,House: 3  1  1 ,Land size: 409 sqm
+273,117 Maud Street,"Sold $800,000 in Oct 2017", ,Rent $350pw in Dec 2017,House: 3  1  2 ,Land size: 461 sqm
+274,601/8 Gheringhap Street,"Sold $355,000 in Oct 2017", ,Rent $375pw in Sep 2016, ,Land size: 773 sqm | Building size: 54 sqm
+275,120 Kilgour Street,"Sold $1,341,500 in Oct 2017","Last Sold $127,000 in Sep 1991", ,House: 3  2  2 ,Land size: 191 sqm
+276,1/4 Fitzroy Street,"Sold $445,000 in Sep 2017","Last Sold $440,000 in Oct 2003",Rent $315pw in Jul 2016,House: 2  1  1 ,Land size: 799 sqm
+277,604/8 Gheringhap Street,"Sold $805,000 in Sep 2017","Last Sold $684,000 in Feb 2000",Rent $700pw in Mar 2019, ,Land size: 774 sqm | Building size: 122 sqm
+278,12 York Street,"Sold $525,000 in 23 Sep 2017(Auction)", ,Rent $295pw in Aug 2020,House: 2  1  ,Land size: 347 sqm
+279,9 Richmond Court,"Sold $535,000 in 23 Sep 2017(Auction)", , ,Townhouse: 2  1  1 ,Land size: 225 sqm
+280,23 Kilgour Street,"Sold $520,000 in Sep 2017","Last Sold $450,000 in Sep 2016",Rent $360pw in Feb 2012,House: 3  1  2 ,Land size: 465 sqm
+281,36 Richmond Crescent,"Sold $556,000 in 23 Sep 2017(Auction)","Last Sold $430,000 in Jan 2013",Rent $400pw in Aug 2017,House: 3  2  2 ,Land size: 13 sqm | Building size: 125 sqm
+282,47A Lonsdale Street,"Sold $740,000 in Sep 2017", ,Rent $640pw in Apr 2020,Townhouse: 3  2  2 ,Land size: 234 sqm
+283,18 Pakington Street,"Sold $1,225,000 in Sep 2017", , , ,Land size: 640 sqm | Building size: 320 sqm
+284,11 Yarra Street,"Sold $1,550,000 in Sep 2017", , , ,Land size: 345 sqm | Building size: 160 sqm
+285,29 Mundy Street,"Sold $696,000 in Sep 2017", , ,House: 3  1  1 ,Land size: 410 sqm
+286,9 Kooyong Road,"Sold $585,000 in Sep 2017","Last Sold $500,000 in Nov 2014(Auction)",Rent $370pw in Feb 2018,House: 3  1  2 ,Land size: 185 sqm | Building size: 102 sqm
+287,17/96 Mercer Street,"Sold $429,000 in Sep 2017", ,Rent $380pw in Feb 2012, ,Land size: 714 sqm
+288,7/236 Malop Street,"Sold $415,000 in Sep 2017","Last Sold $299,000 in Apr 2006",Rent $360pw in Jan 2019, ,Land size: 796 sqm
+289,4 Little Fenwick Street,"Sold $225,000 in Sep 2017","Last Sold $130,000 in Mar 2012", , ,Land size: 304 sqm
+290,12 Ryrie Street,"Sold $990,500 in Sep 2017","Last Sold $755,000 in Mar 2015", ,House: 4  3  2 ,Land size: 552 sqm
+291,2B Mercer Street,"Sold $755,000 in 26 Aug 2017(Auction)", , , , 
+292,115 Swanston Street,"Sold $450,000 in Aug 2017","Last Sold $330,000 in Oct 2011",Rent $260pw in Jul 2016,House: 2  1  1 ,Land size: 271 sqm
+293,203 Yarra Street,"Sold $620,000 in 26 Aug 2017(Auction)","Last Sold $475,000 in Jun 2012",Rent $400pw in Apr 2017,House: 3  1  ,Land size: 210 sqm
+294,205/8-10 McLarty Place,"Sold $455,000 in Aug 2017", ,Rent $430pw in Feb 2018, ,Land size: 565 sqm
+295,12/141-143 Yarra Street,"Sold $690,000 in Aug 2017", ,Rent $500pw in Sep 2016,Townhouse: 2  2  1 ,Land size: 596 sqm
+296,3/188 Mckillop Street,"Sold $365,000 in Aug 2017","Last Sold $175,000 in Oct 2004",Rent $320pw in Dec 2016, ,Land size: 161 sqm
+297,12/141 Yarra Street,"Sold $690,000 in Aug 2017", ,Rent $500pw in Sep 2016, ,Land size: 323 sqm | Building size: 80 sqm
+298,11 Long Lane,"Sold $720,000 in Aug 2017","Last Sold $530,000 in Aug 2010(Auction)", ,Townhouse: 3  2  2 ,Land size: 188 sqm | Building size: 140 sqm
+299,3 Stradling Avenue,"Sold $830,000 in 19 Aug 2017(Auction)","Last Sold $615,000 in Oct 2010",Rent $370pw in May 2016,House: 3  2  1 ,Land size: 612 sqm | Building size: 173 sqm

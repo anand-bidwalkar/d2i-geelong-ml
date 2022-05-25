@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,69 Grosvenor Drive,"Sold $714,000 in Jul 2020","Last Sold $383,500 in Jul 2009", ,House: 3  2  2 ,Land size: 501 sqm
+1,12 Dione Mews,"Sold $712,000 in Jul 2020","Last Sold $635,000 in Aug 2016", ,House: 3  2  2 ,Land size: 380 sqm | Building size: 152 sqm
+2,3 Regency Close,"Sold $800,000 in Jul 2020","Last Sold $561,000 in May 2015", ,House: 4  2  2 ,Land size: 933 sqm
+3,39 Brownhill Ridge,"Sold $230,000 in May 2020", , , , 
+4,5a Canterbury Court,"Sold $540,000 in Apr 2020", ,Rent $480pw in Mar 2019,House: 4  2  2 ,Land size: 292 sqm
+5,16 Grosvenor Drive,"Sold $860,000 in Mar 2020","Last Sold $765,000 in Apr 2017", ,House: 4  2  2 ,"Land size: 1,141 sqm"
+6,28 Grosvenor Drive,"Sold $980,000 in Feb 2020","Last Sold $85,000 in Feb 2000", , ,"Land size: 1,759 sqm"
+7,29 Grosvenor Drive,"Sold $940,000 in Feb 2020","Last Sold $68,000 in Nov 1989", , ,"Land size: 2,495 sqm"
+8,3 Pall Ml,"Sold $1,012,000 in Feb 2020", , , , 
+9,3 Pall Mall,"Sold $1,012,000 in Feb 2020","Last Sold $590,000 in Sep 2006", ,House: 3  2  4 ,"Land size: 1,316 sqm"
+10,30 Grosvenor Drive,"Sold $956,000 in Dec 2019","Last Sold $570,000 in Jul 2012", ,House: 4  2  2 ,"Land size: 1,741 sqm"
+11,109 Grosvenor Drive,"Sold $796,500 in Dec 2019","Last Sold $688,000 in May 2016", ,House: 5  2  2 ,"Land size: 1,818 sqm | Building size: 219 sqm"
+12,62 Sunderland Road,"Sold $1,360,000 in Nov 2019","Last Sold $76,000 in May 1999", ,House: 4  3  1 ,"Land size: 1,025 sqm"
+13,13 Drewan Drive,"Sold $470,000 in Oct 2019", , , ,Land size: 603 sqm
+14,2 Canterbury Court,"Sold $500,000 in Oct 2019","Last Sold $68,000 in Feb 1999", , ,Land size: 741 sqm
+15,Lot 66A 20-22 Moncrieff Crescent,"Sold $225,900 in Sep 2019", , , , 
+16,Lot 22 8 Drewan Drive,"Sold $560,000 in Sep 2019", , , , 
+17,Lot 51 Drewan Drive,"Sold $199,900 in Aug 2019", , , , 
+18,5B Canterbury Court,"Sold $540,000 in Aug 2019", , ,Townhouse: 3  2  2 ,Land size: 240 sqm
+19,60 James Cook Drive,"Sold $910,000 in Jul 2019","Last Sold $720,000 in Jun 2016", ,House: 4  3  7 ,"Land size: 2,212 sqm"
+20,15 Sunderland Road,"Sold $555,000 in Jun 2019","Last Sold $418,500 in Dec 2014", ,House: 3  2  2 ,Land size: 375 sqm
+21,88 Grosvenor Drive,"Sold $837,000 in May 2019", , ,House: 5  2  2 ,"Land size: 1,062 sqm"
+22,63 Grosvenor Drive,"Sold $763,001 in May 2019","Last Sold $587,200 in Aug 2013", ,House: 4  2  2 ,Land size: 737 sqm
+23,6 Xavier Court,"Sold $825,000 in Mar 2019","Last Sold $585,000 in Sep 2013", ,House: 3  2  2 ,Land size: 515 sqm | Building size: 215 sqm
+24,18 Grosvenor Drive,"Sold $680,000 in Mar 2019", , ,House: 4  2  2 ,"Land size: 1,195 sqm"
+25,1 Hargrave Crescent,"Sold $770,000 in Mar 2019","Last Sold $285,000 in Jan 2002", ,House: 4  2  2 ,"Land size: 1,330 sqm"
+26,16-17 Dione Mews,"Sold $640,000 in Feb 2019", , ,House: 4  2  2 ,Land size: 527 sqm
+27,43 Grosvenor Drive,"Sold $1,350,000 in Feb 2019","Last Sold $950,000 in Feb 2015", ,House: 6  4  13 ,"Land size: 1,901 sqm | Building size: 424 sqm"
+28,7 Chisholm Close,"Sold $705,000 in Feb 2019","Last Sold $430,000 in Dec 2009", ,House: 3  2  2 ,"Land size: 1,280 sqm"
+29,10-11 Sholden Court,"Sold $530,000 in Feb 2019","Last Sold $395,000 in Feb 2017", , ,"Land size: 1,153 sqm"
+30,4 Sunderland Road,"Sold $715,000 in Jan 2019","Last Sold $495,000 in Apr 2009", ,House: 4  2  4 ,Land size: 660 sqm
+31,48 Sunderland Road,"Sold $750,000 in Dec 2018","Last Sold $389,000 in Mar 2005", ,House: 4  2  2 ,Land size: 919 sqm
+32,11 Wandana Drive,"Sold $600,000 in Nov 2018","Last Sold $360,000 in Apr 2004", ,House: 4  2  2 ,Land size: 732 sqm
+33,32 James Cook Drive,"Sold $730,000 in Nov 2018","Last Sold $345,000 in Mar 2006", ,House: 5  2  2 ,"Land size: 1,001 sqm | Building size: 259 sqm"
+34,1/1 Wandana Drive,"Sold $275,000 in Nov 2018","Last Sold $60,500 in Feb 2000", ,House: 1  1  1 ,Land size: 94 sqm
+35,3 Kates Court,"Sold $702,000 in Oct 2018","Last Sold $190,000 in May 2009", ,House: 4  2  2 ,Land size: 776 sqm | Building size: 175 sqm
+36,23 Brolga Crescent,"Sold $510,000 in Oct 2018","Last Sold $310,000 in Dec 2003", ,House: 3  2  2 ,Land size: 409 sqm
+37,17 Kirami Court,"Sold $468,000 in Aug 2018", , ,House: 2  1  1 ,Land size: 339 sqm
+38,52 Wandana Drive,"Sold $491,000 in Jul 2018","Last Sold $355,000 in Jul 2015", ,Townhouse: 3  1  2 ,Land size: 333 sqm
+39,3 Noble Place,"Sold $850,000 in Jul 2018","Last Sold $72,500 in Mar 1997", ,House: 5  2  2 ,"Land size: 1,027 sqm | Building size: 315 sqm"
+40,8 James Cook Drive,"Sold $845,000 in Jul 2018","Last Sold $575,000 in Jun 2011", ,House: 3  2  1 ,"Land size: 1,001 sqm"
+41,15A Brolga Crescent,"Sold $685,000 in Jul 2018","Last Sold $551,500 in Nov 2012", ,House: 4  2  2 ,Land size: 704 sqm | Building size: 225 sqm
+42,17 Madeline Drive,"Sold $700,000 in Jul 2018","Last Sold $115,000 in Dec 2002", ,House: 5  2  2 ,Land size: 813 sqm
+43,47A Sunderland Road,"Sold $487,500 in Jul 2018", ,Rent $380pw in Jul 2017,House: 3  2  1 , 
+44,8 Noble Place,"Sold $850,000 in Jul 2018", , , , 
+45,1 Kirami Court,"Sold $535,000 in Jun 2018","Last Sold $365,000 in Aug 2012", ,House: 3  1  2 ,Land size: 359 sqm
+46,3 Lucalbyn Court,"Sold $660,000 in Jun 2018","Last Sold $275,000 in Sep 2000", ,House: 3  2  2 ,Land size: 902 sqm
+47,47 Wandana Drive,"Sold $675,000 in Jun 2018", , ,House: 3  2  2 ,"Land size: 1,060 sqm"
+48,54 James Cook Drive,"Sold $1,030,000 in May 2018","Last Sold $93,000 in Nov 2002", ,House: 4  2  6 ,"Land size: 1,176 sqm | Building size: 352 sqm"
+49,39 Wandana Drive,"Sold $677,500 in Apr 2018", ,Rent $440pw in Oct 2017,House: 4  2  2 ,"Land size: 1,163 sqm"
+50,18 Brolga Crescent,"Sold $685,000 in Mar 2018","Last Sold $500,000 in Sep 2011", ,House: 4  2  2 ,Land size: 866 sqm | Building size: 250 sqm
+51,2/2 Wandana Drive,"Sold $435,000 in Mar 2018","Last Sold $119,000 in Sep 1990", , ,Land size: 283 sqm
+52,4 Regency Close,"Sold $941,000 in Mar 2018","Last Sold $63,000 in Mar 1993", , ,"Land size: 1,104 sqm | Building size: 307 sqm"
+53,62-64 Wandana Drive,"Sold $620,000 in Feb 2018", , ,House: 3  ,Land size: 739 sqm
+54,8 Lapin Grove,"Sold $775,000 in Feb 2018","Last Sold $220,000 in Jul 2012", ,House: 4  2  2 ,Land size: 585 sqm | Building size: 283 sqm
+55,62 Wandana Drive,"Sold $620,000 in Feb 2018","Last Sold $60,000 in Aug 1997", ,House: 3  2  2 ,Land size: 739 sqm
+56,11 Dione Mews,"Sold $535,000 in Jan 2018","Last Sold $319,000 in Dec 2008", ,House: 3  2  1 ,Land size: 401 sqm | Building size: 142 sqm
+57,13-15 Madeline Drive,"Sold $705,000 in Dec 2017", ,Rent $585pw in Feb 2019,House: 4  2  2 ,Land size: 785 sqm
+58,26 Brolga Crescent,"Sold $635,000 in 16 Dec 2017(Auction)","Last Sold $190,000 in Sep 1991", ,House: 4  2  2 ,Land size: 703 sqm | Building size: 202 sqm
+59,13 Madeline Drive,"Sold $705,000 in 16 Dec 2017(Auction)","Last Sold $142,000 in Jul 2006", , ,Land size: 785 sqm
+60,1/2 Wandana Drive,"Sold $395,000 in Dec 2017","Last Sold $200,500 in Sep 2002", , ,Land size: 163 sqm
+61,6 Grosvenor Drive,"Sold $550,000 in 02 Dec 2017(Auction)","Last Sold $134,500 in Sep 1996", ,House: 3  2  2 ,Land size: 726 sqm | Building size: 177 sqm
+62,27 Grosvenor Drive,"Sold $1,120,000 in 31 Oct 2017(Auction)","Last Sold $160,000 in Sep 2002", ,House: 5  2  4 ,"Land size: 2,486 sqm"
+63,14 Hargrave Crescent,"Sold $750,000 in Oct 2017","Last Sold $228,000 in Jan 1999", ,House: 3  3  2 ,"Land size: 1,262 sqm"
+64,49 Grosvenor Drive,"Sold $640,000 in Oct 2017","Last Sold $570,000 in Jan 2014", ,House: 3  2  6 ,"Land size: 1,879 sqm"
+65,35 Sunderland Road,"Sold $675,000 in Oct 2017","Last Sold $218,500 in Jun 2000", ,House: 3  2  2 ,Land size: 646 sqm
+66,8 Kirami Court,"Sold $710,000 in Oct 2017","Last Sold $472,000 in May 2006", ,House: 6  3  3 ,Land size: 752 sqm
+67,55 James Cook Drive,"Sold $677,500 in Oct 2017","Last Sold $190,000 in Aug 1992", ,House: 4  2  2 ,"Land size: 1,002 sqm"
+68,12 Kirami Court,"Sold $790,000 in 14 Oct 2017(Auction)","Last Sold $219,000 in Sep 2013", ,House: 3  2  2 ,Land size: 650 sqm
+69,52 Grosvenor Drive,"Sold $715,000 in 14 Oct 2017(Auction)","Last Sold $220,000 in Oct 1994", ,House: 4  2  2 ,Land size: 898 sqm
+70,24 Lapin Grove,"Sold $245,000 in Sep 2017","Last Sold $215,000 in Jul 2016", , ,Land size: 644 sqm
+71,1/5 Canterbury Court,"Sold $560,000 in Aug 2017","Last Sold $481,000 in Nov 2012", ,Townhouse: 4  2  2 ,Land size: 531 sqm
+72,55 Grosvenor Drive,"Sold $601,000 in 26 Aug 2017(Auction)","Last Sold $200,000 in Sep 1999", ,House: 3  2  2 ,"Land size: 1,946 sqm"
+73,51 James Cook Drive,"Sold $665,000 in Aug 2017", , ,House: 4  2  2 ,"Land size: 1,053 sqm"
+74,1 Ebony Close,"Sold $610,000 in Jul 2017","Last Sold $295,000 in May 2001", ,House: 4  2  2 ,Land size: 789 sqm
+75,12 Grosvenor Drive,"Sold $710,000 in Jul 2017","Last Sold $80,000 in Aug 1989", , ,"Land size: 1,005 sqm"
+76,53 Sunderland Road,"Sold $450,000 in Jul 2017","Last Sold $275,000 in Mar 2002", ,House: 3  1  2 ,Land size: 349 sqm
+77,17 Stanfield Drive,"Sold $699,000 in May 2017","Last Sold $174,000 in Aug 2004", ,House: 6  2  2 ,Land size: 772 sqm
+78,6-7 Sholden Court,"Sold $845,000 in May 2017","Last Sold $690,000 in Feb 2010", ,House: 4  4  6 ,"Land size: 1,638 sqm"
+79,11 Brolga Crescent,"Sold $539,000 in May 2017","Last Sold $404,000 in Nov 2010", ,House: 4  2  2 ,Land size: 679 sqm
+80,6 Greenway Court,"Sold $950,000 in May 2017", , , ,"Land size: 16,842 sqm"
+81,1 Stirling Court,"Sold $558,800 in Apr 2017","Last Sold $135,000 in Mar 1994", ,House: 3  2  3 ,Land size: 942 sqm
+82,76 Wandana Drive,"Sold $560,000 in Apr 2017","Last Sold $460,000 in Mar 2010", ,House: 3  2  2 ,Land size: 586 sqm
+83,1 Trafalgar Square,"Sold $1,080,000 in Apr 2017","Last Sold $880,000 in Aug 2006", ,House: 5  3  4 ,"Land size: 1,064 sqm"
+84,10 Hargrave Crescent,"Sold $615,000 in Apr 2017","Last Sold $282,000 in Sep 1998", , ,"Land size: 1,189 sqm"
+85,20 Brolga Crescent,"Sold $558,000 in Mar 2017","Last Sold $168,000 in Oct 2000", ,House: 4  3  2 ,Land size: 749 sqm
+86,8 Greenfinch Way,"Sold $275,000 in Feb 2017","Last Sold $242,000 in Aug 2013", , ,Land size: 820 sqm
+87,4 Bent Road,"Sold $831,500 in Feb 2017","Last Sold $625,000 in Nov 2004", ,House: 4  2  2 ,"Land size: 1,000 sqm"
+88,3/1 Wandana Drive,"Sold $185,000 in Feb 2017","Last Sold $68,500 in Nov 2001", , ,Land size: 121 sqm
+89,40 James Cook Drive,"Sold $630,000 in Jan 2017","Last Sold $535,000 in May 2015", ,House: 4  2  2 ,"Land size: 1,000 sqm | Building size: 209 sqm"
+90,23 Sunderland Road,"Sold $485,000 in Jan 2017","Last Sold $335,000 in Feb 2007", ,House: 3  2  2 ,Land size: 306 sqm
+91,2/57 Grosvenor Drive,"Sold $367,000 in Dec 2016", ,Rent $320pw in Jul 2014,House: 3  2  2 ,Land size: 624 sqm
+92,52 James Cook Drive,"Sold $570,000 in Dec 2016", , ,House: 4  2  2 ,"Land size: 1,062 sqm"
+93,98 Cityview Drive,"Sold $765,000 in Nov 2016","Last Sold $55,000 in May 1993", ,House: 5  2  5 ,"Land size: 5,490 sqm"
+94,1 Bent Road,"Sold $536,500 in Nov 2016","Last Sold $94,000 in Apr 1987", ,House: 3  2  2 ,Land size: 678 sqm | Building size: 170 sqm
+95,53 Wandana Drive,"Sold $650,000 in Nov 2016", , ,House: 5  2  2 ,"Land size: 1,390 sqm"
+96,16 Stanfield Drive,"Sold $575,000 in Nov 2016","Last Sold $145,000 in Oct 2005", , ,Land size: 611 sqm | Building size: 185 sqm
+97,22 Grosvenor Drive,"Sold $700,000 in Nov 2016","Last Sold $260,000 in Jan 2010", ,House: 4  3  2 ,Land size: 980 sqm | Building size: 234 sqm
+98,1/10 Nireeda Court,"Sold $360,000 in Nov 2016","Last Sold $130,000 in May 1999", ,Townhouse: 2  1  2 ,Land size: 331 sqm
+99,4 Pall Mall,"Sold $875,000 in Nov 2016","Last Sold $650,000 in Sep 2008", ,House: 4  3  2 ,"Land size: 2,535 sqm"
+100,71 Wandana Drive,"Sold $565,000 in Oct 2016","Last Sold $500,000 in Dec 2009", ,House: 4  2  2 ,"Land size: 1,000 sqm"
+101,29 Wandana Drive,"Sold $670,000 in Sep 2016","Last Sold $310,000 in Oct 2012", ,House: 4  2  6 ,"Land size: 1,000 sqm | Building size: 243 sqm"
+102,14 Greenfinch Way,"Sold $640,000 in Sep 2016", , ,House: 4  2  2 ,Land size: 876 sqm | Building size: 262 sqm
+103,46 Brolga Crescent,"Sold $456,000 in Sep 2016","Last Sold $123,000 in Jun 1996", ,House: 4  2  2 ,Land size: 711 sqm | Building size: 173 sqm
+104,57 James Cook Drive,"Sold $620,000 in Sep 2016","Last Sold $172,500 in May 1995", ,House: 4  2  3 ,"Land size: 1,023 sqm"
+105,190 Wandana Drive,"Sold $930,001 in Aug 2016","Last Sold $840,000 in Oct 2010(Auction)", ,House: 4  2  7 ,"Land size: 36,542 sqm"
+106,3 Greenfinch Way,"Sold $320,000 in Jul 2016","Last Sold $285,000 in May 2008", ,House: 2  1  1 ,Land size: 755 sqm | Building size: 113 sqm
+107,4 Hargrave Crescent,"Sold $631,000 in Jul 2016","Last Sold $582,000 in Feb 2014", ,House: 4  2  2 ,"Land size: 1,200 sqm | Building size: 207 sqm"
+108,12 Madeline Drive,"Sold $465,000 in Jul 2016","Last Sold $415,000 in Jul 2014", ,House: 3  2  2 ,Land size: 435 sqm | Building size: 149 sqm
+109,1 Pall Mall,"Sold $833,000 in Jun 2016", ,Rent $710pw in Aug 2017,House: 5  2  2 ,"Land size: 1,867 sqm | Building size: 325 sqm"
+110,3 Florence Court,"Sold $310,002 in Jun 2016","Last Sold $255,000 in May 2012", , ,Land size: 937 sqm
+111,72 Wandana Drive,"Sold $620,000 in Jun 2016", ,Rent $575pw in Dec 2018,House: 3  2  2 ,Land size: 502 sqm
+112,28 Wandana Drive,"Sold $685,000 in Jun 2016", , ,House: 5  3  2 ,"Land size: 1,215 sqm"
+113,21 James Cook Drive,"Sold $615,000 in May 2016","Last Sold $481,000 in Mar 2010", ,House: 3  2  2 ,"Land size: 1,070 sqm"
+114,27 Brolga Crescent,"Sold $530,000 in May 2016","Last Sold $435,000 in Oct 2013", ,House: 3  2  2 ,Land size: 694 sqm | Building size: 166 sqm
+115,36 Sunderland Road,"Sold $665,000 in May 2016","Last Sold $615,000 in Jun 2010", ,House: 4  2  3 ,"Land size: 1,137 sqm"
+116,51 Wandana Drive,"Sold $580,000 in May 2016","Last Sold $386,000 in Feb 2007", ,House: 4  2  2 ,"Land size: 1,205 sqm | Building size: 209 sqm"
+117,121 Grosvenor Drive,"Sold $710,000 in May 2016","Last Sold $650,000 in Nov 2010", ,House: 4  3  2 ,"Land size: 1,004 sqm | Building size: 281 sqm"
+118,8 Xavier Court,"Sold $500,000 in May 2016","Last Sold $477,500 in Dec 2012", ,Townhouse: 4  2  2 ,Land size: 343 sqm | Building size: 174 sqm
+119,6 Greenfinch Way,"Sold $540,000 in May 2016","Last Sold $460,500 in Apr 2013", ,House: 4  2  2 ,Land size: 843 sqm | Building size: 210 sqm
+120,61 James Cook Drive,"Sold $590,000 in Apr 2016","Last Sold $555,000 in Oct 2012", ,House: 4  3  2 ,"Land size: 1,002 sqm"
+121,1/3 Stirling Court,"Sold $346,000 in Apr 2016","Last Sold $340,000 in Apr 2013", ,Townhouse: 2  1  1 ,Land size: 213 sqm
+122,54 Wandana Drive,"Sold $500,000 in Apr 2016", ,Rent $460pw in Jan 2016,House: 3  2  2 ,Land size: 754 sqm
+123,4 Kristy Place,"Sold $550,000 in Mar 2016","Last Sold $61,000 in Apr 2002", , ,Land size: 474 sqm | Building size: 193 sqm
+124,69 Wandana Drive,"Sold $579,000 in Mar 2016", , ,House: 4  2  2 ,"Land size: 1,140 sqm | Building size: 295 sqm"
+125,1 Lucalbyn Court,"Sold $575,000 in Feb 2016","Last Sold $550,000 in Feb 2011", ,House: 4  3  2 ,Land size: 829 sqm | Building size: 222 sqm
+126,6 Canterbury Court,"Sold $585,000 in Feb 2016","Last Sold $470,000 in Oct 2007", ,House: 4  2  2 ,Land size: 805 sqm | Building size: 270 sqm
+127,2 Lapin Grove,"Sold $595,000 in Jan 2016","Last Sold $240,000 in Jul 2012", ,House: 4  2  2 ,Land size: 766 sqm | Building size: 236 sqm
+128,77 Grosvenor Drive,"Sold $660,000 in Jan 2016","Last Sold $599,000 in Jul 2014", ,House: 4  2  2 ,Land size: 996 sqm
+129,83 Grosvenor Drive,"Sold $720,000 in Dec 2015", , ,House: 4  3  2 ,Land size: 990 sqm | Building size: 295 sqm
+130,1 Farrer Close,"Sold $638,000 in Dec 2015","Last Sold $560,000 in Mar 2013", ,House: 4  2  2 ,"Land size: 1,583 sqm"
+131,38-42 Cityview Drive,"Sold $455,000 in Dec 2015", , , ,"Land size: 4,254 sqm"
+132,3 Greenway Court,"Sold $502,000 in Dec 2015","Last Sold $195,000 in Dec 1999", ,House: 4  2  2 ,"Land size: 1,012 sqm | Building size: 202 sqm"
+133,104 Grosvenor Drive,"Sold $775,000 in Nov 2015","Last Sold $223,000 in May 2007", , ,Land size: 727 sqm
+134,38 Cityview Drive,"Sold $455,000 in Nov 2015","Last Sold $425,000 in Aug 2012", , ,"Land size: 4,254 sqm"
+135,1 Brolga Crescent,"Sold $470,000 in Nov 2015","Last Sold $360,000 in Nov 2008", ,House: 4  2  3 ,Land size: 877 sqm
+136,5 Regency Close,"Sold $675,000 in Nov 2015","Last Sold $454,500 in Oct 2002", ,House: 3  3  2 ,Land size: 849 sqm
+137,12 Stanfield Drive,"Sold $582,500 in Nov 2015","Last Sold $512,000 in Jul 2010", ,House: 4  2  2 ,Land size: 621 sqm | Building size: 244 sqm
+138,84 Grosvenor Drive,"Sold $737,500 in Nov 2015","Last Sold $592,000 in Dec 2012", ,House: 5  2  2 ,"Land size: 1,010 sqm"
+139,37 James Cook Drive,"Sold $525,000 in Nov 2015","Last Sold $293,000 in Feb 2003", ,House: 4  2  2 ,"Land size: 1,208 sqm"
+140,11 Sunderland Road,"Sold $628,000 in Nov 2015","Last Sold $565,000 in Dec 2011", ,House: 3  2  2 ,Land size: 460 sqm | Building size: 191 sqm
+141,131 Grosvenor Drive,"Sold $655,000 in Nov 2015","Last Sold $389,000 in Mar 2002", ,House: 4  2  2 ,"Land size: 1,368 sqm | Building size: 353 sqm"
+142,18 Wandana Drive,"Sold $625,000 in Oct 2015","Last Sold $325,000 in Mar 2003", ,House: 3  2  4 ,Land size: 737 sqm
+143,17 Sunderland Road,"Sold $395,000 in Sep 2015","Last Sold $317,000 in Jun 2007", ,Townhouse: 3  2  2 ,Land size: 360 sqm
+144,52 Brolga Crescent,"Sold $540,000 in Sep 2015","Last Sold $505,000 in Feb 2014", ,House: 4  2  1 ,Land size: 712 sqm | Building size: 219 sqm
+145,2 Greenfinch Way,"Sold $595,000 in Sep 2015","Last Sold $170,000 in Jun 2007", ,House: 4  2  2 ,Land size: 824 sqm | Building size: 273 sqm
+146,47B Sunderland Road,"Sold $390,000 in Sep 2015", ,Rent $400pw in May 2019,Townhouse: 3  2  1 ,Land size: 302 sqm
+147,25 Xavier Court,"Sold $680,002 in Sep 2015","Last Sold $215,000 in Oct 2009", ,House: 4  2  3 ,Land size: 710 sqm
+148,49 Wandana Drive,"Sold $600,000 in Sep 2015","Last Sold $432,000 in Oct 2006", ,House: 4  2  7 ,"Land size: 1,325 sqm"
+149,1/3 Wandana Drive,"Sold $140,000 in Sep 2015", , ,Townhouse: 2  1  1 ,Land size: 64 sqm
+150,2/47 Sunderland Road,"Sold $390,000 in Aug 2015","Last Sold $180,000 in Apr 2006", , ,Land size: 302 sqm
+151,90 Grosvenor Drive,"Sold $1,250,000 in Jul 2015","Last Sold $240,000 in Oct 2007", ,House: 4  2  6 ,"Land size: 1,298 sqm"
+152,10 Greenfinch Way,"Sold $610,000 in Jul 2015","Last Sold $124,000 in Oct 2003", ,House: 4  2  2 ,Land size: 678 sqm | Building size: 182 sqm
+153,2/1 Grosvenor Drive,"Sold $198,000 in Jul 2015", , , ,Land size: 366 sqm
+154,2 Stirling Court,"Sold $500,000 in Jun 2015", ,Rent $560pw in Oct 2019,House: 3  2  2 ,"Land size: 1,035 sqm | Building size: 193 sqm"
+155,60 Wandana Drive,"Sold $520,000 in Jun 2015","Last Sold $465,750 in Sep 2008", ,House: 4  2  2 ,Land size: 673 sqm
+156,97-99 Grosvenor Drive,"Sold $861,000 in Jun 2015", , ,House: 4  3  6 ,"Land size: 2,386 sqm"
+157,Lot 8 17 Lapin Grove,"Sold $185,250 in May 2015", , , ,Land size: 584 sqm
+158,1 Grosvenor Drive,"Sold $198,000 in May 2015","Last Sold $130,000 in Mar 1990", , ,Land size: 365 sqm
+159,89 Grosvenor Drive,"Sold $390,000 in May 2015","Last Sold $340,000 in Jul 2013", , ,Land size: 946 sqm
+160,8 Dione Mews,"Sold $535,000 in May 2015","Last Sold $59,000 in Mar 2002", ,House: 3  2  2 ,Land size: 537 sqm
+161,12 Lapin Grove,"Sold $185,000 in May 2015", , , ,Land size: 585 sqm
+162,17 Lapin Grove,"Sold $185,000 in May 2015", , , ,Land size: 585 sqm | Building size: 148 sqm
+163,57 Wandana Drive,"Sold $615,000 in May 2015","Last Sold $484,800 in Apr 2009", ,House: 4  3  2 ,"Land size: 1,122 sqm"
+164,10 Sunderland Road,"Sold $460,000 in Apr 2015","Last Sold $155,000 in Oct 1997", ,House: 3  2  3 ,Land size: 665 sqm
+165,6-10 City View Drive,"Sold $1,075,000 in Apr 2015", , ,House: 4  2  3 ,"Land size: 4,165 sqm"
+166,6 Cityview Drive,"Sold $1,075,000 in Apr 2015","Last Sold $100,000 in Feb 2000", ,House: 4  2  3 ,"Land size: 4,165 sqm | Building size: 317 sqm"
+167,20 Lapin Grove,"Sold $255,000 in Apr 2015","Last Sold $252,000 in Jan 2014", , ,Land size: 522 sqm
+168,1/36 Wandana Drive,"Sold $349,000 in Apr 2015","Last Sold $110,000 in Oct 1997", ,Townhouse: 2  1  1 ,Land size: 315 sqm
+169,9 Nireeda Court,"Sold $500,000 in Mar 2015","Last Sold $212,500 in Aug 2000", ,House: 4  2  2 ,Land size: 453 sqm
+170,8 Chisholm Close,"Sold $640,000 in Feb 2015", , ,House: 4  3  2 ,"Land size: 1,300 sqm | Building size: 228 sqm"
+171,7 Regency Close,"Sold $460,000 in Feb 2015","Last Sold $87,000 in Oct 2000", ,House: 3  2  2 ,"Land size: 1,026 sqm | Building size: 214 sqm"
+172,7 Stanfield Drive,"Sold $590,000 in Jan 2015","Last Sold $83,000 in Oct 1999", ,House: 5  3  2 ,"Land size: 1,000 sqm | Building size: 254 sqm"
+173,5 Sholden Court,"Sold $580,000 in Jan 2015","Last Sold $552,000 in May 2005", ,House: 5  2  2 ,Land size: 950 sqm | Building size: 335 sqm
+174,21 Grosvenor Drive,"Sold $800,000 in Dec 2014","Last Sold $54,000 in May 1988", ,House: 5  3  3 ,"Land size: 1,664 sqm"
+175,16 Trafalgar Square,"Sold $1,040,000 in Dec 2014", , ,House: 4  3  2 ,"Land size: 1,431 sqm"
+176,60-62 City View Drive,"Sold $1,475,100 in Dec 2014", , ,House: 5  3  2 ,"Land size: 3,210 sqm"
+177,60 Cityview Drive,"Sold $1,475,100 in Dec 2014", , ,House: 5  3  2 ,"Land size: 3,210 sqm"
+178,20 Wandana Drive,"Sold $465,000 in Nov 2014", , ,House: 4  2  2 ,Land size: 736 sqm | Building size: 184 sqm
+179,16-18 City View Drive,"Sold $1,250,000 in Nov 2014", , ,House: 5  2  4 ,"Land size: 4,036 sqm"
+180,16 Cityview Drive,"Sold $1,250,000 in Nov 2014","Last Sold $1,050,000 in Apr 2004", ,House: 5  2  4 ,"Land size: 4,036 sqm"
+181,12-14 Brolga Crescent,"Sold $520,000 in Oct 2014", , ,House: 3  2  3 ,Land size: 679 sqm
+182,5 Hargrave Crescent,"Sold $760,000 in Oct 2014", , ,House: 4  2  4 ,"Land size: 1,239 sqm"
+183,12 Brolga Crescent,"Sold $520,000 in Oct 2014", , ,House: 3  2  2 ,"Land size: 1,330 sqm"
+184,63-65 Sunderland Road,"Sold $400,000 in Sep 2014","Last Sold $75,000 in May 1999", ,House: 3  ,Land size: 800 sqm
+185,61 Wandana Drive,"Sold $678,000 in 26 Sep 2014(Auction)","Last Sold $470,000 in Jan 2008", ,House: 3  2  2 ,"Land size: 1,022 sqm"
+186,59 Grosvenor Drive,"Sold $594,500 in Sep 2014","Last Sold $520,000 in Aug 2009", ,House: 6  2  2 ,Land size: 757 sqm | Building size: 285 sqm
+187,63 Sunderland Road,"Sold $400,000 in Sep 2014", , ,House: 3  1  ,Land size: 800 sqm | Building size: 188 sqm
+188,10 Wandana Drive,"Sold $629,000 in Aug 2014", , ,House: 4  2  2 ,Land size: 986 sqm
+189,15 Henderson Drive,"Sold $670,000 in Aug 2014","Last Sold $615,000 in Dec 2012", ,House: 4  2  2 ,Land size: 962 sqm | Building size: 285 sqm
+190,12 Greenfinch Way,"Sold $257,500 in Aug 2014","Last Sold $220,000 in Sep 2010", , ,Land size: 755 sqm
+191,8 Grosvenor Drive,"Sold $465,000 in Jul 2014","Last Sold $360,000 in Dec 2012", ,House: 3  1  2 ,Land size: 714 sqm
+192,126 Wandana Drive,"Sold $575,000 in Jul 2014", , ,House: 4  2  2 ,"Land size: 1,470 sqm"
+193,39 Sunderland Road,"Sold $515,000 in Jul 2014", , ,House: 4  2  3 ,Land size: 647 sqm
+194,126-128 Wandana Drive,"Sold $575,000 in Jul 2014","Last Sold $480,000 in Dec 2008", ,House: 4  2  2 ,"Land size: 1,470 sqm"
+195,11 Lapin Grove,"Sold $185,000 in Jul 2014", , , ,Land size: 550 sqm
+196,4 Greenway Court,"Sold $675,000 in Jul 2014","Last Sold $246,000 in Dec 2000", ,House: 4  3  2 ,"Land size: 2,496 sqm | Building size: 313 sqm"
+197,12 Hargrave Crescent,"Sold $507,000 in Jun 2014", , ,House: 3  2  ,"Land size: 1,207 sqm | Building size: 173 sqm"
+198,42 James Cook Drive,"Sold $512,000 in Jun 2014", , ,House: 3  2  4 ,Land size: 999 sqm
+199,6 Florence Court,"Sold $545,000 in Jun 2014", , ,House: 4  2  2 ,Land size: 600 sqm
+200,13 Sunderland Road,"Sold $530,000 in Jun 2014","Last Sold $441,000 in May 2009", ,House: 3  2  2 ,Land size: 392 sqm | Building size: 198 sqm
+201,8 Hargrave Crescent,"Sold $590,000 in May 2014", , ,House: 3  2  2 ,"Land size: 1,229 sqm"
+202,19 Lapin Grove,"Sold $192,000 in May 2014", , , ,Land size: 548 sqm
+203,25 Lapin Grove,"Sold $150,000 in May 2014", , , ,Land size: 408 sqm
+204,28 Sunderland Road,"Sold $625,000 in Apr 2014", , ,House: 4  2  2 ,Land size: 872 sqm | Building size: 223 sqm
+205,51 Grosvenor Drive,"Sold $625,000 in Apr 2014", , ,House: 4  3  2 ,"Land size: 1,871 sqm"
+206,29 Brolga Crescent,"Sold $355,000 in Apr 2014","Last Sold $325,000 in Jan 2010(Auction)", ,House: 4  2  1 ,Land size: 679 sqm | Building size: 145 sqm
+207,10 Lapin Grove,"Sold $240,000 in Mar 2014","Last Sold $220,000 in Jun 2012", , ,Land size: 585 sqm
+208,7 Lapin Grove,"Sold $197,000 in Mar 2014", , , ,Land size: 549 sqm | Building size: 165 sqm
+209,4 Stirling Court,"Sold $500,000 in Feb 2014","Last Sold $325,000 in Feb 2004", ,House: 3  2  2 ,Land size: 840 sqm
+210,21-23 Lapin Grove,"Sold $165,000 in Feb 2014", , , ,Land size: 402 sqm
+211,55 Wandana Drive,"Sold $622,000 in Feb 2014","Last Sold $530,000 in May 2010", ,House: 4  2  3 ,"Land size: 1,173 sqm"
+212,79 Grosvenor Drive,"Sold $686,000 in Jan 2014","Last Sold $567,500 in Apr 2005", ,House: 4  2  2 ,Land size: 988 sqm | Building size: 324 sqm
+213,2 Regency Close,"Sold $525,000 in Dec 2013", , ,House: 3  2  2 ,Land size: 802 sqm | Building size: 169 sqm
+214,4 Trafalgar Square,"Sold $639,000 in Dec 2013","Last Sold $365,000 in Jun 2001", ,House: 4  3  3 ,"Land size: 1,075 sqm"
+215,10 Sholden Court,"Sold $330,000 in Dec 2013", , , ,"Land size: 1,153 sqm"
+216,9 Lapin Grove,"Sold $200,000 in Dec 2013", , , ,Land size: 550 sqm
+217,8-9 Sholden Court,"Sold $720,000 in Nov 2013", , ,House: 4  3  3 ,"Land size: 1,306 sqm"
+218,12 Henderson Drive,"Sold $686,000 in Nov 2013","Last Sold $350,000 in Sep 2002", ,House: 3  2  4 ,Land size: 937 sqm
+219,8 Sholden Court,"Sold $720,000 in Nov 2013", , ,House: 4  3  3 ,"Land size: 1,306 sqm"
+220,9 Kenthill Close,"Sold $430,000 in Nov 2013", , ,House: 3  ,Land size: 946 sqm
+221,5 Dione Mews,"Sold $475,000 in Oct 2013","Last Sold $376,000 in Jun 2005", ,House: 3  2  2 ,Land size: 443 sqm | Building size: 170 sqm
+222,35 James Cook Drive,"Sold $459,000 in Oct 2013","Last Sold $298,000 in Sep 2003", ,House: 4  2  2 ,"Land size: 1,003 sqm"
+223,3/12 Kirami Court,"Sold $219,000 in Sep 2013", , , ,"Land size: 2,088 sqm"
+224,3/13 Kirami Court,"Sold $219,000 in Sep 2013", , ,House: 4  , 
+225,34-36 Lapin Grove,"Sold $230,000 in Sep 2013", , , ,Land size: 567 sqm
+226,Lot 1/13 Kirami Court,"Sold $385,000 in Sep 2013", , , ,"Land size: 1,069 sqm"
+227,1/13 Kirami Court,"Sold $385,000 in Sep 2013", , , ,"Land size: 1,069 sqm | Building size: 188 sqm"
+228,38 Lapin Grove,"Sold $260,000 in Sep 2013", , , ,Land size: 656 sqm
+229,15 Lapin Grove,"Sold $208,000 in Sep 2013", , , ,Land size: 550 sqm | Building size: 280 sqm
+230,34 Lapin Grove,"Sold $230,000 in Sep 2013", , , ,Land size: 567 sqm | Building size: 263 sqm
+231,Lot 3/13 Kirami Court,"Sold $225,000 in Sep 2013", , , , 
+232,2/1 Wandana Drive,"Sold $165,000 in Aug 2013","Last Sold $120,000 in Oct 2007", , ,Land size: 790 sqm
+233,Lot 21 Lapin Grove (100 Wandana Dr),"Sold $585,000 in Aug 2013", , ,House: 3  2  2 ,"Land size: 1,371 sqm"
+234,15 James Cook Drive,"Sold $549,000 in Aug 2013", ,Rent $395pw in Feb 2008,House: 4  2  1 ,Land size: 995 sqm
+235,16 Xavier Court,"Sold $660,000 in Aug 2013","Last Sold $244,500 in May 2010", ,House: 4  4  2 ,Land size: 839 sqm
+236,22 Lapin Grove,"Sold $243,000 in Aug 2013", , , ,Land size: 522 sqm
+237,13 Lapin Grove,"Sold $208,000 in Aug 2013", ,Rent $570pw in Apr 2016, ,Land size: 550 sqm | Building size: 206 sqm
+238,56 James Cook Drive,"Sold $540,000 in Aug 2013","Last Sold $400,000 in Jul 2002", ,House: 4  2  2 ,"Land size: 1,582 sqm"
+239,13 Wandana Drive,"Sold $485,000 in Aug 2013","Last Sold $104,000 in Feb 1999", ,House: 3  2  2 ,Land size: 697 sqm | Building size: 198 sqm
+240,26-30 Lapin Grove,"Sold $585,000 in Jul 2013", , ,House: ,"Land size: 1,372 sqm"
+241,5-7 Bent Road,"Sold $595,000 in Jul 2013","Last Sold $480,000 in Feb 2008", ,House: 4  3  2 ,"Land size: 1,279 sqm"
+242,2/36 Wandana Drive,"Sold $360,000 in Jul 2013","Last Sold $242,500 in Jun 2005", ,Townhouse: 3  1  1 ,Land size: 267 sqm
+243,26 Lapin Grove,"Sold $585,000 in Jul 2013", , ,House: 3  2  ,"Land size: 1,371 sqm"
+244,5 Bent Road,"Sold $595,000 in Jul 2013", , ,House: 4  3  2 ,"Land size: 1,279 sqm"
+245,3 Bent Road,"Sold $400,000 in Jun 2013","Last Sold $350,000 in Oct 2009", ,House: 4  2  2 ,Land size: 727 sqm | Building size: 154 sqm
+246,75 Grosvenor Drive,"Sold $620,000 in Jun 2013","Last Sold $53,500 in Jun 1996", ,House: 4  2  2 ,Land size: 905 sqm
+247,4 Greenfinch Way,"Sold $452,500 in Jun 2013","Last Sold $158,000 in Jun 2008", ,House: 3  2  2 ,Land size: 805 sqm | Building size: 177 sqm
+248,2/38 Wandana Drive,"Sold $355,000 in May 2013","Last Sold $260,000 in Sep 2006", ,House: 2  1  2 ,Land size: 338 sqm
+249,17 Brolga Crescent,"Sold $450,000 in May 2013", , ,House: 5  2  4 ,Land size: 695 sqm
+250,2/13 Kirami Court,"Sold $187,000 in May 2013", , ,House: 4  1  2 ,Land size: 370 sqm | Building size: 2145 sqm
+251,9 Madeline Drive,"Sold $440,000 in May 2013","Last Sold $135,000 in Mar 2007", ,House: 3  2  2 ,Land size: 401 sqm | Building size: 147 sqm
+252,19 Nireeda Court,"Sold $400,000 in May 2013", ,Rent $390pw in Jan 2006,House: 3  2  2 ,Land size: 451 sqm
+253,125 Grosvenor Drive,"Sold $670,000 in May 2013","Last Sold $377,000 in Feb 2002", ,House: 4  2  2 ,"Land size: 1,055 sqm | Building size: 308 sqm"
+254,40 Lapin Grove,"Sold $247,500 in May 2013", , , ,Land size: 771 sqm | Building size: 291 sqm
+255,6 Henderson Drive,"Sold $305,000 in Apr 2013","Last Sold $285,000 in Dec 2009", , ,Land size: 652 sqm
+256,15 Grosvenor Drive,"Sold $452,000 in Apr 2013", , ,House: 3  2  2 ,Land size: 834 sqm
+257,119 Grosvenor Drive,"Sold $960,000 in Apr 2013","Last Sold $755,000 in Feb 2005", ,House: 4  3  2 ,"Land size: 1,003 sqm | Building size: 314 sqm"
+258,1/8 Henderson Drive,"Sold $310,000 in Apr 2013", , , ,Land size: 645 sqm | Building size: 331 sqm
+259,4 Lapin Grove,"Sold $220,000 in Apr 2013", , , ,Land size: 585 sqm
+260,50 Grosvenor Drive,"Sold $630,000 in Mar 2013","Last Sold $472,500 in Aug 2004", ,House: 5  2  2 ,Land size: 859 sqm
+261,46 James Cook Drive,"Sold $505,000 in Mar 2013", , ,House: 4  2  2 ,"Land size: 1,002 sqm"
+262,10 Brolga Crescent,"Sold $420,000 in Mar 2013","Last Sold $156,000 in Nov 1999", ,House: 4  2  2 ,Land size: 668 sqm
+263,9 Stanfield Drive,"Sold $575,000 in Feb 2013","Last Sold $546,000 in Oct 2003", ,House: 5  3  2 ,Land size: 999 sqm
+264,21 Brolga Crescent,"Sold $397,500 in Feb 2013", , ,House: 3  2  2 ,Land size: 693 sqm | Building size: 171 sqm
+265,63 Wandana Drive,"Sold $575,000 in Feb 2013", , ,House: 4  2  2 ,"Land size: 1,455 sqm"
+266,5 Canterbury Court,"Sold $481,000 in Feb 2013", ,Rent $470pw in Sep 2012,House: 4  3  3 ,Land size: 240 sqm
+267,36 Grosvenor Drive,"Sold $720,000 in Jan 2013", , ,House: 5  3  2 ,"Land size: 2,355 sqm"
+268,9 Grosvenor Drive,"Sold $380,000 in Jan 2013","Last Sold $98,000 in Jun 1988", ,House: 4  2  1 ,Land size: 680 sqm | Building size: 145 sqm
+269,2 Christie Court,"Sold $770,000 in Dec 2012", , ,House: 4  3  3 ,"Land size: 1,014 sqm | Building size: 300 sqm"
+270,31 Sunderland Road,"Sold $615,000 in Dec 2012", , ,House: 4  2  3 ,Land size: 648 sqm
+271,27 Stanfield Drive,"Sold $431,000 in Dec 2012","Last Sold $376,000 in Dec 2007", ,House: 4  2  2 ,Land size: 689 sqm | Building size: 204 sqm
+272,5 Nireeda Court,"Sold $380,000 in Nov 2012", ,Rent $390pw in Jun 2010,House: 3  2  2 ,Land size: 501 sqm
+273,53 Grosvenor Drive,"Sold $571,000 in Nov 2012", , ,House: 4  2  2 ,"Land size: 2,033 sqm"
+274,135 Grosvenor Drive,"Sold $600,000 in Nov 2012", ,Rent $500pw in Dec 2010,House: 4  2  2 ,Land size: 719 sqm
+275,15 Brolga Crescent,"Sold $551,500 in Nov 2012", , ,House: 4  3  2 ,"Land size: 1,351 sqm | Building size: 297 sqm"
+276,16 Brolga Crescent,"Sold $435,000 in Oct 2012", , ,House: 3  2  2 ,Land size: 785 sqm
+277,93 Grosvenor Drive,"Sold $696,000 in Oct 2012", , , ,"Land size: 4,173 sqm"
+278,37 Grosvenor Drive,"Sold $582,500 in Sep 2012", , ,House: 4  2  2 ,"Land size: 1,800 sqm"
+279,18 Henderson Drive,"Sold $710,000 in Sep 2012","Last Sold $590,000 in Mar 2009", ,House: 5  3  2 ,Land size: 879 sqm | Building size: 290 sqm
+280,59 James Cook Drive,"Sold $547,500 in Sep 2012","Last Sold $410,250 in Jun 2007", ,House: 4  2  2 ,"Land size: 1,176 sqm"
+281,32 Lapin Grove,"Sold $260,000 in Sep 2012", , , ,Land size: 755 sqm
+282,10 Dione Mews,"Sold $380,000 in Aug 2012", ,Rent $380pw in Sep 2012,House: 3  2  2 ,Land size: 492 sqm | Building size: 150 sqm
+283,1 Lapin Grove,"Sold $230,000 in Aug 2012", , , ,Land size: 798 sqm | Building size: 234 sqm
+284,6 Lapin Grove,"Sold $220,000 in Aug 2012", , , ,Land size: 585 sqm | Building size: 169 sqm
+285,18 Lapin Grove,"Sold $245,000 in Aug 2012", , , ,Land size: 528 sqm
+286,67 Wandana Drive,"Sold $530,000 in Aug 2012", ,Rent $495pw in Aug 2012,House: 4  2  2 ,"Land size: 1,200 sqm"
+287,16 Kirami Court,"Sold $469,500 in Aug 2012", ,Rent $440pw in Feb 2014,House: 3  2  2 ,Land size: 782 sqm
+288,78 Wandana Drive,"Sold $575,000 in Jul 2012", , ,House: 4  2  2 ,Land size: 680 sqm | Building size: 267 sqm
+289,3 Dione Mews,"Sold $500,000 in Jul 2012", , ,House: 3  2  2 ,Land size: 578 sqm
+290,14 Lapin Grove,"Sold $230,000 in Jun 2012", , , ,Land size: 585 sqm | Building size: 280 sqm
+291,16 Lapin Grove,"Sold $235,000 in Jun 2012", , , ,Land size: 611 sqm
+292,48 James Cook Drive,"Sold $580,000 in May 2012", , ,House: 3  2  2 ,"Land size: 1,001 sqm | Building size: 208 sqm"
+293,19 Madeline Drive,"Sold $163,000 in May 2012", , , ,Land size: 373 sqm
+294,8 Canterbury Court,"Sold $615,000 in Apr 2012", , ,House: 6  3  2 ,Land size: 756 sqm
+295,2/16 Nireeda Court,"Sold $350,000 in Apr 2012","Last Sold $300,000 in Jun 2007", ,Townhouse: 3  1  2 ,Land size: 477 sqm | Building size: 130 sqm
+296,14 Stanfield Drive,"Sold $195,000 in Apr 2012", , , ,Land size: 618 sqm | Building size: 224 sqm
+297,5 Greenfinch Way,"Sold $175,000 in Mar 2012", , , ,Land size: 716 sqm | Building size: 223 sqm
+298,23 Xavier Court,"Sold $270,000 in Mar 2012","Last Sold $168,000 in Apr 2004", , ,Land size: 711 sqm | Building size: 307 sqm
+299,15 Stanfield Drive,"Sold $860,000 in Feb 2012", , ,House: 4  3  2 ,Land size: 800 sqm | Building size: 50 sqm

@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,122 Thompson Road,"Sold $442,000 in Aug 2020", ,Rent $310pw in May 2017,House: 3  1  2 ,Land size: 647 sqm
+1,51 Saywell Street,"Sold $547,000 in Aug 2020","Last Sold $410,000 in Sep 2015", ,House: 3  1  3 ,Land size: 674 sqm
+2,2/26 Kerr Street,"Sold $400,000 in Aug 2020","Last Sold $233,000 in Sep 2012", , ,Land size: 338 sqm | Building size: 92 sqm
+3,11 Balfour Street,"Sold $790,000 in Aug 2020","Last Sold $650,000 in Aug 2017", , ,Land size: 375 sqm | Building size: 261 sqm
+4,3 Walsgott Street,"Sold $550,000 in Jul 2020","Last Sold $380,000 in Apr 2019", ,House: 4  3  5 ,Land size: 646 sqm | Building size: 153 sqm
+5,42 Guthrie Avenue,"Sold $630,000 in Jul 2020","Last Sold $81,000 in Dec 1999", ,House: 3  1  1 ,Land size: 458 sqm
+6,25 Edols Street,"Sold $515,000 in 27 Jun 2020(Auction)", , ,House: ,"Land size: 1,012 sqm"
+7,25 Dobie Court,"Sold $337,500 in Jun 2020","Last Sold $237,500 in Jul 2017", , ,Land size: 320 sqm
+8,29 Dobie Court,"Sold $670,000 in Jun 2020","Last Sold $230,000 in Mar 2012", ,House: 4  2  2 ,Land size: 320 sqm
+9,1/7 Saywell Street,"Sold $460,000 in Jun 2020","Last Sold $295,000 in Dec 2010", ,Townhouse: 3  1  2 ,Land size: 300 sqm | Building size: 105 sqm
+10,64 Slevin Street,"Sold $415,000 in May 2020","Last Sold $275,000 in Feb 2012", ,House: 3  1  2 ,Land size: 595 sqm | Building size: 143 sqm
+11,16 Giddings street,"Sold $512,000 in May 2020","Last Sold $386,000 in Jul 2016", ,House: 3  1  2 ,Land size: 675 sqm
+12,71 Osborne Avenue,"Sold $480,000 in May 2020","Last Sold $225,000 in Jun 2007", ,House: 3  1  2 ,Land size: 646 sqm | Building size: 140 sqm
+13,21 Pattison Avenue,"Sold $326,000 in May 2020", , ,House: ,Land size: 505 sqm
+14,11 Guthrie Avenue,"Sold $670,000 in Apr 2020","Last Sold $182,500 in Nov 2001", ,House: 3  1  1 ,Land size: 458 sqm
+15,12 Craddock Street,"Sold $610,000 in Apr 2020","Last Sold $246,000 in Sep 2005", ,House: 3  1  1 ,Land size: 607 sqm
+16,12 Stubbs Avenue,"Sold $618,000 in Mar 2020","Last Sold $195,000 in Jul 2004", ,House: 3  1  1 ,Land size: 458 sqm | Building size: 112 sqm
+17,1/26 Kerr Street,"Sold $389,500 in Mar 2020","Last Sold $162,000 in Jul 2003", , ,Land size: 338 sqm
+18,59 Giddings Street,"Sold $579,000 in 05 Mar 2020(Auction)", , ,House: 4  1  3 ,Land size: 739 sqm
+19,57 Roseneath Street,"Sold $479,000 in Mar 2020","Last Sold $250,000 in Mar 2013", ,House: 4  2  2 ,Land size: 613 sqm | Building size: 193 sqm
+20,28 Balfour Street,"Sold $632,000 in Feb 2020","Last Sold $260,000 in May 2012", ,House: 4  2  2 ,Land size: 375 sqm
+21,25 Sargood Street,"Sold $802,000 in Feb 2020","Last Sold $254,000 in Dec 2013", , ,Land size: 375 sqm
+22,21 Balfour Street,"Sold $800,000 in Feb 2020","Last Sold $775,000 in Jul 2017", ,House: 4  2  2 ,Land size: 374 sqm
+23,7 Walsgott Street,"Sold $551,000 in 15 Feb 2020(Auction)","Last Sold $207,000 in Jun 2009", ,House: 3  1  2 ,Land size: 646 sqm | Building size: 104 sqm
+24,33 Stubbs Avenue,"Sold $675,000 in Feb 2020","Last Sold $205,000 in Feb 2008", ,House: 3  ,Land size: 725 sqm
+25,120 Rutledge Boulevard,"Sold $870,000 in Feb 2020","Last Sold $310,000 in Jul 2013", ,House: ,Land size: 472 sqm
+26,30 Osborne Avenue,"Sold $515,000 in Dec 2019", ,Rent $320pw in Dec 2017,House: 3  1  5 ,Land size: 646 sqm
+27,11-12 McCabe Doyle Court,"Sold $772,500 in Dec 2019","Last Sold $240,000 in Jul 2015", , ,Land size: 456 sqm
+28,6 Osborne Avenue,"Sold $477,000 in 07 Dec 2019(Auction)","Last Sold $245,000 in Sep 2014", ,House: 3  1  1 ,Land size: 646 sqm
+29,106 Giddings Street,"Sold $560,000 in Nov 2019","Last Sold $400,000 in Feb 2014", ,House: 3  2  2 ,Land size: 267 sqm | Building size: 154 sqm
+30,47 Guthrie Avenue,"Sold $548,000 in 09 Nov 2019(Auction)","Last Sold $333,000 in Apr 2015(Auction)", ,House: 2  1  1 ,Land size: 459 sqm
+31,43 Wurrook Circuit,"Sold $452,500 in Nov 2019","Last Sold $180,500 in Apr 2013", ,House: 3  2  2 ,Land size: 301 sqm
+32,11 The Fairway,"Sold $630,000 in Oct 2019","Last Sold $355,000 in Nov 2003", ,House: 3  2  2 ,Land size: 749 sqm
+33,1/234 Thompson Road,"Sold $350,000 in Oct 2019","Last Sold $269,950 in Nov 2008", ,House: 2  1  1 ,Land size: 248 sqm
+34,21 Power Way,"Sold $595,000 in Oct 2019","Last Sold $280,000 in May 2016", ,House: 3  2  3 ,Land size: 414 sqm | Building size: 204 sqm
+35,8 Dobie Court,"Sold $810,000 in Oct 2019","Last Sold $280,000 in Jan 2012", ,House: 4  2  2 ,Land size: 448 sqm | Building size: 309 sqm
+36,9 Giddings Street,"Sold $485,000 in 05 Oct 2019(Auction)","Last Sold $319,000 in Mar 2013", ,House: 3  1  1 ,Land size: 645 sqm | Building size: 148 sqm
+37,35 Edols Street,"Sold $327,000 in 07 Sep 2019(Auction)", , ,House: 2  1  3 ,Land size: 765 sqm
+38,2/10 The Fairway,"Sold $350,000 in Sep 2019","Last Sold $269,000 in Aug 2010", ,House: 2  1  1 ,Land size: 223 sqm | Building size: 84 sqm
+39,c/1 Walsgott Street,"Sold $490,000 in Aug 2019", , ,Townhouse: 3  2  2 , 
+40,32 Coxon Parade,"Sold $472,000 in Aug 2019","Last Sold $317,000 in Sep 2015", ,House: 3  1  2 ,Land size: 572 sqm
+41,12 Walsgott Street,"Sold $443,000 in 20 Jul 2019(Auction)","Last Sold $245,000 in Aug 2014", ,House: 2  1  1 ,Land size: 646 sqm
+42,1/116 Thompson Road,"Sold $320,000 in Jul 2019","Last Sold $220,000 in Jul 2015", , ,Land size: 294 sqm
+43,100 Rutledge Boulevard,"Sold $760,000 in Jul 2019","Last Sold $234,000 in Nov 2011", ,House: 4  2  2 ,Land size: 357 sqm | Building size: 241 sqm
+44,8 Guthrie Avenue,"Sold $773,000 in 06 Jul 2019(Auction)","Last Sold $520,000 in Sep 2011", ,House: 3  1  1 ,Land size: 458 sqm | Building size: 186 sqm
+45,38 Stubbs Avenue,"Sold $495,000 in 29 Jun 2019(Auction)","Last Sold $252,000 in Jun 2013", ,House: 3  1  2 ,Land size: 487 sqm | Building size: 95 sqm
+46,18 Jobbins Street,"Sold $430,000 in Jun 2019", ,Rent $325pw in Sep 2017,House: 3  2  2 ,Land size: 299 sqm
+47,97-99 Wurrook Circuit,"Sold $447,500 in Jun 2019","Last Sold $190,000 in Sep 2014", ,House: 3  2  1 ,Land size: 322 sqm
+48,2/2 Craddock Street,"Sold $415,000 in May 2019","Last Sold $80,000 in Jul 2013", ,House: 2  2  1 ,Land size: 218 sqm
+49,16 Balfour Street,"Sold $378,000 in May 2019","Last Sold $277,000 in Jan 2012", , ,Land size: 405 sqm
+50,27 Dobie Court,"Sold $290,000 in May 2019","Last Sold $230,000 in Sep 2011", , ,Land size: 320 sqm
+51,126 Thompson Road,"Sold $450,000 in May 2019","Last Sold $76,000 in Feb 2000", ,House: 3  2  1 ,Land size: 642 sqm
+52,6 Jobbins Street,"Sold $416,000 in Apr 2019","Last Sold $170,000 in Jun 2013", ,House: 3  2  2 ,Land size: 255 sqm | Building size: 110 sqm
+53,48 Roseneath Street,"Sold $560,000 in 30 Mar 2019(Auction)","Last Sold $240,000 in Nov 2010", ,House: 2  1  1 ,Land size: 802 sqm
+54,95 Wurrook Circuit,"Sold $445,000 in Mar 2019","Last Sold $191,000 in Feb 2014", ,House: 3  2  1 ,Land size: 326 sqm
+55,7 Wurrook Circuit,"Sold $505,000 in Mar 2019","Last Sold $204,000 in Jul 2012", ,House: 3  2  2 ,Land size: 387 sqm
+56,9 Dobie Court,"Sold $586,000 in Mar 2019","Last Sold $215,000 in Mar 2014", ,House: 3  2  4 ,Land size: 352 sqm | Building size: 194 sqm
+57,12 Jobbins Street,"Sold $425,000 in Mar 2019","Last Sold $170,000 in Jan 2013", ,House: 3  2  2 ,Land size: 255 sqm | Building size: 116 sqm
+58,1/9 Osborne Avenue,"Sold $445,000 in Mar 2019","Last Sold $130,000 in Oct 2010", , ,Land size: 284 sqm | Building size: 155 sqm
+59,7 cooma court,"Sold $540,000 in Mar 2019","Last Sold $318,000 in Jun 2011", ,House: 3  1  2 ,Land size: 796 sqm
+60,1/4 Kerr Street,"Sold $450,000 in Feb 2019", ,Rent $400pw in Feb 2019,House: 3  2  ,Land size: 523 sqm
+61,2/116 Thompson Road,"Sold $377,500 in Feb 2019", ,Rent $310pw in Nov 2018, ,Land size: 214 sqm
+62,11 Giddings Street,"Sold $442,000 in Jan 2019","Last Sold $262,500 in Mar 2011", ,House: 2  1  6 ,Land size: 645 sqm | Building size: 100 sqm
+63,3 Cooma Court,"Sold $529,500 in Jan 2019", , ,House: 3  1  2 ,Land size: 650 sqm
+64,165 Victoria Street,"Sold $460,000 in Jan 2019", ,Rent $365pw in Apr 2019,House: 3  1  3 ,Land size: 813 sqm
+65,58 Slevin Street,"Sold $495,000 in Jan 2019","Last Sold $100,000 in Jun 2001", ,House: 3  2  4 ,Land size: 604 sqm
+66,52 Saywell Street,"Sold $510,000 in Dec 2018","Last Sold $307,000 in Dec 2012", ,House: 3  1  2 ,Land size: 467 sqm | Building size: 99 sqm
+67,3/14 Osborne Avenue,"Sold $215,000 in Nov 2018","Last Sold $150,000 in Jul 2009", , ,"Land size: 1,291 sqm"
+68,22 Wurrook Circuit,"Sold $685,000 in Nov 2018","Last Sold $214,000 in May 2012", ,House: 4  2  3 ,Land size: 406 sqm
+69,159 Victoria Street,"Sold $455,000 in Oct 2018","Last Sold $220,000 in Aug 2004", ,House: 4  1  1 ,Land size: 817 sqm
+70,9 St David Street,"Sold $720,000 in 27 Oct 2018(Auction)","Last Sold $440,000 in Dec 2007", ,House: 3  1  4 ,Land size: 613 sqm
+71,29 Coxon Parade,"Sold $502,000 in 20 Oct 2018(Auction)","Last Sold $180,000 in Sep 2002", ,House: 3  1  3 ,Land size: 658 sqm
+72,63 Wurrook Circuit,"Sold $558,000 in Oct 2018","Last Sold $245,000 in Jul 2013", ,House: 3  2  5 ,Land size: 471 sqm
+73,49 Roseneath Street,"Sold $345,000 in Oct 2018", , ,House: 3  1  ,Land size: 603 sqm
+74,167 Thompson Road,"Sold $482,000 in Sep 2018", , , , 
+75,173 Victoria Street,"Sold $470,000 in Sep 2018","Last Sold $68,000 in Oct 1992", ,House: 4  1  4 ,Land size: 802 sqm
+76,1 Giddings Street,"Sold $320,000 in Aug 2018", ,Rent $335pw in Nov 2019,House: 3  1  1 ,Land size: 307 sqm
+77,15 Victoria Street,"Sold $655,000 in 11 Aug 2018(Auction)","Last Sold $351,000 in Feb 2000", ,House: 2  1  1 ,Land size: 367 sqm
+78,61 Giddings Street,"Sold $526,000 in 04 Aug 2018(Auction)","Last Sold $315,000 in Jun 2015", ,House: 3  1  3 ,Land size: 648 sqm
+79,15 Dobie Court,"Sold $626,000 in Jul 2018","Last Sold $215,000 in Oct 2011", ,House: 4  2  2 ,Land size: 352 sqm | Building size: 210 sqm
+80,56 Walsgott Street,"Sold $466,000 in 14 Jul 2018(Auction)","Last Sold $105,000 in Aug 2002", ,House: 3  1  1 ,Land size: 710 sqm | Building size: 119 sqm
+81,26 Coxon Parade,"Sold $482,000 in Jul 2018","Last Sold $80,000 in Feb 2000", ,House: 3  1  5 ,Land size: 639 sqm
+82,7 Mccabe Doyle Court,"Sold $740,000 in Jul 2018","Last Sold $328,000 in Apr 2014", ,House: 3  2  4 ,Land size: 486 sqm
+83,60 Walsgott Street,"Sold $536,000 in 30 Jun 2018(Auction)","Last Sold $360,000 in Jun 2016", ,House: 3  1  5 ,Land size: 735 sqm | Building size: 130 sqm
+84,8 Wurrook Circuit,"Sold $470,000 in Jun 2018", , ,House: 3  2  1 ,Land size: 299 sqm
+85,19 Edols Street,"Sold $335,000 in Jun 2018","Last Sold $240,000 in Nov 2015", ,House: 2  1  1 ,Land size: 666 sqm
+86,40 Craddock Street,"Sold $570,000 in Jun 2018","Last Sold $317,000 in Mar 2014(Auction)", ,House: 3  1  3 ,Land size: 608 sqm | Building size: 132 sqm
+87,24 Edols Street,"Sold $514,000 in 06 Jun 2018(Auction)","Last Sold $100,000 in Oct 1993", , ,"Land size: 1,312 sqm | Building size: 220 sqm"
+88,2 Birch Street,"Sold $537,000 in May 2018", ,Rent $350pw in Sep 2018,House: 3  1  1 ,Land size: 548 sqm
+89,30 Walsgott Street,"Sold $530,000 in 05 May 2018(Auction)","Last Sold $426,000 in Apr 2017(Auction)", ,House: 3  1  5 ,Land size: 640 sqm
+90,1-5 (Lot 54) Muir Place,"Sold $343,500 in May 2018", , , ,Land for Life. On the southern tip of the Geelong Golf Course Estate sits this generous allotment of 610 sqm with solid timber fencing and the perfect position to stroll down to cosmopolitan...more
+91,54 Guthrie Street,"Sold $520,000 in Apr 2018", , , , 
+92,54 Guthrie Avenue,"Sold $520,000 in Apr 2018","Last Sold $76,000 in Jul 2000", , ,Land size: 488 sqm | Building size: 109 sqm
+93,3 Guthrie Avenue,"Sold $805,000 in Apr 2018","Last Sold $350,000 in Feb 2016", ,House: 4  2  2 ,Land size: 455 sqm | Building size: 135 sqm
+94,19 Saywell Street,"Sold $615,000 in 21 Apr 2018(Auction)", , ,House: 3  1  2 ,Land size: 563 sqm
+95,12 Dobbie Court,"Sold $800,000 in Apr 2018", , , , 
+96,34A Thompson Road,"Sold $421,000 in Apr 2018","Last Sold $350,000 in Dec 2016", ,House: 3  2  1 ,Land size: 171 sqm
+97,12 Dobie Court,"Sold $800,000 in Apr 2018","Last Sold $265,000 in Jan 2012", ,House: 4  2  2 ,Land size: 427 sqm | Building size: 217 sqm
+98,26 Balfour Street,"Sold $320,000 in Apr 2018","Last Sold $271,000 in Sep 2012", , ,Land size: 395 sqm
+99,1/59 Osborne Avenue,"Sold $490,000 in Apr 2018", ,Rent $430pw in Jul 2019,Townhouse: 3  2  2 , 
+100,8 Pattison Avenue,"Sold $354,000 in Mar 2018", , ,House: 2  1  1 ,Land size: 440 sqm
+101,9 Balfour Street,"Sold $290,000 in Mar 2018","Last Sold $205,000 in Oct 2011", , ,Land size: 382 sqm
+102,42 Saywell Street,"Sold $587,000 in Mar 2018","Last Sold $95,000 in Feb 1999", ,House: 3  1  1 ,Land size: 672 sqm
+103,174 Thompson Road,"Sold $430,000 in 17 Mar 2018(Auction)", , ,House: 3  1  5 ,Land size: 648 sqm
+104,11 Sargood Street,"Sold $780,000 in Mar 2018","Last Sold $254,000 in Jul 2013", ,House: 4  2  2 ,Land size: 375 sqm | Building size: 268 sqm
+105,33 Edols Street,"Sold $380,000 in Mar 2018", ,Rent $310pw in Apr 2018,House: 3  1  2 ,Land size: 593 sqm
+106,117 Wurrook Circuit,"Sold $446,500 in Feb 2018","Last Sold $184,000 in Nov 2012", ,House: 3  2  1 ,Land size: 315 sqm
+107,14 Stubbs Avenue,"Sold $520,000 in Feb 2018","Last Sold $128,500 in May 2002", ,House: 2  1  2 ,Land size: 460 sqm
+108,72 Slevin Street,"Sold $400,000 in Feb 2018", , ,House: 2  1  6 ,Land size: 603 sqm
+109,20 Sargood Street,"Sold $555,000 in Feb 2018","Last Sold $210,000 in Sep 2014", ,House: 4  2  2 ,Land size: 375 sqm | Building size: 160 sqm
+110,2/4 Kerr Street,"Sold $427,500 in Jan 2018","Last Sold $102,000 in May 2012", , ,Land size: 385 sqm | Building size: 116 sqm
+111,2 Wurrook Circuit,"Sold $620,000 in Jan 2018","Last Sold $190,000 in Nov 2012", ,House: 4  3  2 ,Land size: 376 sqm | Building size: 205 sqm
+112,14 Wurrook Circuit,"Sold $521,000 in Dec 2017","Last Sold $227,000 in Sep 2012", , ,Land size: 399 sqm | Building size: 164 sqm
+113,6 Saywell Street,"Sold $522,000 in 16 Dec 2017(Auction)", , ,House: 3  1  1 ,Land size: 677 sqm
+114,20 Osbourne Avenue,"Sold $455,500 in Dec 2017", , , , 
+115,7 Sargood Street,"Sold $430,000 in Dec 2017","Last Sold $220,000 in Sep 2015", ,House: 3  2  1 ,Land size: 378 sqm | Building size: 102 sqm
+116,20 Osborne Avenue,"Sold $455,500 in 02 Dec 2017(Auction)", ,Rent $295pw in Jan 2018,House: 3  1  5 ,Land size: 646 sqm
+117,43 Giddings Street,"Sold $480,000 in 02 Dec 2017(Auction)","Last Sold $122,800 in Mar 2002", ,House: 3  1  2 ,Land size: 646 sqm
+118,63 Walsgott Street,"Sold $332,000 in 02 Dec 2017(Auction)","Last Sold $221,000 in Aug 2007", ,House: 3  1  2 ,Land size: 414 sqm
+119,45 Saywell Street,"Sold $548,000 in 18 Nov 2017(Auction)","Last Sold $330,000 in Nov 2015", ,House: 3  1  5 ,Land size: 679 sqm | Building size: 97 sqm
+120,35 Rodney Road,"Sold $463,000 in Nov 2017","Last Sold $350,000 in Apr 2004", , ,"Land size: 1,230 sqm | Building size: 350 sqm"
+121,1/14 Walsh Grove,"Sold $445,000 in Oct 2017","Last Sold $140,000 in Sep 2013", ,House: 3  2  2 ,Land size: 381 sqm | Building size: 133 sqm
+122,9 Mccabe Doyle Court,"Sold $710,000 in Oct 2017","Last Sold $316,000 in Apr 2014", ,House: 3  2  2 ,Land size: 468 sqm
+123,18 Osborne Avenue,"Sold $415,000 in Oct 2017","Last Sold $63,050 in May 1994", ,House: 2  1  1 ,Land size: 646 sqm
+124,15 Walsh Grove,"Sold $329,000 in 28 Oct 2017(Auction)","Last Sold $238,000 in Mar 2008", ,Townhouse: 2  1  1 ,Land size: 191 sqm
+125,2/57 Giddings Street,"Sold $420,000 in Oct 2017","Last Sold $295,000 in Jul 2007", , ,Land size: 398 sqm
+126,12 Giddings Street,"Sold $451,000 in Oct 2017","Last Sold $78,000 in Dec 1991", ,House: 2  1  2 ,Land size: 650 sqm
+127,42 Osborne Avenue,"Sold $395,000 in 14 Oct 2017(Auction)", ,Rent $340pw in Feb 2019,House: 3  1  1 ,Land size: 646 sqm
+128,3 Jobbins Street,"Sold $420,000 in Oct 2017","Last Sold $177,000 in Oct 2012", ,House: 3  2  1 ,Land size: 300 sqm
+129,10 Guthrie Avenue,"Sold $621,000 in 14 Oct 2017(Auction)","Last Sold $427,250 in Feb 2012", ,House: 4  1  1 ,Land size: 457 sqm | Building size: 140 sqm
+130,176 Thompson Road,"Sold $455,000 in 23 Sep 2017(Auction)","Last Sold $54,500 in Oct 1984", ,House: 3  1  1 ,Land size: 644 sqm
+131,10 Kerr Street,"Sold $490,000 in Sep 2017","Last Sold $63,000 in Dec 1985", ,House: 3  1  2 ,Land size: 752 sqm
+132,11 Enmore Street,"Sold $400,000 in Sep 2017", ,Rent $270pw in Dec 2013,House: 3  1  1 ,Land size: 735 sqm
+133,23 Pattison Avenue,"Sold $320,000 in Sep 2017","Last Sold $262,500 in Nov 2014", ,House: 2  1  2 ,Land size: 611 sqm
+134,7 Osborne Avenue,"Sold $435,000 in 09 Sep 2017(Auction)", ,Rent $280pw in Oct 2018,House: 3  1  1 ,Land size: 646 sqm
+135,5/68-72 Osborne Avenue,"Sold $175,000 in Aug 2017","Last Sold $69,500 in Jun 2002", , ,Land size: 83 sqm
+136,28 Walsgott Street,"Sold $365,000 in Aug 2017","Last Sold $150,000 in Sep 2003", ,House: 2  1  1 ,Land size: 449 sqm
+137,5 (Lot 10) McCabe Doyle Court,"Sold $360,000 in Aug 2017", , , , 
+138,8 Sargood Street,"Sold $542,500 in Aug 2017", , ,House: 4  2  2 ,Land size: 392 sqm
+139,2 Walsgott Street,"Sold $335,000 in Jul 2017","Last Sold $260,000 in Sep 2009", ,House: 3  1  2 ,Land size: 437 sqm
+140,53 Stubbs Avenue,"Sold $466,000 in 22 Jul 2017(Auction)","Last Sold $185,000 in Jan 2006", ,House: 3  1  2 ,Land size: 485 sqm
+141,13 Dobie Court,"Sold $624,000 in Jul 2017","Last Sold $215,000 in Oct 2011", , ,Land size: 352 sqm | Building size: 167 sqm
+142,5 Sargood Street,"Sold $250,000 in Jul 2017", , ,House: 3  2  2 ,Land size: 375 sqm
+143,27 Giddings Street,"Sold $435,500 in 08 Jul 2017(Auction)", ,Rent $320pw in May 2019,House: 2  1  2 ,Land size: 641 sqm
+144,7 Rutledge Boulevard,"Sold $720,000 in Jul 2017","Last Sold $240,000 in Sep 2015", ,House: 4  2  4 ,Land size: 431 sqm
+145,115 Rutledge Boulevard,"Sold $255,000 in Jul 2017", , , ,Land size: 478 sqm
+146,2/44 Craddock Street,"Sold $318,500 in Jun 2017", ,Rent $295pw in Dec 2015, ,Land size: 210 sqm
+147,Lot 74 Rutledge Boulevard,"Sold $317,000 in Jun 2017", , , , 
+148,Lot 53 Rutledge Boulevard,"Sold $260,000 in Jun 2017", , , , 
+149,36 Swinburne Street,"Sold $618,000 in 17 Jun 2017(Auction)","Last Sold $379,000 in May 2007", ,House: 3  2  1 ,Land size: 392 sqm
+150,119 Wurrook Circuit,"Sold $410,000 in Jun 2017","Last Sold $184,000 in Nov 2012", ,House: 3  2  1 ,Land size: 315 sqm
+151,29 Saywell Street,"Sold $705,000 in 10 Jun 2017(Auction)","Last Sold $95,000 in Oct 1999", ,House: 4  1  3 ,Land size: 597 sqm | Building size: 164 sqm
+152,40 Rutledge Boulevard,"Sold $225,000 in Jun 2017", , , ,Land size: 343 sqm
+153,9 Jobbins Street,"Sold $423,000 in Jun 2017","Last Sold $174,000 in Nov 2012", ,House: 3  2  1 ,Land size: 300 sqm
+154,7 Helen Street,"Sold $2,240,000 in 03 Jun 2017(Auction)","Last Sold $95,000 in Nov 1979", ,House: 4  3  2 ,Land size: 670 sqm | Building size: 410 sqm
+155,29 Craddock Street,"Sold $510,000 in May 2017","Last Sold $50,000 in Apr 1992", ,House: 4  2  2 ,Land size: 116 sqm
+156,28 Kendra Street,"Sold $280,000 in May 2017", , ,House: 2  1  1 ,Land size: 242 sqm
+157,18 Giddings Street,"Sold $410,000 in 20 May 2017(Auction)", ,Rent $320pw in May 2019,House: 2  1  1 ,Land size: 650 sqm
+158,114 Rutledge Boulevard,"Sold $317,000 in May 2017","Last Sold $295,000 in Jan 2015", , ,Land size: 472 sqm
+159,38 Slevin Street,"Sold $355,000 in May 2017","Last Sold $78,000 in Mar 2000", ,House: 3  1  3 ,Land size: 608 sqm
+160,29 Slevin Street,"Sold $295,000 in May 2017","Last Sold $99,000 in Mar 2003", ,House: 2  1  4 ,Land size: 618 sqm
+161,34 Giddings Street,"Sold $315,000 in May 2017","Last Sold $150,000 in Jun 2006", ,House: 3  1  1 ,Land size: 403 sqm | Building size: 130 sqm
+162,Lot/34 Rutledge Boulevard,"Sold $260,000 in May 2017", , , , 
+163,24 Osborne Avenue,"Sold $355,000 in 29 Apr 2017(Auction)","Last Sold $275,000 in May 2012", ,House: 3  1  1 ,Land size: 646 sqm | Building size: 90 sqm
+164,40 Walsgott Street,"Sold $426,000 in Apr 2017", ,Rent $320pw in Jul 2018,House: 3  1  2 ,Land size: 646 sqm
+165,1/170 Thompson Road,"Sold $181,500 in Apr 2017","Last Sold $73,500 in Apr 2002", , ,Land size: 106 sqm
+166,Lot 27 Power Way,"Sold $240,000 in Apr 2017", , , , 
+167,57 Osborne Avenue,"Sold $386,200 in Apr 2017", ,Rent $310pw in Jul 2017,House: 2  1  2 ,Land size: 710 sqm
+168,Lot 199 Rutledge Boulevard,"Sold $225,000 in Apr 2017", , , , 
+169,Lot 58 Muir Place,"Sold $230,000 in Apr 2017", , , , 
+170,17 Rutledge Boulevard,"Sold $215,000 in Apr 2017", ,Rent $580pw in Oct 2019,House: 4  2  4 ,Land size: 432 sqm
+171,Lot 34 Rutledge Boulevard,"Sold $260,000 in Apr 2017", , , , 
+172,85 Rutledge Boulevard,"Sold $260,000 in Apr 2017", ,Rent $650pw in Aug 2020, ,Land size: 513 sqm
+173,32 Thompson Road,"Sold $125,000 in Mar 2017","Last Sold $110,000 in Mar 2014", , ,Land size: 300 sqm
+174,85 Giddings Street,"Sold $422,000 in Mar 2017","Last Sold $63,000 in Jul 1986", ,House: 3  2  2 ,Land size: 674 sqm
+175,1/29 Craddock Street,"Sold $510,000 in 25 Mar 2017(Auction)", ,Rent $240pw in Jan 2017,House: 4  2  2 ,Land size: 528 sqm
+176,28 Osborne Avenue,"Sold $340,000 in 25 Mar 2017(Auction)","Last Sold $331,500 in Aug 2014", ,House: 3  1  1 ,Land size: 307 sqm
+177,Lot 200 Rutledge Boulevard,"Sold $229,000 in Mar 2017", , , , 
+178,12 Baden Powell Drive,"Sold $325,000 in Mar 2017", , , ,Land size: 745 sqm
+179,2/41 Osborne Avenue,"Sold $308,000 in Mar 2017", ,Rent $270pw in Mar 2014, ,Land size: 210 sqm
+180,15 Giddings Street,"Sold $336,000 in 04 Mar 2017(Auction)", ,Rent $290pw in May 2017,House: 2  1  3 ,Land size: 645 sqm
+181,5 Magill Place,"Sold $300,000 in Mar 2017", , , ,Land size: 448 sqm
+182,9 Wurrook Circuit,"Sold $487,500 in Mar 2017","Last Sold $204,000 in Sep 2012", , ,Land size: 387 sqm | Building size: 167 sqm
+183,2/156 Victoria Street,"Sold $300,000 in Mar 2017","Last Sold $286,000 in Mar 2014", , ,Land size: 198 sqm
+184,Lot 60 Rutledge Boulevard-Golf Links Estate,"Sold $250,000 in Feb 2017", , , , 
+185,66 Roseneath Street,"Sold $301,500 in Feb 2017","Last Sold $62,500 in Nov 1994", ,House: 4  2  1 ,Land size: 609 sqm
+186,46a Stubbs Avenue,"Sold $130,000 in Feb 2017", ,Rent $350pw in Jul 2019, ,Land size: 189 sqm
+187,4 Walsgott Street,"Sold $335,000 in Feb 2017","Last Sold $255,000 in Dec 2009", ,House: 5  1  1 ,Land size: 645 sqm
+188,35-37 Walsgott Street,"Sold $370,000 in Feb 2017","Last Sold $110,000 in May 1989", ,House: 3  1  2 ,Land size: 646 sqm
+189,35 Craddock Street,"Sold $385,000 in Feb 2017","Last Sold $349,000 in Apr 2013", ,House: 3  1  1 ,Land size: 623 sqm | Building size: 107 sqm
+190,49 Wurrook Circuit,"Sold $450,000 in Feb 2017","Last Sold $182,000 in Oct 2013", ,House: 3  2  1 ,Land size: 299 sqm
+191,18 Coxon Parade,"Sold $405,000 in Feb 2017","Last Sold $280,000 in Feb 2012", ,House: 3  1  1 ,Land size: 612 sqm | Building size: 104 sqm
+192,6 McCabe Doyle Court,"Sold $280,000 in Feb 2017", , , ,Land size: 468 sqm
+193,22 Rutledge Boulevard,"Sold $310,000 in Feb 2017", , , ,Land size: 512 sqm
+194,27 Sargood Street,"Sold $235,988 in Jan 2017", , , ,Land size: 401 sqm
+195,87 Kildare Street,"Sold $318,000 in Jan 2017","Last Sold $282,000 in May 2013", ,House: 3  1  1 ,Land size: 347 sqm
+196,2 Palmer Street,"Sold $300,000 in Jan 2017","Last Sold $235,000 in Jun 2014", , ,Land size: 711 sqm
+197,408-410 Thompson Road,"Sold $583,000 in Jan 2017","Last Sold $209,000 in Jan 2002", ,House: ,Land size: 930 sqm
+198,25 Balfour Street,"Sold $645,000 in Jan 2017","Last Sold $260,000 in Aug 2013", ,House: 4  2  2 ,Land size: 375 sqm | Building size: 204 sqm
+199,2 Edols Place,"Sold $285,000 in Jan 2017","Last Sold $77,000 in Nov 1997", , ,Land size: 200 sqm
+200,27 Craddock Street,"Sold $361,000 in Dec 2016","Last Sold $152,000 in Jan 2007", ,House: 2  1  ,Land size: 532 sqm
+201,7 Cowie Street,"Sold $935,000 in 21 Dec 2016(Auction)", ,"Rent $65,000pw in May 2013", ,"Land size: 1,371 sqm | Building size: 870 sqm"
+202,33B Osborne Avenue,"Sold $308,000 in 10 Dec 2016(Auction)", ,Rent $320pw in Jan 2017,House: 3  1  2 ,Land size: 274 sqm
+203,1 Ballarat Road,"Sold $1,500,000 in Dec 2016","Last Sold $246,000 in May 2014", , ,"Land size: 4,093 sqm | Building size: 129 sqm"
+204,39 Wurrook Circuit,"Sold $416,000 in Dec 2016","Last Sold $184,000 in Mar 2013", ,House: 3  2  2 ,Land size: 303 sqm | Building size: 130 sqm
+205,44 Rutledge Boulevard,"Sold $185,000 in Nov 2016", ,Rent $470pw in Jul 2017,House: 4  2  1 ,Land size: 352 sqm
+206,91 Rutledge Boulevard,"Sold $260,000 in Nov 2016", ,Rent $575pw in Oct 2019,House: 4  2  2 ,Land size: 441 sqm
+207,34b Thompson Road,"Sold $350,000 in Nov 2016", ,Rent $370pw in May 2015,Townhouse: 2  2  1 ,Land size: 171 sqm
+208,102 Thompson Road,"Sold $375,000 in Nov 2016","Last Sold $170,000 in Feb 2000", ,House: 4  1  5 ,Land size: 642 sqm | Building size: 141 sqm
+209,10 Giddings Street,"Sold $315,000 in 19 Nov 2016(Auction)", ,Rent $360pw in Mar 2019,House: 3  1  1 ,Land size: 400 sqm
+210,24 Craddock Street,"Sold $650,000 in 05 Nov 2016(Auction)","Last Sold $172,000 in Aug 2002", ,House: 4  2  2 ,Land size: 637 sqm | Building size: 203 sqm
+211,21 Jobbins Street,"Sold $405,000 in Nov 2016","Last Sold $177,000 in Jun 2013", ,House: 4  2  1 ,Land size: 300 sqm | Building size: 137 sqm
+212,Lot 40 Geelong Golf Club Estate,"Sold $255,000 in Nov 2016", , , ,Land size: 425 sqm
+213,157 Victoria Street,"Sold $423,000 in 22 Oct 2016(Auction)", , ,House: 3  1  2 ,Land size: 374 sqm | Building size: 152 sqm
+214,49 Stubbs Avenue,"Sold $406,000 in 22 Oct 2016(Auction)", , ,House: 2  1  5 ,Land size: 457 sqm
+215,10 Baxter Road,"Sold $858,000 in Oct 2016","Last Sold $350,000 in Feb 2000", , ,"Land size: 1,942 sqm | Building size: 1340 sqm"
+216,248 Thompson Road,"Sold $704,000 in Oct 2016","Last Sold $100,000 in Jun 1995", , ,"Land size: 1,449 sqm | Building size: 330 sqm"
+217,69 Slevin Street,"Sold $265,000 in Oct 2016", ,Rent $300pw in Oct 2018,House: 2  1  5 ,Land size: 623 sqm
+218,2/14 Osborne Avenue,"Sold $175,000 in Sep 2016","Last Sold $172,500 in Mar 2013", , ,"Land size: 1,291 sqm"
+219,2/4 Backwell Street,"Sold $400,000 in Sep 2016","Last Sold $360,000 in Mar 2011", , ,"Land size: 1,681 sqm"
+220,30 Coxon Parade,"Sold $365,000 in Sep 2016","Last Sold $290,000 in Oct 2012", ,House: 3  1  1 ,Land size: 608 sqm | Building size: 84 sqm
+221,10 Wurrook Circuit,"Sold $390,000 in Sep 2016","Last Sold $167,000 in May 2013", ,House: 3  2  1 ,Land size: 299 sqm | Building size: 121 sqm
+222,54 Giddings Street,"Sold $277,000 in Sep 2016","Last Sold $185,000 in Jun 2007", ,House: 2  1  1 ,Land size: 650 sqm | Building size: 108 sqm
+223,52 Walsgott Street,"Sold $407,500 in Sep 2016","Last Sold $323,000 in Jul 2011", ,House: 6  2  2 ,Land size: 641 sqm
+224,40 Giddings Street,"Sold $340,000 in Sep 2016", , ,House: 3  1  1 ,Land size: 650 sqm
+225,25 Giddings Street,"Sold $252,000 in Sep 2016", ,Rent $270pw in Dec 2018,House: 3  1  1 ,Land size: 350 sqm
+226,56 Roseneath Street,"Sold $275,000 in Sep 2016", ,Rent $430pw in Nov 2018,House: 3  1  2 ,Land size: 636 sqm
+227,16-18 Separation Street,"Sold $500,000 in Sep 2016","Last Sold $300,000 in Nov 2007", , ,Land size: 938 sqm
+228,30 Rutledge Boulevard,"Sold $305,000 in Sep 2016", , ,House: 3  2  2 ,Land size: 512 sqm
+229,60 Osborne Avenue,"Sold $282,500 in Aug 2016", ,Rent $300pw in Nov 2016,House: 3  1  ,Land size: 727 sqm
+230,22 Walsgott Street,"Sold $462,800 in Aug 2016", ,Rent $175pw in Nov 2009,House: 4  2  3 ,Land size: 646 sqm
+231,27 Osborne Avenue,"Sold $375,000 in Aug 2016","Last Sold $345,000 in Mar 2014(Auction)", ,House: 4  1  2 ,Land size: 641 sqm
+232,96/56 RUTLEDGE Boulevard,"Sold $215,000 in Aug 2016", , , ,Land size: 384 sqm
+233,120 Thompson Road,"Sold $276,000 in Aug 2016","Last Sold $210,000 in Nov 2008", ,House: 2  1  3 ,Land size: 647 sqm | Building size: 116 sqm
+234,370 Thompson Road,"Sold $407,000 in Aug 2016","Last Sold $110,000 in Apr 1994", , ,Land size: 645 sqm | Building size: 400 sqm
+235,38 Saywell Street,"Sold $441,000 in 13 Aug 2016(Auction)", ,Rent $320pw in Mar 2018,House: 3  1  3 ,Land size: 670 sqm
+236,4 Lillian Street,"Sold $315,000 in Aug 2016","Last Sold $295,000 in May 2012", ,Townhouse: 1  1  4 ,Land size: 506 sqm | Building size: 221 sqm
+237,110 Thompson Road,"Sold $310,000 in Aug 2016","Last Sold $225,000 in Aug 2008", ,House: 3  1  1 ,Land size: 646 sqm | Building size: 110 sqm
+238,42 Giddings Street,"Sold $315,000 in Jul 2016", , ,House: 3  1  1 ,Land size: 650 sqm
+239,162/24 RUTLEDGE Boulevard,"Sold $279,000 in Jul 2016", , , ,Land size: 512 sqm
+240,44 Giddings Street,"Sold $285,000 in Jul 2016","Last Sold $275,000 in Apr 2011", ,House: 2  1  1 ,Land size: 650 sqm | Building size: 88 sqm
+241,31-35 Saunders Street,"Sold $555,000 in Jul 2016","Last Sold $385,000 in Jun 2015", ,House: ,"Land size: 2,482 sqm"
+242,12 Saywell Street,"Sold $330,000 in Jul 2016","Last Sold $73,000 in Oct 1997", ,House: 2  1  2 ,Land size: 649 sqm | Building size: 109 sqm
+243,Lot 201 Geelong Golf Club Estate,"Sold $240,001 in Jun 2016", , , ,Land size: 432 sqm
+244,384 Thompson Road,"Sold $190,000 in Jun 2016","Last Sold $112,000 in Jun 2003", ,House: ,Land size: 273 sqm
+245,Lot 196 Rutledge Boulevard-Golf Links Estate,"Sold $230,000 in Jun 2016", , , , 
+246,38 Cowie Street,"Sold $575,300 in Jun 2016","Last Sold $510,000 in Feb 2000", , ,Land size: 807 sqm
+247,86 Walsgott Street,"Sold $335,000 in Jun 2016", , ,House: 3  1  1 ,Land size: 646 sqm | Building size: 130 sqm
+248,80 Kildare Street,"Sold $315,000 in Jun 2016","Last Sold $250,000 in Apr 2007", , ,Land size: 613 sqm | Building size: 480 sqm
+249,30 Roseneath Street,"Sold $530,000 in Jun 2016","Last Sold $450,000 in Jul 2011", ,House: 2  1  6 ,Land size: 611 sqm | Building size: 260 sqm
+250,10 Stubbs Avenue,"Sold $175,000 in Jun 2016","Last Sold $160,000 in Mar 2006", ,House: 3  ,Land size: 456 sqm | Building size: 153 sqm
+251,23 RUTLEDGE Boulevard,"Sold $230,000 in May 2016", , , ,Land size: 432 sqm
+252,60 Edols Street,"Sold $530,000 in May 2016", , , ,Land size: 763 sqm
+253,102 Kildare Street,"Sold $495,000 in May 2016","Last Sold $160,000 in Apr 2008", , ,Land size: 613 sqm
+254,49 Walsgott Street,"Sold $303,000 in May 2016", ,Rent $190pw in Oct 2014,House: 3  1  1 ,Land size: 645 sqm
+255,7/120 Victoria Street,"Sold $1,815,000 in May 2016","Last Sold $775,000 in Jun 1988", , ,"Land size: 3,123 sqm"
+256,12 Ryeland Court,"Sold $522,500 in May 2016","Last Sold $121,000 in Jun 2014", , ,Land size: 637 sqm
+257,30 Guthrie Avenue,"Sold $418,000 in May 2016","Last Sold $355,000 in Apr 2009", ,House: 3  1  1 ,Land size: 458 sqm | Building size: 109 sqm
+258,2/68-72 Osborne Avenue,"Sold $172,500 in May 2016","Last Sold $140,000 in Feb 2010", , ,Land size: 98 sqm
+259,2/68 Osborne Avenue,"Sold $172,500 in May 2016","Last Sold $140,000 in Mar 2010(Auction)", ,House: 1  1  1 ,Land size: 98 sqm
+260,2 Muir Place,"Sold $344,000 in May 2016", , , ,Land size: 511 sqm
+261,57 Slevin Street,"Sold $270,000 in May 2016","Last Sold $230,000 in Jun 2007", ,House: 3  1  4 ,Land size: 571 sqm | Building size: 120 sqm
+262,81 Wurrook Circuit,"Sold $185,000 in Apr 2016", ,Rent $460pw in Jul 2019,House: 4  2  1 ,Land size: 324 sqm | Building size: 149 sqm
+263,32 Roseneath Street,"Sold $315,000 in Apr 2016","Last Sold $180,000 in Apr 2005", ,House: 2  1  1 ,Land size: 628 sqm | Building size: 103 sqm
+264,3 Cadman Terrace,"Sold $620,000 in Apr 2016", , , ,"Land size: 2,480 sqm | Building size: 550 sqm"
+265,46B STUBBS Avenue,"Sold $360,000 in Apr 2016", , ,House: 2  1  2 ,Land size: 303 sqm
+266,6 Dobie Court,"Sold $270,000 in Apr 2016", , , ,Land size: 448 sqm
+267,Lot 103 Geelong Golf Club Estate,"Sold $229,750 in Apr 2016", , , ,Land size: 352 sqm
+268,26 RUTLEDGE Boulevard,"Sold $270,000 in Apr 2016", , , ,Land size: 511 sqm
+269,91 Walsgott Street,"Sold $360,000 in Apr 2016","Last Sold $218,000 in May 2009", ,House: 3  1  2 ,Land size: 646 sqm
+270,46 Stubbs Avenue,"Sold $360,000 in Apr 2016","Last Sold $245,000 in Mar 2011", ,House: 3  1  1 ,Land size: 500 sqm | Building size: 109 sqm
+271,94 Rutledge Boulevard,"Sold $300,000 in Mar 2016", , , ,Land size: 474 sqm
+272,20 Naughton Avenue,"Sold $280,000 in Mar 2016","Last Sold $70,000 in Jul 1993", , ,Land size: 613 sqm
+273,2/4 The Fairway,"Sold $100,000 in Mar 2016","Last Sold $88,000 in Apr 1996", , ,Land size: 236 sqm | Building size: 84 sqm
+274,Lot 161 Geelong Golf Club Estate,"Sold $270,000 in Mar 2016", , , ,Land size: 512 sqm
+275,65 Walsgott Street,"Sold $300,000 in 12 Mar 2016(Auction)","Last Sold $68,000 in Apr 2000", ,House: 3  1  1 ,Land size: 710 sqm | Building size: 130 sqm
+276,20 Saunders Street,"Sold $380,000 in Mar 2016","Last Sold $372,372 in Jun 2006", , ,"Land size: 2,820 sqm"
+277,20 Craddock Street,"Sold $337,000 in 05 Mar 2016(Auction)", , ,House: 4  1  2 ,Land size: 608 sqm
+278,79 Osbourne Avenue,"Sold $305,000 in 27 Feb 2016(Auction)", , ,House: , 
+279,79 Osborne Avenue,"Sold $305,000 in Feb 2016","Last Sold $118,000 in Jul 2000", ,House: 3  1  2 ,Land size: 646 sqm
+280,42 Rutledge Boulevard,"Sold $227,500 in Feb 2016", ,Rent $490pw in Nov 2018,House: 4  2  2 ,Land size: 352 sqm | Building size: 205 sqm
+281,31 Balfour Street,"Sold $235,700 in Feb 2016", , , ,Land size: 421 sqm
+282,10 Hepner Place,"Sold $375,000 in Feb 2016", , , ,"Land size: 1,444 sqm | Building size: 670 sqm"
+283,69 Giddings Street,"Sold $300,000 in 06 Feb 2016(Auction)", , ,House: 3  1  1 ,Land size: 655 sqm | Building size: 114 sqm
+284,Lot 146 Geelong Golf Course Estate,"Sold $270,000 in Jan 2016", , , , 
+285,36 Rutledge Boulevard,"Sold $190,000 in Jan 2016", , , ,Land size: 380 sqm | Building size: 238 sqm
+286,11 Cowie Street,"Sold $750,000 in Jan 2016","Last Sold $541,200 in Jan 2011", , ,Land size: 624 sqm | Building size: 410 sqm
+287,54 Edols Street,"Sold $2,350,000 in Dec 2015","Last Sold $155,000 in Dec 2000", ,House: 4  3  3 ,Land size: 993 sqm
+288,13-15 Separation Street,"Sold $450,000 in Dec 2015","Last Sold $80,000 in Feb 1996", , ,Land size: 468 sqm
+289,37 Wurrook Circuit,"Sold $417,500 in Dec 2015","Last Sold $200,000 in May 2013", ,House: 4  2  2 ,Land size: 379 sqm
+290,15 Osborne Avenue,"Sold $260,000 in Dec 2015","Last Sold $60,000 in Aug 1995", ,House: 2  1  1 ,Land size: 646 sqm | Building size: 93 sqm
+291,13 Separation Street,"Sold $450,000 in Dec 2015","Last Sold $80,000 in Feb 2000", , ,Land size: 934 sqm
+292,30 Slevin Street,"Sold $256,000 in 05 Dec 2015(Auction)", ,Rent $265pw in Sep 2016,House: 3  3  1 ,Land size: 597 sqm | Building size: 122 sqm
+293,155 Victoria Street,"Sold $390,000 in Dec 2015","Last Sold $275,250 in Apr 2008", ,House: 4  2  2 ,Land size: 437 sqm
+294,79 Kildare Street,"Sold $255,000 in Dec 2015","Last Sold $120,000 in Jun 2007", ,House: 3  1  2 ,Land size: 613 sqm | Building size: 141 sqm
+295,41 Slevin Street,"Sold $260,000 in Nov 2015","Last Sold $180,000 in Oct 2005", ,House: 2  1  2 ,Land size: 605 sqm
+296,222/37 Wurrook Circuit,"Sold $417,500 in Nov 2015", , , ,Land size: 378 sqm
+297,56 Edols Street,"Sold $850,000 in Nov 2015","Last Sold $275,000 in Jun 2013", , ,Land size: 993 sqm
+298,112 Rutledge Boulevard,"Sold $240,000 in Nov 2015", , , ,Land size: 472 sqm
+299,10 Ryeland Court,"Sold $540,000 in Nov 2015","Last Sold $148,502 in Apr 2014", ,House: ,Land size: 789 sqm

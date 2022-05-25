@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,2/105-107 Plantation Road,"Sold $210,000 in Sep 2020","Last Sold $109,000 in Nov 2006", , ,Land size: 98 sqm
+1,42 Purnell Road,"Sold $400,000 in Sep 2020", , ,House: 4  1  4 ,Land size: 606 sqm
+2,7 Stirling Street,"Sold $475,000 in Sep 2020","Last Sold $380,000 in Apr 2017", ,House: 3  2  2 ,Land size: 704 sqm
+3,4 Durham Court,"Sold $460,000 in Sep 2020","Last Sold $400,000 in Dec 2017", ,House: 3  1  4 ,Land size: 844 sqm | Building size: 107 sqm
+4,7 Amanda Avenue,"Sold $455,000 in Sep 2020","Last Sold $320,000 in Mar 2012", ,House: 3  2  4 ,Land size: 613 sqm | Building size: 152 sqm
+5,4 Norfolk Crescent,"Sold $400,000 in Aug 2020","Last Sold $67,500 in Mar 1990", ,House: 3  1  1 ,Land size: 625 sqm
+6,3 Crossley Court,"Sold $471,050 in Aug 2020","Last Sold $265,000 in Nov 2013", ,House: 3  1  5 ,Land size: 646 sqm | Building size: 145 sqm
+7,3/11-13 Corangamite Drive,"Sold $310,000 in Aug 2020","Last Sold $170,000 in Jan 2006", , ,Land size: 286 sqm
+8,9 Fairbairn Drive,"Sold $310,000 in Aug 2020","Last Sold $230,000 in Sep 2016", ,House: 3  1  4 ,Land size: 626 sqm
+9,36 Princess Road,"Sold $405,000 in Aug 2020","Last Sold $185,000 in Feb 2012", ,House: 3  1  1 ,Land size: 541 sqm | Building size: 93 sqm
+10,11 Grevillea Avenue,"Sold $380,000 in Aug 2020", , ,House: ,Land size: 632 sqm
+11,74 Hendy Street,"Sold $357,000 in Aug 2020", ,Rent $300pw in Apr 2018,House: 3  1  2 ,Land size: 564 sqm
+12,18 Leonora Court,"Sold $417,000 in Aug 2020","Last Sold $206,000 in Oct 2004", ,House: 3  2  1 ,Land size: 599 sqm
+13,3 Atami Crescent,"Sold $385,000 in Aug 2020","Last Sold $207,500 in Feb 2010", ,House: 3  1  1 ,Land size: 574 sqm
+14,108 Goldsworthy Road,"Sold $250,000 in Aug 2020","Last Sold $54,000 in Aug 1986", ,House: 3  1  2 ,Land size: 530 sqm
+15,1 Durham Court,"Sold $406,000 in Aug 2020","Last Sold $210,000 in Jun 2012", ,House: 3  1  1 ,Land size: 560 sqm | Building size: 108 sqm
+16,1 Tyrrell Close,"Sold $430,000 in Aug 2020","Last Sold $330,000 in Feb 2018", ,House: 3  1  2 ,Land size: 573 sqm
+17,46 Kanooka Drive,"Sold $390,000 in Aug 2020","Last Sold $259,000 in Jun 2015", ,House: 3  1  ,Land size: 539 sqm | Building size: 109 sqm
+18,2 Montana Court,"Sold $418,000 in Aug 2020","Last Sold $210,000 in Oct 2016", ,House: 3  1  1 ,Land size: 542 sqm
+19,1 Tambo Court,"Sold $335,000 in Aug 2020","Last Sold $160,000 in Nov 2014", ,House: 3  1  1 ,Land size: 635 sqm
+20,347 Princes Highway,"Sold $372,500 in Jul 2020","Last Sold $295,000 in Nov 2016", ,House: 5  2  1 ,Land size: 557 sqm | Building size: 150 sqm
+21,7 Shepherdson Avenue,"Sold $430,000 in Jul 2020","Last Sold $227,500 in Apr 2015", ,House: 3  1  2 ,Land size: 542 sqm | Building size: 115 sqm
+22,44 Colorado Drive,"Sold $358,000 in Jul 2020","Last Sold $160,000 in Jun 2005", ,House: 3  1  6 ,Land size: 531 sqm | Building size: 98 sqm
+23,4/6-8 Corangamite Drive,"Sold $292,000 in Jul 2020","Last Sold $150,000 in May 2005", , ,Land size: 227 sqm
+24,10 Beech Court,"Sold $318,000 in Jul 2020","Last Sold $160,000 in May 2006", ,House: 3  1  3 ,Land size: 606 sqm
+25,16 Donax Road,"Sold $530,000 in Jul 2020","Last Sold $297,500 in Mar 2016", ,House: 3  1  1 ,"Land size: 1,114 sqm | Building size: 143 sqm"
+26,68 Colorado Drive,"Sold $422,000 in Jul 2020","Last Sold $150,000 in Jan 2005", ,House: 3  1  2 ,Land size: 593 sqm | Building size: 108 sqm
+27,9-13 Compass Circuit,"Sold $349,000 in Jul 2020", , , ,Land size: 493 sqm
+28,17 Dunraven Court,"Sold $410,000 in Jul 2020","Last Sold $247,500 in Mar 2009", ,House: 3  2  2 ,Land size: 556 sqm | Building size: 152 sqm
+29,7 Cardross Court,"Sold $410,000 in Jul 2020","Last Sold $167,000 in Mar 2004", ,House: 3  2  2 ,Land size: 635 sqm
+30,19 Harpur Road,"Sold $370,000 in Jul 2020","Last Sold $215,000 in Aug 2014", ,House: 3  1  2 ,Land size: 697 sqm
+31,167 Bacchus Marsh Road,"Sold $630,000 in Jul 2020","Last Sold $393,000 in Oct 2015", ,House: 3  1  1 ,"Land size: 1,373 sqm | Building size: 167 sqm"
+32,24 Browning Drive,"Sold $390,000 in Jul 2020","Last Sold $64,000 in Aug 1987", ,House: 1  1  2 ,Land size: 566 sqm
+33,27 Remington Street,"Sold $380,000 in Jul 2020","Last Sold $262,000 in Apr 2013", ,House: 3  1  1 ,Land size: 556 sqm | Building size: 98 sqm
+34,9-11 Compass Circuit,"Sold $349,000 in Jul 2020", , ,House: 2  1  1 , 
+35,2 Correa Close,"Sold $440,000 in Jul 2020","Last Sold $300,000 in Jun 2010", ,House: 3  2  2 ,Land size: 560 sqm
+36,3 Genista Court,"Sold $600,000 in Jul 2020","Last Sold $470,000 in Nov 2015", ,House: 4  3  2 ,Land size: 666 sqm | Building size: 341 sqm
+37,9-11 Sandra Avenue,"Sold $480,000 in Jul 2020", , , ,"Land size: 1,895 sqm"
+38,5 Compass Circuit,"Sold $520,000 in Jul 2020", , ,House: ,Land size: 424 sqm
+39,19 Wyoming Avenue,"Sold $360,000 in Jul 2020","Last Sold $250,000 in Apr 2017", ,House: 3  1  1 ,Land size: 664 sqm | Building size: 122 sqm
+40,24 Kingsley Drive,"Sold $425,000 in Jul 2020","Last Sold $92,000 in May 1991", ,House: 3  1  2 ,Land size: 566 sqm
+41,13 Sharland Road,"Sold $420,000 in Jul 2020","Last Sold $360,000 in Nov 2018", ,House: 3  1  2 ,Land size: 627 sqm | Building size: 103 sqm
+42,16 Fiona Avenue,"Sold $365,000 in Jul 2020","Last Sold $225,000 in Aug 2010", ,House: 3  1  1 ,Land size: 663 sqm | Building size: 130 sqm
+43,20 Michigan Avenue,"Sold $390,000 in Jun 2020", , ,House: ,Land size: 711 sqm
+44,42 Carmarthen Drive,"Sold $380,000 in Jun 2020", , ,House: ,Land size: 615 sqm
+45,48 Michigan Avenue,"Sold $315,000 in Jun 2020","Last Sold $235,000 in Sep 2016", ,House: 2  1  1 ,Land size: 268 sqm | Building size: 85 sqm
+46,14 Fronsac Avenue,"Sold $370,000 in Jun 2020","Last Sold $220,000 in Aug 2016", ,House: 3  1  4 ,Land size: 651 sqm
+47,12 Fronsac Avenue,"Sold $370,000 in Jun 2020","Last Sold $220,000 in Aug 2016", ,House: 3  1  4 ,Land size: 651 sqm | Building size: 120 sqm
+48,19 Remington Street,"Sold $400,000 in Jun 2020","Last Sold $78,000 in Sep 2000", ,House: 3  2  2 ,Land size: 626 sqm
+49,4 Nebraska Court,"Sold $350,000 in Jun 2020","Last Sold $250,000 in Mar 2017", ,House: 3  1  2 ,Land size: 549 sqm | Building size: 108 sqm
+50,4 Beech Court,"Sold $343,000 in Jun 2020","Last Sold $90,000 in Sep 2001", ,House: 3  ,Land size: 804 sqm
+51,3/273 Princes Highway,"Sold $308,000 in Jun 2020","Last Sold $265,000 in Jan 2018", , ,Land size: 113 sqm
+52,1/8-9 Fieldman Court,"Sold $330,000 in Jun 2020","Last Sold $250,000 in Jul 2009", ,Townhouse: 2  1  1 ,Land size: 229 sqm
+53,3 Howqua Court,"Sold $370,000 in Jun 2020", , ,House: 3  1  3 ,Land size: 712 sqm
+54,1/1 Clive Court,"Sold $223,000 in Jun 2020","Last Sold $161,000 in Jan 2017", , ,Land size: 73 sqm | Building size: 53 sqm
+55,18 Sharland Road,"Sold $338,000 in Jun 2020","Last Sold $138,000 in Apr 2006", ,House: 1  ,Land size: 540 sqm
+56,3 Charlton Road,"Sold $405,000 in Jun 2020","Last Sold $270,000 in Apr 2014", ,House: 3  1  2 ,Land size: 543 sqm | Building size: 128 sqm
+57,19-21 Merlin Crescent,"Sold $545,000 in May 2020", , ,House: 3  2  3 ,"Land size: 1,265 sqm"
+58,15 Kingsley Drive,"Sold $542,000 in May 2020","Last Sold $431,000 in Apr 2019", ,House: 5  2  3 ,Land size: 548 sqm
+59,21 Expedition Way,"Sold $215,000 in May 2020", , , ,Land size: 345 sqm
+60,6 Weir Court,"Sold $360,000 in May 2020","Last Sold $205,000 in Jun 2010", ,House: 3  1  1 ,Land size: 642 sqm | Building size: 104 sqm
+61,4 Chirnside Court,"Sold $316,000 in May 2020","Last Sold $61,000 in May 1995", ,House: 3  1  1 ,Land size: 569 sqm | Building size: 97 sqm
+62,3/128 Cox Road,"Sold $275,000 in May 2020","Last Sold $220,000 in Feb 2018", , ,"Land size: 1,032 sqm | Building size: 65 sqm"
+63,32 Cloverdale Drive,"Sold $410,000 in May 2020","Last Sold $205,000 in Aug 2004", ,House: 4  1  ,Land size: 638 sqm | Building size: 170 sqm
+64,17 Sharland Road,"Sold $375,000 in May 2020","Last Sold $335,000 in Aug 2018", ,House: 4  1  1 ,Land size: 657 sqm | Building size: 128 sqm
+65,239 Princes Highway,"Sold $355,000 in May 2020","Last Sold $346,000 in Feb 2018", ,House: 2  1  2 ,Land size: 697 sqm
+66,1/26 Bacchus Marsh Road,"Sold $333,000 in May 2020","Last Sold $250,000 in Jul 2014", , ,Land size: 290 sqm | Building size: 92 sqm
+67,7 Clunies Court,"Sold $440,000 in May 2020","Last Sold $99,000 in Jul 1996", , ,Land size: 530 sqm
+68,20a Hendy Street,"Sold $387,500 in Apr 2020","Last Sold $270,000 in Jun 2015", ,House: 3  2  1 ,Land size: 400 sqm
+69,16 Banksia Square,"Sold $343,000 in Apr 2020","Last Sold $270,000 in Jun 2015", ,House: 3  1  2 ,Land size: 536 sqm
+70,25 Canadian Parade,"Sold $330,000 in Apr 2020", , ,House: ,Land size: 596 sqm
+71,3 Cudgee Court,"Sold $440,000 in Apr 2020","Last Sold $153,000 in Jan 2002", ,House: 3  2  3 ,Land size: 612 sqm
+72,4 Prouse Court,"Sold $385,000 in Apr 2020","Last Sold $175,000 in Nov 2007", ,House: 3  1  2 ,Land size: 576 sqm | Building size: 123 sqm
+73,69 Hendy Street,"Sold $326,000 in Apr 2020","Last Sold $236,000 in Jul 2015", ,House: 3  1  2 ,Land size: 613 sqm
+74,31 Princess Road,"Sold $372,000 in Apr 2020","Last Sold $330,000 in Jul 2017", ,House: 3  1  1 ,Land size: 705 sqm | Building size: 131 sqm
+75,7 Colorado Drive,"Sold $355,000 in Apr 2020", , ,House: 4  1  2 ,Land size: 535 sqm
+76,7 Expedition Way,"Sold $215,000 in Apr 2020", , , ,Land size: 349 sqm
+77,3 Nevada Avenue,"Sold $402,000 in Mar 2020", , ,House: 3  1  1 ,Land size: 546 sqm
+78,10 Stirling Street,"Sold $490,000 in Mar 2020","Last Sold $327,500 in Aug 2015", ,House: 3  2  6 ,Land size: 693 sqm | Building size: 170 sqm
+79,219 Plantation Road,"Sold $225,000 in Mar 2020", , , ,Land size: 551 sqm
+80,16 Glendye Court,"Sold $450,500 in Mar 2020","Last Sold $330,000 in Mar 2014", ,House: 4  2  2 ,Land size: 559 sqm | Building size: 170 sqm
+81,12 Donax Road,"Sold $530,000 in Mar 2020","Last Sold $265,000 in May 2010", ,House: 3  1  1 ,"Land size: 1,355 sqm | Building size: 179 sqm"
+82,43 Browallia Drive,"Sold $525,000 in 14 Mar 2020(Auction)","Last Sold $85,000 in Aug 2006", ,House: ,Land size: 654 sqm
+83,57 Ontario Avenue,"Sold $299,500 in 14 Mar 2020(Auction)","Last Sold $193,000 in Jun 2013", ,House: 3  2  1 ,Land size: 697 sqm | Building size: 116 sqm
+84,19 Sharland Road,"Sold $335,000 in Mar 2020","Last Sold $221,000 in Sep 2013", ,House: 3  1  4 ,Land size: 591 sqm
+85,1 Duneed Court,"Sold $340,000 in Mar 2020","Last Sold $227,500 in Apr 2016", ,House: 3  1  1 ,Land size: 679 sqm
+86,9 Abelia Street,"Sold $425,000 in Mar 2020","Last Sold $365,000 in Dec 2018", ,House: 3  1  2 ,Land size: 856 sqm | Building size: 102 sqm
+87,1 Hastings Way,"Sold $440,000 in Mar 2020", , ,House: 3  1  3 ,Land size: 752 sqm
+88,11 Kerry Court,"Sold $410,000 in Mar 2020","Last Sold $75,000 in Feb 1999", ,House: 4  1  6 ,Land size: 705 sqm
+89,2/145 Purnell Road,"Sold $333,000 in Mar 2020","Last Sold $119,000 in Jun 2002", , ,Land size: 287 sqm | Building size: 115 sqm
+90,174 Bacchus Marsh Road,"Sold $350,000 in Mar 2020","Last Sold $220,000 in Sep 2015", ,House: 3  1  2 ,Land size: 630 sqm
+91,59 Purnell Road,"Sold $375,000 in Mar 2020","Last Sold $215,000 in Feb 2016", ,House: 3  1  2 ,Land size: 612 sqm | Building size: 98 sqm
+92,3 Lofty Court,"Sold $330,000 in 25 Feb 2020(Auction)","Last Sold $205,000 in Feb 2016", ,House: 3  1  2 ,Land size: 631 sqm | Building size: 106 sqm
+93,29 Sharland Road,"Sold $397,000 in Feb 2020","Last Sold $150,000 in Mar 2009", ,House: 3  1  ,Land size: 664 sqm | Building size: 98 sqm
+94,10 Gambier Grove,"Sold $353,000 in Feb 2020","Last Sold $210,000 in Oct 2013", ,House: 3  1  1 ,Land size: 613 sqm
+95,37 Harpur Road,"Sold $396,000 in Feb 2020", , ,House: 3  1  2 ,Land size: 702 sqm
+96,7-9 Ontario Avenue,"Sold $505,000 in Feb 2020", , ,House: 6  2  , 
+97,104 Matthews Road,"Sold $320,000 in Feb 2020","Last Sold $230,000 in Oct 2011", ,House: 3  1  2 ,Land size: 521 sqm | Building size: 108 sqm
+98,319 Princes Highway,"Sold $405,000 in Feb 2020","Last Sold $91,000 in May 1990", ,House: 3  1  2 ,Land size: 557 sqm
+99,417 Princes Highway,"Sold $304,000 in Feb 2020","Last Sold $215,000 in Jan 2016", ,House: 4  1  2 ,Land size: 617 sqm | Building size: 126 sqm
+100,13 Como Road,"Sold $335,000 in 15 Feb 2020(Auction)","Last Sold $242,000 in Sep 2011", ,House: 3  1  2 ,Land size: 604 sqm
+101,299 Princes Highway,"Sold $435,000 in Feb 2020","Last Sold $330,000 in Feb 2017", ,House: 3  1  5 ,Land size: 697 sqm
+102,44 Ontario Avenue,"Sold $365,000 in Feb 2020","Last Sold $300,500 in Apr 2017", ,House: 3  1  1 ,Land size: 596 sqm
+103,35 Colorado Drive,"Sold $370,000 in Feb 2020","Last Sold $272,000 in Jun 2016", ,House: 4  1  1 ,Land size: 571 sqm
+104,2 Talona Crescent,"Sold $340,000 in Feb 2020","Last Sold $216,000 in May 2016", ,House: 3  1  3 ,Land size: 549 sqm
+105,17 Browning Drive,"Sold $448,000 in Feb 2020","Last Sold $168,000 in Nov 2001", ,House: 3  3  3 ,Land size: 619 sqm
+106,160 Cox Road,"Sold $271,000 in Feb 2020","Last Sold $152,000 in Jul 2016", , ,Land size: 641 sqm
+107,1 Cabarita Court,"Sold $430,000 in Feb 2020","Last Sold $107,000 in Jun 1992", ,House: 1  2  3 ,Land size: 515 sqm
+108,104 Vermont Avenue,"Sold $360,000 in Feb 2020","Last Sold $52,500 in Jan 1998", ,House: 3  1  1 ,Land size: 544 sqm
+109,43 Wyoming avenue,"Sold $360,000 in Feb 2020", , ,House: 3  1  3 ,Land size: 692 sqm
+110,7 Cobham Court,"Sold $450,000 in Feb 2020","Last Sold $185,000 in Oct 2008", ,House: 4  2  6 ,Land size: 615 sqm | Building size: 110 sqm
+111,8 Cranbourne Drive,"Sold $415,000 in Feb 2020","Last Sold $77,500 in Feb 1989", ,House: 3  2  2 ,Land size: 556 sqm
+112,11 Michigan Avenue,"Sold $352,000 in Feb 2020", , ,House: 3  1  1 ,Land size: 742 sqm
+113,19 Virgillia Square,"Sold $363,000 in Feb 2020","Last Sold $84,500 in Oct 2001", ,House: 3  1  2 ,Land size: 536 sqm
+114,8 Voyage Circuit,"Sold $250,000 in Jan 2020", , , ,Land size: 448 sqm
+115,2/17 Merlin Crescent,"Sold $341,500 in Jan 2020","Last Sold $250,000 in Apr 2017", , ,Land size: 292 sqm
+116,85 Vermont Avenue,"Sold $343,000 in Jan 2020","Last Sold $160,000 in Jun 2004", ,House: 3  2  1 ,Land size: 664 sqm
+117,5 Amanda Avenue,"Sold $445,000 in Jan 2020", , ,House: ,Land size: 614 sqm
+118,15 Loddon Street,"Sold $330,000 in Jan 2020","Last Sold $59,500 in May 1997", ,House: 3  1  1 ,Land size: 640 sqm
+119,5 Correa Close,"Sold $385,000 in Jan 2020","Last Sold $365,000 in Sep 2018", ,House: 3  1  2 ,Land size: 577 sqm
+120,32 Carmarthen Drive,"Sold $377,500 in Jan 2020","Last Sold $138,000 in Jul 2003", ,House: 3  1  2 ,Land size: 671 sqm
+121,34 Colorado Drive,"Sold $350,000 in Jan 2020","Last Sold $170,000 in Mar 2004", ,House: 1  1  2 ,Land size: 591 sqm
+122,8 Dalwood Court,"Sold $425,000 in Jan 2020","Last Sold $256,000 in Aug 2014", ,House: 3  1  2 ,Land size: 537 sqm
+123,25 Hendy Street,"Sold $300,000 in Jan 2020","Last Sold $200,000 in Jul 2015", ,House: 3  1  2 ,Land size: 738 sqm | Building size: 111 sqm
+124,146A Matthews Road,"Sold $429,000 in Jan 2020", , , ,Land size: 327 sqm
+125,2/174 Purnell Road,"Sold $305,000 in Jan 2020","Last Sold $150,000 in May 2008", ,House: 2  1  1 ,Land size: 231 sqm | Building size: 85 sqm
+126,1 Plantation Road,"Sold $317,000 in Jan 2020","Last Sold $200,000 in Jun 2013", ,House: 3  1  2 ,Land size: 586 sqm
+127,19 Quebec Avenue,"Sold $351,000 in Jan 2020","Last Sold $220,000 in Apr 2012", , ,Land size: 600 sqm
+128,31 Kosciusko Avenue,"Sold $325,000 in Jan 2020","Last Sold $247,500 in Nov 2016", ,House: 3  1  1 ,Land size: 628 sqm
+129,39 Howitt Avenue,"Sold $277,000 in Jan 2020","Last Sold $186,500 in Dec 2014", ,House: 3  1  2 ,Land size: 612 sqm
+130,18 Cabernet Road,"Sold $455,000 in Dec 2019", , ,House: 3  1  5 ,Land size: 530 sqm
+131,8 Leonis Court,"Sold $325,000 in Dec 2019","Last Sold $163,000 in Jul 2008", ,House: 3  1  2 ,Land size: 590 sqm | Building size: 103 sqm
+132,102 Purnell Road,"Sold $329,000 in Dec 2019","Last Sold $220,500 in Nov 2011", ,House: 3  1  2 ,Land size: 566 sqm | Building size: 103 sqm
+133,5 Georgia Grove,"Sold $300,000 in Dec 2019", , ,House: 3  1  1 ,Land size: 600 sqm
+134,4 Wattle Place,"Sold $475,000 in Dec 2019","Last Sold $295,000 in Oct 2015", ,House: 3  2  1 ,Land size: 724 sqm | Building size: 185 sqm
+135,10 Michigan Avenue,"Sold $390,000 in Dec 2019","Last Sold $274,000 in Dec 2016(Auction)", ,House: 2  1  1 ,Land size: 710 sqm | Building size: 92 sqm
+136,18 Norfolk Crescent,"Sold $418,800 in Dec 2019","Last Sold $250,000 in Feb 2013", , ,Land size: 929 sqm
+137,27 Teleta Crescent,"Sold $372,000 in Dec 2019","Last Sold $222,000 in Jun 2010", ,House: 3  1  1 ,Land size: 631 sqm | Building size: 100 sqm
+138,30 Canadian Parade,"Sold $343,000 in Dec 2019", , ,House: ,Land size: 654 sqm
+139,9 Grange Court,"Sold $468,500 in Dec 2019","Last Sold $223,000 in Jan 2009", ,House: 3  1  2 ,Land size: 562 sqm | Building size: 125 sqm
+140,8 Shepherdson Avenue,"Sold $351,000 in Dec 2019","Last Sold $139,000 in Sep 2006", ,House: 3  1  2 ,Land size: 537 sqm
+141,39 Caldermeade Road,"Sold $391,000 in Dec 2019","Last Sold $200,000 in Mar 2007", ,House: 3  1  ,Land size: 528 sqm
+142,1C Wilkins Close,"Sold $408,000 in Dec 2019", , ,House: 3  1  3 ,Land size: 604 sqm
+143,86 Vermont Avenue,"Sold $325,000 in Nov 2019", , ,House: ,Land size: 540 sqm
+144,1/11-17 Howitt Avenue,"Sold $230,000 in Nov 2019", , , ,Land size: 61 sqm
+145,24 Kalver Street,"Sold $320,000 in Nov 2019","Last Sold $290,000 in Jul 2017", ,House: 2  1  4 ,Land size: 590 sqm
+146,52 Kingsley Drive,"Sold $390,000 in Nov 2019","Last Sold $72,000 in Jun 1992", ,House: 3  1  2 ,Land size: 539 sqm
+147,56 Bacchus Marsh Road,"Sold $325,000 in Nov 2019","Last Sold $270,000 in Apr 2016", ,House: 3  1  2 ,Land size: 697 sqm | Building size: 96 sqm
+148,2/8 Detroit Crescent,"Sold $290,000 in Nov 2019", ,Rent $270pw in Mar 2017, ,Land size: 120 sqm
+149,3 Bluegum Court,"Sold $351,500 in Nov 2019","Last Sold $262,500 in Nov 2016", ,House: 3  1  1 ,Land size: 532 sqm
+150,1B Wilkins Close,"Sold $360,000 in Nov 2019","Last Sold $283,000 in Sep 2017", , ,Land size: 207 sqm
+151,18 Carmarthen Drive,"Sold $340,000 in Nov 2019","Last Sold $257,000 in Sep 2016", ,House: 4  1  3 ,Land size: 664 sqm
+152,10 Primlea Court,"Sold $530,000 in Nov 2019","Last Sold $85,000 in Feb 2000", ,House: 4  2  2 ,Land size: 612 sqm
+153,4 Minnesota Court,"Sold $400,000 in Nov 2019","Last Sold $198,000 in Nov 2009", ,House: 3  1  1 ,Land size: 549 sqm
+154,74 Vermont Avenue,"Sold $314,000 in Nov 2019", , ,House: ,Land size: 540 sqm
+155,44 Cloverdale Drive,"Sold $395,000 in Oct 2019","Last Sold $62,500 in Jul 1986", ,House: 3  1  2 ,Land size: 555 sqm
+156,4 Amanda Avenue,"Sold $303,000 in 26 Oct 2019(Auction)","Last Sold $76,000 in Jul 1997", ,House: 1  2  2 ,Land size: 609 sqm
+157,6 Norfolk Crescent,"Sold $390,000 in Oct 2019","Last Sold $64,500 in Jul 1999", ,House: 3  1  2 ,Land size: 639 sqm
+158,16 Grange Court,"Sold $420,000 in Oct 2019","Last Sold $78,000 in Dec 1994", ,House: 3  1  4 ,Land size: 559 sqm
+159,83 Vermont Avenue,"Sold $355,000 in Oct 2019","Last Sold $155,000 in Oct 2008", ,House: 3  1  2 ,Land size: 664 sqm
+160,28 Pembroke Street,"Sold $365,000 in Oct 2019","Last Sold $67,000 in May 1999", ,House: 4  1  ,Land size: 678 sqm
+161,7 Springfield Court,"Sold $442,000 in Oct 2019","Last Sold $200,000 in Jul 2016", ,House: 4  2  5 ,Land size: 555 sqm | Building size: 138 sqm
+162,88 Fairbairn Drive,"Sold $340,000 in Oct 2019","Last Sold $330,000 in Sep 2017", ,House: 3  1  3 ,Land size: 764 sqm
+163,2 Minnesota Court,"Sold $360,000 in Oct 2019","Last Sold $261,000 in May 2016", ,House: 4  1  3 ,Land size: 671 sqm
+164,1/8 Norberry Court,"Sold $302,500 in Oct 2019","Last Sold $185,000 in Jun 2009", , ,Land size: 255 sqm | Building size: 100 sqm
+165,204 Bacchus Marsh Road,"Sold $370,000 in Oct 2019","Last Sold $80,000 in Oct 1993", ,House: 3  1  1 ,Land size: 591 sqm
+166,3/8 Detroit Crescent,"Sold $295,000 in Oct 2019", ,Rent $270pw in Apr 2015, ,Land size: 119 sqm
+167,18 Harding Street,"Sold $360,000 in Oct 2019","Last Sold $90,000 in Aug 1998", ,House: 4  1  2 ,Land size: 635 sqm
+168,Lot 111 Voyage Circuit,"Sold $220,000 in Oct 2019","Last Sold $149,000 in Mar 2017", , , 
+169,1 Hilson Court,"Sold $345,000 in Oct 2019","Last Sold $318,000 in Oct 2017", ,House: 3  1  2 ,Land size: 633 sqm
+170,4 Consedine Court,"Sold $365,000 in Oct 2019","Last Sold $192,000 in Mar 2015", ,House: 3  1  4 ,Land size: 555 sqm
+171,4 Michigan Avenue,"Sold $370,000 in Oct 2019", , ,House: 2  1  2 ,Land size: 691 sqm
+172,7 Como Road,"Sold $338,000 in Sep 2019", ,Rent $320pw in Oct 2019,House: 3  1  4 ,Land size: 602 sqm
+173,12 Rosemary Avenue,"Sold $380,000 in Sep 2019","Last Sold $240,000 in Dec 2015", ,House: 3  1  4 ,Land size: 613 sqm | Building size: 123 sqm
+174,16 Loddon Street,"Sold $305,000 in Sep 2019","Last Sold $190,000 in Nov 2013", ,House: 3  1  3 ,Land size: 640 sqm | Building size: 93 sqm
+175,18 Loddon Street,"Sold $320,000 in Sep 2019","Last Sold $200,000 in Nov 2013", ,House: 3  1  3 ,Land size: 694 sqm | Building size: 102 sqm
+176,10 Sten Court,"Sold $446,000 in Sep 2019","Last Sold $350,000 in Jan 2017", ,House: 3  2  2 ,Land size: 622 sqm
+177,4 Goodall Court,"Sold $320,000 in Sep 2019","Last Sold $150,000 in May 2008", ,House: 3  1  2 ,Land size: 625 sqm | Building size: 100 sqm
+178,16 Indiana Avenue,"Sold $315,000 in Sep 2019","Last Sold $195,000 in May 2011", ,House: 3  1  2 ,Land size: 580 sqm | Building size: 93 sqm
+179,1 Kullaroo Court,"Sold $440,000 in Sep 2019","Last Sold $272,000 in Dec 2009", ,House: 3  2  2 ,Land size: 729 sqm | Building size: 138 sqm
+180,4/31-33 Cranbourne Drive,"Sold $317,500 in Sep 2019","Last Sold $255,999 in Aug 2010", ,House: 2  1  1 ,Land size: 224 sqm
+181,45 Vermont Avenue,"Sold $390,000 in Sep 2019", , ,House: 4  1  3 ,Land size: 605 sqm
+182,10 Cheshire Street,"Sold $308,000 in Sep 2019","Last Sold $208,000 in Aug 2015", ,House: 3  1  1 ,Land size: 573 sqm
+183,5 Harpur Road,"Sold $340,000 in Sep 2019","Last Sold $155,000 in Feb 2000", ,House: 3  1  2 ,Land size: 775 sqm | Building size: 85 sqm
+184,21 Corangamite Drive,"Sold $410,000 in Sep 2019","Last Sold $293,000 in May 2012", ,House: 3  2  3 ,Land size: 647 sqm
+185,8 Oregon Avenue,"Sold $303,000 in Sep 2019","Last Sold $218,000 in Nov 2015", ,House: 3  1  ,Land size: 535 sqm
+186,1 Franklyn Street,"Sold $410,000 in Sep 2019","Last Sold $280,000 in Jun 2016", ,House: 3  1  3 ,Land size: 664 sqm | Building size: 152 sqm
+187,5 Raymond Grove,"Sold $255,000 in Sep 2019","Last Sold $170,000 in Jun 2015", , ,Land size: 586 sqm
+188,7 Quebec Avenue,"Sold $350,000 in Sep 2019","Last Sold $236,000 in Jun 2016", ,House: 3  1  4 ,Land size: 684 sqm | Building size: 90 sqm
+189,84 Cloverdale Drive,"Sold $385,000 in Sep 2019","Last Sold $310,000 in Jun 2017", ,House: 3  1  3 ,Land size: 565 sqm
+190,43 Kanooka Drive,"Sold $370,000 in Sep 2019","Last Sold $305,000 in Mar 2017", ,House: 3  1  1 ,Land size: 568 sqm
+191,21 Kingsley Drive,"Sold $380,500 in Sep 2019","Last Sold $234,000 in Jun 2009", ,House: 3  1  3 ,Land size: 534 sqm | Building size: 113 sqm
+192,263 Plantation Road,"Sold $426,500 in Sep 2019","Last Sold $330,000 in Nov 2016", ,Townhouse: 3  2  2 ,Land size: 297 sqm
+193,3 Plantation Road,"Sold $313,000 in Sep 2019","Last Sold $193,000 in Nov 2013", ,House: 3  1  2 ,Land size: 559 sqm | Building size: 104 sqm
+194,5/31-33 Cranbourne Drive,"Sold $320,000 in Aug 2019","Last Sold $256,000 in Jun 2010", ,House: 2  1  1 ,Land size: 216 sqm
+195,19 Goulburn Avenue,"Sold $340,000 in Aug 2019","Last Sold $165,000 in Feb 2000", ,House: 3  1  2 ,Land size: 640 sqm | Building size: 102 sqm
+196,15 Glenelg Avenue,"Sold $305,000 in Aug 2019","Last Sold $228,000 in Mar 2016", ,House: 3  1  3 ,Land size: 554 sqm | Building size: 106 sqm
+197,13 Brodribb Court,"Sold $350,000 in Aug 2019","Last Sold $230,000 in Jan 2015", ,House: 3  1  1 ,Land size: 640 sqm | Building size: 109 sqm
+198,3 Gatling Court,"Sold $330,000 in Aug 2019","Last Sold $251,000 in Feb 2012", ,House: 3  1  3 ,Land size: 528 sqm | Building size: 128 sqm
+199,4 Lofty Court,"Sold $300,000 in Aug 2019", , ,House: 3  1  4 ,Land size: 601 sqm
+200,16 Clavus Road,"Sold $340,000 in Aug 2019","Last Sold $249,000 in Jul 2015", ,House: 3  1  2 ,Land size: 600 sqm
+201,8 Nevada Avenue,"Sold $275,000 in Aug 2019", ,Rent $285pw in Sep 2019,House: 3  1  1 ,Land size: 563 sqm
+202,26 Maryland Drive,"Sold $345,000 in Aug 2019","Last Sold $250,000 in Mar 2014", ,House: 3  1  2 ,Land size: 540 sqm | Building size: 106 sqm
+203,62 Kingsley Drive,"Sold $385,000 in Aug 2019", ,Rent $360pw in Sep 2019,House: 3  1  6 ,Land size: 809 sqm
+204,3/58 Bacchus Marsh Road,"Sold $315,000 in Aug 2019", ,Rent $280pw in Apr 2018, ,Land size: 134 sqm
+205,54 Fairbairn Drive,"Sold $377,000 in Aug 2019","Last Sold $72,000 in Jun 1998", ,House: 3  2  1 ,Land size: 650 sqm
+206,3 (Lot 306) Fleet Court,"Sold $270,000 in Aug 2019", , , ,Land size: 686 sqm
+207,22 Buangor Street,"Sold $326,000 in 10 Aug 2019(Auction)", , ,House: 3  1  2 ,Land size: 629 sqm
+208,3 Idaho Street,"Sold $291,000 in Aug 2019","Last Sold $210,000 in Mar 2015", ,House: 3  1  1 ,Land size: 631 sqm | Building size: 111 sqm
+209,78 St Georges Road,"Sold $375,000 in Aug 2019","Last Sold $230,000 in Nov 2010", ,House: 3  1  1 ,Land size: 650 sqm
+210,8 Springfield Court,"Sold $400,000 in Aug 2019","Last Sold $300,000 in Sep 2012", ,House: 4  1  3 ,Land size: 610 sqm
+211,43 Kosciusko Avenue,"Sold $330,000 in Aug 2019","Last Sold $210,000 in Oct 2014", ,House: 3  1  3 ,Land size: 575 sqm | Building size: 97 sqm
+212,36 Cloverdale Drive,"Sold $420,000 in Aug 2019","Last Sold $76,000 in Mar 1989", ,House: 3  1  3 ,Land size: 554 sqm
+213,3 Wyoming Avenue,"Sold $305,000 in Jul 2019", , ,House: 3  1  ,Land size: 536 sqm
+214,2/161 Purnell Road,"Sold $310,000 in Jul 2019","Last Sold $74,500 in Apr 1989", , ,Land size: 221 sqm
+215,1/8 Detroit Crescent,"Sold $250,000 in Jul 2019", ,Rent $260pw in Jul 2017,Townhouse: 2  1  1 ,Land size: 257 sqm
+216,6 Kanooka Drive,"Sold $405,000 in Jul 2019", , ,House: 3  1  2 ,Land size: 695 sqm
+217,12 Bacchus Marsh Road,"Sold $325,000 in Jul 2019", ,Rent $300pw in Sep 2019,House: 3  1  2 ,Land size: 695 sqm
+218,9 Nixon Court,"Sold $310,000 in Jul 2019","Last Sold $215,000 in Mar 2011", ,House: 3  1  3 ,Land size: 597 sqm
+219,283 Princes Highway,"Sold $360,000 in Jul 2019", , ,House: 3  1  2 ,Land size: 693 sqm
+220,237 Princes Highway,"Sold $370,000 in Jul 2019","Last Sold $337,000 in Feb 2018", ,House: 3  1  1 ,Land size: 697 sqm
+221,9 Pembroke Street,"Sold $373,000 in Jul 2019","Last Sold $259,000 in Sep 2011", ,House: 3  2  2 ,Land size: 582 sqm | Building size: 110 sqm
+222,1 Wyoming Avenue,"Sold $300,000 in Jul 2019", , ,House: 3  1  ,Land size: 534 sqm
+223,12 Gambier Grove,"Sold $335,000 in Jul 2019", , ,House: 3  1  2 ,Land size: 585 sqm
+224,78 Matthews Road,"Sold $315,000 in Jul 2019", ,Rent $330pw in Sep 2019,House: 3  1  1 ,Land size: 535 sqm
+225,42 Caithness Crescent,"Sold $290,000 in Jul 2019","Last Sold $170,000 in May 2007", ,House: 3  1  1 ,Land size: 578 sqm | Building size: 112 sqm
+226,4 Bogong Street,"Sold $320,000 in Jul 2019","Last Sold $68,000 in Mar 1999", ,House: 3  1  1 ,Land size: 558 sqm
+227,5/8-9 Fieldman Court,"Sold $310,000 in Jul 2019","Last Sold $250,000 in Jun 2009", ,House: 2  1  1 ,Land size: 202 sqm
+228,38-40 Browallia Drive,"Sold $560,000 in Jul 2019", , ,House: 4  2  2 ,Land size: 695 sqm
+229,21 Atami Crescent,"Sold $350,000 in Jul 2019","Last Sold $186,000 in Jul 2006", ,House: 3  1  3 ,Land size: 557 sqm
+230,5 Dargo Court,"Sold $405,000 in Jul 2019","Last Sold $245,500 in Oct 2011", ,House: 3  1  5 ,Land size: 862 sqm
+231,53 Goldsworthy Road,"Sold $305,000 in Jul 2019", , ,House: 3  1  1 ,Land size: 555 sqm
+232,13 Atami Crescent,"Sold $350,000 in Jul 2019","Last Sold $270,000 in May 2013", ,House: 3  1  3 ,Land size: 557 sqm | Building size: 200 sqm
+233,4 Fieldman Court,"Sold $420,000 in Jul 2019", ,Rent $300pw in Apr 2015,House: 3  2  1 ,Land size: 571 sqm
+234,2/85-87 Goldsworthy Road,"Sold $275,000 in Jun 2019", , , ,Land size: 235 sqm
+235,12 Nixon Court,"Sold $350,000 in Jun 2019", , ,House: 3  1  3 ,Land size: 871 sqm
+236,11 Grange Court,"Sold $403,000 in Jun 2019","Last Sold $365,000 in Sep 2017", ,House: 3  1  4 ,Land size: 559 sqm | Building size: 108 sqm
+237,14 Browallia Drive,"Sold $410,000 in Jun 2019","Last Sold $290,000 in Mar 2012", ,House: 3  2  2 ,Land size: 402 sqm
+238,18 Florida Avenue,"Sold $325,000 in Jun 2019","Last Sold $67,500 in Apr 2000", ,House: 3  1  1 ,Land size: 557 sqm
+239,62 Kanooka Drive,"Sold $400,000 in Jun 2019","Last Sold $255,000 in Aug 2011", ,House: 3  1  2 ,Land size: 542 sqm | Building size: 542 sqm
+240,4 Paley Drive,"Sold $388,000 in Jun 2019","Last Sold $205,000 in Apr 2009", ,House: 3  1  1 ,Land size: 536 sqm
+241,13 Rimula Road,"Sold $468,000 in Jun 2019", ,Rent $330pw in Jul 2019,House: 3  1  4 ,"Land size: 1,053 sqm"
+242,3 Colorado Drive,"Sold $365,000 in Jun 2019", ,Rent $300pw in Jul 2019,House: 3  1  1 ,Land size: 800 sqm
+243,9 Yarrum Court,"Sold $360,000 in Jun 2019","Last Sold $160,000 in Sep 2006", ,House: 3  1  2 ,Land size: 541 sqm
+244,180 Purnell Road,"Sold $375,000 in Jun 2019","Last Sold $239,000 in May 2012", ,House: 4  1  ,Land size: 549 sqm | Building size: 136 sqm
+245,14 Bacchus Marsh Road,"Sold $310,000 in Jun 2019", , ,House: 3  1  3 ,Land size: 697 sqm
+246,34 Michigan Avenue,"Sold $361,000 in Jun 2019", ,Rent $290pw in Aug 2019,House: 3  1  2 ,Land size: 739 sqm
+247,2/74 Fairbairn Drive,"Sold $290,000 in Jun 2019","Last Sold $210,000 in May 2015", , ,Land size: 310 sqm
+248,28 Princess Road,"Sold $356,000 in Jun 2019", , ,House: 3  1  4 ,Land size: 557 sqm
+249,1 Illinois Avenue,"Sold $335,000 in Jun 2019","Last Sold $57,000 in Oct 1998", ,House: 3  1  1 ,Land size: 594 sqm
+250,6 Talona Crescent,"Sold $300,000 in Jun 2019","Last Sold $230,000 in Apr 2014", ,House: 2  1  1 ,Land size: 556 sqm | Building size: 77 sqm
+251,6 Fiona Avenue,"Sold $330,000 in Jun 2019", ,Rent $340pw in Jul 2019,House: 3  1  2 ,Land size: 669 sqm
+252,12 Leonora Court,"Sold $415,000 in Jun 2019","Last Sold $277,000 in Apr 2012", ,House: 3  2  2 ,Land size: 610 sqm | Building size: 134 sqm
+253,13 Cabarita Court,"Sold $300,000 in May 2019", , ,House: 3  1  1 ,Land size: 529 sqm
+254,7 Winchester Court,"Sold $440,000 in May 2019", , ,House: 4  2  2 ,Land size: 567 sqm
+255,58 Carmarthen Drive,"Sold $318,000 in May 2019","Last Sold $285,000 in Nov 2017(Auction)", ,House: 3  1  2 ,Land size: 568 sqm
+256,2 Maine Court,"Sold $335,000 in May 2019","Last Sold $192,500 in Mar 2010", ,House: 3  1  2 ,Land size: 540 sqm
+257,12 Coleraine Crescent,"Sold $430,050 in May 2019","Last Sold $310,000 in Dec 2012", ,House: 3  2  7 ,Land size: 530 sqm | Building size: 130 sqm
+258,2 Remington Street,"Sold $320,000 in May 2019","Last Sold $250,000 in Dec 2011", ,House: 3  1  4 ,Land size: 538 sqm
+259,6 Harpur Road,"Sold $335,000 in May 2019","Last Sold $238,000 in Mar 2018", ,House: 3  1  2 ,Land size: 684 sqm | Building size: 86 sqm
+260,3 Ayr Court,"Sold $420,000 in May 2019", , ,House: 3  1  2 ,Land size: 877 sqm
+261,8 Cobham Court,"Sold $327,000 in May 2019", , ,House: 3  1  1 ,Land size: 543 sqm
+262,48 Canadian Parade,"Sold $300,000 in May 2019", , ,House: 3  1  2 ,Land size: 608 sqm
+263,16 Springfield Court,"Sold $485,000 in May 2019", , ,House: 4  2  3 ,Land size: 567 sqm
+264,137 Goldsworthy Road,"Sold $300,000 in May 2019","Last Sold $72,000 in Feb 2000", ,House: 3  1  7 ,Land size: 537 sqm
+265,8 Perilla Court,"Sold $503,000 in May 2019","Last Sold $82,000 in Sep 2006", ,House: 3  2  2 ,Land size: 573 sqm
+266,52 Plantation Road,"Sold $330,000 in May 2019","Last Sold $222,000 in Aug 2015", ,House: 3  1  1 ,Land size: 626 sqm | Building size: 101 sqm
+267,11 Horne Square,"Sold $240,000 in May 2019","Last Sold $61,000 in May 1993", ,House: 3  1  2 ,Land size: 541 sqm
+268,2-4 McCubbin Court,"Sold $620,000 in May 2019","Last Sold $370,000 in Jul 2015", ,House: 5  2  2 ,Land size: 994 sqm
+269,41 Nigella Avenue,"Sold $505,000 in May 2019","Last Sold $85,000 in Apr 2007", ,House: 3  2  4 ,Land size: 594 sqm
+270,2 Macedon Avenue,"Sold $368,000 in May 2019", ,Rent $350pw in Jun 2019,House: 3  1  5 ,Land size: 759 sqm
+271,25 Talpa Crescent,"Sold $350,000 in May 2019","Last Sold $78,000 in Nov 1999", ,House: 3  1  2 ,Land size: 695 sqm
+272,18 Paulson Street,"Sold $300,000 in Apr 2019", , ,House: 3  1  1 ,Land size: 540 sqm
+273,45 Plantation Road,"Sold $300,000 in Apr 2019", , ,House: 3  1  2 ,Land size: 581 sqm
+274,13 Cobham Court,"Sold $330,000 in Apr 2019","Last Sold $237,000 in Oct 2013", ,House: 3  1  3 ,Land size: 616 sqm
+275,31 Nigella Avenue,"Sold $430,000 in Apr 2019","Last Sold $85,000 in Jan 2007", ,House: 3  2  6 ,Land size: 606 sqm | Building size: 125 sqm
+276,19 Cabarita Court,"Sold $335,000 in Apr 2019","Last Sold $260,000 in Aug 2010", ,House: 3  1  4 ,Land size: 530 sqm | Building size: 138 sqm
+277,10 Minehan Court,"Sold $345,000 in Apr 2019", , ,House: 3  1  6 ,Land size: 604 sqm
+278,17 Rodbrough Crescent,"Sold $375,000 in Apr 2019","Last Sold $132,500 in Mar 2002", ,House: 3  1  3 ,Land size: 796 sqm
+279,94 Hendy Street,"Sold $395,000 in Apr 2019","Last Sold $192,500 in Jan 2009", ,House: 3  1  2 ,Land size: 639 sqm | Building size: 110 sqm
+280,196 Bacchus Marsh Road,"Sold $385,000 in Apr 2019","Last Sold $260,000 in Nov 2016(Auction)", ,House: 3  1  3 ,Land size: 778 sqm
+281,20 Cox Road,"Sold $328,500 in Apr 2019","Last Sold $57,000 in May 1998", ,House: 2  1  6 ,Land size: 423 sqm
+282,56 Plantation Road,"Sold $375,000 in Apr 2019","Last Sold $81,000 in Nov 1992", ,House: 4  1  1 ,Land size: 629 sqm
+283,64 Vermont Avenue,"Sold $350,000 in Apr 2019","Last Sold $140,000 in Jun 2007", ,House: 3  1  1 ,Land size: 537 sqm | Building size: 91 sqm
+284,7 Fiona Avenue,"Sold $350,000 in Apr 2019","Last Sold $255,000 in Jul 2013", ,House: 3  1  4 ,Land size: 613 sqm
+285,3A Dargo Court,"Sold $202,005 in Apr 2019", , , ,Land size: 410 sqm
+286,16 Atami Crescent,"Sold $379,000 in Apr 2019","Last Sold $175,000 in Oct 2004", ,House: 3  1  2 ,Land size: 637 sqm | Building size: 101 sqm
+287,177 Princess Road,"Sold $405,000 in Apr 2019","Last Sold $94,000 in Nov 1994", ,House: 3  2  2 ,Land size: 570 sqm
+288,337 Princes Highway,"Sold $320,000 in Apr 2019","Last Sold $161,000 in Oct 2007", ,House: 3  1  1 ,Land size: 557 sqm
+289,153 Princess Road,"Sold $415,000 in Mar 2019","Last Sold $232,000 in Sep 2011", ,House: 3  1  2 ,Land size: 708 sqm | Building size: 117 sqm
+290,18 Donax Road,"Sold $320,000 in Mar 2019","Last Sold $240,000 in Aug 2015", ,House: 3  1  1 ,Land size: 564 sqm
+291,10 Grange Court,"Sold $423,000 in Mar 2019","Last Sold $300,000 in Jan 2016", ,House: 3  2  4 ,Land size: 562 sqm
+292,20 Dearborn Parade,"Sold $305,000 in Mar 2019","Last Sold $211,000 in Jun 2017", ,House: 3  1  1 ,Land size: 325 sqm | Building size: 111 sqm
+293,12 Dearborn Parade,"Sold $340,000 in Mar 2019","Last Sold $75,000 in Apr 2001", ,House: 3  1  3 ,Land size: 596 sqm
+294,57 Nigella Avenue,"Sold $490,000 in Mar 2019","Last Sold $85,000 in Nov 2006", ,House: 3  2  2 ,Land size: 562 sqm | Building size: 154 sqm
+295,18 Franklyn Street,"Sold $375,000 in Mar 2019","Last Sold $145,000 in Aug 2007", ,House: 3  1  2 ,"Land size: 1,117 sqm"
+296,3 Buchan Court,"Sold $420,000 in Mar 2019","Last Sold $207,000 in Oct 2011", ,House: 3  1  1 ,Land size: 861 sqm
+297,4B Talona Crescent,"Sold $295,000 in Mar 2019","Last Sold $240,000 in Sep 2012", ,House: 4  1  1 ,Land size: 365 sqm | Building size: 108 sqm
+298,373 Princes Highway,"Sold $305,000 in Mar 2019","Last Sold $185,000 in Sep 2007", ,House: 3  1  ,Land size: 557 sqm | Building size: 110 sqm
+299,152 Matthews Road,"Sold $695,000 in Mar 2019","Last Sold $620,000 in Jul 2016", ,House: 4  3  2 ,"Land size: 1,332 sqm | Building size: 241 sqm"

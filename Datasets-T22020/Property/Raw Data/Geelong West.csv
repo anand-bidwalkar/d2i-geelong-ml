@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,23 Anglesea Terrace,"Sold $707,000 in Sep 2020", , ,House: 3  1  6 , 
+1,8B Britannia Street,"Sold $790,000 in Aug 2020", , , , 
+2,31 Catherine Street,"Sold $720,000 in Aug 2020","Last Sold $269,000 in Dec 2002", ,House: 3  ,Land size: 334 sqm
+3,32B Wellington Street,"Sold $390,000 in 22 Aug 2020(Auction)", , , ,Land size: 277 sqm
+4,79 Isabella Street,"Sold $602,500 in 22 Aug 2020(Auction)", , ,House: ,Land size: 421 sqm
+5,5/194 Aberdeen Street,"Sold $280,000 in Aug 2020","Last Sold $231,800 in May 2013",Rent $260pw in Jul 2016, ,Land size: 701 sqm | Building size: 65 sqm
+6,30 Maitland Street,"Sold $1,250,000 in Aug 2020","Last Sold $71,000 in Feb 2000", ,House: ,Land size: 473 sqm | Building size: 166 sqm
+7,1/108 Gertrude Street,"Sold $373,000 in Aug 2020","Last Sold $320,000 in Sep 2017",Rent $250pw in Dec 2013, ,Land size: 131 sqm
+8,51 Albert Street,"Sold $625,000 in Aug 2020","Last Sold $430,000 in Dec 2013",Rent $350pw in Jul 2019,House: 2  1  1 ,Land size: 314 sqm | Building size: 76 sqm
+9,1/8 Bowlers Avenue,"Sold $441,500 in Aug 2020","Last Sold $89,000 in Aug 1996", , ,Land size: 130 sqm
+10,4 Waratah Street,"Sold $815,000 in Aug 2020", , , ,Land size: 455 sqm
+11,87 Isabella Street,"Sold $1,000,000 in Aug 2020","Last Sold $305,000 in Apr 2013(Auction)", ,House: 2  1  1 ,Land size: 558 sqm | Building size: 96 sqm
+12,44 Catherine Street,"Sold $600,000 in Aug 2020", ,Rent $325pw in Jul 2013,House: 2  1  1 ,Land size: 283 sqm
+13,4/2 Britannia Street,"Sold $535,000 in Aug 2020","Last Sold $453,000 in Jun 2017(Auction)",Rent $410pw in Jan 2019, ,Land size: 205 sqm
+14,33a Hope Street,"Sold $644,000 in 25 Jul 2020(Auction)","Last Sold $445,000 in Nov 2015(Auction)",Rent $300pw in Jun 2017,House: 2  1  1 ,Land size: 317 sqm | Building size: 85 sqm
+15,47 Elizabeth Street,"Sold $1,195,000 in Jul 2020", , ,House: 4  2  4 ,Land size: 579 sqm
+16,9 Weller Street,"Sold $805,000 in Jul 2020","Last Sold $144,500 in Mar 1999",Rent $500pw in Mar 2019,House: 3  1  1 ,Land size: 333 sqm
+17,21 Coquette Street,"Sold $665,000 in Jul 2020","Last Sold $605,000 in Nov 2017(Auction)",Rent $400pw in Sep 2018,House: 2  1  2 ,Land size: 339 sqm | Building size: 93 sqm
+18,40 Avon Street,"Sold $1,000,000 in Jul 2020","Last Sold $352,500 in Apr 2011(Auction)", ,House: 3  1  1 ,Land size: 466 sqm | Building size: 187 sqm
+19,202 Shannon Avenue,"Sold $520,000 in Jul 2020","Last Sold $195,000 in Oct 2004", ,House: 3  1  1 ,Land size: 322 sqm | Building size: 75 sqm
+20,2/2 Donaghy Street,"Sold $790,000 in Jul 2020", ,Rent $550pw in Nov 2010,Townhouse: 3  2  2 ,Land size: 260 sqm
+21,32B Elizabeth Street,"Sold $560,000 in Jul 2020", ,Rent $395pw in Sep 2019,House: 3  1  1 ,Land size: 312 sqm
+22,180 Autumn Street,"Sold $995,000 in 27 Jun 2020(Auction)","Last Sold $101,500 in Aug 1993", ,House: ,Land size: 841 sqm
+23,8/48-50 Britannia Street,"Sold $720,000 in Jun 2020", , ,Townhouse: 3  2  2 ,Land size: 234 sqm
+24,21 Candover Street,"Sold $767,500 in 20 Jun 2020(Auction)", , ,House: 3  ,Land size: 549 sqm
+25,40-42 Potter Street,"Sold $1,155,000 in Jun 2020", , ,House: 4  2  2 ,Land size: 419 sqm
+26,67 Waratah Street,"Sold $1,210,000 in Jun 2020","Last Sold $490,000 in Dec 2013", ,House: 3  2  2 ,Land size: 446 sqm
+27,142 Autumn Street,"Sold $955,000 in Jun 2020","Last Sold $450,000 in Apr 2006", ,House: 3  1  ,Land size: 515 sqm
+28,47 Waratah Street,"Sold $676,000 in Jun 2020", , ,House: 2  1  1 ,Land size: 377 sqm
+29,116 Hope Street,"Sold $685,000 in Jun 2020","Last Sold $440,000 in Aug 2009", ,House: 3  2  2 ,Land size: 188 sqm | Building size: 125 sqm
+30,112 Aberdeen Street,"Sold $995,000 in May 2020","Last Sold $85,000 in Feb 2000", ,House: 4  3  3 ,Land size: 708 sqm
+31,2/114-116 Isabella Street,"Sold $718,500 in May 2020", ,Rent $500pw in Nov 2019,Townhouse: 3  2  2 ,Land size: 156 sqm
+32,1/201 Hope Street,"Sold $850,000 in May 2020", , ,Townhouse: ,Land size: 297 sqm
+33,13 Crofton Street,"Sold $637,000 in May 2020","Last Sold $227,000 in Aug 2004",Rent $305pw in Dec 2013,House: 3  1  2 ,Land size: 409 sqm | Building size: 97 sqm
+34,6 Pizer Street,"Sold $720,000 in May 2020","Last Sold $560,000 in Jul 2015",Rent $475pw in Jul 2019,House: 3  1  1 ,Land size: 283 sqm
+35,38 Catherine Street,"Sold $850,000 in May 2020", , ,House: 3  2  1 ,Land size: 284 sqm
+36,30 Coquette Street,"Sold $720,000 in 11 May 2020(Auction)","Last Sold $126,500 in Jul 2000", ,House: 3  2  2 ,Land size: 395 sqm
+37,8A McNabb Avenue,"Sold $475,000 in May 2020", , ,House: , 
+38,23B Elizabeth Street,"Sold $1,410,000 in May 2020", ,"Rent $1,000pw in May 2019",Townhouse: 3  2  4 ,Land size: 510 sqm
+39,44 Lawton Avenue,"Sold $934,500 in 27 Apr 2020(Auction)", , ,House: 3  ,Land size: 73 sqm
+40,6/40 Britannia Street,"Sold $341,500 in Apr 2020","Last Sold $215,000 in Feb 2011",Rent $130pw in Sep 2004, ,Land size: 60 sqm | Building size: 58 sqm
+41,3/139 Weller Street,"Sold $262,500 in Apr 2020","Last Sold $205,000 in Sep 2016",Rent $260pw in May 2020, ,Land size: 118 sqm
+42,5 St James Street,"Sold $750,000 in 04 Apr 2020(Auction)","Last Sold $575,000 in Nov 2013(Auction)", ,House: 3  1  2 ,Land size: 594 sqm | Building size: 144 sqm
+43,12 Coquette Street,"Sold $572,000 in 24 Mar 2020(Auction)", ,Rent $250pw in Apr 2013,House: 1  1  2 ,Land size: 369 sqm
+44,21 French Street,"Sold $850,000 in 21 Mar 2020(Auction)","Last Sold $575,000 in May 2016(Auction)", ,House: 3  2  2 ,Land size: 390 sqm | Building size: 138 sqm
+45,1/48 Collins Street,"Sold $645,000 in Mar 2020", ,Rent $480pw in Mar 2020,House: 3  1  2 ,Land size: 311 sqm
+46,136 Aberdeen Street,"Sold $770,000 in Mar 2020","Last Sold $580,000 in May 2014",Rent $170pw in Jun 2005,House: 3  1  2 ,Land size: 479 sqm | Building size: 150 sqm
+47,141 Hope Street,"Sold $855,000 in Mar 2020","Last Sold $400,000 in Apr 2014",Rent $470pw in Jan 2016,House: 3  1  1 ,Land size: 247 sqm | Building size: 137 sqm
+48,3/125 Church Street,"Sold $330,000 in Mar 2020","Last Sold $215,000 in Sep 2010", , ,Land size: 135 sqm
+49,35 Gertrude Street,"Sold $685,000 in Mar 2020","Last Sold $612,000 in Oct 2011", ,House: 3  1  2 ,Land size: 446 sqm
+50,14 Addis Street,"Sold $780,000 in Mar 2020","Last Sold $165,000 in Jul 2000",Rent $500pw in Apr 2020,House: 3  2  1 ,Land size: 715 sqm
+51,6-8 Timms Lane,"Sold $900,000 in Feb 2020", , , , 
+52,13 Collins Street,"Sold $676,000 in 26 Feb 2020(Auction)","Last Sold $539,000 in Apr 2014", ,Townhouse: 3  2  2 ,Land size: 161 sqm
+53,102 Clarence Street,"Sold $1,115,000 in 22 Feb 2020(Auction)","Last Sold $94,900 in Jun 1994", ,House: 4  1  2 ,Land size: 651 sqm | Building size: 180 sqm
+54,3 Arnott Street,"Sold $1,110,000 in 22 Feb 2020(Auction)","Last Sold $891,000 in May 2017(Auction)", ,House: 4  1  2 ,Land size: 485 sqm
+55,6 Timms Lane,"Sold $900,000 in Feb 2020", ,Rent $675pw in Apr 2020,House: 3  3  2 ,Land size: 181 sqm
+56,16 Raven Street,"Sold $595,000 in Feb 2020","Last Sold $390,000 in Aug 2014",Rent $350pw in Jan 2019, ,Land size: 450 sqm | Building size: 120 sqm
+57,114 Elizabeth Street,"Sold $671,000 in 15 Feb 2020(Auction)", , ,House: 3  ,Land size: 451 sqm
+58,7/125 Church Street,"Sold $291,000 in Feb 2020","Last Sold $186,000 in Jun 2010",Rent $260pw in Dec 2018, ,Land size: 121 sqm | Building size: 52 sqm
+59,59 Oconnell Street,"Sold $1,600,000 in Feb 2020", , , ,Land size: 526 sqm
+60,43 French Street,"Sold $657,500 in 04 Feb 2020(Auction)","Last Sold $385,000 in Mar 2014",Rent $370pw in Apr 2013,House: 3  1  2 ,Land size: 390 sqm | Building size: 102 sqm
+61,2 Scarlett Street,"Sold $641,000 in 01 Feb 2020(Auction)","Last Sold $128,000 in Nov 2000", ,House: 3  2  ,Land size: 476 sqm
+62,59 O'connell Street,"Sold $1,600,000 in Jan 2020","Last Sold $315,000 in May 2009", ,House: 4  ,Land size: 525 sqm
+63,3/1-4 Howe Court,"Sold $351,500 in Jan 2020","Last Sold $295,000 in Jun 2015", , ,Land size: 171 sqm
+64,43 Preston Street,"Sold $845,000 in Jan 2020","Last Sold $412,000 in Jul 2014",Rent $510pw in Nov 2018,House: 3  1  1 ,Land size: 367 sqm | Building size: 130 sqm
+65,116-118 Autumn Street,"Sold $1,300,000 in Jan 2020","Last Sold $708,000 in Apr 2017", ,House: 4  3  2 ,Land size: 522 sqm
+66,192 Hope Street,"Sold $660,000 in Jan 2020","Last Sold $505,000 in Mar 2015",Rent $300pw in Aug 2011,House: 3  1  2 ,Land size: 355 sqm | Building size: 128 sqm
+67,67 Elizabeth Street,"Sold $750,000 in Dec 2019","Last Sold $450,000 in Aug 2016",Rent $395pw in May 2014,House: 4  2  1 ,Land size: 358 sqm
+68,131B Weller Street,"Sold $550,000 in Dec 2019", , ,House: 3  1  1 ,Land size: 380 sqm
+69,165 Autumn Street,"Sold $690,000 in Dec 2019","Last Sold $472,000 in Oct 2014",Rent $430pw in Oct 2018,House: 3  1  1 ,Land size: 400 sqm | Building size: 126 sqm
+70,49 Wellington Street,"Sold $667,000 in 14 Dec 2019(Auction)", ,Rent $400pw in Mar 2020,House: 3  1  1 ,Land size: 497 sqm
+71,28 Candover Street,"Sold $1,255,000 in 14 Dec 2019(Auction)","Last Sold $460,000 in Apr 2015",Rent $660pw in Oct 2017,House: 4  1  1 ,Land size: 444 sqm
+72,27 Villamanta Street,"Sold $650,000 in 14 Dec 2019(Auction)","Last Sold $502,000 in Feb 2014(Auction)", ,House: 3  1  2 ,Land size: 376 sqm
+73,154 Weller Street,"Sold $700,000 in 14 Dec 2019(Auction)","Last Sold $410,000 in Sep 2011(Auction)", ,House: 3  1  1 ,Land size: 561 sqm
+74,1/39 Albert Street,"Sold $595,000 in 07 Dec 2019(Auction)","Last Sold $450,000 in Jul 2012",Rent $470pw in Jan 2020,Townhouse: 2  1  1 ,Land size: 234 sqm
+75,20 Crofton Street,"Sold $811,000 in 07 Dec 2019(Auction)","Last Sold $575,000 in Aug 2016(Auction)", ,House: 3  1  1 ,Land size: 390 sqm
+76,85 Elizabeth Street,"Sold $775,000 in Dec 2019","Last Sold $86,500 in Oct 1996", ,House: 3  1  2 ,Land size: 642 sqm
+77,Lot 3/82 Elizabeth Street,"Sold $700,000 in Nov 2019", , , , 
+78,7 Pineville Avenue,"Sold $807,500 in Nov 2019","Last Sold $672,000 in Oct 2016(Auction)",Rent $375pw in Jun 2015,House: 2  1  1 ,Land size: 621 sqm | Building size: 615 sqm
+79,3 St James Street,"Sold $720,000 in Nov 2019","Last Sold $570,000 in Aug 2015",Rent $440pw in Nov 2018,House: 3  1  2 ,Land size: 284 sqm
+80,26 Weller Street,"Sold $950,000 in Nov 2019","Last Sold $370,000 in Jul 2014(Auction)",Rent $300pw in May 2014,House: 4  1  2 ,Land size: 313 sqm
+81,3 Picton Street,"Sold $595,000 in Nov 2019","Last Sold $421,000 in Aug 2011",Rent $310pw in Feb 2016,House: 3  1  3 ,Land size: 333 sqm | Building size: 117 sqm
+82,5/40 Clonard Avenue,"Sold $305,000 in Nov 2019","Last Sold $201,500 in May 2013",Rent $225pw in May 2015, ,Land size: 161 sqm
+83,59 Albert Street,"Sold $1,200,000 in Nov 2019","Last Sold $601,100 in Apr 2009",Rent $720pw in Dec 2018,House: 4  2  2 ,Land size: 654 sqm | Building size: 186 sqm
+84,1/28 Isabella Street,"Sold $570,000 in Nov 2019","Last Sold $415,000 in Jun 2015", , ,Land size: 463 sqm
+85,2/43 Wellington Street,"Sold $840,500 in 02 Nov 2019(Auction)","Last Sold $447,540 in Oct 2007", ,Townhouse: 3  3  2 ,Land size: 201 sqm | Building size: 153 sqm
+86,2/108 Gertrude Street,"Sold $395,000 in 02 Nov 2019(Auction)","Last Sold $150,000 in May 2009",Rent $205pw in Mar 2016, ,Land size: 163 sqm
+87,126 Elizabeth Street,"Sold $700,000 in Nov 2019","Last Sold $402,000 in Nov 2011",Rent $490pw in Jan 2020,House: 4  1  2 ,Land size: 468 sqm | Building size: 132 sqm
+88,15 Maitland Street,"Sold $605,000 in Nov 2019","Last Sold $289,000 in Apr 2005",Rent $300pw in Feb 2017,House: 3  1  2 ,Land size: 332 sqm
+89,92 Waratah Street,"Sold $640,000 in Oct 2019","Last Sold $277,000 in Jul 2010",Rent $360pw in Apr 2012,House: 3  1  1 ,Land size: 248 sqm | Building size: 103 sqm
+90,3/20 McDougall Street,"Sold $272,000 in Oct 2019", ,Rent $280pw in Sep 2016, ,Land size: 577 sqm
+91,3 Anglesea Terrace,"Sold $520,000 in 26 Oct 2019(Auction)","Last Sold $82,000 in May 1998", ,House: 2  2  2 ,Land size: 323 sqm
+92,199a Autumn Street,"Sold $530,000 in Oct 2019", , , , 
+93,35 Weller Street,"Sold $520,000 in 24 Oct 2019(Auction)","Last Sold $400,000 in Jan 2015",Rent $420pw in Nov 2018,House: 3  2  1 ,Land size: 216 sqm | Building size: 108 sqm
+94,66 Isabella Street,"Sold $690,000 in Oct 2019","Last Sold $275,000 in Feb 2008",Rent $500pw in Nov 2017,House: 3  1  2 ,Land size: 265 sqm | Building size: 127 sqm
+95,59 Yuille Street,"Sold $637,500 in Oct 2019", , ,House: ,Land size: 352 sqm
+96,3/131-133 Church Street,"Sold $380,000 in Sep 2019","Last Sold $290,000 in Aug 2010",Rent $295pw in Jan 2016, ,"Land size: 1,120 sqm"
+97,2/32 Lawton Avenue,"Sold $505,000 in Sep 2019","Last Sold $349,000 in Oct 2016",Rent $350pw in Aug 2018, ,Land size: 102 sqm
+98,130 Isabella Street,"Sold $556,000 in 21 Sep 2019(Auction)", , ,House: 3  1  1 ,Land size: 528 sqm
+99,36 Avon Street,"Sold $740,000 in Sep 2019","Last Sold $61,000 in Jun 1989",Rent $280pw in Nov 2009,House: 2  1  2 ,Land size: 359 sqm
+100,74 Britannia Street,"Sold $686,000 in Sep 2019","Last Sold $280,000 in Mar 2007",Rent $330pw in Sep 2016,House: 3  1  1 ,Land size: 722 sqm
+101,42 Collins Street,"Sold $705,000 in Sep 2019","Last Sold $510,000 in Dec 2017(Auction)",Rent $600pw in Nov 2019,House: 4  2  ,Land size: 301 sqm
+102,9 Gertrude Street,"Sold $1,170,500 in Sep 2019","Last Sold $750,000 in Jun 2010", ,House: 5  2  1 ,Land size: 549 sqm
+103,71 Gertrude Street,"Sold $625,000 in Sep 2019","Last Sold $155,500 in May 2000",Rent $325pw in Sep 2014,House: 3  1  2 ,Land size: 306 sqm
+104,3/131 Church Street,"Sold $380,000 in Sep 2019","Last Sold $290,000 in Aug 2010",Rent $300pw in Dec 2010, ,"Land size: 1,120 sqm"
+105,23 Wellington Street,"Sold $1,050,000 in Sep 2019","Last Sold $175,000 in Dec 2013", ,House: 3  1  2 ,Land size: 587 sqm
+106,4/45 Collins Street,"Sold $385,000 in Aug 2019","Last Sold $342,500 in Jul 2018",Rent $250pw in Apr 2016,House: 2  1  1 ,Land size: 101 sqm | Building size: 90 sqm
+107,15 Catherine Street,"Sold $585,000 in Aug 2019","Last Sold $408,000 in Jun 2012",Rent $450pw in Sep 2019,House: 2  1  ,Land size: 274 sqm | Building size: 90 sqm
+108,34 Aberdeen Street,"Sold $710,000 in Aug 2019","Last Sold $520,000 in Mar 2012", ,Townhouse: 3  2  2 ,Land size: 184 sqm
+109,17 Crofton Street,"Sold $855,000 in Aug 2019","Last Sold $365,000 in Mar 2013(Auction)", ,House: 3  2  ,Land size: 409 sqm
+110,40 Elizabeth Street,"Sold $815,000 in Aug 2019","Last Sold $735,000 in Aug 2013(Auction)", ,House: 4  3  1 ,Land size: 625 sqm
+111,50 Trigg Street,"Sold $942,000 in 17 Aug 2019(Auction)","Last Sold $200,000 in Nov 2006",Rent $670pw in Oct 2019,House: 4  2  2 ,Land size: 551 sqm | Building size: 32 sqm
+112,69 Clarence Street,"Sold $1,250,000 in Aug 2019","Last Sold $342,000 in Jun 2003",Rent $650pw in Nov 2016,House: 4  2  2 ,Land size: 528 sqm | Building size: 170 sqm
+113,29 Trigg Street,"Sold $500,000 in Aug 2019","Last Sold $82,000 in Jun 1999", ,House: 3  1  1 ,Land size: 301 sqm
+114,2/82 Elizabeth Street,"Sold $735,000 in Aug 2019", , ,Townhouse: 3  2  2 ,Land size: 164 sqm
+115,1 Hector Street,"Sold $620,000 in Aug 2019","Last Sold $496,600 in Nov 2016(Auction)",Rent $375pw in Jun 2019,House: 3  1  1 ,Land size: 300 sqm
+116,10 Coronation Street,"Sold $630,000 in Jul 2019","Last Sold $475,000 in Feb 2016", ,Townhouse: 3  1  1 ,Land size: 111 sqm | Building size: 132 sqm
+117,248 Latrobe Terrace,"Sold $1,600,000 in Jul 2019","Last Sold $1,040,000 in Dec 2009","Rent $7,064pw in Dec 2008",House: 8  2  15 ,"Land size: 1,195 sqm"
+118,1/14 McNichol Street,"Sold $742,500 in Jul 2019", , ,House: 3  2  2 , 
+119,10 Stanhope Street,"Sold $440,000 in Jul 2019","Last Sold $315,000 in Jun 2013",Rent $340pw in Jun 2018,House: 2  1  1 ,Land size: 177 sqm | Building size: 86 sqm
+120,13 Waterloo Street,"Sold $585,000 in 06 Jul 2019(Auction)","Last Sold $237,000 in Mar 2004",Rent $325pw in Jun 2014,House: 3  1  2 ,Land size: 321 sqm
+121,26 Maitland Street,"Sold $721,600 in Jul 2019", , ,House: 3  1  1 ,Land size: 574 sqm
+122,31 Coquette Street,"Sold $817,500 in 29 Jun 2019(Auction)","Last Sold $515,000 in Aug 2011",Rent $500pw in Jul 2019,House: 3  3  1 ,Land size: 282 sqm | Building size: 183 sqm
+123,13 O'Connell Street,"Sold $550,000 in Jun 2019", , ,House: 3  1  1 , 
+124,97 Church Street,"Sold $590,000 in Jun 2019","Last Sold $365,000 in Sep 2010(Auction)", ,House: 3  1  ,Land size: 454 sqm | Building size: 128 sqm
+125,6 Lupton Street,"Sold $635,000 in 15 Jun 2019(Auction)", , ,House: 3  1  1 ,Land size: 384 sqm
+126,3/14 Ann Street,"Sold $260,000 in Jun 2019","Last Sold $142,500 in Oct 2009",Rent $295pw in Jun 2019, ,Land size: 47 sqm
+127,240 Shannon Avenue,"Sold $490,000 in Jun 2019","Last Sold $320,000 in Aug 2014(Auction)",Rent $320pw in Sep 2019,House: 2  1  ,Land size: 468 sqm
+128,7 Addis Street,"Sold $653,000 in Jun 2019","Last Sold $148,000 in Sep 2001",Rent $350pw in Oct 2019,House: 2  1  1 ,Land size: 671 sqm
+129,4 Pizer Street,"Sold $615,000 in Jun 2019","Last Sold $168,000 in May 2001",Rent $300pw in Mar 2014,House: 3  1  1 ,Land size: 283 sqm
+130,69 Waratah Street,"Sold $685,000 in Jun 2019","Last Sold $312,000 in Apr 2007",Rent $480pw in Jul 2019,House: 3  1  1 ,Land size: 284 sqm
+131,35 Ann Street,"Sold $845,000 in May 2019","Last Sold $592,500 in Apr 2014", ,House: 3  2  ,Land size: 577 sqm | Building size: 181 sqm
+132,150 Weller Street,"Sold $1,238,000 in May 2019","Last Sold $900,000 in Sep 2013",Rent $750pw in Jun 2013,House: 5  2  4 ,Land size: 561 sqm | Building size: 295 sqm
+133,57 Preston Street,"Sold $680,000 in May 2019","Last Sold $370,000 in Dec 2007",Rent $395pw in Dec 2017,House: 3  1  2 ,Land size: 471 sqm | Building size: 130 sqm
+134,103 Waratah Street,"Sold $530,000 in May 2019","Last Sold $70,000 in Apr 1992", ,House: 2  1  1 ,Land size: 291 sqm
+135,7/131-133 Church Street,"Sold $265,000 in May 2019","Last Sold $205,000 in Feb 2011",Rent $230pw in Feb 2016, ,"Land size: 1,120 sqm"
+136,82 Gertrude Street,"Sold $850,000 in 25 May 2019(Auction)","Last Sold $587,500 in Aug 2012",Rent $330pw in May 2008,House: 3  2  1 ,Land size: 409 sqm | Building size: 131 sqm
+137,7/131 Church Street,"Sold $265,000 in May 2019","Last Sold $205,000 in Feb 2000",Rent $230pw in Feb 2016, ,"Land size: 1,120 sqm"
+138,233 Hope Street,"Sold $515,000 in May 2019","Last Sold $313,000 in Nov 2009",Rent $340pw in Sep 2016,House: 3  1  1 ,Land size: 146 sqm
+139,15 Trigg Street,"Sold $830,000 in 18 May 2019(Auction)","Last Sold $374,000 in Aug 2013",Rent $360pw in Sep 2013,House: 4  2  3 ,Land size: 553 sqm | Building size: 133 sqm
+140,32 George Street,"Sold $675,000 in 11 May 2019(Auction)", ,Rent $260pw in Apr 2013,House: 3  1  1 ,Land size: 611 sqm
+141,19 Gertrude Street,"Sold $620,000 in May 2019","Last Sold $282,000 in Dec 2011",Rent $260pw in Jan 2015,House: 3  1  1 ,Land size: 181 sqm | Building size: 95 sqm
+142,4 Hector Street,"Sold $525,000 in May 2019", , ,House: 3  1  2 ,Land size: 407 sqm
+143,13 Coquette Street,"Sold $660,000 in May 2019","Last Sold $360,000 in Dec 2007",Rent $440pw in May 2019,House: 2  1  ,Land size: 229 sqm | Building size: 93 sqm
+144,1/72 Britannia Street,"Sold $434,000 in 27 Apr 2019(Auction)","Last Sold $254,000 in Jul 2008",Rent $330pw in Mar 2014,House: 3  1  1 ,Land size: 187 sqm | Building size: 88 sqm
+145,5/118 Isabella Street,"Sold $359,000 in 27 Apr 2019(Auction)","Last Sold $63,000 in Jun 1996",Rent $350pw in Jul 2019, ,Land size: 116 sqm
+146,3 Trigg Street,"Sold $628,000 in 27 Apr 2019(Auction)","Last Sold $320,000 in Aug 2010",Rent $350pw in Jun 2019,House: 3  1  1 ,Land size: 733 sqm | Building size: 127 sqm
+147,2/16 Collins Street,"Sold $710,000 in Apr 2019","Last Sold $695,000 in Aug 2017",Rent $485pw in Jul 2016,Townhouse: 3  2  2 ,Land size: 225 sqm
+148,20 Candover Street,"Sold $790,000 in Apr 2019","Last Sold $66,000 in Jun 1999", ,House: 5  3  2 ,Land size: 443 sqm
+149,4/118 Isabella Street,"Sold $345,000 in Apr 2019","Last Sold $255,000 in Nov 2012",Rent $280pw in Jun 2016, ,Land size: 115 sqm | Building size: 94 sqm
+150,15 Hector Street,"Sold $501,000 in 13 Apr 2019(Auction)", , ,House: 2  1  1 ,Land size: 367 sqm
+151,93 Britannia Street,"Sold $676,000 in 13 Apr 2019(Auction)","Last Sold $360,000 in Sep 2011(Auction)",Rent $530pw in May 2019,House: 3  2  2 ,Land size: 410 sqm | Building size: 100 sqm
+152,57 Lawton Avenue,"Sold $965,000 in Apr 2019","Last Sold $865,000 in Sep 2016(Auction)", ,House: 4  2  ,Land size: 404 sqm | Building size: 186 sqm
+153,1/50 Autumn Street,"Sold $570,000 in Apr 2019","Last Sold $505,000 in Dec 2016",Rent $390pw in Apr 2016,House: 2  1  1 ,Land size: 168 sqm | Building size: 116 sqm
+154,45 Coquette Street,"Sold $607,000 in 26 Mar 2019(Auction)","Last Sold $434,000 in Dec 2013",Rent $550pw in Apr 2019,House: 3  2  2 ,Land size: 164 sqm | Building size: 107 sqm
+155,4/40 Clonard Avenue,"Sold $258,000 in Mar 2019","Last Sold $212,000 in Jun 2013",Rent $220pw in Mar 2017, ,Land size: 116 sqm
+156,40 Hope Street,"Sold $574,000 in Mar 2019","Last Sold $426,000 in May 2014", ,House: 2  1  1 ,Land size: 308 sqm
+157,103 Autumn Street,"Sold $740,000 in Mar 2019","Last Sold $483,500 in Jul 2012",Rent $550pw in Jun 2020,House: 4  2  1 ,Land size: 399 sqm | Building size: 152 sqm
+158,70 Shannon Avenue,"Sold $535,000 in 16 Mar 2019(Auction)","Last Sold $300,000 in Mar 2004",Rent $370pw in Jan 2015,House: 3  1  1 ,Land size: 467 sqm
+159,26 Clarence Street,"Sold $970,000 in 02 Mar 2019(Auction)", ,Rent $450pw in Jan 2014,House: 4  1  1 ,Land size: 733 sqm
+160,36 Preston Street,"Sold $1,000,000 in 02 Mar 2019(Auction)","Last Sold $250,000 in Nov 2005", ,House: 3  2  2 ,Land size: 638 sqm
+161,11 Hector Street,"Sold $635,000 in Feb 2019","Last Sold $265,000 in Nov 2006", ,House: 4  1  2 ,Land size: 380 sqm
+162,1/15 Isabella Street,"Sold $317,000 in Feb 2019","Last Sold $147,500 in Feb 2000",Rent $310pw in Jul 2018, ,Land size: 73 sqm
+163,17 Hector Street,"Sold $445,000 in Feb 2019","Last Sold $78,850 in Aug 1993", ,House: 3  1  1 ,Land size: 367 sqm
+164,6 Aberdeen Street,"Sold $1,000,000 in 09 Feb 2019(Auction)", ,Rent $260pw in Jul 2020,House: 12  2  1 ,Land size: 541 sqm
+165,16 Lawton Avenue,"Sold $1,350,000 in 09 Feb 2019(Auction)","Last Sold $960,000 in Feb 2015(Auction)",Rent $260pw in Apr 2007,House: 3  2  3 ,Land size: 405 sqm | Building size: 179 sqm
+166,3 Tayler Street,"Sold $662,000 in 02 Feb 2019(Auction)", , ,House: 3  1  1 ,Land size: 473 sqm
+167,76 Isabella Street,"Sold $859,000 in Jan 2019","Last Sold $67,000 in Mar 1987", ,House: 3  1  3 ,Land size: 919 sqm
+168,80 Albert Street,"Sold $1,200,000 in Jan 2019","Last Sold $640,000 in Sep 2009", ,House: 4  3  3 ,Land size: 405 sqm
+169,3 Lupton Street,"Sold $507,000 in Jan 2019","Last Sold $383,000 in Jul 2016(Auction)",Rent $310pw in Sep 2015,House: 2  1  1 ,Land size: 198 sqm | Building size: 675 sqm
+170,62 Weller Street,"Sold $750,000 in Jan 2019","Last Sold $427,500 in May 2013", ,House: 3  2  1 ,Land size: 298 sqm
+171,21 Hector Street,"Sold $700,000 in Jan 2019","Last Sold $450,000 in Sep 2011",Rent $550pw in Jul 2015,House: 3  2  2 ,Land size: 375 sqm | Building size: 160 sqm
+172,101 Isabella Street,"Sold $700,000 in Jan 2019","Last Sold $385,000 in Aug 2012", ,House: 3  1  1 ,Land size: 506 sqm | Building size: 117 sqm
+173,13 Candover Street,"Sold $505,000 in Dec 2018", , ,House: 3  1  1 ,Land size: 437 sqm
+174,8 Trigg Street,"Sold $631,750 in Dec 2018","Last Sold $324,000 in Feb 2005", ,House: 3  2  2 ,Land size: 364 sqm
+175,10 Addis Street,"Sold $640,000 in Dec 2018","Last Sold $630,000 in May 2017",Rent $260pw in Apr 2017,House: 2  1  1 ,Land size: 272 sqm
+176,44 Trigg Street,"Sold $500,000 in Dec 2018","Last Sold $75,000 in Oct 1997", ,House: 2  1  2 ,Land size: 540 sqm
+177,1/19 Candover Street,"Sold $260,000 in Dec 2018","Last Sold $193,000 in Jan 2014",Rent $190pw in Dec 2016,House: 1  1  1 ,Land size: 51 sqm | Building size: 51 sqm
+178,10 Napier Street,"Sold $656,000 in 15 Dec 2018(Auction)","Last Sold $170,000 in Apr 2015", ,House: 2  2  1 ,Land size: 156 sqm
+179,47 French Street,"Sold $535,000 in 15 Dec 2018(Auction)","Last Sold $302,000 in Jun 2011",Rent $470pw in Jan 2019,House: 3  1  1 ,Land size: 325 sqm | Building size: 95 sqm
+180,24 Britannia Street,"Sold $721,000 in 15 Dec 2018(Auction)","Last Sold $390,000 in May 2015(Auction)",Rent $540pw in Feb 2019,House: 2  1  1 ,Land size: 421 sqm | Building size: 101 sqm
+181,71 Albert Street,"Sold $600,000 in 08 Dec 2018(Auction)", ,Rent $420pw in Jun 2019,House: 4  1  3 ,Land size: 497 sqm
+182,9 Elizabeth Street,"Sold $540,000 in 08 Dec 2018(Auction)", ,Rent $270pw in May 2015,House: 3  1  1 ,Land size: 391 sqm
+183,97 Albert Street,"Sold $1,060,000 in Dec 2018", ,Rent $545pw in Jun 2012,House: 5  2  1 ,Land size: 529 sqm
+184,26 Wellington Street,"Sold $1,050,000 in Dec 2018","Last Sold $450,000 in Apr 2005",Rent $510pw in Apr 2016,House: 5  2  2 ,Land size: 559 sqm | Building size: 205 sqm
+185,26 Avon Street,"Sold $490,000 in Dec 2018", , ,House: 3  1  ,Land size: 362 sqm
+186,85 Church Street,"Sold $927,500 in Dec 2018","Last Sold $298,000 in Jun 2013",Rent $650pw in Jan 2019,House: 3  1  3 ,Land size: 728 sqm | Building size: 180 sqm
+187,66 Preston Street,"Sold $795,000 in Dec 2018","Last Sold $617,000 in Jan 2015",Rent $550pw in Aug 2019,House: 3  2  2 ,Land size: 446 sqm
+188,42 Weller Street,"Sold $457,500 in Dec 2018", , ,House: 2  1  1 ,Land size: 318 sqm
+189,117 Autumn Street,"Sold $570,000 in 01 Dec 2018(Auction)", , ,House: 3  1  1 ,Land size: 343 sqm
+190,2/30 Spring Street,"Sold $452,500 in Nov 2018","Last Sold $118,000 in Feb 2000",Rent $350pw in Oct 2018,Townhouse: 2  1  1 ,Land size: 170 sqm
+191,27 Weller Street,"Sold $695,000 in Nov 2018","Last Sold $485,000 in Nov 2014",Rent $475pw in Nov 2019,House: 3  2  1 ,Land size: 305 sqm
+192,50 Preston Street,"Sold $821,000 in Nov 2018","Last Sold $263,000 in Apr 2004",Rent $370pw in Jun 2017,House: 3  1  2 ,Land size: 603 sqm | Building size: 105 sqm
+193,10 Lupton Street,"Sold $725,000 in 24 Nov 2018(Auction)","Last Sold $460,000 in May 2013(Auction)", ,House: 2  2  3 ,Land size: 370 sqm
+194,9 Preston Street,"Sold $561,000 in Nov 2018","Last Sold $365,000 in Mar 2010",Rent $470pw in Feb 2020,House: 3  1  1 ,Land size: 247 sqm
+195,16 Lupton Street,"Sold $980,000 in Nov 2018", , ,House: 4  2  2 ,Land size: 408 sqm
+196,12 Isabella Street,"Sold $943,000 in 17 Nov 2018(Auction)","Last Sold $93,000 in Jul 1994", ,House: 4  2  ,Land size: 527 sqm
+197,1/166 Autumn Street,"Sold $360,000 in 17 Nov 2018(Auction)","Last Sold $139,000 in Sep 2002",Rent $260pw in Aug 2017, ,Land size: 208 sqm
+198,104 Clarence Street,"Sold $1,120,000 in 17 Nov 2018(Auction)","Last Sold $282,500 in Oct 2007", ,House: 4  2  2 ,Land size: 570 sqm | Building size: 175 sqm
+199,2 Petrel Street,"Sold $640,000 in Nov 2018","Last Sold $123,000 in Sep 2000", ,House: 3  1  4 ,Land size: 459 sqm | Building size: 135 sqm
+200,1/89-91 Church Street,"Sold $392,500 in Nov 2018","Last Sold $72,000 in Jan 1997",Rent $325pw in Mar 2016, ,Land size: 225 sqm
+201,41 Britannia Street,"Sold $770,000 in Nov 2018","Last Sold $449,000 in Nov 2008",Rent $450pw in Sep 2016,House: 4  2  1 ,Land size: 535 sqm | Building size: 121 sqm
+202,236 Latrobe Terrace,"Sold $1,200,000 in 02 Nov 2018(Auction)","Last Sold $710,000 in Feb 2011", ,House: 4  2  ,Land size: 928 sqm
+203,41 Spring Street,"Sold $555,000 in Nov 2018","Last Sold $194,000 in Mar 2001",Rent $360pw in Jun 2016,Townhouse: 2  1  2 ,Land size: 134 sqm
+204,96 Gertrude Street,"Sold $830,000 in 01 Nov 2018(Auction)","Last Sold $410,000 in Aug 2007", ,House: 3  2  2 ,Land size: 409 sqm
+205,45 Catherine Street,"Sold $602,500 in 27 Oct 2018(Auction)","Last Sold $530,000 in Sep 2017(Auction)", ,House: 3  1  1 ,Land size: 497 sqm
+206,63 Oconnell Street,"Sold $711,000 in 27 Oct 2018(Auction)","Last Sold $357,500 in Apr 2008",Rent $400pw in Dec 2015,House: 3  2  2 ,Land size: 478 sqm
+207,18 Bendigo Street,"Sold $605,000 in 27 Oct 2018(Auction)","Last Sold $431,000 in May 2010",Rent $370pw in Jan 2018,House: 3  1  1 ,Land size: 416 sqm | Building size: 102 sqm
+208,2/30 Preston Street,"Sold $610,000 in Oct 2018","Last Sold $439,000 in May 2011",Rent $410pw in Apr 2019,House: 2  1  2 ,Land size: 287 sqm
+209,195 Hope Street,"Sold $585,000 in Oct 2018","Last Sold $381,000 in Apr 2012", ,House: 2  1  1 ,Land size: 322 sqm
+210,1 Elizabeth Street,"Sold $545,000 in Oct 2018", , ,House: 3  1  2 ,Land size: 447 sqm
+211,58 Britannia Street,"Sold $715,000 in Oct 2018", , ,Townhouse: 3  2  1 ,Land size: 265 sqm
+212,118 Elizabeth Street,"Sold $493,000 in 13 Oct 2018(Auction)", , ,House: 3  1  1 ,Land size: 513 sqm
+213,43 Maitland Street,"Sold $745,000 in 13 Oct 2018(Auction)","Last Sold $420,000 in May 2012",Rent $350pw in Aug 2018,House: 3  1  1 ,Land size: 630 sqm | Building size: 103 sqm
+214,32 McDougall Street,"Sold $830,000 in 11 Oct 2018(Auction)","Last Sold $506,000 in Sep 2012(Auction)",Rent $475pw in Sep 2019,House: 3  2  ,Land size: 350 sqm | Building size: 132 sqm
+215,2/54 Albert Street,"Sold $285,000 in 10 Oct 2018(Auction)","Last Sold $133,000 in Mar 2003", , ,Land size: 86 sqm
+216,44 McDougall Street,"Sold $633,000 in Oct 2018","Last Sold $365,000 in Mar 2013",Rent $440pw in Sep 2016,House: 3  3  1 ,Land size: 324 sqm | Building size: 95 sqm
+217,11 Wellington Street,"Sold $520,000 in Sep 2018","Last Sold $237,500 in Apr 2005",Rent $650pw in Sep 2019,House: 3  1  2 ,Land size: 417 sqm
+218,1/41 Clarence Street,"Sold $390,000 in Sep 2018","Last Sold $228,000 in Feb 2013",Rent $340pw in Oct 2018, ,Land size: 71 sqm
+219,2/122 Clarence Street,"Sold $470,000 in Sep 2018","Last Sold $365,000 in Jul 2011",Rent $330pw in Feb 2012,Townhouse: 2  1  2 ,Land size: 246 sqm
+220,56 Britannia Street,"Sold $539,000 in Sep 2018","Last Sold $211,200 in Jan 2007",Rent $600pw in Jun 2020,House: 1  1  4 ,Land size: 238 sqm
+221,12 Maitland Street,"Sold $1,300,000 in 22 Sep 2018(Auction)","Last Sold $132,000 in Sep 1992",Rent $750pw in Nov 2019,House: 2  2  1 ,Land size: 842 sqm
+222,23 Candover Street,"Sold $765,000 in 22 Sep 2018(Auction)","Last Sold $471,000 in Dec 2016",Rent $240pw in Apr 2009,House: 3  2  ,Land size: 451 sqm | Building size: 97 sqm
+223,3 Petrel Street,"Sold $620,000 in Sep 2018","Last Sold $150,000 in May 2000", ,House: 5  3  4 ,Land size: 201 sqm
+224,19 Eureka Street,"Sold $780,000 in Sep 2018","Last Sold $405,000 in Nov 2007",Rent $500pw in Jan 2019,House: 3  1  2 ,Land size: 551 sqm
+225,160 Autumn Street,"Sold $650,000 in Sep 2018","Last Sold $366,000 in Mar 2013(Auction)", ,House: 3  1  1 ,Land size: 399 sqm | Building size: 132 sqm
+226,23 Waterloo Street,"Sold $690,000 in Sep 2018", , ,House: 4  1  1 ,Land size: 495 sqm
+227,8 Coquette Street,"Sold $1,300,000 in Sep 2018","Last Sold $845,000 in Jun 2014(Auction)",Rent $550pw in Dec 2011,House: 4  2  2 ,Land size: 557 sqm | Building size: 172 sqm
+228,92 Isabella Street,"Sold $685,000 in Sep 2018","Last Sold $524,000 in Feb 2016",Rent $440pw in Oct 2013,House: 4  2  4 ,Land size: 604 sqm | Building size: 193 sqm
+229,11 Preston Street,"Sold $755,000 in Sep 2018","Last Sold $380,000 in Mar 2007", ,House: 4  1  2 ,Land size: 347 sqm
+230,18 Waterloo Street,"Sold $485,000 in 08 Sep 2018(Auction)","Last Sold $330,000 in May 2012",Rent $220pw in Oct 2007,House: 4  1  1 ,Land size: 257 sqm | Building size: 65 sqm
+231,29 Spring Street,"Sold $620,000 in Sep 2018","Last Sold $482,500 in Jun 2015",Rent $450pw in Dec 2016,Townhouse: 3  2  1 ,Land size: 136 sqm
+232,20 Avon Street,"Sold $781,000 in 01 Sep 2018(Auction)","Last Sold $415,000 in May 2014(Auction)", ,House: 3  1  2 ,Land size: 363 sqm | Building size: 110 sqm
+233,39 Lawton Avenue,"Sold $936,000 in 25 Aug 2018(Auction)","Last Sold $315,000 in Nov 2003",Rent $450pw in Nov 2019,House: 4  1  1 ,Land size: 406 sqm
+234,25 Ann Street,"Sold $900,000 in 18 Aug 2018(Auction)","Last Sold $168,000 in Mar 2002",Rent $495pw in Jun 2014,House: 2  2  1 ,Land size: 661 sqm
+235,50 Wellington Street,"Sold $722,000 in 18 Aug 2018(Auction)","Last Sold $330,000 in Mar 2013",Rent $420pw in Oct 2017,House: 2  1  1 ,Land size: 338 sqm
+236,28a Lawton Avenue,"Sold $1,030,000 in 18 Aug 2018(Auction)","Last Sold $710,000 in May 2014(Auction)", ,House: 3  2  1 ,Land size: 405 sqm | Building size: 143 sqm
+237,72 Aberdeen Street,"Sold $865,000 in Aug 2018","Last Sold $760,000 in Feb 2017(Auction)", ,House: 3  1  4 ,Land size: 828 sqm
+238,11 Quaich Lane,"Sold $600,000 in Aug 2018","Last Sold $450,000 in Jun 2011",Rent $400pw in Dec 2017,Townhouse: 2  1  1 ,Land size: 193 sqm
+239,44 Crofton Street,"Sold $605,000 in 11 Aug 2018(Auction)","Last Sold $91,000 in Jan 1997",Rent $420pw in Nov 2017,House: 4  1  1 ,Land size: 390 sqm
+240,6 Mowat Street,"Sold $715,000 in Aug 2018","Last Sold $575,500 in Dec 2011",Rent $490pw in Nov 2016,House: 3  2  2 ,Land size: 300 sqm | Building size: 176 sqm
+241,28 Wellington Street,"Sold $980,000 in 28 Jul 2018(Auction)", ,Rent $350pw in Nov 2008,House: 3  2  1 ,Land size: 560 sqm
+242,54 Mcdougall Street,"Sold $750,000 in Jul 2018","Last Sold $195,000 in Aug 2002", ,House: 3  2  1 ,Land size: 288 sqm | Building size: 130 sqm
+243,41 French Street,"Sold $590,000 in Jul 2018","Last Sold $190,000 in May 2002",Rent $270pw in Oct 2008,House: 4  2  1 ,Land size: 390 sqm | Building size: 112 sqm
+244,16 Addis Street,"Sold $750,000 in 14 Jul 2018(Auction)","Last Sold $471,000 in Jul 2011(Auction)",Rent $310pw in Aug 2016,House: 2  1  1 ,Land size: 715 sqm
+245,20 John Street,"Sold $800,000 in Jul 2018","Last Sold $391,000 in Jun 2008",Rent $520pw in Jul 2020,House: 3  1  2 ,Land size: 600 sqm | Building size: 121 sqm
+246,5 Hector Street,"Sold $645,000 in Jul 2018","Last Sold $375,000 in Feb 2010",Rent $260pw in Jan 2008,House: 3  1  2 ,Land size: 379 sqm
+247,18 Wellington Street,"Sold $760,000 in Jul 2018","Last Sold $352,150 in Dec 2007", ,House: 4  1  1 ,Land size: 409 sqm
+248,18 Lupton Street,"Sold $691,000 in Jul 2018", , ,House: 3  1  5 ,Land size: 505 sqm
+249,49 French Street,"Sold $545,000 in Jul 2018","Last Sold $247,000 in Aug 2003",Rent $300pw in Oct 2017,House: 3  1  ,Land size: 260 sqm
+250,12 Avon Street,"Sold $760,000 in Jul 2018","Last Sold $440,000 in Jan 2013",Rent $420pw in Aug 2015,House: 2  2  1 ,Land size: 364 sqm | Building size: 107 sqm
+251,76 Elizabeth Street,"Sold $585,500 in Jul 2018", , ,House: 3  1  1 ,Land size: 525 sqm
+252,23 Crofton Street,"Sold $660,000 in Jul 2018","Last Sold $401,000 in Dec 2012(Auction)", ,House: 3  1  1 ,Land size: 409 sqm | Building size: 96 sqm
+253,108 Britannia Street,"Sold $810,000 in Jul 2018","Last Sold $397,000 in Jun 2015",Rent $655pw in Nov 2019,House: 3  2  2 ,Land size: 491 sqm | Building size: 97 sqm
+254,17 Maitland Street,"Sold $639,000 in Jul 2018","Last Sold $140,000 in Dec 2001",Rent $450pw in Sep 2018,House: 3  1  1 ,Land size: 322 sqm | Building size: 117 sqm
+255,1/6 Ann Street,"Sold $520,000 in Jun 2018","Last Sold $295,000 in Aug 2013",Rent $290pw in Jul 2016,House: 3  2  1 ,Land size: 251 sqm | Building size: 102 sqm
+256,7 Hector Street,"Sold $835,000 in Jun 2018","Last Sold $317,500 in May 2015",Rent $590pw in Aug 2018,House: 3  2  1 ,Land size: 375 sqm
+257,27 Waratah Street,"Sold $1,300,000 in Jun 2018","Last Sold $975,000 in Dec 2015", ,House: 4  3  2 ,Land size: 377 sqm
+258,36 Ann Street,"Sold $765,000 in Jun 2018","Last Sold $615,000 in Nov 2013(Auction)",Rent $420pw in Mar 2013,House: 4  3  2 ,Land size: 445 sqm | Building size: 152 sqm
+259,3 Thomas Street,"Sold $640,000 in Jun 2018", , ,House: 3  1  2 ,Land size: 328 sqm
+260,15 Gertrude Street,"Sold $862,500 in 16 Jun 2018(Auction)", , ,House: 3  1  1 ,Land size: 431 sqm
+261,107 Clarence Street,"Sold $1,200,000 in Jun 2018","Last Sold $700,000 in Sep 2011",Rent $265pw in Mar 2010,House: 3  2  2 ,Land size: 525 sqm | Building size: 208 sqm
+262,91 Isabella Street,"Sold $745,000 in Jun 2018","Last Sold $485,000 in Jul 2014(Auction)", ,House: 3  1  1 ,Land size: 458 sqm | Building size: 134 sqm
+263,23 Addis Street,"Sold $800,000 in Jun 2018","Last Sold $225,000 in Jul 2004",Rent $500pw in Dec 2018,House: 3  2  2 ,Land size: 487 sqm
+264,1/2 Bowlers Avenue,"Sold $427,000 in Jun 2018", ,Rent $340pw in Jul 2018,House: 2  1  1 ,Land size: 149 sqm
+265,22 Anglesea Terrace,"Sold $566,000 in Jun 2018","Last Sold $282,000 in Dec 2003",Rent $340pw in Sep 2016,House: 2  2  1 ,Land size: 150 sqm | Building size: 111 sqm
+266,49 Church Street,"Sold $550,000 in Jun 2018","Last Sold $250,000 in Jul 2010",Rent $240pw in Nov 2010,House: 5  1  2 ,Land size: 452 sqm
+267,3/17 Halstead Place,"Sold $428,000 in May 2018", , , ,"Land size: 1,391 sqm"
+268,32 Elizabeth Street,"Sold $650,000 in May 2018","Last Sold $50,000 in Nov 1984", ,House: 3  2  2 ,Land size: 313 sqm
+269,3/35 Spring Street,"Sold $550,000 in May 2018","Last Sold $372,500 in Jul 2008",Rent $375pw in May 2017, ,Land size: 96 sqm
+270,9A Britannia Street,"Sold $600,000 in May 2018","Last Sold $82,000 in Apr 1994", ,House: 4  1  2 ,Land size: 565 sqm
+271,22 Hector Street,"Sold $561,000 in 19 May 2018(Auction)","Last Sold $260,000 in Jun 2007",Rent $350pw in Jul 2020,House: 3  1  1 ,Land size: 571 sqm | Building size: 150 sqm
+272,10 Aberdeen Street,"Sold $961,000 in May 2018","Last Sold $575,500 in Feb 2000","Rent $7,000pw in Oct 2016", ,Land size: 548 sqm | Building size: 60 sqm
+273,8/19 Candover Street,"Sold $295,000 in May 2018","Last Sold $203,000 in Nov 2012", ,Townhouse: 1  1  1 ,Land size: 48 sqm
+274,32 Elizabeth St Street,"Sold $650,000 in May 2018", , , , 
+275,42 Elizabeth Street,"Sold $890,000 in May 2018","Last Sold $629,000 in Aug 2013(Auction)", ,House: 4  2  6 ,Land size: 535 sqm
+276,35 Maitland Street,"Sold $742,500 in May 2018", , ,House: 4  1  2 ,Land size: 586 sqm
+277,9 Ann Street,"Sold $800,000 in May 2018", ,Rent $470pw in Jun 2018,House: 3  1  2 ,Land size: 547 sqm
+278,148 Hope Street,"Sold $690,000 in May 2018","Last Sold $310,000 in Jul 2012",Rent $390pw in Sep 2018,House: 2  1  1 ,Land size: 272 sqm | Building size: 102 sqm
+279,2A Aberdeen Street,"Sold $980,000 in 11 May 2018(Auction)","Last Sold $135,000 in Oct 1997", , ,Land size: 552 sqm | Building size: 250 sqm
+280,1 Pizer Street,"Sold $660,000 in May 2018","Last Sold $260,000 in Jan 2006",Rent $220pw in Feb 2005,House: 3  1  1 ,Land size: 241 sqm
+281,7 Hope Street,"Sold $757,500 in May 2018","Last Sold $480,000 in Jun 2011",Rent $450pw in Jan 2016,House: 3  1  1 ,Land size: 327 sqm | Building size: 134 sqm
+282,179 Hope Street,"Sold $610,000 in May 2018", , ,House: 3  1  1 ,Land size: 447 sqm
+283,18 John Street,"Sold $672,000 in Apr 2018", , ,House: 3  1  2 ,Land size: 550 sqm
+284,1/18 Clonard Avenue,"Sold $680,000 in Apr 2018", , ,Townhouse: 4  2  2 ,Land size: 213 sqm
+285,138A Hope Street,"Sold $575,000 in Apr 2018","Last Sold $250,000 in Mar 2009",Rent $320pw in May 2016,House: 3  1  1 ,Land size: 269 sqm
+286,3/151-153 Hope Street,"Sold $706,000 in Apr 2018","Last Sold $450,000 in Sep 2010",Rent $480pw in Mar 2019, ,Land size: 203 sqm
+287,15 Anglesea Terrace,"Sold $550,000 in Apr 2018","Last Sold $66,500 in May 1991",Rent $400pw in Nov 2018,House: 2  1  1 ,Land size: 242 sqm
+288,50 Mcdougall Street,"Sold $550,000 in Apr 2018","Last Sold $330,000 in Apr 2008",Rent $410pw in Jul 2018,House: 3  1  1 ,Land size: 430 sqm
+289,73 Spring Street,"Sold $625,000 in Apr 2018","Last Sold $370,000 in Apr 2014",Rent $465pw in Jun 2018,House: 2  1  4 ,Land size: 209 sqm | Building size: 62 sqm
+290,94 Isabella Street,"Sold $745,000 in 21 Apr 2018(Auction)","Last Sold $67,000 in Jan 1997", ,House: 3  2  1 ,Land size: 593 sqm
+291,1/107 Isabella Street,"Sold $248,000 in Apr 2018","Last Sold $184,000 in May 2012",Rent $250pw in Sep 2019, ,Land size: 127 sqm
+292,20 Addis Street,"Sold $1,100,000 in Apr 2018","Last Sold $1,005,000 in Apr 2017(Auction)", ,House: 4  2  2 ,Land size: 700 sqm | Building size: 275 sqm
+293,3/48 Clonard Avenue,"Sold $245,000 in Apr 2018","Last Sold $107,000 in Apr 2006",Rent $245pw in May 2018, ,Land size: 47 sqm
+294,33 Elizabeth Street,"Sold $640,000 in 14 Apr 2018(Auction)","Last Sold $445,000 in Aug 2015(Auction)",Rent $310pw in Feb 2016,House: 3  1  2 ,Land size: 451 sqm | Building size: 131 sqm
+295,2 Cross Street,"Sold $652,500 in Apr 2018","Last Sold $321,000 in Mar 2007", ,House: 2  2  1 ,Land size: 214 sqm | Building size: 115 sqm
+296,24 Maitland Street,"Sold $840,000 in Apr 2018","Last Sold $330,000 in Jul 2008",Rent $260pw in Sep 2007,House: 4  2  3 ,Land size: 391 sqm | Building size: 130 sqm
+297,17 Church Street,"Sold $460,000 in Apr 2018", ,Rent $345pw in Jan 2015,House: 2  2  1 ,Land size: 226 sqm
+298,1/131 Church Street,"Sold $325,000 in Apr 2018","Last Sold $275,000 in Jun 2011",Rent $295pw in Jan 2016, ,"Land size: 1,120 sqm"
+299,14A Waterloo Street,"Sold $490,000 in Mar 2018","Last Sold $212,500 in Sep 2006",Rent $270pw in Nov 2015,House: 3  1  2 ,Land size: 241 sqm | Building size: 93 sqm

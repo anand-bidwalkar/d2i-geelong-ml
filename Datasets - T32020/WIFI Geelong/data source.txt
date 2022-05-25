@@ -1,0 +1,2 @@
+Download the raw data file from here (~165MB):
+https://www.geelongdataexchange.com.au/explore/dataset/ncounter/table/?disjunctive.name&disjunctive.year&disjunctive.month&disjunctive.dayofweek&disjunctive.day&disjunctive.hour

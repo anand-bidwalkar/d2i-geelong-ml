@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,14A Townsend Road,"Sold $415,000 in Aug 2020", , ,House: 3  1  1 ,Land size: 768 sqm
+1,13 Aldershot Road,"Sold $430,000 in Aug 2020","Last Sold $213,000 in Feb 2000", ,House: 3  2  2 ,Land size: 608 sqm | Building size: 117 sqm
+2,24 Filipi Drive,"Sold $455,000 in Aug 2020","Last Sold $230,000 in Sep 2009", ,House: 3  1  1 ,Land size: 621 sqm | Building size: 109 sqm
+3,25 Paramount Crescent,"Sold $530,000 in Aug 2020","Last Sold $321,000 in Aug 2013", ,House: 4  2  5 ,Land size: 581 sqm
+4,6 Strathmore Court,"Sold $455,000 in Jul 2020","Last Sold $315,500 in Oct 2015", ,House: 3  1  1 ,Land size: 792 sqm
+5,11 Bronte Court,"Sold $530,000 in Jul 2020","Last Sold $339,000 in May 2011", ,House: 3  2  2 ,Land size: 716 sqm
+6,1/25-27 Enfield Drive,"Sold $335,000 in Jun 2020","Last Sold $220,000 in Aug 2016", , ,Land size: 140 sqm
+7,1/44 Townsend Road,"Sold $380,000 in Jun 2020", ,Rent $360pw in Apr 2019, ,Land size: 213 sqm
+8,48 Enfield Drive,"Sold $450,000 in May 2020","Last Sold $295,000 in Sep 2014", ,House: 3  1  1 ,Land size: 652 sqm | Building size: 112 sqm
+9,64 Grafton Street,"Sold $425,500 in Apr 2020","Last Sold $282,500 in Sep 2010", ,House: 3  1  2 ,Land size: 500 sqm
+10,311 Wilsons Road,"Sold $469,000 in Mar 2020","Last Sold $93,500 in Feb 2000", ,House: 3  2  2 ,Land size: 673 sqm
+11,12 Meadenhall Drive,"Sold $402,500 in Mar 2020","Last Sold $105,000 in May 2000", , ,Land size: 398 sqm
+12,14 Alcott Road,"Sold $570,000 in Mar 2020","Last Sold $309,000 in Apr 2007", ,House: 3  2  4 ,Land size: 740 sqm
+13,8B East End Crescent,"Sold $475,000 in Mar 2020", , ,House: , 
+14,10 Grafton Street,"Sold $357,000 in 21 Mar 2020(Auction)","Last Sold $225,000 in Jul 2007", ,House: 3  2  1 ,Land size: 575 sqm
+15,35 Westmoreland Street,"Sold $488,000 in Mar 2020","Last Sold $365,000 in Mar 2018", ,House: 3  1  1 ,Land size: 669 sqm
+16,7 Jenna Court,"Sold $465,000 in Mar 2020", , ,House: ,Land size: 673 sqm
+17,1 Nada Close,"Sold $430,000 in Feb 2020","Last Sold $149,000 in Mar 2002", ,House: 3  2  2 ,Land size: 588 sqm
+18,2/315-317 Boundary Road,"Sold $285,000 in Feb 2020","Last Sold $140,000 in Apr 2006", , ,Land size: 67 sqm
+19,36 Pinder Court,"Sold $445,000 in Feb 2020","Last Sold $310,000 in May 2014", ,House: 3  1  2 ,Land size: 647 sqm | Building size: 112 sqm
+20,52 Paratone Crescent,"Sold $545,000 in Feb 2020","Last Sold $370,000 in Mar 2011", ,House: 3  2  2 ,Land size: 684 sqm | Building size: 173 sqm
+21,52 Paratone Cresent,"Sold $545,000 in Feb 2020", , ,House: 3  2  4 , 
+22,20 Bronte Court,"Sold $390,000 in Jan 2020","Last Sold $385,000 in Jul 2018", ,House: 2  1  2 ,Land size: 341 sqm | Building size: 99 sqm
+23,27 Durran Street,"Sold $450,000 in Jan 2020", , ,House: 3  2  4 ,Land size: 619 sqm
+24,81 Homestead Drive,"Sold $610,000 in Jan 2020", , ,House: 4  2  2 ,Land size: 725 sqm
+25,6A St James Street,"Sold $420,000 in Dec 2019","Last Sold $320,000 in Jun 2016", ,House: 3  2  1 ,Land size: 281 sqm
+26,63 St Albans Street,"Sold $450,000 in Dec 2019","Last Sold $265,000 in Jun 2013", ,House: 3  1  1 ,Land size: 568 sqm
+27,26 Grafton Street,"Sold $422,000 in Dec 2019","Last Sold $240,500 in Oct 2014", ,House: 3  1  1 ,Land size: 726 sqm | Building size: 114 sqm
+28,10 Ardula Court,"Sold $440,000 in Dec 2019","Last Sold $235,000 in Oct 2005", ,House: 3  1  1 ,Land size: 664 sqm
+29,21 Alcott Road,"Sold $645,000 in Nov 2019", , , ,Land size: 786 sqm
+30,27 St James Street,"Sold $405,000 in Nov 2019","Last Sold $195,000 in Feb 2008", ,House: 3  1  2 ,Land size: 590 sqm
+31,4 Aldershot Road,"Sold $425,000 in Nov 2019","Last Sold $82,500 in Mar 1989", ,House: 4  2  1 ,Land size: 638 sqm
+32,34 Enfield Drive,"Sold $470,000 in Nov 2019","Last Sold $232,000 in Sep 2009", ,House: 4  1  ,Land size: 569 sqm | Building size: 117 sqm
+33,62 St Albans Street,"Sold $410,500 in Nov 2019","Last Sold $245,000 in Sep 2012", ,House: 2  1  2 ,Land size: 679 sqm
+34,13 Durran Street,"Sold $440,000 in Nov 2019","Last Sold $335,000 in Jul 2015", ,House: 4  3  2 ,Land size: 623 sqm | Building size: 245 sqm
+35,23 Westmoreland Street,"Sold $442,000 in Oct 2019", ,Rent $385pw in Nov 2019,House: 3  1  4 ,Land size: 768 sqm
+36,262 Wilsons Road,"Sold $581,000 in 26 Oct 2019(Auction)", , ,House: 3  ,"Land size: 1,218 sqm"
+37,2/202 Coppards Road,"Sold $412,000 in Oct 2019","Last Sold $223,000 in Sep 2004", , ,Land size: 385 sqm | Building size: 135 sqm
+38,64 St Albans Street,"Sold $405,000 in Oct 2019", , ,House: 4  1  2 ,Land size: 666 sqm
+39,2/158-162 Townsend Road,"Sold $295,000 in Oct 2019","Last Sold $225,000 in Aug 2012", ,Townhouse: 2  1  1 ,Land size: 241 sqm
+40,25 Homestead Drive,"Sold $476,000 in Oct 2019", , ,House: 3  2  2 ,Land size: 629 sqm
+41,40 Filipi Drive,"Sold $472,500 in Oct 2019","Last Sold $377,000 in Jul 2017", ,House: 3  2  2 ,Land size: 611 sqm | Building size: 115 sqm
+42,331 Boundary Road,"Sold $345,000 in Oct 2019","Last Sold $247,000 in Oct 2012", ,House: 3  1  1 ,Land size: 558 sqm | Building size: 132 sqm
+43,24 East End Crescent,"Sold $407,000 in Oct 2019","Last Sold $224,000 in Feb 2009", ,House: 3  1  2 ,Land size: 681 sqm | Building size: 107 sqm
+44,30 Mayfield Crescent,"Sold $670,000 in Oct 2019", , ,House: 4  2  4 ,Land size: 878 sqm
+45,40 Paramount Crescent,"Sold $412,000 in Sep 2019","Last Sold $250,000 in Sep 2009", ,House: 3  1  2 ,Land size: 418 sqm | Building size: 99 sqm
+46,6 Ottoman Court,"Sold $356,000 in Sep 2019","Last Sold $92,000 in Jun 1999", ,House: 3  1  2 ,Land size: 574 sqm
+47,41 Paratone Crescent,"Sold $500,000 in Sep 2019","Last Sold $81,000 in Mar 2003", ,House: 3  2  2 ,Land size: 729 sqm
+48,51 Paramount Crescent,"Sold $420,000 in 05 Sep 2019(Auction)","Last Sold $325,000 in Feb 2016", ,House: 3  2  2 ,Land size: 433 sqm | Building size: 121 sqm
+49,2/46 Paratone Crescent,"Sold $375,000 in Sep 2019","Last Sold $300,000 in Nov 2012", , ,Land size: 306 sqm
+50,2C Elizabeth Street,"Sold $280,000 in Aug 2019", , , ,Land size: 78 sqm
+51,92 Homestead Drive,"Sold $530,000 in Jul 2019","Last Sold $269,000 in Jul 2003", ,House: 4  2  3 ,Land size: 666 sqm | Building size: 152 sqm
+52,23-25 Roseview Way,"Sold $626,000 in 20 Jul 2019(Auction)","Last Sold $490,000 in Jul 2014", ,House: 4  2  6 ,Land size: 929 sqm
+53,52 Townsend Road,"Sold $395,000 in Jul 2019", ,Rent $340pw in Sep 2019,House: 3  1  2 ,Land size: 861 sqm
+54,9 Aitken Court,"Sold $420,000 in Jul 2019","Last Sold $214,000 in May 2008", ,House: 3  1  2 ,Land size: 736 sqm | Building size: 101 sqm
+55,9 Crozier Court,"Sold $442,000 in Jul 2019","Last Sold $305,000 in May 2011", ,House: 3  1  8 ,Land size: 839 sqm | Building size: 114 sqm
+56,29 Pinder Court,"Sold $505,000 in Jul 2019", , ,House: 3  2  4 ,Land size: 774 sqm
+57,122-124 Homestead Drive,"Sold $819,000 in Jun 2019","Last Sold $260,000 in Jun 2001", ,House: 6  2  6 ,"Land size: 2,210 sqm"
+58,4 Ranken Lane,"Sold $425,000 in Jun 2019","Last Sold $310,000 in Apr 2011", ,House: 3  2  1 ,Land size: 372 sqm
+59,289 Boundary Road,"Sold $390,000 in Jun 2019","Last Sold $336,000 in Jul 2016(Auction)", ,House: 3  1  2 ,Land size: 553 sqm | Building size: 111 sqm
+60,7 Pinder Court,"Sold $400,000 in Jun 2019","Last Sold $275,000 in Feb 2014", ,House: 3  1  1 ,Land size: 616 sqm
+61,36 Meadenhall Drive,"Sold $415,000 in Jun 2019", ,Rent $330pw in May 2018,House: 3  2  5 ,Land size: 688 sqm
+62,7 Tantalla Court,"Sold $540,000 in Jun 2019","Last Sold $179,000 in Feb 2000", ,House: 4  2  3 ,Land size: 669 sqm
+63,4 Strathmore Court,"Sold $422,000 in May 2019","Last Sold $325,000 in Aug 2015", ,House: 3  1  7 ,Land size: 659 sqm
+64,19 Durran Street,"Sold $397,000 in May 2019","Last Sold $197,000 in Sep 2007", ,House: 3  1  3 ,Land size: 614 sqm
+65,35 Carbine Drive,"Sold $465,000 in May 2019","Last Sold $330,000 in Jan 2012(Auction)", ,House: 3  2  2 ,Land size: 567 sqm
+66,28 Govett Crescent,"Sold $425,000 in Apr 2019","Last Sold $84,500 in Mar 1991", ,House: 3  1  4 ,Land size: 567 sqm | Building size: 115 sqm
+67,5 East End Crescent,"Sold $485,000 in Apr 2019","Last Sold $365,000 in Mar 2017", ,House: 4  2  2 ,Land size: 699 sqm
+68,3 Ardula Court,"Sold $475,000 in Apr 2019","Last Sold $149,000 in Jan 2002", ,House: 4  2  6 ,Land size: 595 sqm
+69,9 Strathmore Court,"Sold $412,000 in Mar 2019","Last Sold $212,750 in Sep 2004", ,House: 3  1  ,Land size: 681 sqm
+70,20 Enfield Drive,"Sold $410,000 in Mar 2019","Last Sold $205,000 in May 2007", ,House: 3  1  4 ,Land size: 556 sqm
+71,32a Grafton Street,"Sold $396,000 in Mar 2019","Last Sold $349,000 in Jul 2014", ,Townhouse: 3  2  1 ,Land size: 274 sqm | Building size: 134 sqm
+72,27 Homestead Drive,"Sold $446,000 in Mar 2019","Last Sold $265,000 in Oct 2009", ,House: 3  1  1 ,Land size: 640 sqm | Building size: 125 sqm
+73,62 Paratone Crescent,"Sold $483,000 in Mar 2019","Last Sold $80,000 in Jul 2007", ,House: 3  2  2 ,Land size: 399 sqm
+74,3/44 Townsend Road,"Sold $360,000 in Mar 2019", , , , 
+75,2/51 Grafton Street,"Sold $368,500 in Feb 2019","Last Sold $252,000 in Aug 2010", , ,Land size: 393 sqm
+76,16 Meadenhall Drive,"Sold $400,000 in Feb 2019","Last Sold $250,000 in Aug 2011", ,House: 3  1  3 ,Land size: 647 sqm
+77,15 Grafton Street,"Sold $362,500 in Feb 2019","Last Sold $114,000 in Oct 2013", ,House: 4  2  1 ,Land size: 464 sqm
+78,10 Nivek Court,"Sold $540,000 in Feb 2019","Last Sold $324,000 in Oct 2009", ,House: 3  2  3 ,Land size: 609 sqm
+79,63 Govett Crescent,"Sold $415,000 in Feb 2019","Last Sold $195,000 in Aug 2003", ,House: 3  1  3 ,Land size: 586 sqm
+80,49 Paramount Crescent,"Sold $435,000 in Jan 2019", , ,House: 3  2  2 ,Land size: 429 sqm
+81,16 Lucy Court,"Sold $344,000 in Jan 2019","Last Sold $218,000 in Dec 2009", ,House: 3  1  2 ,Land size: 364 sqm | Building size: 90 sqm
+82,5 McGill Court,"Sold $450,000 in Jan 2019", , ,House: 3  2  2 ,Land size: 739 sqm
+83,16 Grafton Street,"Sold $250,000 in Dec 2018", , , ,Land size: 617 sqm
+84,61 Meadenhall Drive,"Sold $505,000 in Dec 2018","Last Sold $390,000 in Mar 2017", , ,Land size: 706 sqm | Building size: 158 sqm
+85,21 St James Street,"Sold $360,000 in Dec 2018","Last Sold $265,000 in Aug 2014", ,House: 3  1  2 ,Land size: 594 sqm | Building size: 126 sqm
+86,8 Ottoman Court,"Sold $373,000 in Dec 2018","Last Sold $279,000 in Apr 2017", ,House: 3  1  1 ,Land size: 570 sqm
+87,6 Ranken Lane,"Sold $647,000 in Dec 2018","Last Sold $391,000 in Jun 2009", ,House: 4  2  7 ,"Land size: 1,037 sqm | Building size: 297 sqm"
+88,271 Wilsons Road,"Sold $287,000 in Nov 2018", , , ,Land size: 725 sqm
+89,7 Garnfield Place,"Sold $450,000 in Nov 2018","Last Sold $147,000 in Apr 2002", ,House: 3  1  2 ,Land size: 647 sqm
+90,8-10 ST JAMES Street,"Sold $470,000 in 24 Nov 2018(Auction)","Last Sold $83,000 in Dec 1996", ,House: 3  1  2 ,Land size: 407 sqm
+91,8 St James Street,"Sold $470,000 in 24 Nov 2018(Auction)","Last Sold $83,000 in Dec 1996", ,House: 3  1  2 ,Land size: 809 sqm
+92,27 Chandos Court,"Sold $430,000 in Nov 2018","Last Sold $211,500 in Dec 2005", ,House: 3  1  3 ,Land size: 644 sqm | Building size: 108 sqm
+93,6-8 Freeman Court,"Sold $714,500 in Nov 2018","Last Sold $590,000 in Apr 2015", ,House: 4  2  8 ,"Land size: 2,513 sqm"
+94,8 Garnfield Place,"Sold $555,000 in Nov 2018","Last Sold $290,500 in Jul 2003", ,House: 4  2  2 ,Land size: 645 sqm
+95,293 Wilsons Road,"Sold $407,000 in Nov 2018","Last Sold $280,000 in Mar 2014", ,House: 3  1  ,Land size: 569 sqm | Building size: 109 sqm
+96,14 Lucy Court,"Sold $378,000 in Nov 2018","Last Sold $77,000 in May 1997", ,House: 3  1  3 ,Land size: 403 sqm
+97,4 Nivek Court,"Sold $480,000 in Nov 2018","Last Sold $280,000 in Mar 2005", ,House: 4  2  4 ,Land size: 746 sqm
+98,2 Tresco Court,"Sold $412,000 in Oct 2018","Last Sold $240,000 in Dec 2005", ,House: 3  2  2 ,Land size: 292 sqm
+99,2/8 Westmoreland Street,"Sold $349,000 in Oct 2018","Last Sold $232,000 in Dec 2009", , ,Land size: 235 sqm
+100,121-123 Homestead Drive,"Sold $1,050,000 in Oct 2018","Last Sold $770,000 in Feb 2014", ,House: 4  3  8 ,"Land size: 2,248 sqm"
+101,50 Grafton Street,"Sold $485,000 in Oct 2018","Last Sold $305,000 in Feb 2009", ,House: 3  2  2 ,Land size: 580 sqm
+102,46 Grafton Street,"Sold $451,000 in Oct 2018","Last Sold $192,500 in Dec 2003", ,House: 2  1  2 ,Land size: 562 sqm
+103,1 Taminga Mews,"Sold $427,000 in Oct 2018", ,Rent $350pw in Dec 2016,House: 3  2  1 ,Land size: 501 sqm
+104,12 Bronte Court,"Sold $550,000 in Oct 2018","Last Sold $380,000 in Mar 2010", ,House: 4  2  4 ,Land size: 661 sqm | Building size: 200 sqm
+105,59 St Albans Street,"Sold $360,000 in Oct 2018","Last Sold $141,000 in Oct 2001", ,House: 3  1  4 ,Land size: 566 sqm
+106,19 Jenna Court,"Sold $520,000 in Sep 2018","Last Sold $315,000 in Jan 2008", ,House: 4  2  2 ,Land size: 691 sqm
+107,307 Boundary Road,"Sold $340,000 in Sep 2018","Last Sold $261,500 in Nov 2015", ,House: 2  1  1 ,Land size: 273 sqm
+108,6-7 Cedarwood Court,"Sold $1,069,000 in Sep 2018","Last Sold $263,000 in Mar 2009", ,House: 4  2  8 ,"Land size: 3,396 sqm"
+109,8 East End Crescent,"Sold $270,000 in Sep 2018", , , , 
+110,23 Mayfield Crescent,"Sold $498,000 in Sep 2018", , ,House: 3  2  6 ,Land size: 603 sqm
+111,3 Mersey Court,"Sold $430,000 in Sep 2018","Last Sold $265,000 in Dec 2014", ,House: 3  1  2 ,Land size: 676 sqm | Building size: 132 sqm
+112,29 Filipi Drive,"Sold $494,000 in Sep 2018","Last Sold $279,000 in Feb 2000", ,House: 4  2  4 ,Land size: 585 sqm
+113,16-18 Townsend Road,"Sold $705,000 in Sep 2018", , ,House: 3  1  4 ,"Land size: 1,821 sqm"
+114,243 Boundary Road,"Sold $440,500 in Aug 2018", , ,House: 3  2  2 , 
+115,51 Govett Crescent,"Sold $450,000 in Aug 2018","Last Sold $310,000 in Jul 2016", ,House: 3  1  4 ,Land size: 646 sqm | Building size: 103 sqm
+116,17 Jenna Court,"Sold $520,000 in Aug 2018", ,Rent $380pw in Aug 2015,House: 3  2  6 ,Land size: 687 sqm
+117,3/315 Boundary Road,"Sold $278,000 in Aug 2018","Last Sold $179,000 in Apr 2010", , ,Land size: 63 sqm
+118,319 Wilsons Road,"Sold $425,000 in 11 Aug 2018(Auction)","Last Sold $93,500 in May 1993", ,House: 3  1  1 ,Land size: 570 sqm
+119,27 Carbine Drive,"Sold $408,000 in Aug 2018","Last Sold $103,000 in Mar 2000", ,House: 3  2  ,Land size: 577 sqm
+120,2 Lymington Court,"Sold $485,000 in Aug 2018","Last Sold $160,000 in Feb 2000", ,House: 3  2  4 ,Land size: 679 sqm
+121,50 Chandos Court,"Sold $420,000 in Aug 2018","Last Sold $124,900 in Dec 2014", ,House: 3  2  2 ,Land size: 286 sqm
+122,19 Aldershot Road,"Sold $398,000 in Aug 2018","Last Sold $56,500 in May 1985", ,House: 3  1  2 ,Land size: 592 sqm
+123,42 Homestead Drive,"Sold $515,000 in Aug 2018","Last Sold $342,000 in Nov 2013", ,House: 4  2  2 ,Land size: 710 sqm | Building size: 148 sqm
+124,6/40-42 Townsend Road,"Sold $330,000 in Jul 2018","Last Sold $249,000 in Aug 2014", , ,Land size: 311 sqm
+125,10 Aitken Court,"Sold $477,000 in Jul 2018","Last Sold $320,000 in Mar 2010", ,House: 3  2  5 ,Land size: 693 sqm
+126,38 Chandos Court,"Sold $400,000 in Jul 2018","Last Sold $139,900 in Jan 2015", ,House: 3  2  4 ,Land size: 347 sqm
+127,1 Zazzman Court,"Sold $540,500 in Jul 2018","Last Sold $124,000 in Nov 2006", ,House: 3  2  2 ,Land size: 587 sqm
+128,10/20 Trenton Parade,"Sold $320,000 in Jul 2018","Last Sold $273,000 in Dec 2010", , ,Land size: 254 sqm
+129,14 Grafton Street,"Sold $456,500 in Jul 2018", , ,House: 3  2  6 ,Land size: 595 sqm
+130,1 Paratone Crescent,"Sold $420,000 in Jul 2018","Last Sold $375,000 in Jul 2009", ,House: 3  2  1 ,Land size: 476 sqm
+131,7 Tresco Court,"Sold $500,000 in Jun 2018","Last Sold $345,000 in Jun 2014", ,House: 3  2  2 ,Land size: 589 sqm | Building size: 180 sqm
+132,13 Sirius Court,"Sold $383,500 in Jun 2018","Last Sold $230,000 in Feb 2006", ,House: 3  1  1 ,Land size: 676 sqm | Building size: 134 sqm
+133,6 McGill Court,"Sold $470,000 in May 2018","Last Sold $330,000 in Jul 2015", ,House: 4  1  6 ,Land size: 813 sqm
+134,1/40-42 Townsend Road,"Sold $335,000 in May 2018","Last Sold $258,000 in Aug 2013", , ,Land size: 325 sqm | Building size: 101 sqm
+135,7-8 Oakwood Ridge,"Sold $889,000 in May 2018", ,Rent $490pw in Oct 2018,House: 4  2  4 ,"Land size: 3,489 sqm"
+136,8 Mervyn Court,"Sold $445,000 in May 2018","Last Sold $134,000 in Sep 1997", ,House: 4  1  5 ,Land size: 724 sqm
+137,53 East End Crescent,"Sold $470,000 in May 2018","Last Sold $260,000 in May 2005", ,House: 5  2  2 ,Land size: 775 sqm
+138,43 St Albans Street,"Sold $546,000 in 12 May 2018(Auction)", ,Rent $320pw in Aug 2018,House: 3  1  2 ,Land size: 863 sqm
+139,12 Mandela Court,"Sold $515,000 in May 2018","Last Sold $168,000 in Aug 2010", ,House: 4  2  2 ,Land size: 544 sqm | Building size: 173 sqm
+140,1 Belkan Court,"Sold $413,000 in May 2018","Last Sold $330,000 in Nov 2014", ,House: 3  2  2 ,Land size: 344 sqm
+141,14 Nivek Court,"Sold $515,000 in May 2018","Last Sold $382,500 in Oct 2012", ,House: 4  2  2 ,Land size: 625 sqm | Building size: 170 sqm
+142,7 Doreimus Court,"Sold $590,000 in Apr 2018", , ,House: 4  2  2 ,Land size: 832 sqm
+143,258 Wilsons Road,"Sold $501,000 in Apr 2018", , ,House: 3  1  1 ,"Land size: 1,216 sqm"
+144,38 Govett Crescent,"Sold $461,100 in Apr 2018","Last Sold $300,000 in Nov 2008", ,House: 3  1  2 ,Land size: 665 sqm | Building size: 137 sqm
+145,1/302 Wilsons Road,"Sold $315,000 in Apr 2018","Last Sold $245,000 in Mar 2013", , ,Land size: 166 sqm | Building size: 93 sqm
+146,12 Aldershot Road,"Sold $485,000 in Apr 2018","Last Sold $340,000 in Jan 2015", ,House: 3  1  1 ,Land size: 668 sqm | Building size: 153 sqm
+147,12 Westmoreland Street,"Sold $425,000 in Apr 2018","Last Sold $218,500 in Jun 2007", ,House: 3  1  4 ,Land size: 650 sqm | Building size: 120 sqm
+148,6 Mersey Court,"Sold $408,000 in Apr 2018","Last Sold $245,000 in 2009", ,House: 3  1  1 ,Land size: 575 sqm
+149,28 Townsend Road,"Sold $360,000 in Apr 2018", ,Rent $240pw in Jul 2013,House: 2  1  2 ,Land size: 785 sqm
+150,1/40 Chandos Court,"Sold $365,000 in Apr 2018", , ,House: 3  1  1 , 
+151,1/12 ST JAMES STREET,"Sold $280,000 in Apr 2018","Last Sold $195,000 in Jan 2012", , ,Land size: 206 sqm
+152,79-81 Woods Road,"Sold $735,000 in Mar 2018", , ,House: 4  2  2 ,"Land size: 2,231 sqm"
+153,2/200 Coppards Road,"Sold $325,000 in Mar 2018","Last Sold $245,000 in Sep 2016", , ,Land size: 301 sqm
+154,16 Paratone Crescent,"Sold $515,000 in Mar 2018","Last Sold $290,000 in May 2005", ,House: 4  2  2 ,Land size: 773 sqm
+155,47 Townsend Road,"Sold $410,000 in Mar 2018", , ,House: 3  2  4 , 
+156,32 Langer Drive,"Sold $488,000 in Mar 2018","Last Sold $375,000 in Sep 2015", ,House: 4  2  2 ,Land size: 805 sqm
+157,3 Ellstone Avenue,"Sold $400,000 in 24 Feb 2018(Auction)","Last Sold $240,000 in Feb 2010", ,House: 3  2  2 ,Land size: 661 sqm
+158,30 Filipi Drive,"Sold $420,000 in Feb 2018","Last Sold $230,000 in Jan 2009", ,House: 3  1  4 ,Land size: 578 sqm | Building size: 106 sqm
+159,11 Alcott Road,"Sold $575,000 in Feb 2018","Last Sold $510,000 in Apr 2016", ,House: 5  2  2 ,Land size: 758 sqm
+160,33 Chandos Court,"Sold $410,000 in Jan 2018","Last Sold $167,000 in Nov 2002", ,House: 3  1  2 ,Land size: 620 sqm
+161,1-3 Newhaven Avenue,"Sold $442,000 in Jan 2018", , ,House: 4  2  2 ,Land size: 575 sqm
+162,1 Templeton Court,"Sold $365,000 in Jan 2018","Last Sold $250,000 in Oct 2010(Auction)", ,House: 3  2  ,Land size: 429 sqm
+163,3 Mervyn Court,"Sold $320,000 in Dec 2017","Last Sold $290,000 in Nov 2014", ,Townhouse: 3  1  1 ,Land size: 332 sqm | Building size: 102 sqm
+164,56 Grafton Street,"Sold $390,000 in Dec 2017", , ,House: 3  1  2 ,Land size: 557 sqm
+165,51 St James Street,"Sold $380,000 in 16 Dec 2017(Auction)", , ,House: 3  1  2 ,Land size: 616 sqm
+166,17 Birchwood Drive,"Sold $775,000 in Dec 2017","Last Sold $610,000 in Jun 2013", ,House: 5  4  6 ,"Land size: 1,119 sqm"
+167,7 Taras Court,"Sold $522,500 in Dec 2017","Last Sold $50,000 in Jul 2001", ,House: 4  2  4 ,Land size: 901 sqm | Building size: 166 sqm
+168,1/299 Boundary Road,"Sold $240,000 in Dec 2017","Last Sold $205,000 in May 2015", , ,Land size: 133 sqm
+169,73 Enfield Drive,"Sold $380,000 in Nov 2017","Last Sold $104,000 in Jun 2000", ,House: 1  1  2 ,Land size: 572 sqm
+170,38 Meadenhall Drive,"Sold $380,000 in Nov 2017", , ,House: 3  2  2 ,Land size: 487 sqm
+171,16 Manikato Court,"Sold $510,000 in Nov 2017", ,Rent $460pw in Oct 2019,House: 4  2  3 ,Land size: 670 sqm
+172,18-20 Riseborough Court,"Sold $975,000 in Nov 2017", , , ,"Land size: 2,638 sqm"
+173,18 Riseborough Court,"Sold $975,000 in Nov 2017", , ,House: 5  3  6 ,"Land size: 2,637 sqm"
+174,1-2 Malua Court,"Sold $500,000 in Nov 2017","Last Sold $395,000 in Jul 2013", ,House: 4  2  4 ,Land size: 717 sqm
+175,48 Townsend Road,"Sold $329,000 in Nov 2017","Last Sold $191,000 in Jan 2010", ,House: 3  1  1 ,Land size: 519 sqm
+176,22 Mandela Court,"Sold $455,000 in Nov 2017","Last Sold $347,500 in Apr 2014", ,House: 3  2  2 ,Land size: 555 sqm
+177,3/11 Roseview Way,"Sold $288,000 in Nov 2017","Last Sold $265,000 in Feb 2013", ,Townhouse: 2  1  1 ,Land size: 229 sqm
+178,2 & 3/254 Wilsons Road,"Sold $320,000 in Nov 2017", , , , 
+179,65 Meadenhall Drive,"Sold $460,000 in Oct 2017","Last Sold $336,000 in Jul 2013", ,House: 4  2  2 ,Land size: 490 sqm | Building size: 168 sqm
+180,2-4 Homestead Drive,"Sold $410,000 in Oct 2017","Last Sold $294,770 in Mar 2007", ,House: 5  2  4 ,Land size: 638 sqm | Building size: 208 sqm
+181,1/254 Wilsons Road,"Sold $345,000 in Oct 2017", , ,House: 2  2  1 ,Land size: 429 sqm
+182,5 Mersey Court,"Sold $450,000 in Oct 2017","Last Sold $310,000 in Jan 2013", ,House: 3  2  2 ,Land size: 655 sqm
+183,85 Homestead Drive,"Sold $460,000 in Oct 2017","Last Sold $327,000 in Dec 2010", ,House: 4  2  2 ,Land size: 668 sqm
+184,304 Wilsons Road,"Sold $379,000 in Oct 2017","Last Sold $210,000 in May 2004", , ,Land size: 648 sqm
+185,30a Grafton Street,"Sold $395,000 in Oct 2017","Last Sold $350,000 in Mar 2014", ,House: 3  2  1 ,Land size: 312 sqm | Building size: 140 sqm
+186,15 Mervyn Court,"Sold $392,000 in Oct 2017", , ,House: 3  2  2 ,Land size: 692 sqm
+187,35 Grafton Street,"Sold $371,000 in Sep 2017","Last Sold $195,000 in Aug 2006", ,House: 3  1  2 ,Land size: 652 sqm | Building size: 112 sqm
+188,13 Paramount Crescent,"Sold $366,000 in Sep 2017","Last Sold $227,500 in Oct 2007", ,House: 3  1  2 ,Land size: 605 sqm | Building size: 110 sqm
+189,12 Enfield Drive,"Sold $377,000 in Sep 2017", , ,House: 4  2  6 ,Land size: 573 sqm
+190,3/14 Elizabeth Street,"Sold $250,000 in Sep 2017", , , , 
+191,5/3-5 GOVETT Crescent,"Sold $255,000 in Aug 2017","Last Sold $71,000 in Nov 1991", ,Townhouse: 2  1  1 ,Land size: 167 sqm
+192,4 Roseview Way,"Sold $568,000 in Aug 2017","Last Sold $510,000 in Dec 2011", ,House: 4  3  2 ,Land size: 885 sqm | Building size: 244 sqm
+193,38 Grafton Street,"Sold $348,000 in Aug 2017","Last Sold $280,000 in Jun 2010", ,House: 3  1  2 ,Land size: 540 sqm | Building size: 110 sqm
+194,3/14-16 Elizabeth Street,"Sold $250,000 in Aug 2017","Last Sold $55,900 in Aug 1985", , ,Land size: 173 sqm
+195,2/53-55 Govett Crescent,"Sold $275,000 in Aug 2017","Last Sold $110,000 in Nov 2009", , ,Land size: 160 sqm
+196,1 Riseborough Court,"Sold $285,000 in Aug 2017","Last Sold $245,000 in Jan 2014", , ,Land size: 863 sqm
+197,98 Homestead Drive,"Sold $445,000 in Aug 2017","Last Sold $273,000 in Dec 2004", ,House: 4  2  2 ,Land size: 482 sqm
+198,29 Carbine Drive,"Sold $359,000 in Aug 2017","Last Sold $165,000 in Aug 2002", ,House: 3  2  4 ,Land size: 577 sqm
+199,16 Mayfield Crescent,"Sold $410,000 in Aug 2017","Last Sold $120,000 in May 1999", ,House: 3  2  2 ,Land size: 665 sqm
+200,1/58 Townsend Road,"Sold $307,000 in Jul 2017","Last Sold $237,500 in Feb 2012", ,House: 3  1  1 ,Land size: 429 sqm | Building size: 118 sqm
+201,8 Malua Court,"Sold $600,000 in Jul 2017","Last Sold $135,000 in Jul 2005", , ,Land size: 767 sqm
+202,299 Wilsons Road,"Sold $370,000 in Jul 2017","Last Sold $290,000 in Dec 2011", ,House: 3  2  2 ,Land size: 570 sqm
+203,1/4 Lucy Court,"Sold $258,000 in Jul 2017","Last Sold $77,000 in Mar 1994", ,Townhouse: 2  1  1 ,Land size: 425 sqm
+204,76 Homestead Drive,"Sold $495,000 in Jul 2017","Last Sold $374,000 in May 2010", ,House: 3  2  6 ,Land size: 738 sqm
+205,2/50 St James Street,"Sold $260,000 in Jul 2017","Last Sold $195,000 in Sep 2003", ,House: 2  1  1 ,Land size: 214 sqm
+206,29 East End Crescent,"Sold $349,950 in Jun 2017", ,Rent $350pw in Oct 2018,House: 3  1  1 ,Land size: 814 sqm
+207,2/164-166 Townsend Road,"Sold $258,000 in Jun 2017", ,Rent $320pw in Nov 2018, ,Land size: 218 sqm
+208,23 Mandela Court,"Sold $516,000 in Jun 2017","Last Sold $185,000 in Jul 2010", ,House: 4  2  2 ,Land size: 869 sqm | Building size: 212 sqm
+209,22 Filipi Drive,"Sold $330,000 in Jun 2017","Last Sold $283,000 in Apr 2014", ,House: 3  1  1 ,Land size: 645 sqm
+210,9 Westmoreland Street,"Sold $349,000 in May 2017","Last Sold $267,000 in Apr 2010", ,House: 3  1  4 ,Land size: 785 sqm
+211,3 Lucy Court,"Sold $275,000 in May 2017","Last Sold $69,500 in Jan 1992", ,House: 2  1  1 ,Land size: 387 sqm
+212,2/4 Grafton Street,"Sold $325,000 in May 2017","Last Sold $305,000 in May 2013", , ,Land size: 311 sqm | Building size: 100 sqm
+213,11 Bradford Street,"Sold $331,000 in 20 May 2017(Auction)","Last Sold $157,000 in Feb 2000", ,House: 3  2  1 ,Land size: 561 sqm
+214,4 Govett Crescent,"Sold $425,000 in May 2017","Last Sold $275,000 in Feb 2000", ,House: 4  2  1 ,Land size: 749 sqm
+215,18 Mayfield Crescent,"Sold $430,000 in 13 May 2017(Auction)","Last Sold $330,000 in Sep 2012", ,House: 3  2  4 ,Land size: 665 sqm
+216,9 Zazzman Court,"Sold $520,000 in May 2017","Last Sold $142,000 in Feb 2000", ,House: 4  2  4 ,Land size: 833 sqm
+217,38 Filipi Drive,"Sold $345,000 in May 2017","Last Sold $229,000 in Sep 2006", ,House: 3  1  2 ,Land size: 580 sqm
+218,4/4-6 Enfield Drive,"Sold $245,000 in May 2017","Last Sold $179,500 in Mar 2014", , ,Land size: 96 sqm
+219,39 Govett Crescent,"Sold $344,000 in May 2017", , ,House: 3  1  1 ,Land size: 574 sqm
+220,35 Newhaven Avenue,"Sold $510,000 in May 2017","Last Sold $132,000 in Feb 2000", ,House: 4  2  2 ,Land size: 688 sqm
+221,6 Coonara Court,"Sold $165,000 in May 2017","Last Sold $158,000 in Mar 2002", ,House: ,Land size: 653 sqm
+222,6 Mandela Court,"Sold $480,000 in Apr 2017","Last Sold $165,000 in Jul 2010", ,House: 4  2  2 ,Land size: 557 sqm
+223,2/4 Lucy Court,"Sold $300,000 in Apr 2017","Last Sold $220,000 in May 2011", ,House: 2  1  1 ,Land size: 383 sqm
+224,24 Govett Crescent,"Sold $355,000 in Apr 2017","Last Sold $277,000 in Jul 2011", ,House: 3  1  4 ,Land size: 653 sqm
+225,3 Belkan Court,"Sold $476,000 in Apr 2017","Last Sold $247,500 in Sep 2005", ,House: 3  2  6 ,Land size: 781 sqm
+226,84 Homestead Drive,"Sold $485,000 in Apr 2017","Last Sold $320,000 in Sep 2005", ,House: 4  3  2 ,Land size: 738 sqm
+227,42 Westmoreland Street,"Sold $270,000 in Mar 2017", , ,House: 5  1  2 ,Land size: 500 sqm
+228,49 St Albans Street,"Sold $305,000 in 25 Mar 2017(Auction)","Last Sold $215,000 in May 2005", ,House: 4  1  8 ,Land size: 577 sqm | Building size: 128 sqm
+229,42 Paramount Crescent,"Sold $425,000 in Mar 2017", , ,House: 3  2  3 ,Land size: 714 sqm
+230,3 Gandross Place,"Sold $350,000 in Mar 2017","Last Sold $280,000 in Apr 2010", ,House: 3  1  1 ,Land size: 649 sqm | Building size: 104 sqm
+231,3 Grafton Street,"Sold $299,000 in Mar 2017","Last Sold $180,000 in Apr 2004", ,House: 3  1  1 ,Land size: 425 sqm | Building size: 114 sqm
+232,57 Langer Drive,"Sold $315,000 in Mar 2017","Last Sold $294,000 in May 2013", ,House: 2  1  1 ,Land size: 396 sqm
+233,10 Silverwood Court,"Sold $560,000 in Mar 2017","Last Sold $320,000 in May 2012", , ,"Land size: 3,660 sqm"
+234,11-12 Oakwood Ridge,"Sold $610,000 in Mar 2017","Last Sold $470,000 in May 2009", ,House: 5  2  5 ,"Land size: 2,493 sqm"
+235,37 Newhaven Avenue,"Sold $390,000 in Mar 2017","Last Sold $130,000 in Aug 2006", ,House: 3  2  2 ,Land size: 676 sqm
+236,4 Pinder Court,"Sold $315,000 in Mar 2017","Last Sold $275,000 in Oct 2013", ,House: 2  1  1 ,Land size: 225 sqm
+237,7 Zazzman Court,"Sold $415,000 in Mar 2017","Last Sold $373,250 in Dec 2015", ,House: 3  2  2 ,Land size: 522 sqm
+238,3/35-37 East End Crescent,"Sold $212,000 in Feb 2017", ,Rent $220pw in Sep 2014,House: 2  1  1 ,Land size: 137 sqm
+239,7/25-27 Enfield Drive,"Sold $250,000 in Feb 2017","Last Sold $155,000 in Apr 2005", , ,Land size: 141 sqm
+240,31 Chandos Court,"Sold $364,000 in Feb 2017","Last Sold $134,000 in Sep 2002", , ,Land size: 643 sqm
+241,11 Lymington Court,"Sold $355,000 in Feb 2017","Last Sold $345,000 in Jan 2013", ,House: 3  2  2 ,Land size: 714 sqm | Building size: 142 sqm
+242,22 Tabess Court,"Sold $379,000 in Feb 2017","Last Sold $280,000 in Sep 2004", ,House: 3  2  2 ,Land size: 451 sqm
+243,3 Tantalla Court,"Sold $429,000 in Feb 2017","Last Sold $282,000 in Sep 2005", ,House: 3  2  2 ,Land size: 705 sqm | Building size: 153 sqm
+244,20 Mandela Court,"Sold $460,000 in Feb 2017","Last Sold $165,000 in May 2010", ,House: 4  2  2 ,Land size: 562 sqm | Building size: 180 sqm
+245,80 Townsend Road,"Sold $290,000 in Feb 2017", ,Rent $295pw in Sep 2014,House: 3  1  2 ,Land size: 653 sqm | Building size: 119 sqm
+246,7 Meadenhall Drive,"Sold $318,000 in 04 Feb 2017(Auction)","Last Sold $88,000 in Sep 1996", ,House: 3  1  3 ,Land size: 658 sqm
+247,26A Collins Street,"Sold $107,500 in Feb 2017", , , ,Land size: 330 sqm
+248,1/8-10 Strathmore Court,"Sold $260,000 in Feb 2017","Last Sold $247,000 in Sep 2012", , ,Land size: 360 sqm
+249,2/27 Newhaven Avenue,"Sold $359,000 in Feb 2017","Last Sold $335,000 in May 2014", ,House: 3  2  2 ,Land size: 360 sqm
+250,1/8 Strathmore Court,"Sold $260,000 in Feb 2017","Last Sold $247,000 in Oct 2012", , ,Land size: 363 sqm
+251,178-180 Townsend Road,"Sold $255,000 in Jan 2017","Last Sold $240,000 in Jan 2010", ,House: 3  1  2 ,Land size: 764 sqm
+252,1/4 Grafton Street,"Sold $303,000 in Jan 2017", ,Rent $310pw in Jul 2016,Townhouse: 2  2  1 ,Land size: 312 sqm
+253,75 Enfield Drive,"Sold $275,000 in Jan 2017","Last Sold $187,500 in Jul 2005", , ,Land size: 306 sqm
+254,5 Gannet Court,"Sold $311,000 in Jan 2017","Last Sold $275,000 in Jun 2015", ,House: 3  1  5 ,Land size: 663 sqm
+255,301 Wilsons Road,"Sold $368,000 in Jan 2017","Last Sold $290,000 in Mar 2012", ,House: 3  1  2 ,Land size: 567 sqm | Building size: 144 sqm
+256,44 Paratone Crescent,"Sold $593,000 in Jan 2017","Last Sold $545,000 in Mar 2012", ,House: 5  2  4 ,Land size: 762 sqm | Building size: 323 sqm
+257,34 Townsend Road,"Sold $228,000 in Jan 2017","Last Sold $52,000 in Sep 1985", ,House: 3  1  1 ,Land size: 786 sqm
+258,9 Nivek Court,"Sold $317,500 in Jan 2017","Last Sold $110,000 in Oct 2005", ,House: 3  1  ,Land size: 709 sqm
+259,61 Homestead Drive,"Sold $450,000 in Jan 2017","Last Sold $146,000 in Sep 2000", ,House: 4  2  2 ,Land size: 830 sqm
+260,49 Grafton Street,"Sold $330,000 in Dec 2016","Last Sold $270,000 in Feb 2000", ,House: 3  2  1 ,Land size: 651 sqm
+261,15 Mandela Court,"Sold $468,000 in Dec 2016","Last Sold $178,000 in Jun 2010", ,House: 3  2  4 ,Land size: 763 sqm | Building size: 168 sqm
+262,9 Ottoman Court,"Sold $300,000 in Dec 2016","Last Sold $270,000 in Jan 2011", ,House: 3  1  1 ,Land size: 557 sqm | Building size: 118 sqm
+263,2 Jenna Court,"Sold $435,000 in Dec 2016","Last Sold $315,000 in Oct 2008", ,House: 4  2  6 ,Land size: 666 sqm | Building size: 195 sqm
+264,44 Townsend Road,"Sold $330,000 in Dec 2016","Last Sold $302,500 in Nov 2014", ,House: 3  1  1 ,Land size: 64 sqm
+265,21 Homestead Drive,"Sold $448,000 in Dec 2016","Last Sold $208,000 in Dec 2001", ,House: 4  2  2 ,Land size: 619 sqm
+266,25 Bradford Street,"Sold $449,000 in Dec 2016","Last Sold $365,000 in Jul 2014", ,House: 4  2  2 ,Land size: 661 sqm | Building size: 157 sqm
+267,24 St Albans Street,"Sold $315,000 in Nov 2016", , ,House: 3  1  3 ,Land size: 593 sqm
+268,52 Westmoreland Street,"Sold $285,000 in Nov 2016","Last Sold $260,000 in Apr 2012", ,House: 3  2  1 ,Land size: 608 sqm | Building size: 103 sqm
+269,35-37 Paratone Crescent,"Sold $520,000 in Nov 2016","Last Sold $80,000 in Apr 2003", ,House: 4  2  2 ,Land size: 861 sqm
+270,25 Westmoreland Street,"Sold $250,000 in Nov 2016","Last Sold $185,000 in Jul 2004", ,House: 3  1  4 ,Land size: 766 sqm
+271,7 Eastend Crescent,"Sold $3,125,000 in Nov 2016", , ,House: 3  1  2 ,Land size: 710 sqm
+272,20 Sirius court,"Sold $285,000 in Nov 2016","Last Sold $265,000 in Oct 2013", ,House: 3  1  2 ,Land size: 741 sqm | Building size: 111 sqm
+273,3 Manikato Court,"Sold $440,000 in Nov 2016","Last Sold $350,000 in Dec 2011", ,House: 4  2  4 ,Land size: 636 sqm | Building size: 197 sqm
+274,18 Sirius Court,"Sold $315,000 in Nov 2016","Last Sold $279,000 in Oct 2009", ,House: 3  2  3 ,Land size: 721 sqm | Building size: 141 sqm
+275,12 Templeton Court,"Sold $475,000 in Oct 2016","Last Sold $290,000 in Mar 2003", ,House: 4  2  2 ,Land size: 897 sqm | Building size: 247 sqm
+276,6 Chandos Court,"Sold $320,000 in Oct 2016","Last Sold $126,595 in Oct 2001", ,House: 3  1  1 ,Land size: 500 sqm | Building size: 107 sqm
+277,24 Carbine Drive,"Sold $478,000 in Oct 2016","Last Sold $411,000 in Aug 2013", ,House: 4  2  2 ,Land size: 595 sqm
+278,5/106-110 Townsend Road,"Sold $242,500 in Oct 2016", , ,House: 3  ,Land size: 469 sqm
+279,5/110 Townsend Road,"Sold $242,500 in Oct 2016", , ,House: 3  1  2 ,Land size: 469 sqm
+280,272 Wilsons Road,"Sold $276,500 in Oct 2016", , ,House: 3  1  2 ,Land size: 574 sqm
+281,37 Westmoreland Street,"Sold $320,000 in Oct 2016","Last Sold $285,000 in Dec 2013", ,House: 3  1  2 ,Land size: 406 sqm
+282,56 Enfield Drive,"Sold $310,000 in Oct 2016","Last Sold $95,000 in Apr 1993", ,House: 3  1  2 ,Land size: 570 sqm
+283,49 Enfield Drive,"Sold $275,000 in Sep 2016","Last Sold $240,000 in Jun 2008", ,House: 3  1  2 ,Land size: 700 sqm | Building size: 106 sqm
+284,8 Mersey Court,"Sold $320,000 in Sep 2016","Last Sold $260,000 in Feb 2014", ,House: 3  1  2 ,Land size: 678 sqm | Building size: 114 sqm
+285,1/37 Westmoreland Street,"Sold $320,000 in Sep 2016","Last Sold $310,000 in Sep 2010", ,Townhouse: ,Land size: 406 sqm
+286,33 Paramount Crescent,"Sold $360,000 in Sep 2016","Last Sold $272,000 in Feb 2008", ,House: 3  2  2 ,Land size: 671 sqm
+287,5/40-42 Townsend Road,"Sold $285,000 in Sep 2016","Last Sold $132,000 in Oct 2006", , ,Land size: 245 sqm
+288,2/64 Chandos Court,"Sold $312,000 in Sep 2016", , ,Townhouse: 3  2  3 ,Land size: 250 sqm
+289,34 Chandos Court,"Sold $305,000 in Aug 2016","Last Sold $230,000 in Sep 2008", ,House: 3  1  2 ,Land size: 440 sqm | Building size: 100 sqm
+290,9 Tresco Court,"Sold $410,000 in Aug 2016","Last Sold $99,500 in Nov 2003", ,House: 3  2  4 ,Land size: 749 sqm
+291,13 Ellstone Avenue,"Sold $343,000 in Aug 2016","Last Sold $87,500 in Feb 2000", ,House: 3  1  2 ,Land size: 707 sqm | Building size: 187 sqm
+292,6B St James Street,"Sold $327,000 in Aug 2016", , ,House: 3  2  2 ,Land size: 282 sqm
+293,7 Ottoman Court,"Sold $315,000 in Aug 2016","Last Sold $295,000 in Oct 2011", ,House: 3  1  2 ,Land size: 567 sqm | Building size: 111 sqm
+294,11 Grafton Street,"Sold $320,000 in Aug 2016","Last Sold $275,000 in Feb 2011", ,House: 3  1  2 ,Land size: 600 sqm | Building size: 109 sqm
+295,1 Durran Street,"Sold $360,000 in Aug 2016","Last Sold $282,000 in Feb 2010", ,House: 4  2  2 ,Land size: 547 sqm
+296,25 Durran Street,"Sold $335,000 in Jul 2016","Last Sold $305,000 in Feb 2011", ,House: 4  2  2 ,Land size: 625 sqm
+297,1/27 Enfield Drive,"Sold $220,000 in Jul 2016", ,Rent $250pw in Feb 2014, ,Land size: 140 sqm
+298,24 Enfield Drive,"Sold $307,000 in Jul 2016","Last Sold $267,000 in Aug 2009", ,House: 4  1  2 ,Land size: 559 sqm | Building size: 148 sqm
+299,292 Wilsons Road,"Sold $305,000 in Jul 2016", , ,House: 4  1  1 ,Land size: 597 sqm

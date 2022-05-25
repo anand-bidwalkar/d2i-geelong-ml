@@ -1,0 +1,293 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,37 Bell Parade," 1,215,000 ", Jun 2020,0," 915,000 ", Apr 2015, ,, 646  ,  177 ,3,2,3,Drum Condra
+1,1/55 The Esplanade," 1,900,000 ", 18 May 2020,1, ,, ,, 421 ,,3,0,0,Drum Condra
+2,55A The Esplanade," 1,900,000 ", 18 May 2020,1, ,, ,, ,,3,2,3,Drum Condra
+3,28 Wattletree Road," 1,520,000 ", Mar 2020,0, ,, ,, 343 ,,0,0,0,Drum Condra
+4,23 Beach Parade," 1,100,000 ", 15 Feb 2020,1," 626,000 ", May 2012, ,, 613 ,,3,1,3,Drum Condra
+5,1/26 Lunan Avenue," 865,000 ", Feb 2020,0," 316,500 ", Sep 2000, ,, 215 ,,0,0,0,Drum Condra
+6,39 The Esplanade," 2,275,000 ", Jul 2019,0, ,, 660 , Oct 2019, 730 ,,5,2,4,Drum Condra
+7,9 Grandview Grove," 1,219,000 ", Mar 2019,0," 590,000 ", Oct 2005, ,, 625  ,  253 ,4,2,0,Drum Condra
+8,3 Lunan Avenue," 900,000 ", Mar 2019,0," 775,000 ", Dec 2012, ,, 610 ,,3,2,2,Drum Condra
+9,15 Drumcondra Avenue," 901,000 ", 14 Apr 2018,1, ,, 420 , Jun 2016, 624 ,,4,1,1,Drum Condra
+10,9A Wattletree Road," 885,000 ", 16 Dec 2017,1, ,, 470 , May 2019, 624 ,,3,1,1,Drum Condra
+11,53 Princes Highway," 640,000 ", Dec 2017,0," 435,000 ", Oct 2011, ,, 835 ,,4,1,1,Drum Condra
+12,53 Melbourne Road," 640,000 ", 09 Dec 2017,1," 435,000 ", Oct 2011, ,, 640 ,,3,1,1,Drum Condra
+13,3 Bell Parade," 680,000 ", Nov 2017,0," 360,000 ", 2009, ,, 330  ,  122 ,3,2,1,Drum Condra
+14,16 Drumcondra Avenue," 1,225,000 ", Oct 2017,0," 111,500 ", Jun 1992, ,, 626 ,,4,2,2,Drum Condra
+15,1/2 Grandview Grove," 520,000 ", 05 Aug 2017,1," 405,000 ", Jan 2016, ,, 195  ,  148 ,2,2,1,Drum Condra
+16,24 Drumcondra Avenue," 832,000 ", Jul 2017,0, ,, ,, 613 ,,4,1,1,Drum Condra
+17,11 Beach Parade," 1,096,000 ", 18 Mar 2017,1," 760,000 ", Jun 2015, ,, 613  ,  270 ,4,1,3,Drum Condra
+18,57 Princes Highway," 390,000 ", Nov 2016,0, ,, 320 , Feb 2000, 531 ,,2,1,1,Drum Condra
+19,57 Melbourne Road," 390,000 ", 19 Nov 2016,1," 285,000 ", Aug 2008, ,, 531  ,  144 ,2,1,1,Drum Condra
+20,19 Drumcondra Avenue," 800,000 ", 22 Oct 2016,1, ,, ,, 613  ,  12 ,3,1,1,Drum Condra
+21,2 Wattletree Road," 925,000 ", Oct 2016,0," 700,000 ", Jan 2012, ,, 625 ,,4,3,2,Drum Condra
+22,6 Grandview Grove," 825,050 ", Sep 2016,0," 395,000 ", Jul 2003, ,, 638 ,,4,2,2,Drum Condra
+23,16 Grandview Grove," 725,000 ", 27 Aug 2016,1, ,, ,, 633  ,  144 ,3,1,1,Drum Condra
+24,5 Grandview Grove," 665,000 ", Aug 2016,0, ,, 375 , Oct 2015, 625  ,  224 ,3,1,1,Drum Condra
+25,3/2-4 Drumcondra Avenue," 313,500 ", Aug 2016,0," 215,000 ", Mar 2005, ,, 279 ,,0,0,0,Drum Condra
+26,16 Beach Parade," 955,000 ", May 2016,0," 245,000 ", Nov 1998, ,, 59 ,,3,2,2,Drum Condra
+27,25 Glenleith Avenue," 1,070,000 ", Feb 2016,0," 870,000 ", May 2013, ,, 971 ,,4,2,3,Drum Condra
+28,10 Wattletree Road," 685,000 ", 13 Feb 2016,1, ,, ,, 625  ,  110 ,3,1,2,Drum Condra
+29,21 Lunan Avenue," 815,000 ", Dec 2015,0, ,, ,, 611 ,,4,2,1,Drum Condra
+30,53 The Esplanade," 2,375,000 ", Nov 2015,0," 1,875,000 ", Mar 2008, ,, 899  ,  427 ,4,2,2,Drum Condra
+31,24 Beach Parade," 1,205,000 ", 31 Oct 2015,1," 145,000 ", Aug 2008, ,, 675  ,  275 ,4,2,2,Drum Condra
+32,41 Princes Highway," 725,000 ", Aug 2015,0, ,, ,, 703 ,,4,2,2,Drum Condra
+33,41 Melbourne Road," 725,000 ", Jul 2015,0," 81,500 ", Dec 1984, ,, 700 ,,4,2,2,Drum Condra
+34,1/2-4 Drumcondra Avenue," 293,500 ", May 2015,0," 64,500 ", Sep 1986, ,, 202 ,,0,0,0,Drum Condra
+35,3/2 Drumcondra Avenue," 293,500 ", May 2015,0," 89,500 ", Apr 1999, ,, 279  ,  97 ,2,1,1,Drum Condra
+36,39 Bell Parade," 725,000 ", 11 Apr 2015,1, ,, 350 , Jun 2019, 646 ,,3,1,1,Drum Condra
+37,18 Grandview Grove," 745,000 ", Jan 2015,0," 72,500 ", Aug 1986, ,, 620 ,,4,1,2,Drum Condra
+38,8 Wattletree Road," 695,000 ", Dec 2014,0, ,, 440 , Apr 2016, 625 ,,4,2,2,Drum Condra
+39,23 Lunan Avenue," 1,160,000 ", Dec 2014,0," 300,000 ", Nov 2006, ,, 611 ,,4,2,3,Drum Condra
+40,25 Bell Parade," 748,000 ", 13 Dec 2014,1, ,, 450 , Jun 2017, 728 ,,4,1,3,Drum Condra
+41,20-22 Lunan Avenue," 640,000 ", Nov 2014,0, ,, ,, 653 ,,3,1,0,Drum Condra
+42,22 Lunan Avenue," 640,000 ", 01 Nov 2014,1, ,, ,, 653 ,,3,1,2,Drum Condra
+43,14 Lunan Avenue," 766,000 ", Oct 2014,0," 210,000 ", Jul 1995, ,, 653 ,,4,2,2,Drum Condra
+44,15 Glenleith Avenue," 1,100,000 ", Oct 2014,0," 190,000 ", Nov 1989, ,, 970  ,  264 ,4,2,2,Drum Condra
+45,27 Princes Highway," 560,000 ", Sep 2014,0," 95,000 ", Jul 1997, ,, 408  ,  200 ,0,0,0,Drum Condra
+46,11 Wattletree Road," 736,000 ", Sep 2014,0," 310,000 ", Feb 2000, ,, 625 ,,3,1,1,Drum Condra
+47,27 Melbourne Road," 560,000 ", Sep 2014,0," 95,000 ", Jul 1997, ,, 408 ,,0,0,0,Drum Condra
+48,2/31 Bell Parade," 250,000 ", Aug 2014,0," 72,500 ", Aug 1997, ,, 202  ,  94 ,0,0,0,Drum Condra
+49,1/20-22 Lunan Avenue," 505,000 ", Jul 2014,0, ,, ,, 653 ,,0,0,0,Drum Condra
+50,1/20 Lunan Avenue," 505,000 ", 19 Jul 2014,1, ,, 390 , Jan 2016, 267  ,  116 ,0,0,0,Drum Condra
+51,2/20 Lunan Avenue," 505,000 ", Jul 2014,0, ,, 360 , Oct 2012, 653 ,,3,1,1,Drum Condra
+52,1/31 Bell Parade," 350,000 ", Jun 2014,0," 81,500 ", Jan 1997, ,, 252  ,  92 ,0,0,0,Drum Condra
+53,16 Glenleith Avenue," 630,000 ", May 2014,0," 178,000 ", Jul 1986, ,, ,,4,2,3,Drum Condra
+54,23 Bell Parade," 527,000 ", 22 Mar 2014,1, ,, ,, 572 ,,3,1,1,Drum Condra
+55,11 Lunan Avenue," 920,000 ", Mar 2014,0," 270,000 ", Jul 2001, ,, 611  ,  134 ,4,3,6,Drum Condra
+56,14 Beach Parade," 730,000 ", Feb 2014,0, ,, 470 , Apr 2015, 613 ,,3,2,4,Drum Condra
+57,1 Grandview Grove," 815,000 ", Feb 2014,0," 750,000 ", Apr 2005, ,, 624 ,,5,3,2,Drum Condra
+58,59 The Esplanade," 2,100,000 ", Dec 2013,0," 480,000 ", Feb 1991, ,," 1,157 ",,4,0,0,Drum Condra
+59,6/17 The Esplanade," 375,000 ", Nov 2013,0, ,, 300 , Sep 2013, ,,0,0,0,Drum Condra
+60,2 Beach Parade," 1,150,000 ", Nov 2013,0," 750,000 ", Jan 2008, ,, 808  ,  186 ,4,2,4,Drum Condra
+61,6a Lunan Avenue," 640,000 ", Oct 2013,0, ,, ,, 653 ,,3,2,1,Drum Condra
+62,6 Lunan Avenue," 640,000 ", Oct 2013,0, ,, ,, 653  ,  212 ,2,2,0,Drum Condra
+63,16 Lunan Avenue," 640,000 ", 28 Sep 2013,1, ,, 330 , Sep 2016, 653 ,,3,1,2,Drum Condra
+64,3 Grandview Grove," 895,000 ", Sep 2013,0, ,, 550 , May 2011, 625  ,  264 ,6,3,2,Drum Condra
+65,14a Glenleith Court," 309,000 ", Aug 2013,0, ,, ,, ,,2,1,1,Drum Condra
+66,17 Bell Parade," 600,000 ", 17 Aug 2013,1, ,, ,, 652  ,  150 ,3,2,1,Drum Condra
+67,13 Glenleith Avenue," 950,000 ", Aug 2013,0, ,, ,, 970 ,,3,2,2,Drum Condra
+68,17 Grandview Grove," 1,070,000 ", Jul 2013,0," 726,000 ", Nov 2010, ,, 613  ,  238 ,4,2,2,Drum Condra
+69,25 Grandview Grove," 735,000 ", Jun 2013,0, ,, ,, 612 ,,4,2,1,Drum Condra
+70,8 Lunan Avenue," 710,000 ", May 2013,0," 315,000 ", Mar 2000, ,, 653 ,,3,2,2,Drum Condra
+71,25 Wattletree Road," 650,000 ", May 2013,0, ,, ,, 188 ,,3,1,2,Drum Condra
+72,76 Keera Street," 1,763,250 ", Apr 2013,0, ,, ,, ,,4,2,2,Drum Condra
+73,2/21 Drumcondra Avenue," 200,000 ", Apr 2013,0," 95,000 ", Feb 2002, ,, 99 ,,1,1,1,Drum Condra
+74,2 Lunan Avenue," 550,000 ", Mar 2013,0," 450,000 ", Dec 2006, ,, 655  ,  123 ,1,1,2,Drum Condra
+75,14 Kooyong Road," 471,000 ", Jan 2013,0, ,, ,, ,,4,2,2,Drum Condra
+76,5 Mc Millan Avenue," 650,000 ", Nov 2012,0, ,, ,, 520 ,,5,3,2,Drum Condra
+77,26 Beach Parade," 763,000 ", 03 Nov 2012,1, ,, ,, 674  ,  164 ,3,1,2,Drum Condra
+78,4 Wattletree Road," 725,000 ", Oct 2012,0, ,, 570 , Nov 2012, 625  ,  190 ,3,2,2,Drum Condra
+79,1/2A Wattletree Road," 360,000 ", Oct 2012,0," 300,000 ", Oct 2007, ,, 236 ,,0,0,0,Drum Condra
+80,1/2 Wattletree Road," 360,000 ", Oct 2012,0, ,, ,, ,,0,0,0,Drum Condra
+81,9 Bell Parade," 655,000 ", Oct 2012,0," 460,000 ", Jun 2009, ,, 655 ,,3,2,2,Drum Condra
+82,27 Wattletree Road," 1,110,000 ", Sep 2012,0," 405,000 ", Nov 2002, ,, 93 ,,4,2,2,Drum Condra
+83,9 Glenleith Avenue," 950,000 ", Jun 2012,0, ,, ,, 970 ,,4,1,2,Drum Condra
+84,2/55 Princes Highway," 475,000 ", May 2012,0, ,, ,, 220 ,,0,0,0,Drum Condra
+85,1/6 Stradling Avenue," 504,000 ", 12 May 2012,1, ,, ,, 63 ,,2,2,2,Drum Condra
+86,2/55 Melbourne Road," 475,002 ", May 2012,0, ,, ,, 220  ,  157 ,3,2,2,Drum Condra
+87,10 Mcmillan Avenue," 625,000 ", Apr 2012,0," 69,000 ", Mar 1985, ,, ,,2,2,2,Drum Condra
+88,75 The Esplanade," 1,900,000 ", Apr 2012,0," 1,750,000 ", Feb 2010, ,, 912 ,,4,3,3,Drum Condra
+89,15 McMillan Avenue," 605,000 ", Mar 2012,0, ,, ,, 520 ,,4,2,2,Drum Condra
+90,7a York Street," 347,600 ", Mar 2012,0, ,, 750 , Apr 2012, ,,3,3,2,Drum Condra
+91,31 Beach Parade," 700,000 ", 11 Feb 2012,1, ,, 390 , Nov 2017, 613  ,  613 ,3,1,1,Drum Condra
+92,7 Bell Parade," 670,000 ", Jan 2012,0," 390,000 ", Oct 2006, ,, 655  ,  191 ,4,3,2,Drum Condra
+93,1/21 The Esplanade," 630,000 ", Dec 2011,0, ,, 300 , Nov 2010, ,,0,0,0,Drum Condra
+94,1/53 Melbourne Road," 435,000 ", Oct 2011,0," 54,000 ", Jun 1984, ,, 640 ,,0,0,0,Drum Condra
+95,47 Princes Highway," 405,000 ", Sep 2011,0," 280,000 ", Nov 2003, ,, 684 ,,3,1,1,Drum Condra
+96,47 Melbourne Road," 405,000 ", Sep 2011,0, ,, 280 , Sep 2013, 684 ,,3,1,1,Drum Condra
+97,8 Glenleith Avenue," 790,000 ", Sep 2011,0, ,, ,, ,,5,2,2,Drum Condra
+98,11 Drumcondra Avenue," 625,000 ", Jul 2011,0, ,, ,, 626 ,,3,2,2,Drum Condra
+99,5 Lunan Avenue," 1,250,000 ", Jun 2011,0, ,, 650 , Aug 2008, 611  ,  255 ,3,2,2,Drum Condra
+100,22 Mont Albert Road," 369,000 ", May 2011,0, ,, ,, ,,3,1,1,Drum Condra
+101,2/19 McMillan Avenue," 317,000 ", 30 Apr 2011,1, ,, 210 , Feb 2008, 331 ,,0,0,0,Drum Condra
+102,13 Mont Albert Road," 580,000 ", Apr 2011,0, ,, 450 , Oct 2012, ,,3,2,3,Drum Condra
+103,6 Wattletree Road," 710,000 ", Mar 2011,0," 158,000 ", Sep 1994, ,, 625 ,,1,1,2,Drum Condra
+104,22 Wattletree Road," 800,000 ", 19 Mar 2011,1, ,, 630 , Jan 2016, 613 ,,3,2,2,Drum Condra
+105,24 Lunan Avenue," 935,000 ", 01 Mar 2011,1," 500,000 ", Jun 2003, ,, 522  ,  228 ,4,3,2,Drum Condra
+106,19 Grandview Grove," 760,000 ", Dec 2010,0, ,, ,, 613  ,  176 ,3,2,2,Drum Condra
+107,41 Bell Parade," 660,000 ", 01 Dec 2010,1, ,, ,, 644 ,,3,1,2,Drum Condra
+108,7 Glenleith Avenue," 1,080,000 ", Nov 2010,0," 650,000 ", Mar 2006, ,, 861 ,,3,2,1,Drum Condra
+109,3 Stradling Avenue," 615,000 ", 16 Oct 2010,1, ,, 400 , Oct 2008, 615 ,,3,1,1,Drum Condra
+110,14 York Street," 475,000 ", Jul 2010,0," 87,500 ", Dec 1997, ,, ,,3,1,1,Drum Condra
+111,79 The Esplanade," 1,220,000 ", Jul 2010,0, ,, 450 , Jul 2014, 675  ,  180 ,4,1,1,Drum Condra
+112,37 The Esplanade," 1,150,000 ", Jun 2010,0," 960,000 ", Oct 2004, ,, 503 ,,4,1,2,Drum Condra
+113,10 Mont Albert Road," 604,500 ", Mar 2010,0," 60,000 ", Mar 1986, ,, ,,3,2,1,Drum Condra
+114,10 Drumcondra Avenue," 604,500 ", Mar 2010,0," 86,000 ", Jul 1984, ,, 625 ,,3,3,2,Drum Condra
+115,59 Melbourne Road," 337,000 ", Mar 2010,0, ,, ,, 530  ,  145 ,3,1,1,Drum Condra
+116,1/7 Glenleith Avenue," 1,080,000 ", Mar 2010,0, ,, ,, 860 ,,0,0,0,Drum Condra
+117,17 Drumcondra Avenue," 650,000 ", Mar 2010,0, ,, ,, 613  ,  175 ,2,1,0,Drum Condra
+118,1/12 Glenleith Avenue," 335,000 ", Feb 2010,0, ,, 350 , Nov 2015, 235 ,,0,0,0,Drum Condra
+119,13 Wattletree Road," 670,500 ", Feb 2010,0," 560,000 ", Jun 2007, ,, 625 ,,2,1,1,Drum Condra
+120,29 The Esplanade," 2,500,000 ", Jan 2010,0, ,, ,, 968 ,,4,2,3,Drum Condra
+121,6/21 The Esplanade," 389,000 ", Jan 2010,0, ,, ,," 1,425 ",,0,0,0,Drum Condra
+122,21 Grandview Grove," 513,000 ", Dec 2009,0, ,, ,, 613  ,  147 ,3,2,2,Drum Condra
+123,13 Kooyong Road," 289,000 ", Dec 2009,0, ,, ,, ,,2,1,1,Drum Condra
+124,6 Drumcondra Avenue," 750,000 ", Dec 2009,0," 270,000 ", Nov 2000, ,, 624  ,  257 ,4,2,2,Drum Condra
+125,20 Grandview Grove," 505,000 ", Nov 2009,0, ,, ,, 619  ,  136 ,2,1,2,Drum Condra
+126,4 York Street," 560,000 ", Nov 2009,0," 135,000 ", Apr 1999, ,, ,,3,2,0,Drum Condra
+127,18 Beach Parade," 875,000 ", Sep 2009,0," 320,000 ", Sep 1999, ,, 687 ,,4,2,2,Drum Condra
+128,6a Glenleith Court," 252,000 ", Mar 2009,0, ,, 320 , Nov 2012, ,,0,0,0,Drum Condra
+129,2 Grandview Grove," 300,000 ", Mar 2009,0, ,, ,, 639 ,,3,0,0,Drum Condra
+130,1 Bell Parade," 392,950 ", Jan 2009,0," 242,500 ", Feb 2004, ,, 327 ,,3,0,0,Drum Condra
+131,1A Bell Parade," 392,950 ", Dec 2008,0, ,, ,, 327 ,,3,2,1,Drum Condra
+132,21 Beach Parade," 965,000 ", Oct 2008,0," 546,000 ", Nov 2001, ,, 305  ,  211 ,4,2,0,Drum Condra
+133,33 Glenleith Avenue," 452,000 ", Oct 2008,0," 180,000 ", Sep 2004, ,, 250 ,,3,2,2,Drum Condra
+134,2/15 Mont Albert Road," 240,000 ", Oct 2008,0," 120,000 ", Apr 1989, ,, ,,2,1,0,Drum Condra
+135,27 Bell Parade," 520,000 ", Jun 2008,0, ,, ,, 571 ,,3,1,2,Drum Condra
+136,55 Melbourne Road," 375,000 ", Feb 2008,0, ,, ,, 144 ,,4,2,3,Drum Condra
+137,26 Grandview Grove," 547,500 ", Oct 2007,0," 452,800 ", Oct 2002, ,, 616 ,,3,2,2,Drum Condra
+138,15 Stradling Avenue," 726,000 ", Oct 2007,0, ,, ,, 637 ,,4,2,1,Drum Condra
+139,3 Glenleith Avenue," 655,000 ", Oct 2007,0, ,, ,, 823 ,,4,2,0,Drum Condra
+140,5 Bell Parade," 390,000 ", Oct 2007,0, ,, ,, 656  ,  271 ,4,3,0,Drum Condra
+141,3/21 Drumcondra Avenue," 175,000 ", Sep 2007,0," 82,000 ", Apr 1990, ,, 114 ,,0,0,0,Drum Condra
+142,65 The Esplanade," 1,712,000 ", Aug 2007,0, ,, ,, 910 ,,4,2,2,Drum Condra
+143,67 Melbourne Road," 720,000 ", Jul 2007,0," 280,000 ", Sep 1998, ,," 2,168 ",,0,0,0,Drum Condra
+144,17 Lunan Avenue," 585,000 ", Mar 2007,0," 210,000 ", Mar 1999, ,, 611  ,  222 ,3,1,2,Drum Condra
+145,18 Lunan Avenue," 420,000 ", Jan 2007,0, ,, 270 , Mar 2007, 653  ,  310 ,4,1,2,Drum Condra
+146,3 Wattletree Road," 560,000 ", Oct 2006,0," 167,000 ", Nov 1993, ,, 625  ,  195 ,4,2,1,Drum Condra
+147,1 Stradling Avenue," 530,000 ", Sep 2006,0, ,, ,, 646 ,,3,2,0,Drum Condra
+148,31 Glenleith Avenue," 260,000 ", Aug 2006,0," 155,000 ", Aug 2001, ,, 482  ,  167 ,3,1,1,Drum Condra
+149,22 Grandview Grove," 625,000 ", Dec 2005,0," 493,800 ", Aug 2001, ,, 618 ,,5,2,2,Drum Condra
+150,25 The Esplanade," 2,400,000 ", Jun 2005,0, ,, ,," 1,392 ",,0,0,0,Drum Condra
+151,10 Lunan Avenue," 435,500 ", Nov 2004,0, ,, ,, 653  ,  238 ,4,2,1,Drum Condra
+152,5 The Esplanade," 1,415,000 ", May 2004,0, ,, ,, 893 ,,0,0,0,Drum Condra
+153,1/1 Glenleith Avenue," 360,000 ", May 2004,0, ,, ,, 317 ,,2,0,0,Drum Condra
+154,2/12 Glenleith Avenue," 250,000 ", Feb 2004,0, ,, ,, 200 ,,0,0,0,Drum Condra
+155,12 Beach Parade," 625,000 ", Feb 2004,0," 164,000 ", Dec 1988, ,, 552  ,  260 ,5,3,2,Drum Condra
+156,15 Grandview Grove," 529,000 ", Dec 2003,0, ,, ,, 625 ,,2,0,0,Drum Condra
+157,3/10B The Esplanade," 768,000 ", Aug 2003,0, ,, ,, 264 ,,0,0,0,Drum Condra
+158,13 Bell Parade," 427,000 ", Jul 2003,0," 116,500 ", Oct 1991, ,, 653 ,,5,2,2,Drum Condra
+159,1 Wattletree Road," 390,000 ", Jan 2003,0, ,, ,, 624 ,,3,3,3,Drum Condra
+160,11 The Esplanade," 1,341,000 ", Dec 2002,0," 575,000 ", Dec 1989, ,, 891 ,,0,0,0,Drum Condra
+161,29 Beach Parade," 526,000 ", Nov 2002,0," 120,000 ", Jun 1996, ,, 613 ,,3,2,1,Drum Condra
+162,18 Glenleith Avenue," 438,500 ", Oct 2002,0," 167,500 ", Aug 1987, ,, ,,4,4,2,Drum Condra
+163,1/15 The Esplanade," 1,500,000 ", Jun 2002,0, ,, ,, ,,0,0,0,Drum Condra
+164,14 Drumcondra Avenue," 365,000 ", Jun 2002,0, ,, 300 , Jun 2009, 625 ,,0,0,0,Drum Condra
+165,12 Drumcondra Avenue," 380,000 ", May 2002,0," 95,000 ", Feb 1989, ,, 625 ,,3,3,3,Drum Condra
+166,29 Melbourne Road," 275,000 ", Apr 2002,0, ,, ,, ,,0,0,0,Drum Condra
+167,17 Wattletree Road," 255,000 ", Dec 2001,0," 125,000 ", Aug 1994, ,, 613 ,,2,1,3,Drum Condra
+168,15 Bell Parade," 285,000 ", Nov 2001,0, ,, ,, 652  ,  271 ,3,2,2,Drum Condra
+169,7 Lunan Avenue," 240,000 ", Oct 2001,0," 185,000 ", Aug 2000, ,, 611 ,,3,3,3,Drum Condra
+170,23 Drumcondra Avenue," 305,000 ", Jul 2001,0, ,, 360 , Sep 2016, 613  ,  170 ,3,1,1,Drum Condra
+171,7 Drumcondra Avenue," 362,500 ", Apr 2001,0," 118,500 ", Jul 1995, ,, 625 ,,2,3,3,Drum Condra
+172,1/21 Drumcondra Avenue," 135,000 ", Apr 2001,0, ,, 300 , Aug 2018, 236 ,,0,0,0,Drum Condra
+173,33 Gleneith Avenue," 89,000 ", Apr 2001,0, ,, ,, ,,0,0,0,Drum Condra
+174,3/21 The Esplanade," 170,000 ", Mar 2001,0, ,, 350 , Aug 2011, ,,0,0,0,Drum Condra
+175,1 Melbourne Road," 261,000 ", Mar 2001,0, ,, ,, 529 ,,2,2,2,Drum Condra
+176,10 Beach Parade," 275,000 ", Feb 2001,0, ,, ,, 797  ,  203 ,3,2,2,Drum Condra
+177,1A Lunan Avenue," 225,000 ", Feb 2001,0, ,, ,, 550 ,,3,3,3,Drum Condra
+178,1 Lunan Avenue," 225,000 ", Feb 2001,0," 143,000 ", Sep 1998, ,, 615  ,  155 ,3,1,1,Drum Condra
+179,61 The Esplanade," 850,000 ", Jan 2001,0, ,, ,," 1,272 ",,0,0,0,Drum Condra
+180,3 Mont Albert Road," 153,000 ", Nov 2000,0, ,, ,, ,,0,0,0,Drum Condra
+181,18 Wattletree Road," 360,000 ", Sep 2000,0," 200,000 ", May 1991, ,, 613 ,,0,0,0,Drum Condra
+182,12 Wattletree Road," 315,000 ", Sep 2000,0," 89,500 ", Jun 1986, ,, 625 ,,3,3,3,Drum Condra
+183,1/14A Glenleith Avenue," 120,000 ", Aug 2000,0, ,, ,, ,,0,0,0,Drum Condra
+184,24 Grandview Grove," 210,000 ", Apr 2000,0," 100,000 ", Jul 1990, ,, 617 ,,3,0,0,Drum Condra
+185,7 Grandview Grove," 335,000 ", Feb 2000,0," 235,000 ", Mar 1995, ,, 625 ,,5,3,2,Drum Condra
+186,43 The Esplanade," 900,000 ", Feb 2000,0, ,, ,," 1,221 ",,0,0,0,Drum Condra
+187,12 Mcmillan Avenue," 285,000 ", Feb 2000,0, ,, ,, ,,0,0,0,Drum Condra
+188,3 Mcmillan Avenue," 67,500 ", Feb 2000,0, ,, ,, ,,0,0,0,Drum Condra
+189,7 Mcmillan Avenue," 62,000 ", Feb 2000,0, ,, ,, ,,0,0,0,Drum Condra
+190,6 Mont Albert Road," 148,500 ", Feb 2000,0, ,, ,, ,,0,0,0,Drum Condra
+191,33 Beach Parade," 112,000 ", Feb 2000,0, ,, ,, 610 ,,4,3,3,Drum Condra
+192,8 Drumcondra Avenue," 113,000 ", Feb 2000,0, ,, ,, 625 ,,5,2,2,Drum Condra
+193,4 Lunan Avenue," 100,000 ", Feb 2000,0, ,, ,, 653 ,,3,3,3,Drum Condra
+194,2/26 Lunan Avenue," 275,000 ", Feb 2000,0, ,, ,, 232 ,,0,0,0,Drum Condra
+195,7 Beach Parade," 227,500 ", Feb 2000,0," 56,500 ", Jan 1990, ,, 613  ,  285 ,4,2,2,Drum Condra
+196,8 Grandview Grove," 165,000 ", Feb 2000,0, ,, ,, 637 ,,3,0,0,Drum Condra
+197,13 Lunan Avenue," 270,000 ", Feb 2000,0," 170,000 ", Jan 1997, ,, 611 ,,0,0,0,Drum Condra
+198,1 Toorak Parade," 114,000 ", Feb 2000,0, ,, 550 , Jun 2011, ,,4,2,2,Drum Condra
+199,19 The Esplanade," 1,300,000 ", Dec 1999,0, ,, ,, ,,0,0,0,Drum Condra
+200,63 The Esplanade," 650,000 ", Nov 1999,0, ,, ,," 1,387 ",,0,0,0,Drum Condra
+201,25 Lunan Avenue," 300,000 ", Nov 1999,0, ,, ,, 509 ,,3,3,3,Drum Condra
+202,39 Melbourne Road," 120,000 ", Jul 1999,0, ,, 390 , Nov 2013, 109 ,,3,1,1,Drum Condra
+203,3 Drumcondra Avenue," 285,000 ", Apr 1999,0," 152,000 ", Mar 1994, ,, 625  ,  216 ,4,2,2,Drum Condra
+204,2/13 Grandview Grove," 235,000 ", Dec 1998,0, ,, ,, 625 ,,0,0,0,Drum Condra
+205,13 Grandview Grove," 235,000 ", Dec 1998,0, ,, ,, 625 ,,0,0,0,Drum Condra
+206,7 The Esplanade," 651,250 ", Nov 1998,0, ,, ,, 891 ,,5,3,0,Drum Condra
+207,9 York Street," 65,000 ", Nov 1998,0, ,, ,, ,,0,0,0,Drum Condra
+208,25 Melbourne Road," 210,000 ", Oct 1998,0, ,, ,, 915 ,,0,0,0,Drum Condra
+209,19 Melbourne Road," 210,000 ", Oct 1998,0, ,, ,, 915 ,,0,0,0,Drum Condra
+210,41 The Esplanade," 260,000 ", Sep 1998,0, ,, 560 , Jul 2019, 863 ,,4,2,4,Drum Condra
+211,37 Melbourne Road," 151,000 ", Sep 1998,0, ,, 445 , Mar 2020, 693 ,,4,2,4,Drum Condra
+212,7/5 Glenleith Avenue," 83,000 ", Aug 1998,0, ,, ,, ,,0,0,0,Drum Condra
+213,28 Beach Parade," 330,000 ", Dec 1997,0, ,, ,, 675  ,  208 ,3,2,2,Drum Condra
+214,24 Wattletree Road," 200,000 ", Dec 1997,0," 127,000 ", Mar 1988, ,, 612 ,,0,0,0,Drum Condra
+215,31a Bell Parade," 72,500 ", Aug 1997,0, ,, 270 , Nov 2014, 195 ,,2,1,1,Drum Condra
+216,15 Beach Parade," 204,000 ", Jun 1997,0, ,, ,, 613 ,,2,0,0,Drum Condra
+217,4R Glenleith Avenue," 64,000 ", Oct 1996,0, ,, ,, 608 ,,0,0,0,Drum Condra
+218,3/27 Lunan Avenue," 165,000 ", Jan 1996,0, ,, ,, 578 ,,0,0,0,Drum Condra
+219,27 Lunan Avenue," 165,000 ", Jan 1996,0, ,, ,, 578 ,,3,0,0,Drum Condra
+220,57 The Esplanade," 560,000 ", Nov 1995,0, ,, 750 , Apr 2015," 1,042 ",,3,2,2,Drum Condra
+221,69 The Esplanade," 475,000 ", Nov 1995,0, ,, ,," 1,649 ",,0,0,0,Drum Condra
+222,19 Glenleith Avenue," 210,000 ", Oct 1995,0," 102,000 ", Nov 1987, ,, 970 ,,4,1,1,Drum Condra
+223,30 Beach Parade," 230,000 ", Sep 1995,0," 215,000 ", Dec 1992, ,, 674 ,,1,3,3,Drum Condra
+224,27 Beach Parade," 271,000 ", Aug 1995,0," 98,000 ", May 1988, ,, 613 ,,3,3,3,Drum Condra
+225,10 Grandview Grove," 120,000 ", Jun 1995,0, ,, ,, 636 ,,3,0,0,Drum Condra
+226,1 Mcmillan Avenue," 110,000 ", Jun 1995,0, ,, ,, ,,0,0,0,Drum Condra
+227,32 Beach Parade," 112,000 ", May 1995,0, ,, ,, 272 ,,3,3,3,Drum Condra
+228,3/17 The Esplanade," 99,000 ", Mar 1995,0, ,, ,, ,,0,0,0,Drum Condra
+229,26 Drumcondra Avenue," 173,000 ", Jan 1995,0, ,, ,, 613 ,,1,3,3,Drum Condra
+230,35 Bell Parade," 82,500 ", Dec 1994,0, ,, ,, 518 ,,2,0,0,Drum Condra
+231,1/51 Princes Highway," 140,000 ", Sep 1994,0, ,, ,, 681 ,,0,0,0,Drum Condra
+232,1/51 Melbourne Road," 140,000 ", Sep 1994,0, ,, ,, 680 ,,0,0,0,Drum Condra
+233,28 Drumcondra Avenue," 142,250 ", Apr 1994,0, ,, 700 , Nov 2019, 613 ,,4,3,2,Drum Condra
+234,11 Glenleith Avenue," 182,500 ", Apr 1994,0, ,, ,, 970 ,,1,1,3,Drum Condra
+235,33 Margaret Street," 74,700 ", Jan 1994,0, ,, ,, ,,0,0,0,Drum Condra
+236,5 Wattletree Road," 136,000 ", Sep 1993,0, ,, ,, 625 ,,3,0,0,Drum Condra
+237,1/25 The Esplanade," 435,000 ", Aug 1993,0, ,, ,, ,,0,0,0,Drum Condra
+238,12 Lunan Avenue," 123,000 ", Jul 1993,0, ,, ,, 653 ,,0,0,0,Drum Condra
+239,9/1 Glenleith Avenue," 74,000 ", Apr 1993,0, ,, ,, ,,0,0,0,Drum Condra
+240,8 The Esplanade," 300,000 ", Apr 1993,0, ,, ,, 371 ,,0,0,0,Drum Condra
+241,33 Bell Parade," 150,000 ", Jan 1992,0, ,, ,, 648 ,,3,3,3,Drum Condra
+242,63 Melbourne Road," 115,000 ", Jan 1992,0, ,, ,, 731 ,,0,0,0,Drum Condra
+243,23 Glenleith Avenue," 135,000 ", Sep 1991,0, ,, 490 , Apr 2007, 970 ,,6,2,3,Drum Condra
+244,49 The Esplanade," 432,000 ", Dec 1990,0, ,, 510 , Nov 2019," 1,028 ",,3,1,4,Drum Condra
+245,67 The Esplanade," 350,000 ", Nov 1990,0, ,, ,," 1,649 ",,0,0,0,Drum Condra
+246,19 Wattletree Road," 143,000 ", Oct 1990,0," 65,000 ", Sep 1985, ,, 613 ,,1,3,3,Drum Condra
+247,34 Beach Parade," 186,500 ", Sep 1990,0, ,, ,, 540 ,,3,0,0,Drum Condra
+248,43 Melbourne Road," 159,000 ", Aug 1990,0, ,, ,, 700 ,,0,0,0,Drum Condra
+249,23 Wattletree Road," 166,500 ", May 1990,0, ,, ,, 612 ,,4,0,0,Drum Condra
+250,45 The Esplanade," 950,000 ", Apr 1990,0, ,, ,," 1,201 ",,2,1,1,Drum Condra
+251,51 The Esplanade," 56,500 ", Jan 1990,0, ,, ,," 1,228  ",  365 ,4,2,0,Drum Condra
+252,13 Mcmillan Avenue," 108,000 ", Dec 1989,0, ,, 520 , Jun 2012, ,,3,2,2,Drum Condra
+253,19 Bell Parade," 115,000 ", Nov 1989,0, ,, ,, 652 ,,3,3,3,Drum Condra
+254,2/10 Glenleith Avenue," 112,500 ", Oct 1989,0, ,, 310 , Jul 2015, ,,0,0,0,Drum Condra
+255,15 The Esplanade," 800,000 ", Jul 1989,0, ,, ,, ,,0,0,0,Drum Condra
+256,10/17 The Esplanade," 114,000 ", Jul 1989,0, ,, ,, ,,0,0,0,Drum Condra
+257,26 Lunan Avenue," 142,000 ", May 1989,0, ,, ,, 214 ,,0,0,0,Drum Condra
+258,2/2A WATTLETREE Road," 91,500 ", Mar 1989,0, ,, 270 , Jul 2017, 164 ,,0,0,0,Drum Condra
+259,11 Grandview Grove," 269,000 ", Mar 1989,0," 100,000 ", Jun 1986, ,, 625 ,,3,0,0,Drum Condra
+260,2/2 Wattletree Road," 91,500 ", Mar 1989,0, ,, ,, 625 ,,0,0,0,Drum Condra
+261,9 Mcmillan Avenue," 109,000 ", Mar 1989,0, ,, ,, ,,0,0,0,Drum Condra
+262,3/15 Mont Albert Road," 115,000 ", Mar 1989,0, ,, ,, ,,0,0,0,Drum Condra
+263,1/14 Glenleith Avenue," 93,500 ", Jul 1988,0, ,, 290 , Jun 2013, ,,0,0,0,Drum Condra
+264,12 Vincent Avenue," 105,000 ", Jun 1987,0, ,, ,, ,,0,0,0,Drum Condra
+265,21 Bell Parade," 101,000 ", May 1987,0, ,, ,, 652 ,,3,3,3,Drum Condra
+266,1/10 Glenleith Avenue," 72,000 ", Mar 1987,0, ,, 285 , Dec 2014, ,,0,0,0,Drum Condra
+267,23 Grandview Grove," 165,000 ", Jan 1987,0, ,, ,, 613  ,  253 ,4,2,1,Drum Condra
+268,3/4 Mcmillan Avenue," 58,000 ", Nov 1986,0, ,, ,, ,,0,0,0,Drum Condra
+269,14 The Esplanade," 79,800 ", Nov 1986,0, ,, ,, ,,0,0,0,Drum Condra
+270,5 Drumcondra Avenue," 64,500 ", Oct 1986,0, ,, ,, 625 ,,2,1,1,Drum Condra
+271,4/6 Mcmillan Avenue," 56,000 ", Oct 1986,0, ,, ,, ,,0,0,0,Drum Condra
+272,1/2 Drumcondra Avenue," 64,500 ", Sep 1986,0, ,, ,, 202  ,  92 ,0,0,0,Drum Condra
+273,10 The Esplanade," 135,000 ", Sep 1986,0, ,, ,, ,,0,0,0,Drum Condra
+274,4 Mont Albert Road," 53,500 ", Jun 1986,0, ,, ,, ,,0,0,0,Drum Condra
+275,24A Lunan Avenue," 227,500 ", May 1986,0, ,, ,," 6,027 ",,0,0,0,Drum Condra
+276,20 Drumcondra Avenue," 88,000 ", Apr 1986,0, ,, ,, 625 ,,3,3,3,Drum Condra
+277,4 Kooyong Road," 53,500 ", Nov 1985,0, ,, ,, ,,0,0,0,Drum Condra
+278,43 BELL Parade," 90,000 ", Aug 1985,0, ,, ,, 375 ,,1,3,3,Drum Condra
+279,9 Kooyong Road," 53,700 ", Aug 1985,0, ,, 370 , Mar 2014, ,,3,1,0,Drum Condra
+280,15 Wattletree Road," 59,500 ", Apr 1985,0, ,, ,, 613 ,,5,3,3,Drum Condra
+281,7 Wattletree Road," 80,500 ", Feb 1985,0, ,, 330 , Aug 2018, 625 ,,3,1,3,Drum Condra
+282,14 Grandview Grove," 65,000 ", Feb 1985,0, ,, ,, 634 ,,0,0,0,Drum Condra
+283,4 Grandview Grove," 63,000 ", Feb 1985,0, ,, ,, 639 ,,4,2,0,Drum Condra
+284,30 Drumcondra Avenue," 71,000 ", Nov 1984,0, ,, ,, 612 ,,5,0,0,Drum Condra
+285,9 Lunan Avenue," 67,500 ", Jun 1984,0, ,, ,, 611 ,,3,3,3,Drum Condra
+286,27 Glenleith Avenue," 54,000 ", Jan 1984,0, ,, ,, 964 ,,0,0,0,Drum Condra
+287,15 Lunan Avenue," 54,000 ", Nov 1983,0, ,, ,, 611  ,  160 ,3,2,3,Drum Condra
+288,1A Glenleith Avenue," 74,000 ", Jun 1979,0, ,, ,, 477  ,  186 ,3,1,2,Drum Condra
+289,4 Toorak Parade," 66,000 ", Dec 1978,0, ,, ,, ,,0,0,0,Drum Condra
+290,71 The Esplanade," 76,000 ", Sep 1978,0, ,, ,, 897 ,,4,0,0,Drum Condra
+291,35 The Esplanade," 62,500 ", Apr 1978,0, ,, ,," 1,059 ",,0,0,0,Drum Condra

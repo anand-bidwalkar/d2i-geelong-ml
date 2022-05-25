@@ -1,0 +1,491 @@
+Address,Sell Price,Sell Date,Last Sell Price,Last Sell Date,Auction,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Car,Suburb,Suburb_Code
+3 Bollinger Street,"610,000",Mar 2021,,,,,,434,,,,,Waurn Ponds,30
+17 Pinot Street,"700,000",Mar 2021,"120,000",May 2004,,,,582,,3,2,3,Waurn Ponds,30
+15 Muscat Place,"720,000",Mar 2021,"401,000",Jun 2014,,420,Apr 2010,628,,4,2,2,Waurn Ponds,30
+26 Oakwood Crescent,"742,000",Feb 2021,"54,000",Jun 2001,,330,Apr 2007,729,,3,2,3,Waurn Ponds,30
+61 Willesden Drive,"765,000",Feb 2021,"125,400",May 2006,,465,Sep 2017,486,,4,2,2,Waurn Ponds,30
+3 Burgundy Drive,"718,000",Feb 2021,"359,000",Feb 2008,,,,692,,3,2,2,Waurn Ponds,30
+60 Paget Road,"1,034,999",Feb 2021,"550,000",May 2015,,,,"2,473",,4,2,2,Waurn Ponds,30
+7 Katelyn Court,"1,000,000",Jan 2021,"211,000",Jan 2012,,,,558,,,,,Waurn Ponds,30
+54 Blackheath Mews,"712,500",Jan 2021,"170,000",Oct 2009,,,,653,255,4,2,2,Waurn Ponds,30
+3 Resolute Drive,"620,000",Dec 2020,"392,500",Nov 2015,,,,451,132,3,2,2,Waurn Ponds,30
+26 Ironbark Street,"415,000",Dec 2020,"65,000",Oct 2001,,,,649,,,,,Waurn Ponds,30
+55 Monterey Drive,"571,000",Dec 2020,"422,000",Nov 2012,,500,Sep 2011,481,,5,2,2,Waurn Ponds,30
+3 Moet Court,"785,000",Dec 2020,"535,000",Jan 2014,,,,618,289,4,2,2,Waurn Ponds,30
+67 Monterey Drive,"495,000",Dec 2020,"342,500",Apr 2012,,,,475,117,3,1,1,Waurn Ponds,30
+38 Willesden Drive,"475,000",Dec 2020,"250,000",Jun 2006,,,,432,,2,1,1,Waurn Ponds,30
+19-21 Barossa Court,"1,220,000",Nov 2020,"578,000",Oct 2012,,,,"2,391",25,5,2,6,Waurn Ponds,30
+3 Acacia Lane,"627,500",Nov 2020,,,,480,Jan 2021,694,,3,2,2,Waurn Ponds,30
+14 Viogner Place,"633,000",Nov 2020,"156,000",Apr 2009,,520,Jan 2021,599,165,,,,Waurn Ponds,30
+30 Monterey Drive,"800,000",Nov 2020,"651,000",May 2017,,530,Aug 2017,889,,5,2,2,Waurn Ponds,30
+52 Blackheath Mews,"700,000",Nov 2020,"145,000",Jul 2007,,,,655,,,,,Waurn Ponds,30
+13 Alva Court,"769,000",Nov 2020,"530,000",Dec 2016,,460,Aug 2014,715,197,4,2,2,Waurn Ponds,30
+64-68 Hams Road,"980,000",Nov 2020,"522,500",Mar 2008,,595,Jul 2019,"2,585",,,,,Waurn Ponds,30
+16 Chablis Court,"325,000",Nov 2020,,,,,,711,,,,,Waurn Ponds,30
+109 Ghazeepore Road,"860,000",Oct 2020,"72,500",Feb 2000,,390,Aug 2007,950,,3,2,2,Waurn Ponds,30
+31 Monterey Drive,"566,000",Oct 2020,"231,000",Mar 2003,,,,681,,,,,Waurn Ponds,30
+6 Blackheath Mews,"710,000",Oct 2020,"400,000",Aug 2013,,,,595,140,3,2,3,Waurn Ponds,30
+40 Ghazeepore Road,"1,020,000",Oct 2020,"700,000",Jul 2012,,,,"1,907",,4,2,2,Waurn Ponds,30
+5 Tree Street,"520,000",Sep 2020,"509,000",Jan 2019,,365,Sep 2013,360,123,3,1,2,Waurn Ponds,30
+11 Kinsmead Street,"675,000",Sep 2020,,,,,,789,,4,2,2,Waurn Ponds,30
+18-19 Tuscan Court,"1,320,000",Sep 2020,"905,000",Dec 2014,,,,"2,790",,5,3,3,Waurn Ponds,30
+10 Blackheath Mews,"495,000",Sep 2020,"402,500",Jun 2016,,380,Jun 2016,450,130,3,1,1,Waurn Ponds,30
+5 Alva Court,"765,000",Sep 2020,"69,500",Mar 2002,,,,615,,,,,Waurn Ponds,30
+48 Oakwood Crescent,"490,000",Sep 2020,"200,000",Jun 2010,,410,May 2020,249,,3,1,2,Waurn Ponds,30
+104-106 Ghazeepore Road,"1,100,000",Sep 2020,,,,,,"2,065",,4,2,3,Waurn Ponds,30
+31-33 Burgundy Drive,"677,500",Sep 2020,,,,,,767,,4,2,2,Waurn Ponds,30
+6 Tannin Way,"545,000",Aug 2020,"185,000",Apr 2011,,410,Nov 2014,524,,4,2,2,Waurn Ponds,30
+11 Huon Court,"705,000",Jul 2020,"180,000",May 2008,,,,767,2024,,,,Waurn Ponds,30
+17 Willesden Drive,"615,000",Jul 2020,"292,000",Jan 2006,,,,766,,3,2,,Waurn Ponds,30
+68 Ghazeepore Road,"620,000",Jul 2020,"431,000",Jun 2010,,370,Oct 2008,629,,4,2,2,Waurn Ponds,30
+24-26 Grange Park Drive,"1,045,000",Jun 2020,"75,500",Mar 2001,,,,"1,731",,,,,Waurn Ponds,30
+7 Bollinger Street,"690,000",Jun 2020,,,,,,536,,4,2,3,Waurn Ponds,30
+2-3 Champagne Court,"1,120,000",Jun 2020,,,,,,"1,820",,,,,Waurn Ponds,30
+74 Rossack Drive,"575,000",Jun 2020,"440,000",Jun 2015,,,,612,,3,2,2,Waurn Ponds,30
+14-15 Chandon Court,"1,190,000",May 2020,"630,000",Apr 2012,,,,"2,192",,4,2,2,Waurn Ponds,30
+19 The Vineyard,"520,000",May 2020,"103,500",Jun 2004,,,,386,,,,,Waurn Ponds,30
+12 Mumm Street,"579,000",May 2020,,,,460,Oct 2019,595,,3,2,2,Waurn Ponds,30
+32 Shiraz Drive,"460,000",Apr 2020,"340,000",Dec 2014,,340,Feb 2016,356,130,3,1,1,Waurn Ponds,30
+8 CHABLIS Court,"535,000",Apr 2020,"195,000",Mar 2016,,640,Dec 2017,419,,,,,Waurn Ponds,30
+115 Ghazeepore Road,"667,000",Mar 2020,"110,000",Nov 2002,,,,949,,,,,Waurn Ponds,30
+1 Katelyn Court,"530,000",Mar 2020,"278,000",Sep 2005,,,,323,128,3,2,1,Waurn Ponds,30
+18 Chardonnay Court,"560,000",Mar 2020,"93,000",May 2003,,440,Mar 2020,452,,,,,Waurn Ponds,30
+51 Oakwood Crescent,"480,000",Mar 2020,"320,000",Nov 2009,,,,313,,3,2,1,Waurn Ponds,30
+1/14 Ghazeepore Road,"525,000",Mar 2020,,,,420,Mar 2018,777,,,,,Waurn Ponds,30
+17 Tree Street,"575,500",Feb 2020,"380,000",Feb 2014,,,,399,,3,2,2,Waurn Ponds,30
+7-8 Tuscan Court,"1,025,000",Feb 2020,"188,500",Apr 2003,,,,"2,385",,,,,Waurn Ponds,30
+51 Monterey Drive,"760,000",Feb 2020,"240,000",Mar 2001,,,,817,,,,,Waurn Ponds,30
+30 Ironbark Street,"675,000",Jan 2020,"138,000",Mar 2006,,495,Feb 2021,583,,,,,Waurn Ponds,30
+15 Monterey Drive,"710,000",Dec 2019,,,,,,674,,,,,Waurn Ponds,30
+88 Ghazeepore Road,"610,000",Dec 2019,"115,000",Feb 2000,,450,Nov 2016,776,186,4,2,2,Waurn Ponds,30
+4 Merlot Street,"630,500",Dec 2019,"495,000",Jan 2018,,,,480,,3,2,2,Waurn Ponds,30
+4-5 Chandon Court,"1,175,000",Dec 2019,,,,,,"1,800",,4,2,2,Waurn Ponds,30
+8 Mumm Street,"550,000",Dec 2019,,,,550,Nov 2020,578,,4,2,2,Waurn Ponds,30
+3/14 Ghazeepore Road,"490,000",Dec 2019,"62,500",Aug 1998,,650,Jan 2020,"2,193",150,,,,Waurn Ponds,30
+17 Merlot Street,"760,000",Dec 2019,"460,000",Jan 2008,,,,613,,4,3,2,Waurn Ponds,30
+15 Cabernet Court,"671,000",Dec 2019,,,,,,678,,3,2,1,Waurn Ponds,30
+6 Deakinwood Court,"650,000",Dec 2019,"430,000",Jul 2011,,,,805,200,4,2,2,Waurn Ponds,30
+43 Tannin Way,"520,000",Nov 2019,"180,000",Jun 2012,,400,Aug 2017,457,124,,,,Waurn Ponds,30
+50 Monterey Drive,"650,000",Nov 2019,"460,000",May 2014,,,,680,,4,2,2,Waurn Ponds,30
+235 Cochranes Road,"1,575,000",Nov 2019,,,,,,"50,923",,,,,Waurn Ponds,30
+35 Burgundy Drive,"685,000",Nov 2019,"535,000",Mar 2017,,425,Dec 2014,682,,4,2,2,Waurn Ponds,30
+11 Chenin Mews,"470,000",Nov 2019,"256,000",Nov 2007,,,,355,,3,1,1,Waurn Ponds,30
+70 Paget Road,"1,160,100",Oct 2019,,,,,,"20,888",,4,2,4,Waurn Ponds,30
+5 Bordeaux Drive,"650,000",Oct 2019,"366,000",Nov 2002,,,,726,,4,,,Waurn Ponds,30
+4 Grenache Drive,"700,000",Oct 2019,"600,000",Jun 2012,,,,640,314,5,3,2,Waurn Ponds,30
+1/55 Ironbark Street,"480,000",Oct 2019,"300,000",May 2009,,380,Jun 2017,289,118,3,1,1,Waurn Ponds,30
+17 Viogner Place,"675,000",Oct 2019,"465,000",Aug 2013,,600,Mar 2019,754,330,4,2,2,Waurn Ponds,30
+19 Viogner Place,"475,000",Oct 2019,"425,500",Nov 2017,,400,Sep 2019,357,123,3,1,2,Waurn Ponds,30
+34 Monterey Drive,"620,000",Oct 2019,"475,000",Jun 2016,,,,728,179,4,2,2,Waurn Ponds,30
+10 Vintage Court,"640,000",Sep 2019,"102,000",Dec 2002,,,,534,,,,,Waurn Ponds,30
+20 Willesden Drive,"680,000",Sep 2019,"53,500",Oct 2000,,,,914,230,,,,Waurn Ponds,30
+3 Mclaren Court,"1,010,000",Sep 2019,"185,000",Jun 2004,,,,"3,186",291,4,2,7,Waurn Ponds,30
+16 Pinot Street,"635,000",Aug 2019,"540,000",Nov 2016,,,,531,,3,2,2,Waurn Ponds,30
+38 Blackheath Mews,"785,000",Aug 2019,"153,500",Sep 2006,,,,801,293,4,2,2,Waurn Ponds,30
+2 Bordeaux Drive,"695,000",Aug 2019,"395,000",May 2005,,,,"1,065",,4,2,2,Waurn Ponds,30
+8 Bodega Street,"525,000",Aug 2019,"160,000",Jul 2012,,400,Jun 2017,375,,3,2,2,Waurn Ponds,30
+12 Blackheath Mews,"750,000",10 Aug 2019,"110,000",Dec 2003,1.0,,,789,,5,2,2,Waurn Ponds,30
+9 Delgany Mews,"690,000",Aug 2019,"432,000",Feb 2008,,650,Aug 2019,798,229,5,2,2,Waurn Ponds,30
+1-2 Tuscan Court,"880,000",Jul 2019,"715,000",Dec 2015,,,,"1,404",288,5,2,4,Waurn Ponds,30
+6 Cottonwood Way,"673,000",Jul 2019,"144,000",Feb 2000,,,,647,,3,1,2,Waurn Ponds,30
+1 Resolute Drive,"507,000",Jul 2019,"400,000",Jun 2016,,370,Jul 2013,450,126,3,2,2,Waurn Ponds,30
+14 RESOLUTE DRIVE,"540,000",Jun 2019,"307,000",Nov 2007,,280,Dec 2005,387,,5,2,1,Waurn Ponds,30
+4 Muscat Place,"457,000",Jun 2019,"269,000",Oct 2004,,390,Jun 2019,358,,3,1,1,Waurn Ponds,30
+10 Cottonwood Way,"570,000",Jun 2019,"170,000",Jan 2011,,460,Feb 2017,478,,5,2,2,Waurn Ponds,30
+5 Merlot Street,"677,000",Jun 2019,"105,000",May 2003,,,,613,211,4,2,2,Waurn Ponds,30
+24 The Vineyard,"549,990",Jun 2019,"382,500",Nov 2008,,450,Sep 2016,412,,3,2,2,Waurn Ponds,30
+9 Cottonwood Way,"642,500",May 2019,"165,000",Aug 2008,,,,648,,,,,Waurn Ponds,30
+9 Carradale Street,"505,000",May 2019,"112,000",Nov 2004,,450,Jun 2019,454,,3,2,1,Waurn Ponds,30
+7 Rene Street,"635,000",Apr 2019,"565,000",Oct 2017,,,,512,,3,2,2,Waurn Ponds,30
+45 Grange Park Drive,"300,000",Apr 2019,,,,,,404,,,,,Waurn Ponds,30
+141 Lemins Road,"1,560,000",Apr 2019,,,,,,"10,199",,4,3,8,Waurn Ponds,30
+41 Burgundy Drive,"630,000",Apr 2019,"480,000",Oct 2015,,,,610,,4,2,3,Waurn Ponds,30
+66 Ghazeepore Road,"655,000",Apr 2019,"119,000",Jun 2004,,,,631,,4,2,2,Waurn Ponds,30
+15 Chenin Mews,"530,000",Mar 2019,,,,,,447,,3,2,2,Waurn Ponds,30
+26 Blackheath Mews,"655,000",Mar 2019,"465,000",Apr 2013,,,,720,191,4,2,2,Waurn Ponds,30
+7 Sugargum Drive,"599,000",Feb 2019,"479,000",Feb 2015,,500,Mar 2018,674,,4,2,2,Waurn Ponds,30
+2/55 Ironbark Street,"484,000",Feb 2019,"303,000",Apr 2009,,380,Mar 2011,318,,,,,Waurn Ponds,30
+5-6 McLaren Court,"1,115,000",Feb 2019,"175,000",May 2004,,,,"1,888",,6,2,5,Waurn Ponds,30
+2 Banyan Court,"710,000",Feb 2019,,,,,,781,,5,2,2,Waurn Ponds,30
+31 Tannin Way,"630,000",Feb 2019,"450,000",Feb 2014,,445,Jan 2014,569,,4,2,2,Waurn Ponds,30
+12-13 Traminer Court,"1,510,000",Jan 2019,"229,000",Sep 2004,,,,"1,681",,5,3,4,Waurn Ponds,30
+20 Grange Park Drive,"1,300,000",15 Dec 2018,"249,000",Mar 2009,1.0,,,"3,551",,4,2,3,Waurn Ponds,30
+33-34 Barossa Court,"1,290,000",Dec 2018,"620,000",Jul 2008,,,,"2,672",,5,3,10,Waurn Ponds,30
+56 Ironbark Street,"660,000",Dec 2018,"152,500",Oct 2007,,550,Aug 2020,648,,4,2,2,Waurn Ponds,30
+6 Mumm Street,"571,000",Dec 2018,,,,420,Sep 2015,578,,4,2,2,Waurn Ponds,30
+17 The Vineyard,"540,000",Oct 2018,"326,000",Jan 2009,,300,May 2006,376,,3,2,2,Waurn Ponds,30
+28 Monterey Drive,"657,000",Sep 2018,"224,000",Nov 2000,,,,733,,3,2,2,Waurn Ponds,30
+25 Willesden Drive,"623,000",Sep 2018,"345,150",Aug 2006,,450,Sep 2017,927,194,4,2,2,Waurn Ponds,30
+16 Merlot Street,"635,000",Sep 2018,"99,000",May 2003,,,,490,,4,2,2,Waurn Ponds,30
+151 Lemins Road,"1,375,000",Aug 2018,,,,,,"10,351",,4,2,4,Waurn Ponds,30
+5 Ironbark Street,"566,000",Aug 2018,"450,000",Feb 2013,,430,Sep 2018,783,,3,2,2,Waurn Ponds,30
+42 Oakwood Crescent,"625,000",Aug 2018,"360,000",Oct 2009,,570,Apr 2009,580,,6,2,2,Waurn Ponds,30
+1 Ash Court,"447,000",Aug 2018,"296,000",May 2007,,390,Sep 2018,427,135,3,2,1,Waurn Ponds,30
+3/63 Oakwood Crescent,"465,000",Aug 2018,"329,500",May 2011,,330,Aug 2015,771,105,,,,Waurn Ponds,30
+1/21 Ghazeepore Road,"530,000",Aug 2018,"185,000",Nov 2016,,,,303,,,,,Waurn Ponds,30
+38-40 Ironbark Street,"615,000",Jul 2018,"479,500",Oct 2014,,450,Jul 2014,699,,4,2,2,Waurn Ponds,30
+120 Rossack Drive,"720,000",Jul 2018,"147,000",Oct 2005,,,,704,704,4,2,2,Waurn Ponds,30
+39-40 Ironbark Street,"615,000",Jul 2018,,,,,,,,,,,Waurn Ponds,30
+110 Lemins Road,"1,670,000",Jun 2018,,,,650,Jan 2019,"2,081",,,,,Waurn Ponds,30
+33 Oakwood Crescent,"670,000",Jun 2018,"442,000",Oct 2013,,,,648,24,4,2,2,Waurn Ponds,30
+103 Ghazeeprore Road,"695,000",Jun 2018,,,,,,,,,,,Waurn Ponds,30
+103 Ghazeepore Road,"695,000",Jun 2018,"75,000",Oct 2001,,,,949,,5,2,4,Waurn Ponds,30
+11 Rene Street,"730,000",Jun 2018,"181,700",Nov 2014,,,,460,,5,2,2,Waurn Ponds,30
+15 Temt Terrace,"512,000",Jun 2018,,,,450,Dec 2016,,,4,2,4,Waurn Ponds,30
+132 Rossack Drive,"670,000",Jun 2018,"175,000",Jul 2009,,,,630,,4,2,3,Waurn Ponds,30
+30 Pethajohn Parade,"641,500",May 2018,,,,,,,,,,,Waurn Ponds,30
+10 Shiraz Drive,"525,000",May 2018,"440,000",Dec 2016,,,,648,,3,2,2,Waurn Ponds,30
+6 Bodega Street,"720,000",May 2018,"155,000",Jun 2012,,165,Feb 2018,359,,7,2,2,Waurn Ponds,30
+6 Monterey Drive,"715,000",May 2018,"390,000",Dec 2009,,,,743,267,4,2,2,Waurn Ponds,30
+9 Monterey Drive,"607,000",Apr 2018,"443,000",Oct 2015,,,,750,,4,2,2,Waurn Ponds,30
+16 Ghazeepore Road,"450,000",Apr 2018,"360,000",Nov 2013,,450,Jun 2018,495,122,3,2,3,Waurn Ponds,30
+9 Blackheath Mews,"457,500",Apr 2018,"290,000",Jul 2009,,330,Nov 2014,468,107,3,1,1,Waurn Ponds,30
+9 Kinsmead Street,"605,000",Apr 2018,"481,000",Sep 2016,,,,794,,4,2,2,Waurn Ponds,30
+8 Monterey Drive,"620,000",Mar 2018,"290,000",May 2007,,445,Jun 2010,771,177,4,2,2,Waurn Ponds,30
+5 Mica Court,"580,000",Mar 2018,"330,000",Jan 2007,,400,Oct 2014,565,,4,2,2,Waurn Ponds,30
+15 Grange Park Drive,"907,000",Mar 2018,"114,000",Jun 2004,,650,May 2018,"1,438",,,,,Waurn Ponds,30
+18 Tannin Way,"540,000",Feb 2018,"175,700",May 2014,,,,446,154,4,2,2,Waurn Ponds,30
+25 Shiraz Drive,"647,000",Feb 2018,"500,000",Feb 2012,,,,616,210,4,2,2,Waurn Ponds,30
+118 Rossack Drive,"675,000",Feb 2018,"147,000",Sep 2005,,490,Nov 2015,709,226,4,2,2,Waurn Ponds,30
+23 Grange Park Drive,"231,000",Jan 2018,,,,,,"1,048",,,,,Waurn Ponds,30
+20 Peppertree Rise,"562,500",Jan 2018,"122,000",Jul 2005,,500,Dec 2018,596,,4,2,3,Waurn Ponds,30
+3 Bordeaux Drive,"609,000",Jan 2018,"253,000",Mar 2003,,,,935,,3,2,3,Waurn Ponds,30
+26 Bodega Street,"605,000",Jan 2018,"200,000",Aug 2015,,,,607,,4,2,2,Waurn Ponds,30
+20 Viogner Place,"466,000",Jan 2018,"318,500",Jul 2010,,,,398,,3,1,2,Waurn Ponds,30
+3/15 Bourbon Way,"423,500",Jan 2018,,,,400,Nov 2015,268,,3,1,2,Waurn Ponds,30
+2/15 Bourbon Way,"465,000",Jan 2018,,,,435,Dec 2015,253,,3,2,2,Waurn Ponds,30
+5 Pine Court,"606,000",Jan 2018,"54,000",Mar 2001,,,,749,,3,2,2,Waurn Ponds,30
+65 Monterey Drive,"530,000",Dec 2017,"409,000",Apr 2012,,,,480,,3,2,1,Waurn Ponds,30
+Lot 2 Chablis Court,"190,000",Dec 2017,,,,,,,,,,,Waurn Ponds,30
+80 Paget Road,"1,150,000",Dec 2017,,,,,,"20,483",,4,3,9,Waurn Ponds,30
+6-jul Kia Court,"1,075,000",16 Dec 2017,,,1.0,,,,,5,2,5,Waurn Ponds,30
+6 Kia Court,"1,075,000",16 Dec 2017,,,1.0,,,"1,959",,5,2,5,Waurn Ponds,30
+6-7 Kia Court,"1,075,000",16 Dec 2017,"238,000",Mar 2005,1.0,600,Nov 2013,"1,962",,5,2,5,Waurn Ponds,30
+5 Acacia Lane,"545,000",Dec 2017,"205,000",May 2001,,,,700,,3,2,2,Waurn Ponds,30
+9 Tigerlilly Lane,"517,000",Dec 2017,"203,000",Aug 2012,,450,Nov 2019,572,173,4,2,2,Waurn Ponds,30
+4 Elm Court,"495,000",02 Dec 2017,,,1.0,,,908,,3,2,2,Waurn Ponds,30
+6 Carradale Street,"425,000",Dec 2017,"380,500",Nov 2016,,320,Aug 2012,320,97,2,1,2,Waurn Ponds,30
+5 Jasmin Court,"555,000",29 Nov 2017,,,1.0,390,Mar 2013,736,,3,2,2,Waurn Ponds,30
+24 CHABLIS Court,"250,000",Nov 2017,"209,000",Mar 2016,,,,454,,,,,Waurn Ponds,30
+25 Merlot Street,"550,000",23 Nov 2017,"124,000",Oct 2004,1.0,,,544,165,4,2,2,Waurn Ponds,30
+4 Bourbon Way,"780,000",Nov 2017,,,,,,"1,632",,4,2,2,Waurn Ponds,30
+122 Rossack Drive,"660,000",Nov 2017,"147,000",Nov 2005,,,,698,306,4,2,2,Waurn Ponds,30
+21 Malbec Loop,"526,000",Nov 2017,"405,000",Dec 2013,,,,418,417,3,2,2,Waurn Ponds,30
+2/33 Shiraz Drive,"320,000",Nov 2017,"157,000",May 2002,,240,Sep 2009,178,,,,,Waurn Ponds,30
+51 Grange Park Drive,"291,000",Oct 2017,,,,,,576,,,,,Waurn Ponds,30
+23 Tannin Way,"632,000",Oct 2017,"200,000",Apr 2011,,,,610,,4,2,2,Waurn Ponds,30
+2 The Vineyard,"486,000",Oct 2017,"346,000",Nov 2012,,,,659,,3,1,2,Waurn Ponds,30
+2 Roaming Creek Court,"457,500",23 Sep 2017,"287,500",Apr 2004,1.0,,,381,,3,2,2,Waurn Ponds,30
+7 Hoop Court,"565,000",Sep 2017,"342,750",Dec 2004,,,,522,,5,2,2,Waurn Ponds,30
+12 Burgundy Drive,"640,000",23 Sep 2017,"395,000",Aug 2010,1.0,560,Aug 2019,748,170,4,2,3,Waurn Ponds,30
+2--17 Cabernet Court,"433,500",Sep 2017,,,,,,,,,,,Waurn Ponds,30
+2/3 Pine Court,"430,000",Sep 2017,,,,400,Jan 2019,257,,,,,Waurn Ponds,30
+31 Shiraz Drive,"520,000",09 Sep 2017,"463,500",Jul 2012,1.0,,,599,,3,2,2,Waurn Ponds,30
+16 Burgundy Drive,"720,000",02 Sep 2017,,,1.0,,,700,,4,3,2,Waurn Ponds,30
+2 Roaming Court,"457,000",Sep 2017,,,,,,,,,,,Waurn Ponds,30
+17 Cabernet Court,"433,000",Sep 2017,"305,000",Feb 2000,,350,Jun 2012,482,,3,2,2,Waurn Ponds,30
+39 Monterey Drive,"585,000",Aug 2017,"309,000",Oct 2004,,,,649,176,3,2,2,Waurn Ponds,30
+48 Ironbark Street,"420,000",Aug 2017,"142,500",Nov 2007,,430,Jan 2019,493,128,3,1,2,Waurn Ponds,30
+3/14 Huon Court,"426,000",Aug 2017,,,,400,Nov 2019,354,,3,2,2,Waurn Ponds,30
+60 Hams Road,"770,000",05 Aug 2017,,,1.0,,,"1,000",,3,2,4,Waurn Ponds,30
+7 Banyan Court,"548,000",Jul 2017,"392,500",Aug 2005,,550,Jun 2019,734,,5,2,2,Waurn Ponds,30
+58 Willesden Drive,"300,000",Jul 2017,"132,000",Apr 2005,,,,551,,,,,Waurn Ponds,30
+42 Shiraz Drive,"530,000",Jul 2017,"435,000",Aug 2011,,,,620,,3,2,2,Waurn Ponds,30
+22 Chablis Court,"247,500",Jun 2017,,,,,,447,,,,,Waurn Ponds,30
+1-21 Lemins Road,"1,800,000",Jun 2017,"1,690,500",Jan 2016,,,,"26,843",,5,3,4,Waurn Ponds,30
+4 Katelyn Court,"580,000",May 2017,"530,000",Jan 2016,,600,Oct 2017,612,,4,2,2,Waurn Ponds,30
+8 Tree Street,"510,000",May 2017,"175,000",May 2008,,470,Jul 2016,730,,4,2,2,Waurn Ponds,30
+4 Semillion Place,"524,000",May 2017,"335,000",Mar 2007,,,,504,151,3,2,2,Waurn Ponds,30
+25 Ironbark Street,"535,000",May 2017,"88,500",Nov 2002,,,,737,129,3,2,2,Waurn Ponds,30
+15 Ghazeepore Road,"558,000",May 2017,"412,000",May 2009,,470,Oct 2019,742,,4,2,2,Waurn Ponds,30
+114 Rossack Drive,"622,000",May 2017,"579,000",Jan 2014,,575,Dec 2015,680,200,4,2,2,Waurn Ponds,30
+2 Cork Place,"430,000",May 2017,"305,000",May 2008,,,,400,,3,2,2,Waurn Ponds,30
+60 Willesden Drive,"600,000",Apr 2017,"145,000",Nov 2005,,500,Jun 2018,694,219,4,2,2,Waurn Ponds,30
+2/21 Ghazeepore Road,"175,000",Apr 2017,,,,,,433,,,,,Waurn Ponds,30
+97 Ghazeepore Road,"558,880",Apr 2017,"542,000",Jul 2013,,600,Mar 2013,913,224,4,2,6,Waurn Ponds,30
+1-2 Alva Court,"430,000",Apr 2017,"243,250",Mar 2003,,,,450,,3,2,4,Waurn Ponds,30
+22 Ironbark Street,"520,000",Mar 2017,"65,000",Oct 2001,,450,Jun 2018,649,,3,2,2,Waurn Ponds,30
+8 Viogner Place,"538,000",Mar 2017,"163,000",Jun 2009,,,,658,200,,,,Waurn Ponds,30
+18 Ghazeepore Road,"405,000",Mar 2017,"72,000",Nov 1999,,390,Mar 2018,503,,2,1,2,Waurn Ponds,30
+4 Tigerlilly Lane,"640,000",Mar 2017,"144,000",Aug 2005,,500,Jul 2012,724,215,,,,Waurn Ponds,30
+20 The Vineyard,"465,000",Mar 2017,"395,000",Feb 2011,,430,Jun 2018,439,,3,2,2,Waurn Ponds,30
+26 Shiraz Drive,"492,000",Mar 2017,"317,000",Nov 2006,,,,648,,3,2,2,Waurn Ponds,30
+18 The Vineyard,"470,000",Mar 2017,"105,000",Sep 2003,,,,453,,3,2,2,Waurn Ponds,30
+53 Oakwood Crescent,"483,000",Mar 2017,"171,000",Nov 2009,,450,Apr 2019,658,156,3,2,2,Waurn Ponds,30
+2 Pine Court,"533,000",Mar 2017,"435,000",Jan 2011,,,,831,160,4,2,2,Waurn Ponds,30
+4 Monterey Drive,"580,000",Mar 2017,,,,490,Dec 2010,735,,4,2,2,Waurn Ponds,30
+7 Blackheath Mews,"520,000",Feb 2017,"410,000",Nov 2014,,155,Oct 2018,480,169,6,2,2,Waurn Ponds,30
+4/1 Bourbon Way,"275,000",Feb 2017,"265,250",Sep 2012,,290,Mar 2017,246,100,,,,Waurn Ponds,30
+5/15 Bourbon Way,"430,000",Feb 2017,,,,435,Oct 2014,339,,3,2,3,Waurn Ponds,30
+26 Semillion Place,"555,000",Feb 2017,"465,000",Jun 2007,,,,584,253,4,3,2,Waurn Ponds,30
+145 Lemins Road,"1,055,000",Jan 2017,"840,000",Sep 2014,,,,"21,468",,4,3,8,Waurn Ponds,30
+5 Mumm Street,"525,000",Jan 2017,"180,000",May 2014,,,,453,,4,2,2,Waurn Ponds,30
+33-35 Blackheath Mews,"480,000",Jan 2017,"170,500",Nov 2009,,430,Apr 2014,662,,4,2,2,Waurn Ponds,30
+33 Blackheath Mews,"480,000",Jan 2017,"170,500",Nov 2009,,440,Oct 2016,662,,4,2,2,Waurn Ponds,30
+14 Vintage Court,"516,500",Jan 2017,"325,000",May 2007,,,,668,142,4,2,2,Waurn Ponds,30
+5 Banyan Court,"650,000",Jan 2017,"53,000",Dec 1998,,,,845,283,,,,Waurn Ponds,30
+530 Princes Highway,"1,500,000",Dec 2016,,,,,,92,,,,,Waurn Ponds,30
+30 Burgundy Drive,"707,000",Dec 2016,"560,000",Feb 2012,,,,729,,4,2,4,Waurn Ponds,30
+9 Cabernet Court,"403,000",Dec 2016,"345,000",Oct 2010,,340,Nov 2013,480,,3,1,1,Waurn Ponds,30
+7 Merribell Drive,"434,000",Dec 2016,"385,000",May 2015,,,,369,114,2,1,1,Waurn Ponds,30
+45 Peppertree Rise,"552,600",Dec 2016,"445,000",Feb 2012,,450,Feb 2017,712,182,3,2,2,Waurn Ponds,30
+60 Burgundy Drive,"530,000",10 Dec 2016,"443,000",Dec 2011,1.0,,,657,211,3,2,2,Waurn Ponds,30
+22 Bodega Street,"680,000",Dec 2016,"202,500",Jan 2015,,,,522,,7,2,2,Waurn Ponds,30
+8-9 Traminer Court,"730,000",Dec 2016,"260,000",Dec 2007,,795,Apr 2011,"2,089",,6,3,4,Waurn Ponds,30
+8 Traminer Court,"730,000",Dec 2016,"260,000",Dec 2007,,795,May 2011,"2,089",,6,3,4,Waurn Ponds,30
+111 Ghazeepore Road,"635,000",30 Nov 2016,,,1.0,,,949,246,3,2,2,Waurn Ponds,30
+6-7 Champagne Court,"780,000",26 Nov 2016,,,1.0,,,"1,940",,4,2,3,Waurn Ponds,30
+6 Champagne Court,"780,000",26 Nov 2016,"233,000",Dec 2005,1.0,,,"1,952",,4,2,3,Waurn Ponds,30
+112 Rossack Drive,"501,000",Nov 2016,"390,000",Jun 2006,,,,544,,3,2,2,Waurn Ponds,30
+37 Tannin Way,"490,000",Nov 2016,"187,500",Feb 2000,,480,Oct 2019,529,20,4,2,2,Waurn Ponds,30
+37 Burgundy Drive,"467,500",Nov 2016,"315,000",Dec 2003,,,,572,176,3,2,2,Waurn Ponds,30
+50 Brumor Place,"1,275,000",Nov 2016,,,,,,"12,140",,4,3,6,Waurn Ponds,30
+22 Willesden Drive,"420,000",Nov 2016,"119,000",Dec 1995,,400,Jan 2017,769,168,4,2,2,Waurn Ponds,30
+5 Shiraz Drive,"418,000",Oct 2016,"369,000",Nov 2013,,370,Jun 2012,543,15,3,2,4,Waurn Ponds,30
+13 Kinsmead Street,"460,000",Oct 2016,,,,,,760,,3,2,2,Waurn Ponds,30
+10 Bodega Street,"500,000",Oct 2016,"193,000",Dec 2013,,,,465,176,4,2,2,Waurn Ponds,30
+5 Vintage Court,"560,000",Oct 2016,"470,000",Aug 2010,,,,460,,3,2,2,Waurn Ponds,30
+16-18 Grange Park Drive,"815,000",Oct 2016,"195,000",Jun 2004,,280,May 2005,"1,792",26,4,2,3,Waurn Ponds,30
+12 Cortona Place,"430,000",Oct 2016,"170,000",Jun 2012,,,,419,150,3,2,2,Waurn Ponds,30
+8 Maple Place,"467,000",Oct 2016,"378,000",Feb 2015,,285,Apr 2007,650,,4,2,2,Waurn Ponds,30
+49 Ironbark Street,"600,000",Sep 2016,"150,000",Jan 2006,,,,713,27,4,2,2,Waurn Ponds,30
+16 Blackheath Mews,"600,000",Sep 2016,"501,000",Mar 2013,,,,737,237,4,2,2,Waurn Ponds,30
+1-3 Ghazeepore Road,"1,200,026",Sep 2016,,,,,,"5,008",,3,1,,Waurn Ponds,30
+1/3 Pine Court,"420,000",Sep 2016,,,,400,Aug 2017,272,,,,,Waurn Ponds,30
+14 Oakwood Crescent,"530,000",Sep 2016,"393,500",Feb 2008,,,,799,206,4,2,2,Waurn Ponds,30
+2/32 Blackheath Mews,"385,000",Sep 2016,"306,000",Mar 2009,,,,435,130,,,,Waurn Ponds,30
+1/59 Oakwood Crescent,"385,000",Sep 2016,"345,000",Nov 2011,,,,320,,3,2,2,Waurn Ponds,30
+19 Blackheath Mews,"501,000",Sep 2016,"134,000",Nov 2006,,,,544,196,4,2,2,Waurn Ponds,30
+121 Ghazeepore Road,"345,575",Sep 2016,"280,000",Feb 2000,,,,214,96,2,1,1,Waurn Ponds,30
+5 Monterey Drive,"420,000",Aug 2016,,,,,,749,,3,2,,Waurn Ponds,30
+1 Mclaren Court,"800,000",Aug 2016,"785,000",Aug 2015,,560,Oct 2016,964,32,4,2,3,Waurn Ponds,30
+5 Katelyn Court,"650,000",Aug 2016,"240,000",Aug 2015,,,,579,,,,,Waurn Ponds,30
+5 Cabernet Court,"380,000",Aug 2016,"289,000",Jan 2006,,400,Sep 2019,345,,3,2,2,Waurn Ponds,30
+11 Cottonwood Way,"482,000",Aug 2016,"210,000",Jun 2012,,450,Sep 2016,539,,4,2,2,Waurn Ponds,30
+18 CHABLIS Court,"211,000",Aug 2016,,,,,,526,,4,2,2,Waurn Ponds,30
+14 Huon Court,"395,000",Aug 2016,"248,000",Nov 2008,,,,209,,,,,Waurn Ponds,30
+1/27 Ironbark Street,"400,000",Jul 2016,"362,000",Dec 2010,,395,Sep 2014,311,,,,,Waurn Ponds,30
+17 Malbec Loop,"480,000",Jul 2016,"137,000",Aug 2005,,450,Jul 2017,488,178,3,2,2,Waurn Ponds,30
+26 Sugargum Drive,"525,000",Jul 2016,"198,000",Aug 2010,,600,Jun 2019,758,220,7,2,2,Waurn Ponds,30
+9 Willesden Drive,"460,000",Jul 2016,"400,000",Apr 2009,,,,865,187,4,2,5,Waurn Ponds,30
+16 Grange Park Drive,"815,000",Jul 2016,"80,000",Jul 2001,,,,"1,792",,,,,Waurn Ponds,30
+6 Mica Court,"180,000",Jul 2016,"80,000",Aug 2003,,,,324,140,,,,Waurn Ponds,30
+1 Hoop Court,"382,000",Jun 2016,"322,500",Dec 2010,,370,Feb 2019,726,,3,2,2,Waurn Ponds,30
+1-2 Hoop Court,"382,000",Jun 2016,"322,500",Dec 2010,,350,Mar 2016,726,,3,2,1,Waurn Ponds,30
+135 Lemins Road,"785,000",Jun 2016,,,,,,"15,113",,4,2,3,Waurn Ponds,30
+1 Beaujolais Place,"567,000",Jun 2016,"140,000",Oct 2004,,460,Dec 2016,722,250,3,2,2,Waurn Ponds,30
+7 Cortona Place,"375,000",Jun 2016,"170,000",Jun 2012,,350,Aug 2014,419,,3,2,1,Waurn Ponds,30
+28 Tannin Way,"565,000",Jun 2016,"198,500",Aug 2014,,,,420,,4,2,2,Waurn Ponds,30
+Lot 2/11 Katelyn Court,"404,000",Jun 2016,,,,,,319,116,,,,Waurn Ponds,30
+66 Rossack Drive,"503,000",May 2016,,,,,,612,,4,2,2,Waurn Ponds,30
+47 Oakwood Crescent,"550,000",May 2016,"360,000",Oct 2009,,570,Apr 2009,605,163,6,2,2,Waurn Ponds,30
+15 Cortona Place,"440,000",May 2016,,,,,,494,,3,2,3,Waurn Ponds,30
+7 Alva Court,"515,000",May 2016,"72,000",Jan 2002,,,,804,,4,3,2,Waurn Ponds,30
+7 Tannin Way,"440,000",May 2016,"187,500",Mar 2011,,410,Sep 2014,568,223,4,2,2,Waurn Ponds,30
+11B KATELYN Court,"389,000",May 2016,,,,,,247,,3,2,1,Waurn Ponds,30
+8 Bollinger Way,"470,000",May 2016,,,,470,Feb 2021,,,4,2,2,Waurn Ponds,30
+5 Hoop Court,"653,888",May 2016,"607,500",Nov 2009,,,,967,367,5,2,2,Waurn Ponds,30
+7 Monterey Drive,"441,000",May 2016,,,,,,759,160,3,2,2,Waurn Ponds,30
+8 Bollinger Street,"470,000",May 2016,"172,800",Jul 2014,,,,437,,,,,Waurn Ponds,30
+14-15 Cortona Place,"440,000",May 2016,"192,200",Dec 2012,,,,494,,3,2,3,Waurn Ponds,30
+14 Cortona Place,"440,000",May 2016,"192,200",Dec 2012,,,,494,,,,,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30
+3 CHABLIS Court,"820,000",May 2016,,,,,,"2,393",,3,2,2,Waurn Ponds,30
+45 Oakwood Crescent,"515,000",May 2016,"355,000",Oct 2009,,140,Dec 2017,611,165,6,2,2,Waurn Ponds,30
+39 Ironbark Street,"465,000",Apr 2016,"150,000",May 2006,,,,702,,4,2,2,Waurn Ponds,30
+31-32 Barossa Court,"1,350,000",Apr 2016,"1,300,000",Jul 2013,,,,"2,503",72,5,3,4,Waurn Ponds,30
+200 Waurn Ponds Drive,"706,000",09 Apr 2016,,,1.0,600,Sep 2016,"14,126",112,6,3,5,Waurn Ponds,30
+47 GRANGE PARK Drive,"203,000",Mar 2016,,,,,,425,,,,,Waurn Ponds,30
+3 Cork Place,"550,000",Mar 2016,"155,000",Jun 2007,,545,Jun 2014,757,,5,2,2,Waurn Ponds,30
+15 Sugargum Drive,"495,000",Mar 2016,"165,000",Apr 2009,,,,643,218,4,2,2,Waurn Ponds,30
+21 CHABLIS Court,"201,000",Mar 2016,,,,175,Dec 2019,421,,4,2,2,Waurn Ponds,30
+2/9 Resolute Drive,"352,635",Mar 2016,,,,350,Jan 2019,359,,3,1,1,Waurn Ponds,30

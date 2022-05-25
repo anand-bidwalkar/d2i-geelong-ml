@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,2/5-7 Victoria Street,"Sold $577,500 in Jul 2020","Last Sold $469,900 in Jul 2013", ,Townhouse: 3  2  1 ,Land size: 188 sqm
+1,27 Holden Avenue,"Sold $815,000 in Jun 2020","Last Sold $725,000 in Jun 2015", ,House: 3  1  2 ,Land size: 615 sqm | Building size: 130 sqm
+2,20 Walker Street,"Sold $768,500 in 07 Mar 2020(Auction)","Last Sold $580,000 in Sep 2013(Auction)", ,House: 3  1  1 ,Land size: 267 sqm
+3,17 Margaret Street,"Sold $1,250,000 in Feb 2020","Last Sold $393,000 in Jun 2013(Auction)", ,House: 4  1  1 ,Land size: 430 sqm | Building size: 177 sqm
+4,2b Swinburne Street,"Sold $470,000 in Dec 2019","Last Sold $270,000 in Jan 2015", ,Townhouse: 3  2  2 ,Land size: 106 sqm
+5,9/1B Victoria Street,"Sold $435,000 in Nov 2019", , ,House: 2  1  1 ,Land size: 673 sqm
+6,23 Margaret Street,"Sold $855,000 in Oct 2019","Last Sold $284,500 in Mar 2009", ,House: 3  2  ,Land size: 95 sqm
+7,Lot 13 Rivers Edge Estate,"Sold $147,900 in Aug 2019", , , , 
+8,24 Margaret Street,"Sold $810,000 in 05 Jul 2019(Auction)","Last Sold $582,000 in Dec 2015", ,House: 3  2  ,Land size: 419 sqm
+9,Stage 2 TH2/43 Liverpool Street,"Sold $780,000 in Jun 2019", , ,Townhouse: 2  2  2 , 
+10,21 Bay Street,"Sold $840,000 in May 2019","Last Sold $640,000 in May 2015", ,House: 3  1  1 ,Land size: 528 sqm | Building size: 145 sqm
+11,11/1B Victoria Street,"Sold $405,000 in May 2019", ,Rent $400pw in Jun 2019, ,Land size: 673 sqm
+12,7/5-7 Victoria Street,"Sold $515,000 in May 2019","Last Sold $390,000 in Apr 2011", ,Townhouse: 3  1  1 ,Land size: 189 sqm
+13,17 Lumb Place,"Sold $1,590,000 in May 2019", , ,House: 3  3  2 ,Land size: 187 sqm
+14,22 Walker Street,"Sold $645,000 in Apr 2019","Last Sold $515,000 in Dec 2011", ,House: 3  1  1 ,Land size: 269 sqm
+15,2a Swinburne Street,"Sold $470,000 in Feb 2019","Last Sold $270,000 in Jan 2015", ,Townhouse: 3  2  2 ,Land size: 137 sqm
+16,1/1 Liverpool Street,"Sold $950,000 in Feb 2019","Last Sold $346,000 in Oct 2006", ,House: 3  2  2 ,Land size: 250 sqm
+17,7 Lumb Place,"Sold $1,100,000 in Dec 2018", , ,Townhouse: 3  3  2 ,Land size: 154 sqm
+18,13 Vautier Street,"Sold $675,000 in Dec 2018", , ,House: 3  1  1 ,Land size: 613 sqm
+19,5 St Helens Place,"Sold $775,000 in Dec 2018","Last Sold $595,000 in Oct 2012", ,House: 3  2  2 ,Land size: 325 sqm
+20,19 Walker Street,"Sold $560,000 in Nov 2018", ,Rent $340pw in Jan 2020,House: 3  1  4 ,Land size: 476 sqm
+21,39 Margaret Street,"Sold $660,000 in Nov 2018","Last Sold $85,000 in Jan 1993", ,House: 3  1  4 ,Land size: 437 sqm | Building size: 129 sqm
+22,20 St David Street,"Sold $1,275,000 in Nov 2018", , ,House: 4  2  2 ,Land size: 734 sqm
+23,9 St David Street,"Sold $720,000 in 27 Oct 2018(Auction)", ,Rent $450pw in Sep 2018,House: 3  1  4 ,Land size: 614 sqm
+24,4/1B Victoria Street,"Sold $415,000 in Oct 2018","Last Sold $399,000 in Nov 2014", , ,Land size: 673 sqm
+25,36 Vautier Street,"Sold $1,400,000 in Sep 2018", ,Rent $300pw in Dec 2011,House: 5  2  2 ,Land size: 612 sqm
+26,9/209 Melbourne Road,"Sold $373,000 in Sep 2018", ,Rent $310pw in Jan 2013, ,"Land size: 2,078 sqm"
+27,15 Victoria Street,"Sold $655,000 in 11 Aug 2018(Auction)","Last Sold $351,000 in Feb 2008", ,House: 2  1  1 ,Land size: 367 sqm | Building size: 95 sqm
+28,8 Victoria Street,"Sold $436,000 in Aug 2018","Last Sold $305,000 in Feb 2013", ,House: 2  1  1 ,Land size: 286 sqm
+29,14B/43 Liverpool Street,"Sold $1,290,000 in Jun 2018", , , , 
+30,S2 14B/43 Liverpool Street,"Sold $1,290,000 in Jun 2018", , , , 
+31,32 Margaret Street,"Sold $900,000 in 09 Jun 2018(Auction)","Last Sold $580,000 in May 2011", ,House: 4  2  1 ,Land size: 428 sqm
+32,26 Vautier Street,"Sold $682,000 in May 2018","Last Sold $420,000 in Jan 2013", ,House: 3  2  1 ,Land size: 220 sqm
+33,4 Walker Street,"Sold $840,000 in May 2018","Last Sold $655,000 in Sep 2013", ,House: 4  2  1 ,Land size: 482 sqm | Building size: 163 sqm
+34,34 Edward Street,"Sold $679,000 in 21 Apr 2018(Auction)","Last Sold $418,000 in Dec 2010", ,House: 2  1  ,Land size: 434 sqm
+35,7 Balmoral Crescent,"Sold $2,605,000 in Mar 2018","Last Sold $485,000 in May 1997", ,House: 4  3  3 ,"Land size: 1,671 sqm | Building size: 289 sqm"
+36,213 MELBOURNE Road,"Sold $750,000 in Mar 2018","Last Sold $165,000 in Mar 2001", ,House: 4  2  3 ,Land size: 825 sqm
+37,14C/43 Liverpool Street,"Sold $1,100,000 in Nov 2017", , , , 
+38,9C/43 Liverpool Street,"Sold $1,140,000 in Nov 2017", , , , 
+39,54 Victoria Street,"Sold $775,000 in 04 Nov 2017(Auction)","Last Sold $495,000 in Nov 2008", ,House: 3  1  3 ,Land size: 420 sqm
+40,3 Walker Street,"Sold $560,000 in Aug 2017","Last Sold $345,500 in Feb 2011", ,House: 3  1  1 ,Land size: 436 sqm | Building size: 125 sqm
+41,2/29 Walker Street,"Sold $567,500 in Aug 2017","Last Sold $260,000 in Mar 2004", ,Townhouse: 2  1  1 ,Land size: 254 sqm | Building size: 92 sqm
+42,S2 TH5/43 Liverpool Street,"Sold $1,050,000 in Jul 2017", , ,Townhouse: 3  , 
+43,5/43 Liverpool Street,"Sold $1,050,000 in Jun 2017", , ,Townhouse: 3  , 
+44,Th5/43 Liverpool Street,"Sold $1,050,000 in Jun 2017", , ,Townhouse: 3  , 
+45,4 Coots Court,"Sold $573,000 in 17 Jun 2017(Auction)","Last Sold $520,000 in Dec 2014", ,House: 5  2  1 ,Land size: 296 sqm
+46,36 Swinburne Street,"Sold $618,000 in Jun 2017","Last Sold $379,000 in Mar 2007", ,House: 3  2  1 ,Land size: 392 sqm
+47,7 Helen Street,"Sold $2,240,000 in 03 Jun 2017(Auction)", ,Rent $950pw in May 2011,House: 4  3  2 ,Land size: 671 sqm
+48,1/14 Bay Street,"Sold $517,000 in Apr 2017", , ,House: 2  1  1 ,Land size: 264 sqm
+49,137-139 Melbourne Road,"Sold $2,000,000 in Apr 2017", , , ,Land size: 294 sqm
+50,141-145 Melbourne Road,"Sold $960,000 in Apr 2017","Last Sold $60,000 in Feb 2000", , ,Land size: 232 sqm
+51,155 Melbourne Road,"Sold $510,000 in 11 Apr 2017(Auction)","Last Sold $130,000 in Mar 1999", , ,Land size: 389 sqm | Building size: 175 sqm
+52,4 St Helens Place,"Sold $800,000 in Apr 2017", , ,House: 4  2  2 ,Land size: 511 sqm
+53,3 David Street,"Sold $760,000 in Mar 2017", , , , 
+54,3 St David Street,"Sold $760,000 in 04 Mar 2017(Auction)","Last Sold $710,000 in Feb 2016(Auction)", ,House: 3  1  2 ,Land size: 613 sqm | Building size: 140 sqm
+55,19 Margaret Street,"Sold $515,000 in 25 Feb 2017(Auction)","Last Sold $443,500 in Oct 2014", ,House: 2  1  ,Land size: 310 sqm | Building size: 92 sqm
+56,2/50 Walker Street,"Sold $725,000 in Feb 2017", , ,House: 3  2  2 , 
+57,215 Melbourne Road,"Sold $370,000 in Jan 2017", ,Rent $280pw in Oct 2010, ,Land size: 412 sqm
+58,50a Walker Street,"Sold $725,000 in Jan 2017", ,Rent $595pw in Sep 2016,House: 3  2  2 ,Land size: 240 sqm
+59,1/50 Walker Street,"Sold $739,000 in Dec 2016", ,Rent $595pw in Mar 2019,House: 3  2  1 , 
+60,46 Margaret Street,"Sold $813,000 in 10 Dec 2016(Auction)","Last Sold $352,000 in Dec 2014(Auction)", ,House: 4  2  1 ,Land size: 431 sqm | Building size: 79 sqm
+61,2/7 Liverpool Street,"Sold $770,000 in Dec 2016", ,Rent $575pw in Oct 2018,Townhouse: 4  3  1 ,Land size: 247 sqm
+62,18 Walker Street,"Sold $646,000 in Dec 2016","Last Sold $420,000 in Feb 2007", ,House: 3  2  2 ,Land size: 441 sqm | Building size: 130 sqm
+63,19 Victoria Street,"Sold $740,000 in Dec 2016", , , ,Land size: 734 sqm
+64,30 Walker Street,"Sold $614,500 in 03 Dec 2016(Auction)","Last Sold $315,000 in Jul 2005", ,House: 4  1  1 ,Land size: 341 sqm
+65,50b Walker Street,"Sold $739,000 in Nov 2016", ,Rent $590pw in Sep 2014,House: 3  2  1 ,Land size: 247 sqm
+66,2 BAY Street,"Sold $672,500 in Nov 2016","Last Sold $140,000 in Sep 1998", ,House: 3  3  1 ,Land size: 613 sqm
+67,4/209 Melbourne Road,"Sold $378,000 in Nov 2016","Last Sold $335,000 in Mar 2010", , ,"Land size: 2,076 sqm"
+68,16 Holden Avenue,"Sold $950,001 in Nov 2016", , ,House: 4  2  2 ,Land size: 246 sqm
+69,3/5-9 Lothian Street,"Sold $385,500 in Oct 2016","Last Sold $295,000 in Feb 2011", , ,Land size: 187 sqm
+70,11/209 Princess Highway,"Sold $300,000 in Oct 2016", , , , 
+71,11/209 Princes Highway,"Sold $300,000 in Oct 2016", , , , 
+72,3/209 Melbourne Road,"Sold $360,000 in Oct 2016","Last Sold $272,000 in Dec 2007", , ,"Land size: 2,076 sqm | Building size: 75 sqm"
+73,11/209 Melbourne Road,"Sold $300,000 in Oct 2016","Last Sold $285,000 in Nov 2010", ,Townhouse: 1  1  1 ,"Land size: 2,076 sqm"
+74,2/11 St David Street,"Sold $715,000 in Sep 2016", ,Rent $580pw in Jul 2014,House: 4  2  2 ,Land size: 346 sqm
+75,3 Holden Avenue,"Sold $737,000 in Sep 2016","Last Sold $670,000 in Mar 2014", ,Townhouse: 3  2  2 ,Land size: 238 sqm | Building size: 186 sqm
+76,8/209 Melbourne Road,"Sold $346,000 in Aug 2016","Last Sold $325,000 in May 2013", ,Townhouse: 2  1  1 ,"Land size: 2,076 sqm"
+77,23 Liverpool Street,"Sold $390,000 in Jun 2016", ,Rent $360pw in Dec 2016,House: 2  1  1 ,Land size: 488 sqm
+78,4 Lumb Place,"Sold $740,000 in May 2016", ,Rent $550pw in Jun 2020,Townhouse: 3  2  ,Land size: 129 sqm
+79,47-49 Walker Street,"Sold $677,000 in 02 Apr 2016(Auction)", , ,House: 4  1  1 ,Land size: 699 sqm
+80,47 Walker Street,"Sold $677,000 in Apr 2016","Last Sold $75,500 in Sep 1991", ,House: 4  1  1 ,Land size: 486 sqm
+81,21 Liverpool Street,"Sold $910,000 in Mar 2016","Last Sold $730,000 in Oct 2010", ,House: 3  2  1 ,Land size: 175 sqm | Building size: 250 sqm
+82,4/5-7 Victoria Street,"Sold $435,000 in Feb 2016","Last Sold $319,000 in Feb 2006", ,House: 3  2  1 ,Land size: 129 sqm
+83,2/13 Balmoral Crescent,"Sold $955,000 in Feb 2016","Last Sold $735,000 in Oct 2002", ,Townhouse: 3  2  1 ,"Land size: 1,852 sqm | Building size: 203 sqm"
+84,10 Liverpool Street,"Sold $295,000 in Jan 2016","Last Sold $250,000 in Sep 2005", ,House: 2  1  ,Land size: 357 sqm
+85,18 Bay Street,"Sold $350,000 in Dec 2015","Last Sold $220,000 in Jul 2007", ,House: 3  1  2 ,Land size: 613 sqm | Building size: 135 sqm
+86,3B Victoria Street,"Sold $648,000 in Oct 2015", ,Rent $550pw in Sep 2014,House: 3  3  2 ,Land size: 367 sqm | Building size: 235 sqm
+87,33 Victoria Street,"Sold $13,000,001 in Oct 2015","Last Sold $1,250,000 in Jun 2007", ,House: 3  2  3 ,Land size: 274 sqm
+88,28 Vautier Street,"Sold $605,000 in Sep 2015", ,Rent $600pw in Feb 2019,House: 4  3  2 ,Land size: 355 sqm
+89,36 Victoria Street,"Sold $780,000 in 15 Aug 2015(Auction)","Last Sold $266,000 in Aug 2002", ,House: 3  2  2 ,Land size: 439 sqm | Building size: 180 sqm
+90,3a Victoria Street,"Sold $635,000 in Jul 2015", ,Rent $580pw in Feb 2018,Townhouse: 3  3  2 ,Land size: 367 sqm
+91,4 St David Street,"Sold $600,000 in 11 Jul 2015(Auction)", ,Rent $580pw in Nov 2017,House: 3  1  2 ,Land size: 206 sqm
+92,20 Lumb Place,"Sold $845,000 in Jul 2015", ,Rent $750pw in Jul 2018, ,Land size: 137 sqm
+93,1/209 Melbourne Road,"Sold $367,500 in Jul 2015","Last Sold $277,000 in Aug 2005", ,Townhouse: 2  1  1 ,"Land size: 2,076 sqm | Building size: 104 sqm"
+94,10 Walker Street,"Sold $482,000 in Jul 2015","Last Sold $325,000 in Feb 2007", ,House: 3  1  2 ,Land size: 488 sqm | Building size: 125 sqm
+95,7 St David Street,"Sold $550,000 in Jun 2015", ,Rent $350pw in Jan 2012,House: 3  1  1 ,Land size: 613 sqm | Building size: 118 sqm
+96,43 Margaret Street,"Sold $431,000 in 27 Jun 2015(Auction)","Last Sold $338,000 in Oct 2008", ,House: 2  1  2 ,Land size: 386 sqm
+97,33 Bay Street,"Sold $896,000 in Jun 2015", ,Rent $350pw in Sep 2019,House: 3  1  1 ,Land size: 608 sqm
+98,12 St David Street,"Sold $610,000 in 13 Jun 2015(Auction)","Last Sold $400,000 in Aug 2009", ,House: 3  1  1 ,Land size: 734 sqm | Building size: 145 sqm
+99,29 Bay Street,"Sold $1,000,000 in Jun 2015","Last Sold $755,000 in Jun 2007", ,House: 4  3  2 ,Land size: 613 sqm | Building size: 252 sqm
+100,6 Bay Street,"Sold $510,000 in Jun 2015", ,Rent $400pw in Aug 2015,House: 3  1  5 ,Land size: 613 sqm | Building size: 164 sqm
+101,39 Holden Avenue,"Sold $572,000 in May 2015", , ,House: 3  2  2 ,Land size: 222 sqm | Building size: 140 sqm
+102,2/21 Vautier Street,"Sold $875,000 in Mar 2015", , , ,Land size: 356 sqm
+103,21B Vautier Street,"Sold $875,000 in 21 Mar 2015(Auction)", , ,House: 3  3  2 , 
+104,10 Balmoral Crescent,"Sold $450,000 in 21 Mar 2015(Auction)","Last Sold $380,000 in Nov 2009", , ,Land size: 464 sqm
+105,2 Swinburne Street,"Sold $270,000 in Jan 2015", , , , 
+106,1/11 St David Street,"Sold $702,000 in Nov 2014", ,Rent $600pw in Dec 2012,House: 4  2  1 ,Land size: 267 sqm
+107,1/43 Liverpool Street,"Sold $7,920,000 in Nov 2014", , , ,"Land size: 3,637 sqm"
+108,43 Liverpool Street,"Sold $7,920,000 in Nov 2014", , , ,"Land size: 5,726 sqm"
+109,1/20 Swinburne Street,"Sold $432,500 in Oct 2014","Last Sold $312,000 in Feb 2009", , ,Land size: 249 sqm
+110,217-221 Melbourne Road,"Sold $270,000 in Oct 2014","Last Sold $250,000 in Nov 2000", ,Townhouse: 2  2  1 ,Land size: 620 sqm
+111,23 Bay Street,"Sold $585,000 in 30 Aug 2014(Auction)", ,Rent $360pw in Nov 2014,House: 3  1  2 ,Land size: 613 sqm
+112,32 Walker Street,"Sold $470,000 in Jul 2014","Last Sold $310,000 in May 2006", ,House: 3  1  2 ,Land size: 343 sqm
+113,37 Bay Street,"Sold $1,785,000 in May 2014", , ,House: 4  3  2 ,Land size: 608 sqm
+114,35 Bay Street,"Sold $1,785,000 in May 2014", , ,House: 5  2  2 ,Land size: 609 sqm | Building size: 403 sqm
+115,27 Walker Street,"Sold $370,000 in 26 Apr 2014(Auction)", ,Rent $300pw in Apr 2017,House: 3  1  1 ,Land size: 332 sqm | Building size: 185 sqm
+116,1 & 2/50 Walker Street,"Sold $725,000 in Apr 2014", , ,House: 3  2  2 , 
+117,1/10 Helen Street,"Sold $565,000 in Apr 2014", , , ,Land size: 291 sqm
+118,60 Victoria Street,"Sold $2,150,000 in Apr 2014", , ,House: 5  2  2 ,"Land size: 1,626 sqm"
+119,10 Helen Street,"Sold $565,000 in Apr 2014", ,Rent $450pw in May 2013,Townhouse: 3  2  2 ,Land size: 289 sqm
+120,33 Liverpool Street,"Sold $650,000 in Mar 2014", ,Rent $350pw in Jun 2014,House: 3  1  2 ,Land size: 244 sqm
+121,46 Edward Street,"Sold $530,000 in Mar 2014", , ,House: 1  1  2 ,Land size: 149 sqm
+122,2/3 Holden Avenue,"Sold $670,000 in Mar 2014", , , ,Land size: 237 sqm | Building size: 186 sqm
+123,8 Bay Street,"Sold $556,000 in Feb 2014", , ,House: 3  2  2 ,Land size: 613 sqm
+124,18 St David Street,"Sold $501,000 in 15 Feb 2014(Auction)", , ,House: 2  1  1 ,Land size: 734 sqm
+125,6/209 Melbourne Road,"Sold $380,000 in Feb 2014","Last Sold $337,000 in Jun 2008", , ,"Land size: 2,076 sqm"
+126,6 Liverpool Street,"Sold $870,000 in 14 Dec 2013(Auction)", , ,House: 3  3  2 ,Land size: 367 sqm
+127,16 Bay Street,"Sold $460,000 in 14 Dec 2013(Auction)", ,Rent $330pw in Mar 2014,House: 2  1  1 ,Land size: 613 sqm
+128,38 Margaret Street,"Sold $590,000 in 14 Dec 2013(Auction)","Last Sold $402,000 in Jun 2007", ,House: 4  1  2 ,Land size: 458 sqm
+129,42 Margaret Street,"Sold $738,000 in Nov 2013", , ,House: 3  1  1 ,Land size: 535 sqm | Building size: 167 sqm
+130,28 Holden Avenue,"Sold $420,000 in Oct 2013", , ,House: 2  1  1 ,Land size: 201 sqm
+131,1A Victoria Street,"Sold $310,000 in Sep 2013","Last Sold $278,000 in Mar 2011", , ,Land size: 418 sqm
+132,58 Victoria Street,"Sold $590,150 in Sep 2013","Last Sold $490,000 in Aug 2007", ,House: 4  1  1 ,Land size: 407 sqm | Building size: 160 sqm
+133,25 Bay Street,"Sold $700,000 in Jul 2013","Last Sold $485,000 in Feb 2007", ,House: 3  2  6 ,Land size: 613 sqm | Building size: 151 sqm
+134,19 Vautier Street,"Sold $700,000 in Jul 2013", ,Rent $595pw in Jan 2014,House: 4  2  2 ,Land size: 613 sqm | Building size: 193 sqm
+135,18 Vautier Street,"Sold $525,000 in 19 Jul 2013(Auction)","Last Sold $396,000 in Oct 2004", ,House: 3  2  2 ,Land size: 348 sqm
+136,15 Walker Street,"Sold $400,000 in Jul 2013","Last Sold $215,000 in May 2001", ,House: 3  1  2 ,Land size: 493 sqm | Building size: 215 sqm
+137,44 Edward Street,"Sold $480,000 in Jun 2013","Last Sold $390,000 in Feb 2008", ,House: 3  1  1 ,Land size: 435 sqm | Building size: 140 sqm
+138,26 Victoria Street,"Sold $501,000 in 25 May 2013(Auction)", ,Rent $550pw in May 2019,House: 3  1  1 ,Land size: 542 sqm
+139,13 Liverpool Street,"Sold $681,500 in May 2013", ,Rent $370pw in Feb 2007,House: 4  2  1 ,Land size: 45 sqm | Building size: 190 sqm
+140,35 Holden Avenue,"Sold $495,000 in Apr 2013", ,Rent $300pw in Nov 2016,House: 3  1  2 ,Land size: 615 sqm
+141,7 Vautier Street,"Sold $394,000 in Feb 2013", ,Rent $320pw in Jan 2011,House: 3  2  1 ,Land size: 613 sqm
+142,47 Margaret Street,"Sold $367,500 in 09 Feb 2013(Auction)", ,Rent $340pw in Jun 2018,House: 3  1  1 ,Land size: 435 sqm | Building size: 115 sqm
+143,7 Walker Street,"Sold $920,000 in Jan 2013","Last Sold $870,000 in Apr 2010", ,House: 5  ,Land size: 482 sqm
+144,9 Walker Street,"Sold $701,000 in 05 Jan 2013(Auction)", ,Rent $565pw in Jan 2012,House: 4  1  1 ,Land size: 497 sqm | Building size: 194 sqm
+145,42 Victoria Street,"Sold $407,500 in Dec 2012", ,Rent $300pw in Feb 2012,House: 2  2  1 ,Land size: 432 sqm
+146,16 Edward Street,"Sold $460,000 in Nov 2012", ,Rent $430pw in Jul 2016,House: 3  2  ,Land size: 392 sqm
+147,8 Margaret Street,"Sold $645,000 in Sep 2012","Last Sold $108,000 in May 1999", ,House: 4  2  1 ,Land size: 23 sqm | Building size: 186 sqm
+148,34 Victoria Street,"Sold $485,000 in Sep 2012", ,Rent $370pw in Oct 2010,House: 3  1  1 ,Land size: 414 sqm | Building size: 129 sqm
+149,20 Margaret Street,"Sold $420,000 in Sep 2012", ,Rent $320pw in Dec 2011,House: 3  1  2 ,Land size: 495 sqm
+150,5 Helen Street,"Sold $1,200,000 in Aug 2012", ,Rent $750pw in Apr 2011,House: 5  2  2 ,Land size: 538 sqm
+151,24 Vautier Street,"Sold $405,000 in Aug 2012", , ,House: 3  2  2 ,Land size: 167 sqm | Building size: 162 sqm
+152,32 Swinburne Street,"Sold $257,500 in Aug 2012", , ,House: 4  ,Land size: 613 sqm
+153,14 Balmoral Crescent,"Sold $771,000 in Jul 2012","Last Sold $290,000 in Jul 2009", ,House: 3  2  3 ,Land size: 437 sqm | Building size: 236 sqm
+154,35 Margaret Street,"Sold $397,750 in Jun 2012","Last Sold $94,500 in Dec 1993", ,House: 2  1  1 ,Land size: 434 sqm | Building size: 117 sqm
+155,14 Bay Street,"Sold $445,000 in 02 Jun 2012(Auction)", ,Rent $400pw in Apr 2016,House: 3  1  2 ,Land size: 135 sqm | Building size: 93 sqm
+156,10 Margaret Street,"Sold $425,000 in May 2012", ,Rent $230pw in Aug 2004,House: 3  1  2 ,Land size: 497 sqm
+157,38 Swinburne Street,"Sold $628,000 in May 2012", ,Rent $465pw in Jun 2013,House: 4  2  2 ,Land size: 613 sqm | Building size: 159 sqm
+158,5 Balmoral Crescent,"Sold $1,450,000 in Mar 2012", ,Rent $525pw in Feb 2013,House: 4  2  2 ,"Land size: 1,231 sqm | Building size: 339 sqm"
+159,14/209 Melbourne Road,"Sold $320,000 in Feb 2012","Last Sold $290,000 in May 2007", , ,"Land size: 2,076 sqm | Building size: 77 sqm"
+160,1 Coots Court,"Sold $350,000 in Feb 2012", ,Rent $330pw in Nov 2019,House: 2  1  1 ,Land size: 279 sqm | Building size: 90 sqm
+161,9 Victoria Street,"Sold $651,000 in Jan 2012", ,Rent $450pw in Apr 2018,House: 3  1  2 ,Land size: 734 sqm
+162,21 Victoria Street,"Sold $500,000 in Jan 2012", , ,House: 3  1  2 ,Land size: 734 sqm
+163,14 Edward Street,"Sold $345,000 in Jan 2012","Last Sold $180,000 in May 2002", ,House: 3  1  1 ,Land size: 431 sqm
+164,22 Edward Street,"Sold $510,000 in Dec 2011", ,Rent $520pw in Jul 2019,House: 4  2  2 ,Land size: 433 sqm
+165,1/21 Vautier Street,"Sold $670,000 in 22 Oct 2011(Auction)","Last Sold $200,000 in Jan 2010", ,Townhouse: 3  2  2 ,Land size: 356 sqm
+166,3/24 St David Street,"Sold $390,000 in Oct 2011", ,Rent $530pw in Oct 2014, ,Land size: 148 sqm
+167,2/48 Edward Street,"Sold $190,000 in Sep 2011", , , ,Land size: 167 sqm | Building size: 140 sqm
+168,48 Edward Street,"Sold $190,000 in Sep 2011","Last Sold $151,000 in Oct 2008", ,Townhouse: 2  1  1 ,Land size: 167 sqm | Building size: 140 sqm
+169,2/209 Melbourne Road,"Sold $385,000 in Jul 2011","Last Sold $290,000 in Dec 2004", , ,"Land size: 2,076 sqm"
+170,2 Walker Street,"Sold $455,000 in 23 Jul 2011(Auction)", , ,House: 4  1  1 ,Land size: 493 sqm | Building size: 210 sqm
+171,10/209 Melbourne Road,"Sold $335,000 in Jun 2011","Last Sold $292,000 in Aug 2007", , ,"Land size: 2,076 sqm"
+172,1/24 St David Street,"Sold $270,000 in Jun 2011", , ,Townhouse: 3  2  2 ,Land size: 192 sqm
+173,2/5-9 Lothian Street,"Sold $358,500 in 21 May 2011(Auction)", , , ,Land size: 188 sqm
+174,7/209 Melbourne Road,"Sold $325,000 in May 2011","Last Sold $270,000 in Dec 2004", , ,"Land size: 2,076 sqm"
+175,1 Bay Street,"Sold $363,000 in May 2011","Last Sold $345,000 in Dec 2008", ,House: 3  2  2 ,Land size: 215 sqm | Building size: 152 sqm
+176,38 Edward Street,"Sold $413,000 in May 2011", ,Rent $290pw in May 2008,House: 3  1  2 ,Land size: 434 sqm | Building size: 97 sqm
+177,6/24 St David Street,"Sold $385,000 in Apr 2011", , ,House: 3  2  2 ,Land size: 153 sqm
+178,42 Vautier Street,"Sold $485,000 in Apr 2011", ,Rent $285pw in Jun 2011,House: 2  1  1 ,Land size: 613 sqm
+179,26 ST DAVID Street,"Sold $375,000 in Mar 2011", , ,House: 3  1  2 ,Land size: 251 sqm
+180,1B Victoria Street,"Sold $450,000 in Mar 2011", , , ,Land size: 678 sqm
+181,25 Balmoral Crescent,"Sold $2,100,000 in Mar 2011","Last Sold $805,000 in Dec 2001", ,House: 4  3  3 ,Land size: 933 sqm
+182,23 St David Street,"Sold $525,000 in Feb 2011", ,Rent $320pw in Dec 2010,House: 3  1  1 ,Land size: 564 sqm
+183,5/24 St David Street,"Sold $295,000 in Feb 2011", ,Rent $530pw in Nov 2014,Townhouse: 3  2  2 ,Land size: 223 sqm
+184,4/24 St David Street,"Sold $275,000 in Dec 2010", , ,Townhouse: 3  1  1 ,Land size: 221 sqm
+185,44 Vautier Street,"Sold $517,000 in 18 Dec 2010(Auction)", ,Rent $450pw in Sep 2012,House: 3  2  2 ,Land size: 411 sqm | Building size: 153 sqm
+186,9 Liverpool Street,"Sold $485,525 in Nov 2010","Last Sold $380,000 in Jul 2004", ,House: 4  2  1 ,Land size: 488 sqm
+187,19 St David Street,"Sold $480,000 in Nov 2010","Last Sold $331,000 in Nov 2003", ,House: 3  1  1 ,Land size: 613 sqm | Building size: 113 sqm
+188,1/5-7 Victoria Street,"Sold $403,000 in Nov 2010", ,Rent $395pw in Nov 2009,Townhouse: 3  2  1 ,Land size: 188 sqm
+189,14 Swinburne Street,"Sold $494,000 in 13 Nov 2010(Auction)", ,Rent $360pw in Feb 2011,House: 3  1  1 ,Land size: 85 sqm
+190,31 Victoria Street,"Sold $550,000 in Oct 2010", ,Rent $360pw in Mar 2014,House: 4  1  4 ,Land size: 337 sqm | Building size: 375 sqm
+191,4 5-Sep Lothian Street,"Sold $311,000 in 16 Oct 2010(Auction)", , , , 
+192,7/24 St David Street,"Sold $325,000 in Oct 2010", , ,Townhouse: 3  ,Land size: 156 sqm
+193,40-42 Walker Street,"Sold $550,000 in Sep 2010","Last Sold $70,000 in Dec 1987", ,House: 3  2  1 ,Land size: 394 sqm
+194,40 Walker Street,"Sold $550,000 in 04 Sep 2010(Auction)", ,Rent $450pw in Jul 2013,House: 3  2  1 ,Land size: 107 sqm
+195,54 Station Street,"Sold $550,000 in Aug 2010", , ,House: 3  2  1 , 
+196,1/29 Victoria Street,"Sold $640,000 in Aug 2010", , ,Townhouse: 3  1  2 , 
+197,33 Holden Avenue,"Sold $540,000 in Jul 2010", ,Rent $480pw in Apr 2019,House: 3  2  4 ,Land size: 615 sqm
+198,4/Lothian Street,"Sold $311,000 in Jul 2010", , , , 
+199,3 Victoria Street,"Sold $495,000 in 07 Jul 2010(Auction)", ,Rent $290pw in Apr 2010,House: 3  2  2 ,Land size: 367 sqm
+200,12/209 Melbourne Road,"Sold $265,000 in May 2010", ,Rent $260pw in Jul 2014, ,"Land size: 2,076 sqm"
+201,2/24 St David Street,"Sold $245,000 in Mar 2010", , , ,Land size: 151 sqm
+202,2 Balmoral Crescent,"Sold $801,000 in Mar 2010", , ,House: 3  1  1 ,Land size: 988 sqm
+203,21 Walker Street,"Sold $875,000 in Feb 2010","Last Sold $415,250 in Feb 2008", ,House: 4  2  2 ,Land size: 490 sqm
+204,5 Morrison Place,"Sold $415,250 in Feb 2010", , ,House: , 
+205,8/24 St David Street,"Sold $275,000 in Jan 2010", , , ,Land size: 178 sqm
+206,27 Balmoral Crescent,"Sold $1,260,000 in Nov 2009", ,Rent $380pw in May 2010,House: 4  1  2 ,Land size: 856 sqm
+207,99 Wareemba Avenue,"Sold $403,000 in Nov 2009", , ,House: 3  2  1 ,Land size: 936 sqm
+208,1 St. David Street,"Sold $512,500 in Oct 2009", , ,House: 3  1  2 ,Land size: 620 sqm
+209,31 Balmoral Crescent,"Sold $2,150,000 in Oct 2009", , ,House: 5  3  3 ,Land size: 807 sqm
+210,11 St David Street,"Sold $400,000 in Oct 2009", , ,House: 3  1  2 ,Land size: 346 sqm
+211,12 St. David Street,"Sold $400,000 in Aug 2009", , ,House: 3  1  , 
+212,25 Margaret Street,"Sold $268,000 in Aug 2009", ,Rent $500pw in Sep 2018,House: 3  1  ,Land size: 337 sqm | Building size: 114 sqm
+213,14 Vautier Street,"Sold $512,500 in Jun 2009", , ,House: 4  2  2 ,Land size: 396 sqm | Building size: 235 sqm
+214,3 Brigalow Place,"Sold $485,525 in May 2009", , ,House: 3  2  1 ,Land size: 667 sqm
+215,52 Walker Street,"Sold $650,000 in Apr 2009", , ,House: 3  2  2 ,Land size: 488 sqm | Building size: 208 sqm
+216,18 Edward Street,"Sold $400,000 in Mar 2009","Last Sold $300,000 in Oct 2004", ,House: 3  1  3 ,Land size: 432 sqm | Building size: 126 sqm
+217,40 Edward Street,"Sold $400,000 in Nov 2008","Last Sold $260,000 in Nov 2002", ,House: 3  1  1 ,Land size: 434 sqm
+218,50 Walker Street,"Sold $402,000 in Nov 2008","Last Sold $119,000 in Mar 1997", ,House: 2  1  1 ,Land size: 488 sqm
+219,48 Margaret Street,"Sold $411,000 in Sep 2008","Last Sold $342,000 in Mar 2003", ,House: 3  1  4 ,Land size: 428 sqm
+220,1A Holden Avenue,"Sold $640,000 in Jul 2008", , ,House: ,Land size: 739 sqm
+221,2 Coots Court,"Sold $307,000 in Jun 2008", ,Rent $350pw in Mar 2014,House: 3  1  2 ,Land size: 386 sqm
+222,2 Edward Street,"Sold $307,000 in Jun 2008", , ,House: 3  ,Land size: 387 sqm
+223,8/5-7 Victoria Street,"Sold $120,000 in May 2008", , , ,Land size: 183 sqm
+224,40 Margaret Street,"Sold $725,000 in May 2008", , ,House: 3  2  1 ,Land size: 547 sqm
+225,24 Edward Street,"Sold $321,300 in Mar 2008", ,Rent $200pw in Jul 2008,House: 2  1  1 ,Land size: 433 sqm | Building size: 159 sqm
+226,1/29 Walker Street,"Sold $411,000 in Mar 2008", , , ,Land size: 236 sqm
+227,211a Melbourne Road,"Sold $330,000 in Nov 2007", , ,House: 3  2  2 ,Land size: 535 sqm
+228,2 Margaret Street,"Sold $368,000 in Nov 2007", , ,House: 3  1  2 ,Land size: 544 sqm
+229,21 Balmoral Crescent,"Sold $1,075,000 in Oct 2007", , ,House: 4  2  3 ,"Land size: 1,035 sqm | Building size: 176 sqm"
+230,34 Margaret Street,"Sold $160,000 in Sep 2007", , ,House: ,Land size: 328 sqm
+231,44-46 Walker Street,"Sold $615,000 in Aug 2007","Last Sold $105,500 in Oct 1988", , ,Land size: 732 sqm
+232,5 Liverpool Street,"Sold $220,000 in Jul 2007","Last Sold $119,500 in Feb 1988", ,House: 3  1  2 ,Land size: 488 sqm
+233,45 Margaret Street,"Sold $350,000 in Jun 2007","Last Sold $300,000 in Nov 2005", ,House: 3  1  1 ,Land size: 49 sqm | Building size: 138 sqm
+234,14 Liverpool Street,"Sold $630,250 in Jun 2007","Last Sold $589,000 in Feb 2006", ,House: 4  3  1 ,Land size: 403 sqm | Building size: 215 sqm
+235,46 Victoria Street,"Sold $290,000 in May 2007","Last Sold $250,000 in Oct 2005", ,House: 3  3  3 ,Land size: 423 sqm | Building size: 385 sqm
+236,10 ST DAVID Street,"Sold $361,000 in Feb 2007", , ,House: 3  1  2 ,Land size: 734 sqm
+237,159 Melbourne Road,"Sold $395,000 in Jan 2007", , , ,Land size: 274 sqm | Building size: 95 sqm
+238,38 Vautier Street,"Sold $470,000 in Dec 2006", , ,House: 4  3  1 ,Land size: 613 sqm
+239,27 Vautier Street,"Sold $332,500 in Dec 2006", ,Rent $630pw in Oct 2016,House: 3  1  2 ,Land size: 613 sqm | Building size: 218 sqm
+240,53 Margaret Street,"Sold $435,000 in Nov 2006", , ,House: 3  ,Land size: 202 sqm
+241,50 Margaret Street,"Sold $425,000 in Nov 2006", ,Rent $340pw in Aug 2005,House: 3  1  1 ,Land size: 207 sqm
+242,52 Margaret Street,"Sold $435,000 in Nov 2006", ,Rent $375pw in Aug 2005,House: 3  1  1 ,Land size: 203 sqm
+243,1 Liverpool Street,"Sold $346,000 in Oct 2006", , ,House: 3  1  2 ,Land size: 249 sqm
+244,4/13 Balmoral Crescent,"Sold $830,000 in Aug 2006","Last Sold $505,000 in Jul 2000", ,Townhouse: 3  2  1 ,"Land size: 1,852 sqm"
+245,3/5 Victoria Street,"Sold $330,000 in May 2006", , , ,Land size: 146 sqm
+246,3/5-7 Victoria Street,"Sold $330,000 in May 2006", ,Rent $395pw in Jan 2018, ,Land size: 146 sqm
+247,5 HOLDEN Avenue,"Sold $490,000 in Apr 2006","Last Sold $357,000 in Oct 2004", ,House: 3  1  1 ,Land size: 238 sqm
+248,28 Margaret Street,"Sold $275,000 in Apr 2006","Last Sold $57,500 in Nov 1987", ,House: 4  1  2 ,Land size: 422 sqm
+249,37 Holden Avenue,"Sold $429,000 in Dec 2005", , ,House: 3  ,Land size: 581 sqm
+250,38 Walker Street,"Sold $306,000 in Dec 2005","Last Sold $55,500 in Aug 1984", ,House: 4  1  3 ,Land size: 488 sqm | Building size: 187 sqm
+251,23 Walker Street,"Sold $450,000 in Oct 2005", ,Rent $500pw in Sep 2012,House: 4  2  2 ,Land size: 494 sqm
+252,15 Balmoral Crescent,"Sold $1,625,000 in Aug 2005","Last Sold $370,000 in Feb 1997", ,House: 3  2  2 ,"Land size: 1,153 sqm"
+253,15 Liverpool Street,"Sold $467,000 in Aug 2005", , ,House: 3  2  1 ,Land size: 590 sqm
+254,13 Margaret Street,"Sold $257,000 in May 2005", ,Rent $400pw in Jul 2019,House: 3  1  ,Land size: 432 sqm | Building size: 92 sqm
+255,3 Liverpool Street,"Sold $341,000 in Apr 2005","Last Sold $64,000 in Jun 1985", ,House: 3  1  2 ,Land size: 482 sqm | Building size: 110 sqm
+256,24 Victoria Street,"Sold $190,000 in Apr 2005","Last Sold $70,000 in Oct 1997", ,House: 3  ,Land size: 266 sqm
+257,34 Aberdeen Street,"Sold $341,000 in Apr 2005", , , , 
+258,1 Holden Avenue,"Sold $483,910 in Mar 2005", , ,House: ,Land size: 370 sqm
+259,29 VICTORIA Street,"Sold $590,000 in Dec 2004", , ,House: 3  3  2 ,Land size: 185 sqm
+260,29 Liverpool Street,"Sold $450,000 in Dec 2004","Last Sold $221,000 in May 2000", ,House: 2  1  1 ,Land size: 322 sqm
+261,22 Margaret Street,"Sold $252,000 in Nov 2004", , ,House: 3  1  2 ,Land size: 370 sqm
+262,29 Holden Avenue,"Sold $357,000 in Oct 2004", , ,House: 4  3  3 ,Land size: 615 sqm | Building size: 341 sqm
+263,2 Holden Avenue,"Sold $645,000 in Aug 2004", ,Rent $595pw in Jan 2019,House: 3  1  1 ,Land size: 492 sqm
+264,38 Victoria Street,"Sold $435,000 in Jul 2004","Last Sold $59,500 in Jul 1988", ,House: 3  1  ,Land size: 426 sqm
+265,31 Liverpool Street,"Sold $495,000 in Jul 2004", ,Rent $230pw in Apr 2007,House: 2  1  1 ,Land size: 165 sqm | Building size: 164 sqm
+266,43 Walker Street,"Sold $335,000 in Aug 2003","Last Sold $230,000 in Jun 2000", ,House: 3  1  2 ,Land size: 484 sqm | Building size: 197 sqm
+267,31 Margaret Street,"Sold $332,000 in Apr 2003","Last Sold $155,000 in Nov 1998", ,House: 3  1  3 ,Land size: 433 sqm
+268,4 Balmoral Crescent,"Sold $530,000 in Apr 2003","Last Sold $280,000 in Jan 2001", ,House: 4  2  1 ,Land size: 278 sqm
+269,6 Victoria Street,"Sold $254,000 in Feb 2003", , ,House: ,Land size: 352 sqm
+270,6 Margaret Street,"Sold $205,000 in Dec 2002", , ,House: 2  1  1 ,Land size: 533 sqm
+271,30 Edward Street,"Sold $250,500 in Nov 2002", , , ,Land size: 433 sqm
+272,41 Liverpool Street,"Sold $750,000 in Oct 2002", , ,House: 3  3  3 ,Land size: 488 sqm
+273,38 Holden Avenue,"Sold $90,000 in Jul 2002", , , ,Land size: 228 sqm
+274,16 Walker Street,"Sold $125,000 in Jul 2001", , ,House: 2  1  1 ,Land size: 488 sqm | Building size: 167 sqm
+275,26 Walker Street,"Sold $226,000 in Apr 2001","Last Sold $153,000 in Oct 1999", ,House: 3  1  2 ,Land size: 284 sqm | Building size: 122 sqm
+276,48 Victoria Street,"Sold $280,000 in Mar 2001", , ,House: 4  3  3 ,Land size: 422 sqm
+277,21 Margaret Street,"Sold $100,000 in Feb 2001", ,Rent $350pw in Sep 2019,House: 2  1  ,Land size: 205 sqm | Building size: 110 sqm
+278,37 Margaret Street,"Sold $110,500 in Jul 2000", ,Rent $280pw in Nov 2015,House: 2  1  1 ,Land size: 431 sqm
+279,16 Liverpool Street,"Sold $260,000 in Jun 2000", , ,House: 4  3  3 ,Land size: 195 sqm
+280,18 Margaret Street,"Sold $165,000 in May 2000", , , ,Land size: 527 sqm
+281,20 Victoria Street,"Sold $325,000 in Mar 2000","Last Sold $81,100 in Nov 1997", ,House: 4  ,Land size: 401 sqm
+282,35 Liverpool Street,"Sold $183,500 in Mar 2000", ,Rent $300pw in Jun 2019,House: 2  1  1 ,Land size: 293 sqm
+283,36 Walker Street,"Sold $171,000 in Feb 2000","Last Sold $127,500 in May 1998", ,House: 3  ,Land size: 488 sqm
+284,44 Margaret Street,"Sold $130,000 in Feb 2000", , ,House: 3  1  2 ,Land size: 427 sqm
+285,29 Walker Street,"Sold $275,000 in Feb 2000", , ,House: 3  2  1 ,Land size: 236 sqm
+286,56 Victoria Street,"Sold $84,500 in Feb 2000", , ,House: 3  ,Land size: 420 sqm
+287,15 Margaret Street,"Sold $65,000 in Feb 2000","Last Sold $53,000 in Feb 1986", ,House: 3  1  2 ,Land size: 432 sqm
+288,18 Victoria Street,"Sold $157,000 in Feb 2000","Last Sold $134,000 in Jul 1994", ,House: 3  ,Land size: 418 sqm
+289,28 Walker Street,"Sold $164,000 in Jun 1999","Last Sold $134,000 in Sep 1996", ,House: 3  1  2 ,Land size: 335 sqm
+290,33 Margaret Street,"Sold $112,000 in Jan 1999","Last Sold $74,700 in Jan 1994", ,House: 3  1  3 ,Land size: 434 sqm
+291,36 Edward Street,"Sold $116,000 in Jan 1999","Last Sold $55,000 in Sep 1987", ,House: 3  1  1 ,Land size: 434 sqm
+292,7 Liverpool Street,"Sold $110,000 in Nov 1998", , ,House: 4  3  ,Land size: 247 sqm
+293,26 Margaret Street,"Sold $101,000 in Jul 1998","Last Sold $87,000 in Aug 1995", ,House: 3  1  1 ,Land size: 428 sqm
+294,31 Holden Avenue,"Sold $133,500 in Nov 1997", , ,House: ,Land size: 615 sqm
+295,26 Edward Street,"Sold $88,000 in Sep 1997","Last Sold $80,500 in Oct 1994", ,House: 3  1  1 ,Land size: 433 sqm | Building size: 148 sqm
+296,41 Margaret Street,"Sold $85,500 in Oct 1995", , ,House: 1  ,Land size: 434 sqm
+297,141 Melbourne Road,"Sold $125,000 in Aug 1995", , ,House: 5  3  3 ,Land size: 233 sqm
+298,1/13 Balmoral Crescent,"Sold $270,000 in Jul 1995","Last Sold $260,000 in Feb 1993", , ,"Land size: 1,852 sqm"
+299,12 Liverpool Street,"Sold $79,000 in May 1994", , ,House: ,Land size: 392 sqm

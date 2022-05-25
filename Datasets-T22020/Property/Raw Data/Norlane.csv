@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,82 Rose Avenue,"Sold $251,500 in Sep 2020","Last Sold $146,000 in Nov 2008", ,House: 3  1  3 ,Land size: 660 sqm | Building size: 89 sqm
+1,36 Peacock Avenue,"Sold $319,000 in Aug 2020", , ,House: ,Land size: 609 sqm
+2,12 Peacock Avenue,"Sold $547,000 in Aug 2020","Last Sold $296,000 in Sep 2009", ,House: 4  2  4 ,Land size: 592 sqm
+3,18 Gull Street,"Sold $435,000 in Aug 2020","Last Sold $230,000 in Jun 2011", ,House: 4  2  3 ,Land size: 557 sqm | Building size: 131 sqm
+4,119 Cox Road,"Sold $265,000 in Aug 2020","Last Sold $190,000 in Oct 2014", ,House: 3  1  1 ,Land size: 616 sqm
+5,7 Dove Street,"Sold $475,000 in Aug 2020", , ,House: 4  2  2 ,Land size: 558 sqm
+6,126 Princes Highway,"Sold $470,000 in Aug 2020", , ,House: ,Land size: 930 sqm
+7,13 Cortina Close,"Sold $390,000 in Aug 2020","Last Sold $225,000 in Dec 2012", ,House: 3  1  1 ,Land size: 538 sqm | Building size: 95 sqm
+8,11 Bellbird Avenue,"Sold $290,000 in Aug 2020","Last Sold $152,000 in Jun 2009", ,House: 3  1  1 ,Land size: 557 sqm
+9,9 Bingara Avenue,"Sold $376,000 in Aug 2020","Last Sold $251,200 in Nov 2012", ,House: 3  2  2 ,Land size: 628 sqm | Building size: 145 sqm
+10,22 Moran Place,"Sold $395,000 in Aug 2020","Last Sold $210,250 in Aug 2007", ,House: 3  1  1 ,Land size: 575 sqm
+11,2/33 Camellia Crescent,"Sold $345,000 in Aug 2020", ,Rent $260pw in Aug 2016,Townhouse: 2  2  1 ,Land size: 179 sqm
+12,3 Taroonga Court,"Sold $370,000 in Aug 2020","Last Sold $205,000 in Jan 2015", ,House: 3  1  1 ,Land size: 753 sqm
+13,145 Sparks Road,"Sold $373,500 in Aug 2020","Last Sold $119,000 in Jul 2007", ,House: 3  1  1 ,Land size: 650 sqm
+14,32 Brooks Street,"Sold $395,000 in Aug 2020","Last Sold $227,000 in Oct 2016", ,House: 3  1  2 ,Land size: 577 sqm | Building size: 85 sqm
+15,12 Tennyson Street,"Sold $317,000 in Jul 2020", ,Rent $250pw in May 2018,House: 3  1  3 ,Land size: 612 sqm
+16,4 Peacock Avenue,"Sold $455,000 in Jul 2020","Last Sold $318,000 in Apr 2010", , ,Land size: 778 sqm | Building size: 139 sqm
+17,12 Camfield Road,"Sold $451,799 in Jul 2020","Last Sold $302,500 in Feb 2016", ,House: 4  1  1 ,Land size: 550 sqm | Building size: 139 sqm
+18,38 Donnelly Avenue,"Sold $276,000 in Jul 2020","Last Sold $67,000 in Apr 1989", ,House: 1  1  2 ,Land size: 646 sqm
+19,1 Tulip Street,"Sold $410,000 in Jul 2020","Last Sold $63,000 in Mar 1994", ,House: ,Land size: 635 sqm
+20,40 Olympic Avenue,"Sold $371,000 in Jul 2020", , ,House: 4  1  2 ,Land size: 566 sqm
+21,2 Maynooth Drive,"Sold $355,000 in Jul 2020","Last Sold $182,000 in Sep 2007", ,House: 3  1  2 ,Land size: 628 sqm
+22,58 Rose Avenue,"Sold $385,000 in Jul 2020","Last Sold $221,000 in Jan 2016", ,House: 2  1  2 ,Land size: 725 sqm | Building size: 92 sqm
+23,169 Sparks Road,"Sold $385,000 in Jul 2020","Last Sold $255,000 in Feb 2017", ,House: 3  1  2 ,Land size: 604 sqm | Building size: 101 sqm
+24,4 Akma Court,"Sold $392,500 in Jul 2020", , ,House: 2  1  1 ,Land size: 638 sqm
+25,51 Station Street,"Sold $385,000 in Jun 2020","Last Sold $239,000 in Feb 2014", ,House: 3  1  3 ,Land size: 811 sqm | Building size: 99 sqm
+26,24 Hinton Close,"Sold $385,000 in Jun 2020","Last Sold $250,000 in Mar 2013", ,House: 3  1  3 ,Land size: 592 sqm | Building size: 116 sqm
+27,1/28 Warrawee Avenue,"Sold $290,000 in Jun 2020","Last Sold $230,000 in Mar 2019", ,House: 2  1  1 ,Land size: 396 sqm
+28,80 Olympic Avenue,"Sold $381,000 in Jun 2020","Last Sold $130,000 in Jan 2015", ,House: 3  1  1 ,Land size: 655 sqm | Building size: 121 sqm
+29,9 Page Street,"Sold $420,000 in Jun 2020","Last Sold $210,000 in Jan 2006", ,House: 3  1  3 ,Land size: 581 sqm
+30,165 Sparks Road,"Sold $225,000 in Jun 2020","Last Sold $62,000 in May 2001", , ,Land size: 650 sqm
+31,23 Warrawee Avenue,"Sold $306,000 in 16 Jun 2020(Auction)","Last Sold $200,000 in May 2012", ,House: 2  1  1 ,Land size: 634 sqm
+32,15 Lumeah Street,"Sold $290,000 in Jun 2020","Last Sold $198,000 in Sep 2011", ,House: 3  1  4 ,Land size: 666 sqm
+33,11 Kalinga Street,"Sold $372,000 in Jun 2020","Last Sold $370,000 in Feb 2018", ,House: 3  1  1 ,Land size: 653 sqm
+34,35 Waitara Grove,"Sold $308,000 in Jun 2020", , ,House: 3  1  2 ,Land size: 641 sqm
+35,16 Zinnia Street,"Sold $330,000 in May 2020", , ,House: 3  1  2 ,Land size: 758 sqm
+36,26 Donnelly Avenue,"Sold $408,000 in May 2020","Last Sold $77,500 in Apr 1991", ,House: 1  ,Land size: 650 sqm
+37,95 Donnybrook Road,"Sold $425,000 in Apr 2020","Last Sold $247,000 in Sep 2006", ,House: 4  2 ,Land size: 616 sqm
+38,1 Coleman Court,"Sold $371,000 in Apr 2020","Last Sold $203,000 in Oct 2008", ,House: 3  1  1 ,Land size: 592 sqm
+39,1/33 Camellia Crescent,"Sold $239,000 in Mar 2020", ,Rent $240pw in Oct 2016,House: 2  1  1 ,Land size: 243 sqm
+40,3/10 Corrin Court,"Sold $335,000 in Mar 2020","Last Sold $205,000 in Jun 2012", , ,Land size: 219 sqm | Building size: 121 sqm
+41,45 Eagle Parade,"Sold $340,000 in Mar 2020","Last Sold $216,000 in Jan 2015", ,House: 3  1  6 ,Land size: 557 sqm | Building size: 123 sqm
+42,26B Tallis Street,"Sold $377,000 in Mar 2020", , ,Townhouse: ,Land size: 190 sqm
+43,4 Holdsworth Court,"Sold $500,000 in Mar 2020","Last Sold $76,000 in Sep 1995", ,House: 3  2  2 ,Land size: 697 sqm
+44,28 Dunloe Avenue,"Sold $436,000 in Mar 2020", , ,House: ,Land size: 655 sqm
+45,3/19 Olympic Avenue,"Sold $255,000 in Mar 2020","Last Sold $136,000 in May 2015", , ,Land size: 98 sqm
+46,16 Tennyson Street,"Sold $370,000 in Mar 2020","Last Sold $232,000 in Feb 2016", ,House: 3  2  1 ,Land size: 613 sqm | Building size: 111 sqm
+47,113 Princes Highway,"Sold $380,000 in Mar 2020","Last Sold $153,000 in Apr 2009", ,House: 3  2  1 ,Land size: 557 sqm
+48,32 Bellbird Avenue,"Sold $339,600 in Mar 2020","Last Sold $210,000 in Sep 2013", ,House: 2  1  2 ,Land size: 557 sqm | Building size: 112 sqm
+49,54 Peacock Avenue,"Sold $450,000 in Mar 2020","Last Sold $155,000 in Apr 2003", ,House: 3  2  2 ,Land size: 617 sqm
+50,9 Wirraway Crescent,"Sold $485,000 in Feb 2020", , ,House: 3  2  3 ,Land size: 576 sqm
+51,48 Wendover Avenue,"Sold $363,000 in Feb 2020","Last Sold $130,000 in Feb 2000", ,House: 3  1  1 ,Land size: 650 sqm
+52,12 Cortina Close,"Sold $415,000 in Feb 2020","Last Sold $275,000 in Feb 2015", ,House: 3  1  4 ,Land size: 545 sqm | Building size: 128 sqm
+53,76 Bellbird Avenue,"Sold $480,000 in Feb 2020","Last Sold $96,000 in Nov 2013", , ,Land size: 557 sqm | Building size: 132 sqm
+54,6/16-18 Wirraway Crescent,"Sold $508,000 in Feb 2020","Last Sold $355,000 in Jan 2014", , ,Land size: 324 sqm
+55,18 Barcelona Street,"Sold $360,000 in Feb 2020","Last Sold $215,000 in Oct 2009", ,House: 3  1  2 ,Land size: 592 sqm
+56,20 Lowan Avenue,"Sold $370,000 in Feb 2020","Last Sold $170,000 in Nov 2010", ,House: 3  1  1 ,Land size: 479 sqm | Building size: 150 sqm
+57,13 Waitara Grove,"Sold $395,000 in Feb 2020","Last Sold $352,500 in Mar 2018", ,House: 3  1  6 ,Land size: 640 sqm
+58,2/16-18 Wirraway Crescent,"Sold $385,000 in Feb 2020","Last Sold $295,000 in Nov 2011", ,Townhouse: 3  2  2 ,Land size: 279 sqm
+59,15 Moran Place,"Sold $365,000 in Feb 2020","Last Sold $156,500 in Jul 2003", ,House: ,Land size: 312 sqm
+60,86 The Boulevard,"Sold $345,000 in Feb 2020", , ,House: ,Land size: 639 sqm
+61,3/61 ST GEORGES Road,"Sold $300,000 in Feb 2020", ,Rent $225pw in May 2015, ,Land size: 150 sqm
+62,12 Yooringa Avenue,"Sold $310,000 in Feb 2020","Last Sold $110,005 in Nov 2004", ,House: 3  1  1 ,Land size: 674 sqm
+63,1/99 Station Street,"Sold $315,000 in Feb 2020","Last Sold $189,000 in Jan 2013", ,House: 3  1  1 ,Land size: 287 sqm
+64,21 Cox Road,"Sold $285,000 in Feb 2020", , ,House: 2  1  2 ,Land size: 569 sqm
+65,19 Eagle Parade,"Sold $310,000 in Feb 2020","Last Sold $185,000 in Jun 2011", ,House: 3  1  2 ,Land size: 608 sqm | Building size: 93 sqm
+66,60 Olympic Avenue,"Sold $350,000 in Jan 2020","Last Sold $180,000 in Nov 2014", ,House: 3  1  1 ,Land size: 657 sqm
+67,10 Zinnia Street,"Sold $350,000 in Jan 2020","Last Sold $167,000 in Nov 2015", ,House: 3  1  ,Land size: 729 sqm
+68,11 Karrin Court,"Sold $327,000 in Jan 2020","Last Sold $248,000 in Mar 2016", ,House: 3  1  2 ,Land size: 670 sqm | Building size: 670 sqm
+69,73 St Georges Road,"Sold $302,000 in Jan 2020","Last Sold $188,500 in Jun 2014", ,House: 3  1  1 ,Land size: 516 sqm
+70,3 Tulip Street,"Sold $397,000 in Jan 2020","Last Sold $237,500 in Jul 2015", ,House: 3  1  2 ,Land size: 635 sqm
+71,17 Croatia Place,"Sold $475,000 in Dec 2019","Last Sold $432,500 in Mar 2018", ,House: 3  2  2 ,Land size: 437 sqm
+72,12 Zinnia Street,"Sold $360,000 in Dec 2019", , ,House: ,Land size: 729 sqm
+73,4 Denver Street,"Sold $310,000 in Dec 2019", , ,House: ,Land size: 663 sqm
+74,32A Princes Highway,"Sold $375,000 in Dec 2019","Last Sold $56,560 in Nov 2015", , ,Land size: 265 sqm
+75,4 Falcon Street,"Sold $392,000 in Dec 2019","Last Sold $200,000 in Feb 2017", , ,Land size: 556 sqm
+76,53 Donnelly Avenue,"Sold $365,000 in Dec 2019","Last Sold $251,500 in Oct 2016", ,House: 2  1  2 ,Land size: 650 sqm | Building size: 82 sqm
+77,11 Station Street,"Sold $477,500 in Dec 2019","Last Sold $352,000 in Aug 2017", ,House: 4  1  3 ,Land size: 260 sqm
+78,38A Alkira Avenue,"Sold $330,000 in Dec 2019","Last Sold $225,000 in Jan 2016", ,House: 2  1  1 ,Land size: 254 sqm
+79,62 Bellbird Avenue,"Sold $272,500 in 14 Dec 2019(Auction)", , ,House: ,Land size: 558 sqm
+80,21 Swallow Crescent,"Sold $295,000 in 14 Dec 2019(Auction)", , ,House: 3  1  1 ,Land size: 558 sqm
+81,5 Pettitt Crescent,"Sold $408,000 in Dec 2019","Last Sold $51,500 in Jul 2000", ,House: 2  1  2 ,Land size: 479 sqm
+82,78 Rose Avenue,"Sold $370,000 in Dec 2019","Last Sold $186,000 in May 2013", ,House: 2  1  2 ,Land size: 726 sqm
+83,13A Tallis Street,"Sold $380,000 in Dec 2019", , ,House: ,Land size: 725 sqm
+84,4 Bellnore Drive,"Sold $415,000 in 10 Dec 2019(Auction)","Last Sold $90,000 in Aug 2000", ,House: 3  1  ,Land size: 689 sqm | Building size: 175 sqm
+85,166 Sparks Road,"Sold $350,000 in Dec 2019", , ,House: ,Land size: 689 sqm
+86,3 Kestrel Court,"Sold $400,000 in Dec 2019","Last Sold $366,000 in Jan 2018", ,House: 3  2  2 ,Land size: 688 sqm
+87,515 Thompson Road,"Sold $310,000 in 07 Dec 2019(Auction)", , ,House: ,Land size: 737 sqm
+88,65 Camellia Crescent,"Sold $375,000 in 07 Dec 2019(Auction)", ,Rent $240pw in Oct 2013,House: 2  1  1 ,Land size: 641 sqm
+89,51 Princes Highway,"Sold $432,000 in Dec 2019","Last Sold $137,000 in Apr 2009", ,House: 3  2  3 ,Land size: 405 sqm
+90,113 Cox Road,"Sold $310,000 in 03 Dec 2019(Auction)", , ,House: ,Land size: 610 sqm
+91,14 Yooringa Avenue,"Sold $390,000 in Dec 2019","Last Sold $150,000 in Mar 2006", ,House: 3  1  2 ,Land size: 662 sqm
+92,1B Lowan Avenue,"Sold $258,000 in Dec 2019", , ,House: ,Land size: 277 sqm
+93,2 Korumburra Close,"Sold $350,000 in Nov 2019","Last Sold $157,500 in Feb 2000", ,House: 3  1  2 ,Land size: 592 sqm | Building size: 112 sqm
+94,587 Thompson Road,"Sold $370,000 in Nov 2019","Last Sold $302,000 in Aug 2017", ,House: 3  1  1 ,Land size: 660 sqm | Building size: 103 sqm
+95,106 The Boulevard,"Sold $370,000 in Nov 2019","Last Sold $176,000 in Jul 2013", ,House: 3  1  2 ,Land size: 769 sqm
+96,26D Tallis Street,"Sold $342,000 in Nov 2019", , ,House: 2  1  1 ,Land size: 332 sqm
+97,536 Thompson Road,"Sold $290,000 in Nov 2019","Last Sold $174,000 in Feb 2015(Auction)", ,House: 3  1  1 ,Land size: 604 sqm | Building size: 88 sqm
+98,3A Wisteria Grove,"Sold $360,000 in Nov 2019", , , ,Land size: 231 sqm
+99,81 Station Street,"Sold $367,000 in Nov 2019","Last Sold $218,000 in Jan 2015", ,House: 3  1  3 ,Land size: 711 sqm | Building size: 99 sqm
+100,16 Stradbroke Street,"Sold $393,500 in Nov 2019","Last Sold $220,000 in Jun 2015", ,House: 3  1  2 ,Land size: 701 sqm
+101,52 Alkira Avenue,"Sold $255,000 in Nov 2019","Last Sold $122,000 in Sep 2002", ,House: 3  2  2 ,Land size: 638 sqm
+102,38 Princes Highway,"Sold $310,000 in Nov 2019", , ,House: 2  1  1 ,Land size: 693 sqm
+103,14 Arunga Avenue,"Sold $350,000 in Oct 2019","Last Sold $51,000 in Jul 1999", ,House: 3  ,Land size: 715 sqm
+104,8 Wellwood Avenue,"Sold $380,000 in Oct 2019","Last Sold $291,000 in Jan 2017", ,House: 4  1  4 ,Land size: 592 sqm | Building size: 114 sqm
+105,47 Peacock Avenue,"Sold $445,000 in Oct 2019","Last Sold $310,000 in Aug 2016", ,House: 3  2  2 ,Land size: 540 sqm | Building size: 133 sqm
+106,41 Cox Road,"Sold $350,000 in Oct 2019","Last Sold $80,000 in Sep 2010", ,House: 4  1  2 ,Land size: 569 sqm
+107,21 Plume Street,"Sold $360,000 in 22 Oct 2019(Auction)","Last Sold $50,800 in May 1988", ,House: 3  1  1 ,Land size: 780 sqm
+108,38 Plume Street,"Sold $220,000 in Oct 2019","Last Sold $151,000 in Feb 2015", ,House: 2  1  1 ,Land size: 452 sqm | Building size: 75 sqm
+109,40 Plume Street,"Sold $220,000 in Oct 2019","Last Sold $151,000 in Feb 2015(Auction)", ,House: 4  1  ,Land size: 451 sqm | Building size: 77 sqm
+110,21 Eagle Parade,"Sold $340,000 in Oct 2019", ,Rent $250pw in Nov 2019,House: 3  1  3 ,Land size: 609 sqm
+111,49 Bellnore Drive,"Sold $465,000 in Oct 2019","Last Sold $356,000 in Jul 2012", ,House: 4  2  6 ,Land size: 742 sqm
+112,1/11 Camellia Crescent,"Sold $260,000 in Oct 2019", ,Rent $260pw in Sep 2019, ,Land size: 299 sqm
+113,1/108 Princes Highway,"Sold $260,000 in Oct 2019", ,Rent $265pw in Jan 2019,House: 2  1  1 ,Land size: 276 sqm
+114,3/2 Alkira Avenue,"Sold $345,000 in Oct 2019", ,Rent $380pw in Jun 2020,Townhouse: 3  2  1 , 
+115,40 Swallow Crescent,"Sold $290,000 in 10 Oct 2019(Auction)", , ,House: 2  1  ,Land size: 792 sqm
+116,A/24 Warrawee Avenue,"Sold $335,000 in Oct 2019", , , , 
+117,1/1 Cobargo Court,"Sold $257,000 in Oct 2019", , ,House: 2  1  1 ,Land size: 331 sqm
+118,45 Gerbera Avenue,"Sold $295,000 in Oct 2019","Last Sold $200,000 in Jun 2015", ,House: 2  1  ,Land size: 613 sqm | Building size: 72 sqm
+119,5 Nowra Court,"Sold $350,000 in Oct 2019","Last Sold $200,000 in Nov 2013", ,House: 3  1  2 ,Land size: 682 sqm | Building size: 80 sqm
+120,131 Station Street,"Sold $358,800 in Oct 2019", , ,House: 2  1  4 ,Land size: 880 sqm
+121,1/2 Alkira Avenue,"Sold $353,000 in Oct 2019", , ,Townhouse: 3  2  2 , 
+122,33 Yooringa Avenue,"Sold $235,000 in Oct 2019","Last Sold $186,000 in Jul 2012", ,House: 2  1  2 ,Land size: 339 sqm | Building size: 72 sqm
+123,19 Peacock Avenue,"Sold $395,000 in Sep 2019","Last Sold $157,500 in Mar 2003", ,House: 3  1  5 ,Land size: 618 sqm
+124,11 Ibis Court,"Sold $400,000 in Sep 2019","Last Sold $177,000 in Jul 2010", ,House: 2  1  7 ,Land size: 565 sqm | Building size: 79 sqm
+125,2/2 Alkira Avenue,"Sold $335,000 in Sep 2019", , ,Townhouse: 3  2  2 , 
+126,52 Rose Avenue,"Sold $315,000 in 21 Sep 2019(Auction)","Last Sold $50,000 in Jul 2000", ,House: 2  1  1 ,Land size: 726 sqm
+127,4 Korumburra Close,"Sold $435,000 in Sep 2019", , ,House: 4  2  2 ,Land size: 592 sqm
+128,13 Swallow Crescent,"Sold $355,000 in Sep 2019","Last Sold $181,500 in Sep 2014", ,House: 2  1  2 ,Land size: 557 sqm | Building size: 72 sqm
+129,4 Swallow Crescent,"Sold $275,000 in Sep 2019","Last Sold $148,500 in Oct 2009", ,House: 2  1  2 ,Land size: 557 sqm
+130,8 Maynooth Drive,"Sold $370,000 in Sep 2019", ,Rent $320pw in Sep 2019,House: 3  1  1 ,Land size: 565 sqm
+131,47 Gerbera Avenue,"Sold $300,000 in Sep 2019","Last Sold $206,000 in Jun 2014", ,House: 3  1  ,Land size: 613 sqm | Building size: 94 sqm
+132,35 Donnelly Avenue,"Sold $375,000 in 07 Sep 2019(Auction)", ,Rent $275pw in Nov 2019,House: 2  1  2 ,Land size: 646 sqm
+133,3 Warrawee Avenue,"Sold $330,000 in Sep 2019","Last Sold $140,000 in Apr 2004", ,House: 3  1  5 ,Land size: 640 sqm
+134,3 Carnation Court,"Sold $427,000 in 31 Aug 2019(Auction)", , ,House: 2  1  4 ,"Land size: 1,246 sqm"
+135,26 Camellia Crescent,"Sold $360,000 in Aug 2019","Last Sold $145,000 in Jul 2005", ,House: 3  1  2 ,Land size: 747 sqm
+136,37 Gardenia Grove,"Sold $320,650 in Aug 2019","Last Sold $203,000 in Jun 2012", ,House: 3  1  2 ,Land size: 650 sqm
+137,545 Thompson Road,"Sold $310,000 in Aug 2019", , ,House: 2  1  2 ,Land size: 680 sqm
+138,53 Olympic Avenue,"Sold $315,000 in Aug 2019", , ,House: 3  1  2 ,Land size: 696 sqm
+139,12 Ulladulla Street,"Sold $305,000 in Aug 2019", , ,House: 2  1  2 ,Land size: 642 sqm
+140,1 Wirraway Crescent,"Sold $496,000 in Aug 2019","Last Sold $330,000 in Sep 2012", ,House: 3  2  4 ,Land size: 531 sqm
+141,72 Bellbird Avenue,"Sold $299,000 in Aug 2019","Last Sold $181,000 in Mar 2014", ,House: 3  1  2 ,Land size: 660 sqm
+142,2/51 Camellia Crescent,"Sold $281,500 in Aug 2019", ,Rent $270pw in Dec 2016, ,Land size: 112 sqm
+143,29 Dunloe Avenue,"Sold $415,000 in Aug 2019","Last Sold $250,000 in Sep 2016", ,House: 4  1  1 ,Land size: 655 sqm | Building size: 130 sqm
+144,133 Sparks Road,"Sold $310,000 in Aug 2019", , ,House: 3  1  1 ,Land size: 651 sqm
+145,64 Tennyson Street,"Sold $339,000 in Aug 2019","Last Sold $231,000 in May 2016", ,House: 3  1  2 ,Land size: 650 sqm | Building size: 120 sqm
+146,6/27 Hinton Close,"Sold $225,000 in Aug 2019","Last Sold $224,000 in Sep 2010", , ,Land size: 162 sqm | Building size: 65 sqm
+147,32 Tallis Street,"Sold $383,500 in Aug 2019","Last Sold $350,000 in Jan 2018", ,House: 3  1  2 ,Land size: 770 sqm
+148,50 Iona Street,"Sold $247,000 in Aug 2019","Last Sold $127,000 in Mar 2004", ,House: 3  1  1 ,Land size: 458 sqm
+149,178 Sparks Road,"Sold $387,500 in Jul 2019","Last Sold $220,000 in Mar 2016", ,House: 3  1  2 ,Land size: 763 sqm | Building size: 91 sqm
+150,6 Jay Street,"Sold $293,000 in Jul 2019","Last Sold $183,000 in Dec 2015", ,House: 2  1  6 ,Land size: 557 sqm | Building size: 74 sqm
+151,13 Wellwood Avenue,"Sold $440,000 in Jul 2019","Last Sold $411,000 in May 2018(Auction)", ,House: 3  2  3 ,Land size: 592 sqm
+152,1/26 Stradbroke Street,"Sold $330,000 in Jul 2019","Last Sold $275,000 in Dec 2016", ,House: 2  1  1 ,Land size: 247 sqm
+153,11 Moa Street,"Sold $285,000 in Jul 2019","Last Sold $137,000 in Apr 2006", ,House: 3  1  2 ,Land size: 577 sqm | Building size: 120 sqm
+154,7 Elmore Street,"Sold $348,000 in Jul 2019", , ,House: 2  1  2 ,Land size: 611 sqm
+155,42 Swallow Crescent,"Sold $315,000 in Jun 2019","Last Sold $260,000 in Sep 2017", ,House: 2  1  1 ,Land size: 653 sqm
+156,14 Jamina Court,"Sold $392,000 in Jun 2019","Last Sold $185,000 in Sep 2003", ,House: 3  1  5 ,Land size: 629 sqm
+157,19 Dunloe Avenue,"Sold $400,000 in Jun 2019","Last Sold $266,000 in May 2013", ,House: 3  2  6 ,Land size: 655 sqm | Building size: 112 sqm
+158,8 Curlew Crescent,"Sold $310,000 in Jun 2019","Last Sold $192,000 in Nov 2011", ,House: 3  1  1 ,Land size: 558 sqm
+159,40 Dunloe Avenue,"Sold $396,500 in Jun 2019", ,Rent $335pw in Sep 2016,House: 3  1  2 ,Land size: 545 sqm
+160,10 Alkira Avenue,"Sold $280,000 in Jun 2019","Last Sold $180,000 in Sep 2011", ,House: 2  1  1 ,Land size: 676 sqm
+161,79 The Boulevard,"Sold $340,000 in Jun 2019","Last Sold $159,000 in May 2008", ,House: 3  1  1 ,Land size: 549 sqm
+162,5 Corrin Court,"Sold $475,000 in Jun 2019", ,Rent $420pw in Jul 2019,House: 4  2  4 ,Land size: 697 sqm
+163,5/84 Donnybrook Road,"Sold $352,000 in Jun 2019","Last Sold $215,000 in Jan 2009", , ,Land size: 194 sqm | Building size: 90 sqm
+164,3 Takoma Court,"Sold $420,000 in Jun 2019","Last Sold $325,000 in Jun 2013", ,House: 4  2  3 ,"Land size: 1,039 sqm | Building size: 264 sqm"
+165,24 Curlew Crescent,"Sold $332,000 in Jun 2019","Last Sold $174,000 in Jan 2013(Auction)", ,House: 2  1  1 ,Land size: 641 sqm
+166,4 Takoma Court,"Sold $290,000 in Jun 2019", ,Rent $290pw in Sep 2019,House: 3  1  4 ,Land size: 712 sqm
+167,20 Camellia Crescent,"Sold $360,200 in Jun 2019","Last Sold $350,000 in May 2018", ,House: 3  1  1 ,Land size: 747 sqm
+168,5 Wren Street,"Sold $250,000 in Jun 2019", , ,House: 3  1  ,Land size: 556 sqm
+169,18 Waitara Grove,"Sold $300,000 in Jun 2019","Last Sold $211,000 in Oct 2011", ,House: 3  1  3 ,Land size: 640 sqm | Building size: 96 sqm
+170,54 Tallis Street,"Sold $370,000 in Jun 2019","Last Sold $300,000 in Feb 2017", ,House: 2  1  1 ,Land size: 745 sqm | Building size: 74 sqm
+171,74 Eagle Parade,"Sold $340,000 in Jun 2019", ,Rent $240pw in Sep 2019,House: 2  1  3 ,Land size: 785 sqm
+172,31 Swallow Crescent,"Sold $270,000 in Jun 2019","Last Sold $50,500 in Jun 1998", ,House: 2  1  ,Land size: 597 sqm
+173,549 Thompson Road,"Sold $385,000 in Jun 2019","Last Sold $210,000 in Mar 2015", ,House: 3  1  4 ,Land size: 588 sqm
+174,3 Spruhan Avenue,"Sold $330,000 in Jun 2019","Last Sold $138,000 in Dec 2004", ,House: 2  1  4 ,Land size: 697 sqm
+175,2/32 Spruhan Avenue,"Sold $340,000 in Jun 2019","Last Sold $255,000 in Apr 2013", , ,Land size: 300 sqm | Building size: 113 sqm
+176,58 Dunloe Avenue,"Sold $385,000 in Jun 2019","Last Sold $247,000 in May 2013", ,House: 3  1  1 ,Land size: 655 sqm | Building size: 150 sqm
+177,9 Spruhan Avenue,"Sold $345,000 in Jun 2019", , ,House: 3  1  1 ,Land size: 696 sqm
+178,3 Nowra Court,"Sold $320,000 in May 2019","Last Sold $142,500 in Mar 2005", ,House: 3  1  8 ,Land size: 807 sqm | Building size: 85 sqm
+179,3 Tennyson Street,"Sold $336,000 in May 2019","Last Sold $221,000 in Jun 2011", ,House: 3  1  5 ,Land size: 650 sqm | Building size: 99 sqm
+180,44 Princes Highway,"Sold $320,000 in May 2019","Last Sold $54,500 in Mar 2001", ,House: 2  1  2 ,Land size: 636 sqm
+181,6 Takoma Court,"Sold $350,000 in May 2019","Last Sold $160,000 in Jun 2008", ,House: 2  1  2 ,"Land size: 1,039 sqm | Building size: 82 sqm"
+182,31 Wendover Avenue,"Sold $255,000 in May 2019","Last Sold $178,000 in Jul 2014", ,House: 3  1  1 ,Land size: 650 sqm | Building size: 99 sqm
+183,6 Portland Street,"Sold $300,000 in May 2019","Last Sold $160,000 in May 2009", ,House: 2  1  4 ,Land size: 598 sqm
+184,1 Kalinga Street,"Sold $341,000 in May 2019", ,Rent $340pw in Jun 2019,House: 4  1  2 ,Land size: 650 sqm
+185,10 Kentucky Avenue,"Sold $430,000 in May 2019", , ,House: 3  1  3 ,Land size: 581 sqm
+186,70 Princes Highway,"Sold $330,000 in May 2019","Last Sold $215,500 in Feb 2011", ,House: 4  1  ,Land size: 638 sqm | Building size: 152 sqm
+187,25 Bellbird Avenue,"Sold $275,000 in May 2019", ,Rent $310pw in Jul 2019,House: 3  1  1 ,Land size: 558 sqm
+188,70 Rose Avenue,"Sold $295,000 in May 2019", , ,House: 3  1  1 ,Land size: 729 sqm
+189,127 Princes Highway,"Sold $331,000 in May 2019","Last Sold $72,500 in Dec 2002", ,House: 3  1  4 ,Land size: 539 sqm
+190,52B Donnelly Avenue,"Sold $355,000 in Apr 2019", ,Rent $310pw in Nov 2017,House: 3  2  1 ,Land size: 369 sqm
+191,87 Station Street,"Sold $340,000 in Apr 2019", ,Rent $270pw in Jul 2019,House: 3  1  2 ,Land size: 777 sqm
+192,46 Robin Avenue,"Sold $317,000 in Apr 2019","Last Sold $247,000 in Oct 2017(Auction)", ,House: 3  1  2 ,Land size: 695 sqm
+193,1/35 Bellnore Drive,"Sold $325,000 in Apr 2019","Last Sold $241,600 in Feb 2010", ,House: 2  1  1 ,Land size: 272 sqm
+194,6 Wisteria Grove,"Sold $330,000 in Apr 2019", , ,House: 3  1  3 ,Land size: 651 sqm
+195,71 Station Street,"Sold $360,000 in Apr 2019","Last Sold $280,000 in Nov 2016", , ,Land size: 873 sqm
+196,74 Rose Avenue,"Sold $455,000 in Apr 2019","Last Sold $411,500 in Oct 2017(Auction)", ,House: 3  2  1 ,Land size: 720 sqm | Building size: 103 sqm
+197,53 St Georges Road,"Sold $361,000 in 23 Mar 2019(Auction)","Last Sold $130,000 in Sep 2004", ,House: 3  1  2 ,Land size: 864 sqm
+198,30 Wisteria Grove,"Sold $325,000 in Mar 2019", ,Rent $260pw in May 2019,House: 2  1  2 ,Land size: 651 sqm
+199,17 Moa Street,"Sold $415,000 in Mar 2019","Last Sold $101,020 in Aug 2013", ,House: 3  2  2 ,Land size: 577 sqm | Building size: 137 sqm
+200,2/62 Olympic Avenue,"Sold $405,000 in Mar 2019","Last Sold $307,000 in Mar 2012", , ,Land size: 278 sqm | Building size: 120 sqm
+201,1 Dardell Court,"Sold $405,000 in Mar 2019","Last Sold $217,000 in Oct 2008", ,House: 3  1  3 ,Land size: 650 sqm
+202,3 Coleman Court,"Sold $397,500 in Mar 2019","Last Sold $250,000 in Dec 2016", ,House: 4  1  6 ,Land size: 592 sqm
+203,2/59 St Georges Road,"Sold $285,000 in Mar 2019", ,Rent $250pw in Feb 2019, ,Land size: 151 sqm
+204,5A Shannahan Drive,"Sold $391,500 in Mar 2019", ,Rent $320pw in Mar 2018, , 
+205,52 Iona Street,"Sold $355,000 in Mar 2019","Last Sold $283,000 in Dec 2017", ,House: 2  1  2 ,Land size: 221 sqm | Building size: 101 sqm
+206,20 Dove Street,"Sold $327,000 in Mar 2019", , ,House: 4  1  ,Land size: 682 sqm
+207,59 Gerbera Avenue,"Sold $387,000 in Feb 2019","Last Sold $135,000 in Jul 2004", ,House: 3  2  1 ,Land size: 613 sqm
+208,1 Reserve Road,"Sold $365,000 in Feb 2019","Last Sold $180,000 in Nov 2008", ,House: 3  1  3 ,Land size: 580 sqm | Building size: 105 sqm
+209,3A Waverley Street,"Sold $375,000 in Feb 2019", ,Rent $330pw in Mar 2017,House: 3  2  2 ,Land size: 413 sqm
+210,8 Thrush Street,"Sold $260,000 in Feb 2019","Last Sold $169,000 in Apr 2013", ,House: 2  1  2 ,Land size: 558 sqm
+211,121 Cox Road,"Sold $340,000 in Feb 2019","Last Sold $262,000 in Feb 2016", ,House: 3  1  3 ,Land size: 611 sqm | Building size: 108 sqm
+212,2/104 Robin Avenue,"Sold $480,000 in Feb 2019","Last Sold $76,000 in Mar 2014", ,House: 4  3  2 ,Land size: 312 sqm
+213,85 Waitara Grove,"Sold $322,500 in Feb 2019","Last Sold $160,000 in May 2010", ,House: 2  1  5 ,Land size: 603 sqm | Building size: 98 sqm
+214,20 Tennyson Street,"Sold $330,000 in Feb 2019","Last Sold $250,000 in Nov 2016(Auction)", ,House: 3  1  2 ,Land size: 613 sqm
+215,68 Alkira Avenue,"Sold $358,000 in Feb 2019","Last Sold $135,000 in May 2007", ,House: 2  1  2 ,Land size: 640 sqm
+216,1/89 Rose Avenue,"Sold $300,000 in Feb 2019","Last Sold $220,000 in May 2013", ,House: 2  1  1 ,Land size: 280 sqm | Building size: 110 sqm
+217,93 Plume Street,"Sold $405,000 in Feb 2019","Last Sold $177,000 in Jan 2005", ,House: 3  1  4 ,Land size: 781 sqm | Building size: 101 sqm
+218,51 Wendover Avenue,"Sold $493,000 in Feb 2019","Last Sold $218,000 in May 2010(Auction)", ,House: 6  3  ,Land size: 650 sqm | Building size: 270 sqm
+219,1 Ulladulla Street,"Sold $335,000 in Feb 2019", ,Rent $310pw in Jun 2019,House: 2  1  1 ,Land size: 664 sqm
+220,20 & 22 Lowan Avenue,"Sold $360,000 in Feb 2019", , ,House: 7  3  3 , 
+221,2/68 The Boulevard,"Sold $310,000 in Feb 2019", ,Rent $270pw in Aug 2018, ,Land size: 133 sqm
+222,18 Wellwood Avenue,"Sold $340,000 in Feb 2019", ,Rent $270pw in Feb 2013,House: 2  1  2 ,Land size: 301 sqm
+223,46B Waitara Grove,"Sold $342,000 in Feb 2019","Last Sold $57,600 in Jan 2014", , ,Land size: 240 sqm
+224,1/51 Camelia Crescent,"Sold $270,000 in Feb 2019", , , , 
+225,22 Forster Street,"Sold $375,000 in Feb 2019","Last Sold $55,000 in May 1989", ,House: 3  1  2 ,Land size: 832 sqm
+226,3/73-75 SPARKS Road,"Sold $279,500 in Jan 2019","Last Sold $79,900 in May 1995", , ,Land size: 215 sqm
+227,141 Sparks Road,"Sold $396,000 in Jan 2019","Last Sold $135,000 in Nov 2003", ,House: 3  1  4 ,Land size: 646 sqm | Building size: 88 sqm
+228,7 Stonehaven Court,"Sold $416,000 in Jan 2019", , , , 
+229,106A Plume Street,"Sold $350,000 in Jan 2019","Last Sold $63,125 in Jul 2014", ,House: 2  2  1 ,Land size: 306 sqm
+230,7 Stonehaven Road,"Sold $416,000 in Jan 2019","Last Sold $210,000 in Jul 2006", ,House: 3  1  4 ,Land size: 595 sqm
+231,33 Bellnore Drive,"Sold $516,000 in Jan 2019","Last Sold $295,000 in Dec 2008", ,House: 4  2  4 ,Land size: 661 sqm | Building size: 223 sqm
+232,7 Tallis Street,"Sold $370,000 in Jan 2019","Last Sold $225,000 in Dec 2013", ,House: 2  1  1 ,Land size: 711 sqm | Building size: 77 sqm
+233,1/59 Olympic Avenue,"Sold $320,000 in Jan 2019", ,Rent $330pw in Feb 2019, ,Land size: 288 sqm
+234,85 Rose Avenue,"Sold $280,000 in Jan 2019","Last Sold $127,500 in Jan 2006", ,House: 2  1  1 ,Land size: 658 sqm
+235,2 Kookaburra Court,"Sold $300,000 in Jan 2019","Last Sold $205,500 in Feb 2017", ,House: 2  1  1 ,Land size: 574 sqm | Building size: 73 sqm
+236,18 Bingara Avenue,"Sold $400,000 in Jan 2019","Last Sold $340,000 in Aug 2017", ,House: 3  2  3 ,Land size: 650 sqm
+237,65 Princess Highway,"Sold $325,000 in Jan 2019", , , , 
+238,65 Princes Highway,"Sold $325,000 in Jan 2019", ,Rent $335pw in Aug 2019,House: 3  1  3 ,Land size: 727 sqm
+239,2/59 Olympic Avenue,"Sold $400,000 in Jan 2019", ,Rent $360pw in Feb 2019, ,Land size: 260 sqm
+240,174 Sparks Road,"Sold $390,000 in Jan 2019","Last Sold $164,000 in Sep 2006", ,House: 4  1  2 ,Land size: 719 sqm
+241,1/9 Rosewell Court,"Sold $300,000 in Jan 2019","Last Sold $230,000 in Aug 2011", , ,Land size: 369 sqm
+242,25A Gerbera Avenue,"Sold $395,000 in Dec 2018", , , ,Land size: 237 sqm
+243,2B Iona Street,"Sold $310,000 in Dec 2018","Last Sold $57,570 in Apr 2015", ,House: 2  2  1 ,Land size: 229 sqm | Building size: 75 sqm
+244,66 Alkira Avenue,"Sold $310,000 in Dec 2018","Last Sold $170,000 in Mar 2015", ,House: 3  1  1 ,Land size: 640 sqm | Building size: 93 sqm
+245,148 Sparks Road,"Sold $338,000 in Dec 2018","Last Sold $205,000 in Jul 2010", ,House: 2  1  6 ,Land size: 687 sqm
+246,21 Wirraway Crescent,"Sold $481,000 in Dec 2018","Last Sold $295,000 in Mar 2008", ,House: 4  2  3 ,Land size: 573 sqm | Building size: 145 sqm
+247,7 Haven Court,"Sold $427,500 in Dec 2018","Last Sold $192,000 in Aug 2008", ,House: 3  1  2 ,Land size: 769 sqm
+248,12 Forster Street,"Sold $342,500 in 15 Dec 2018(Auction)","Last Sold $137,500 in Sep 2006", ,House: 3  1  4 ,Land size: 878 sqm
+249,93 The Boulevard,"Sold $315,000 in Dec 2018", , ,House: 3  1  ,Land size: 609 sqm
+250,93 Waitara Grove,"Sold $325,000 in Dec 2018","Last Sold $140,000 in Aug 2006", ,House: 3  1  ,Land size: 604 sqm
+251,3/59 St Georges Road,"Sold $290,000 in Dec 2018", ,Rent $240pw in Oct 2017, ,Land size: 156 sqm
+252,138 Princes Highway,"Sold $300,000 in Dec 2018","Last Sold $127,000 in Sep 2009", ,House: 2  1  2 ,Land size: 336 sqm
+253,11 Camellia Crescent,"Sold $122,500 in Dec 2018", , , ,Land size: 76 sqm | Building size: 104 sqm
+254,59 Eagle Parade,"Sold $285,000 in Dec 2018","Last Sold $93,000 in May 2003", ,House: 2  1  3 ,Land size: 565 sqm
+255,76 Forster Street,"Sold $370,000 in Dec 2018","Last Sold $213,000 in Jan 2016", ,House: 3  1  1 ,Land size: 699 sqm | Building size: 86 sqm
+256,59 Station Street,"Sold $400,000 in Dec 2018","Last Sold $147,000 in Jun 2007", ,House: 2  1  2 ,Land size: 338 sqm
+257,49 Gerbera Avenue,"Sold $350,000 in Nov 2018","Last Sold $248,000 in Feb 2017", ,House: 2  1  1 ,Land size: 613 sqm
+258,42 Peacock Avenue,"Sold $370,000 in Nov 2018", ,Rent $370pw in May 2019,House: 3  1  5 ,Land size: 610 sqm
+259,35 Swallow Crescent,"Sold $327,000 in Nov 2018","Last Sold $163,000 in May 2008", ,House: 3  1  3 ,Land size: 638 sqm
+260,9b Wisteria Grove,"Sold $375,000 in Nov 2018","Last Sold $302,500 in Jun 2017", ,Townhouse: 3  1  1 ,Land size: 325 sqm | Building size: 117 sqm
+261,9 Waitara Grove,"Sold $330,000 in Nov 2018", , ,House: 2  1  1 ,Land size: 641 sqm
+262,12 Orchid Street,"Sold $345,000 in Nov 2018","Last Sold $250,000 in May 2017(Auction)", ,House: 2  1  ,Land size: 589 sqm
+263,1/68 The Boulevard,"Sold $285,000 in Nov 2018", ,Rent $235pw in Jan 2018,House: 2  1  1 ,Land size: 272 sqm
+264,66 The Boulevard,"Sold $430,000 in Nov 2018","Last Sold $245,000 in Sep 2011", ,House: 3  1  3 ,Land size: 674 sqm | Building size: 120 sqm
+265,1A Yooringa Avenue,"Sold $450,000 in Nov 2018","Last Sold $382,000 in Jul 2016", ,House: 4  2  2 ,Land size: 587 sqm | Building size: 222 sqm
+266,18 Donnybrook Road,"Sold $398,000 in Nov 2018","Last Sold $295,000 in Dec 2016", ,House: 3  1  1 ,Land size: 612 sqm
+267,56 Yooringa Avenue,"Sold $400,000 in Nov 2018","Last Sold $53,000 in Oct 1999", ,House: 2  1  1 ,Land size: 686 sqm
+268,6 Reserve Road,"Sold $435,000 in Nov 2018", ,Rent $380pw in Oct 2019,House: 3  2  2 ,Land size: 268 sqm
+269,25 Robin Avenue,"Sold $375,000 in Nov 2018","Last Sold $171,000 in Aug 2008", ,House: 3  1  3 ,Land size: 557 sqm
+270,11 Spruhan Avenue,"Sold $360,000 in Nov 2018","Last Sold $265,000 in Jan 2017", ,House: 2  1  1 ,Land size: 697 sqm
+271,5A Robin Avenue,"Sold $385,000 in Nov 2018", , , ,Land size: 280 sqm
+272,38a Pettitt Crescent,"Sold $330,000 in Oct 2018","Last Sold $57,570 in Aug 2014", ,House: 2  2  1 ,Land size: 251 sqm
+273,4 Iris Street,"Sold $360,500 in Oct 2018","Last Sold $102,000 in Dec 2001", ,House: 4  2  2 ,Land size: 545 sqm | Building size: 129 sqm
+274,6 Emu Court,"Sold $347,000 in 27 Oct 2018(Auction)","Last Sold $167,000 in Feb 2011", ,House: 3  1  1 ,Land size: 695 sqm | Building size: 100 sqm
+275,22 Wendover Avenue,"Sold $310,000 in Oct 2018","Last Sold $188,000 in Dec 2015", ,House: 3  1  1 ,Land size: 650 sqm | Building size: 87 sqm
+276,27 Spruhan Avenue,"Sold $425,000 in Oct 2018","Last Sold $251,000 in Feb 2016", ,House: 4  2  7 ,Land size: 832 sqm
+277,129 Cox Road,"Sold $347,000 in Oct 2018","Last Sold $60,000 in Nov 1999", ,House: 3  1  ,Land size: 616 sqm
+278,2 Forster Street,"Sold $388,000 in Oct 2018","Last Sold $205,000 in Apr 2007", ,House: 4  2  1 ,Land size: 416 sqm | Building size: 171 sqm
+279,13 Bingara Avenue,"Sold $343,500 in Oct 2018","Last Sold $199,000 in Nov 2012", ,House: 3  1  1 ,Land size: 628 sqm
+280,29 Spruhan Avenue,"Sold $425,000 in Oct 2018","Last Sold $245,000 in Feb 2016(Auction)", ,House: 3  1  2 ,Land size: 832 sqm | Building size: 11 sqm
+281,6/84 Donnybrook Road,"Sold $305,000 in Oct 2018","Last Sold $216,000 in Feb 2000", , ,Land size: 186 sqm | Building size: 93 sqm
+282,20 Rose Avenue,"Sold $295,000 in Oct 2018","Last Sold $155,000 in Feb 2014", ,House: 2  1  1 ,Land size: 411 sqm
+283,2/5 Haven Court,"Sold $280,000 in Oct 2018","Last Sold $122,000 in Dec 2011", , ,Land size: 634 sqm
+284,5 Coleman Court,"Sold $356,000 in Oct 2018","Last Sold $239,950 in Feb 2010(Auction)", ,House: 4  2  2 ,Land size: 592 sqm
+285,12 Bosbury Street,"Sold $440,000 in Oct 2018","Last Sold $64,000 in Dec 1984", ,House: 3  2  6 ,Land size: 572 sqm
+286,48 Rose Avenue,"Sold $400,000 in Oct 2018","Last Sold $134,000 in Mar 2006", ,House: 2  1  2 ,Land size: 726 sqm | Building size: 91 sqm
+287,1/1 Salvia Street,"Sold $340,000 in Oct 2018", ,Rent $300pw in Oct 2018,House: 2  1  2 ,Land size: 389 sqm
+288,6 Wren Street,"Sold $345,000 in Oct 2018","Last Sold $270,000 in Jun 2017", ,House: 2  1  3 ,Land size: 558 sqm
+289,32B Princes Highway,"Sold $415,000 in Sep 2018","Last Sold $62,620 in Oct 2015", ,House: 3  1  1 ,Land size: 354 sqm
+290,2A Ulladulla Street,"Sold $340,000 in Sep 2018","Last Sold $63,200 in Sep 2016", ,House: 2  1  1 ,Land size: 281 sqm
+291,26 Sparks Road,"Sold $305,000 in Sep 2018", , ,House: 3  1  ,Land size: 558 sqm
+292,2/88 Princes Highway,"Sold $360,500 in Sep 2018", ,Rent $270pw in Apr 2016,Townhouse: 3  1  1 ,Land size: 243 sqm
+293,2 Shannahan Drive,"Sold $490,000 in Sep 2018","Last Sold $325,000 in Oct 2014", ,House: 3  2  2 ,Land size: 643 sqm
+294,92 The Boulevard,"Sold $285,000 in 22 Sep 2018(Auction)", , ,House: 2  1  2 ,Land size: 632 sqm
+295,22 Spruhan Avenue,"Sold $355,000 in Sep 2018","Last Sold $196,500 in May 2016", ,House: 2  1  2 ,Land size: 650 sqm | Building size: 72 sqm
+296,7 Warrawee Avenue,"Sold $355,000 in Sep 2018","Last Sold $131,000 in May 2004", ,House: 2  1  2 ,Land size: 640 sqm | Building size: 91 sqm
+297,4 Adriatic Court,"Sold $515,000 in Sep 2018","Last Sold $139,000 in Jul 1999", ,House: 1  3  2 ,Land size: 696 sqm
+298,56 Rose Avenue,"Sold $415,000 in Sep 2018", , ,House: 2  1  ,Land size: 717 sqm
+299,45 North Shore Road,"Sold $405,000 in Sep 2018","Last Sold $62,000 in Feb 2000", ,House: 4  2  1 ,Land size: 72 sqm | Building size: 114 sqm

@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,4/15-16 Jewell Place,"Sold $610,000 in Aug 2020","Last Sold $370,000 in Apr 2008", ,House: ,Land size: 419 sqm
+1,161 Mt Pleasant Road,"Sold $745,000 in Aug 2020","Last Sold $210,000 in Sep 2000", ,House: 3  2  2 ,Land size: 595 sqm
+2,28B Victory Way,"Sold $540,000 in Aug 2020", ,Rent $480pw in Aug 2020, , 
+3,90 Leigh Road,"Sold $825,000 in Aug 2020","Last Sold $177,000 in Jun 2009", , ,Land size: 704 sqm
+4,20 Moreton Bay Drive,"Sold $490,000 in Aug 2020","Last Sold $365,000 in Oct 2013",Rent $260pw in Oct 2012,House: 3  1  1 ,Land size: 612 sqm
+5,3/165 Barrabool Road,"Sold $428,000 in Aug 2020","Last Sold $270,000 in Oct 2014",Rent $350pw in Aug 2020, ,Land size: 176 sqm
+6,16 Amberley Court,"Sold $910,000 in Aug 2020","Last Sold $545,000 in Apr 2010",Rent $420pw in Jan 2009,House: 4  2  2 ,"Land size: 1,003 sqm"
+7,126 South Valley Road,"Sold $450,000 in Aug 2020","Last Sold $97,500 in Jun 2004", ,House: 3  1  1 ,Land size: 669 sqm | Building size: 149 sqm
+8,5 Lambhill Crescent,"Sold $612,000 in Aug 2020", , ,House: 3  1  1 ,Land size: 701 sqm
+9,6 Torulosa Court,"Sold $660,000 in Aug 2020","Last Sold $495,000 in Oct 2017(Auction)",Rent $480pw in Dec 2019,House: 3  1  1 ,Land size: 614 sqm
+10,7 Stoneleigh Crescent,"Sold $360,000 in Aug 2020","Last Sold $165,000 in Jul 2013", , ,Land size: 754 sqm | Building size: 318 sqm
+11,4/29 Hutcheson Avenue,"Sold $520,000 in Aug 2020","Last Sold $135,000 in Jan 1994", , ,Land size: 107 sqm
+12,49 Leigh Road,"Sold $680,000 in Aug 2020","Last Sold $65,000 in Jul 2001", , ,Land size: 472 sqm
+13,6 Vanessa Avenue,"Sold $490,000 in Aug 2020", , , ,Land size: 890 sqm
+14,25 Broughton Drive,"Sold $512,000 in Aug 2020","Last Sold $430,000 in Aug 2016", ,House: 3  1  2 ,Land size: 465 sqm
+15,20 Jinjella Road,"Sold $884,000 in 08 Aug 2020(Auction)","Last Sold $65,000 in Jun 1991", , ,Land size: 751 sqm
+16,15 Knollbrook Close,"Sold $730,000 in Aug 2020","Last Sold $132,000 in Jan 2004", , ,Land size: 826 sqm
+17,48 Barwon Boulevard,"Sold $760,000 in Aug 2020","Last Sold $550,000 in Feb 2016(Auction)", ,House: 3  2  2 ,Land size: 884 sqm | Building size: 180 sqm
+18,278 Scenic Road,"Sold $901,500 in 08 Aug 2020(Auction)","Last Sold $517,500 in Sep 2013", ,House: 4  2  5 ,"Land size: 1,043 sqm"
+19,12 Avondale Avenue,"Sold $735,000 in Aug 2020","Last Sold $187,000 in Jul 2007", , ,Land size: 620 sqm
+20,2/129 Barrabool Road,"Sold $310,000 in Aug 2020","Last Sold $202,000 in Mar 2014",Rent $250pw in Sep 2012,House: 2  1  1 ,Land size: 74 sqm
+21,2 Desmond Street,"Sold $630,000 in 05 Aug 2020(Auction)","Last Sold $272,000 in Dec 2007",Rent $180pw in Dec 2004,House: 3  2  2 ,"Land size: 1,003 sqm"
+22,5 Carina Way,"Sold $355,000 in Aug 2020", , , ,Land size: 765 sqm
+23,22 Patern Street,"Sold $720,000 in Aug 2020", ,Rent $380pw in Aug 2020,House: 3  1  3 ,Land size: 767 sqm
+24,56 Belle Vue Avenue,"Sold $601,000 in 03 Aug 2020(Auction)","Last Sold $360,000 in Apr 2016",Rent $400pw in Nov 2017,House: 3  1  1 ,Land size: 765 sqm | Building size: 96 sqm
+25,4 Lichen Grove,"Sold $710,000 in 01 Aug 2020(Auction)", , ,House: ,"Land size: 1,011 sqm"
+26,6/15-16 Jewell Place,"Sold $590,000 in Jul 2020","Last Sold $370,000 in Apr 2008", , ,Land size: 439 sqm
+27,24 Vanessa Avenue,"Sold $751,000 in Jul 2020","Last Sold $65,000 in Sep 1990", ,House: 4  ,Land size: 868 sqm
+28,1 Knollbrook Close,"Sold $575,000 in 25 Jul 2020(Auction)","Last Sold $420,000 in Jul 2014", ,House: 3  2  2 ,Land size: 565 sqm | Building size: 192 sqm
+29,11 Shire Court,"Sold $365,000 in Jul 2020","Last Sold $66,700 in Jul 2001", ,House: 4  2  2 ,Land size: 682 sqm
+30,6/15 Jewell Place,"Sold $590,000 in Jul 2020","Last Sold $370,000 in Apr 2008", , ,Land size: 439 sqm
+31,10 Lipizzaner Court,"Sold $980,000 in Jul 2020","Last Sold $597,500 in Jun 2016",Rent $480pw in Jul 2015,House: 4  2  2 ,Land size: 562 sqm | Building size: 272 sqm
+32,2/127 Barrabool Road,"Sold $639,000 in Jul 2020", , , ,Land size: 148 sqm
+33,17 Nedlands Drive,"Sold $770,000 in Jul 2020","Last Sold $173,000 in Jan 2009", , ,Land size: 729 sqm
+34,2/168 Thornhill Road,"Sold $360,000 in Jul 2020","Last Sold $297,000 in Feb 2015",Rent $330pw in Apr 2019, ,Land size: 264 sqm
+35,36 Porter Avenue,"Sold $521,000 in Jul 2020", , ,House: 2  1  2 ,Land size: 589 sqm
+36,22 Montrose Place,"Sold $930,000 in Jul 2020", , ,House: 4  2  2 ,Land size: 951 sqm
+37,14 Rathmines Place,"Sold $600,000 in Jul 2020","Last Sold $330,000 in May 2004",Rent $395pw in Apr 2012,House: 3  1  2 ,Land size: 411 sqm
+38,7 Percy Jones Court,"Sold $822,000 in Jul 2020","Last Sold $568,000 in Dec 2011", ,House: 4  2  4 ,Land size: 913 sqm | Building size: 226 sqm
+39,16 Duggan Court,"Sold $640,000 in 11 Jul 2020(Auction)", , ,House: ,Land size: 712 sqm
+40,18 Aringa Avenue,"Sold $642,000 in Jul 2020", , ,House: ,Land size: 632 sqm
+41,15 Villawood Court,"Sold $657,000 in 11 Jul 2020(Auction)","Last Sold $53,000 in Mar 1994", , ,Land size: 924 sqm
+42,16 Moreton Bay Drive,"Sold $692,000 in 11 Jul 2020(Auction)","Last Sold $550,000 in Jun 2017", ,House: 3  1  2 ,Land size: 593 sqm
+43,32 Molesworth Drive,"Sold $790,000 in Jul 2020","Last Sold $580,000 in Feb 2011", ,House: 4  2  2 ,Land size: 718 sqm
+44,12 Kennedy Grove,"Sold $570,000 in 11 Jul 2020(Auction)","Last Sold $345,000 in May 2012",Rent $370pw in May 2012,House: 3  1  1 ,Land size: 586 sqm | Building size: 118 sqm
+45,124 Province Boulevard,"Sold $260,000 in Jul 2020","Last Sold $215,000 in May 2018", , ,Land size: 751 sqm
+46,70 Augustine Drive,"Sold $722,500 in Jul 2020","Last Sold $487,500 in Mar 2013",Rent $450pw in Dec 2015,House: 4  2  2 ,Land size: 704 sqm | Building size: 230 sqm
+47,1/7 Leigh Road,"Sold $605,000 in Jul 2020", ,Rent $450pw in Aug 2017, ,Land size: 310 sqm
+48,11 Northbridge Road,"Sold $620,000 in Jul 2020","Last Sold $155,000 in Dec 2016", , ,Land size: 357 sqm
+49,21 Cara Road,"Sold $756,000 in Jul 2020","Last Sold $430,000 in Aug 2010",Rent $340pw in Dec 2014,House: 3  2  2 ,Land size: 817 sqm | Building size: 165 sqm
+50,43 Cara Road,"Sold $595,000 in 27 Jun 2020(Auction)","Last Sold $58,000 in Mar 1980", ,House: 3  2  2 ,Land size: 687 sqm
+51,3 Ettric Way,"Sold $560,000 in Jun 2020","Last Sold $437,000 in Mar 2016",Rent $410pw in May 2015,House: 3  2  2 ,Land size: 362 sqm | Building size: 128 sqm
+52,14 Clydesdale Way,"Sold $733,800 in Jun 2020","Last Sold $530,000 in May 2013", ,House: 3  2  2 ,Land size: 708 sqm
+53,96 Fogarty Avenue,"Sold $815,000 in Jun 2020","Last Sold $570,000 in May 2006", ,House: 4  2  2 ,Land size: 665 sqm
+54,3/132 South Valley Road,"Sold $402,000 in Jun 2020","Last Sold $283,000 in Apr 2014", , ,Land size: 187 sqm | Building size: 71 sqm
+55,8 Highpoint Crescent,"Sold $296,000 in Jun 2020", , , ,Land size: 726 sqm
+56,9/12 Cedar Grove,"Sold $359,000 in Jun 2020","Last Sold $255,000 in Feb 2015",Rent $340pw in May 2019, ,"Land size: 3,682 sqm"
+57,26 Pepperdine Way,"Sold $1,062,500 in Jun 2020","Last Sold $307,500 in Apr 2016", , ,Land size: 683 sqm
+58,2/25 Elizabeth Street,"Sold $325,000 in Jun 2020","Last Sold $244,000 in Feb 2012",Rent $260pw in Nov 2015,House: 2  1  1 ,Land size: 95 sqm
+59,4 Highpoint Crescent,"Sold $250,000 in Jun 2020", , , ,Land size: 659 sqm
+60,3 Swanbourne Avenue,"Sold $640,000 in Jun 2020","Last Sold $552,000 in Jul 2015",Rent $550pw in Apr 2013,House: 3  2  2 ,Land size: 309 sqm | Building size: 206 sqm
+61,2 Lansbury Crescent,"Sold $635,000 in Jun 2020","Last Sold $435,000 in Oct 2011", ,House: 3  2  2 ,Land size: 675 sqm
+62,59 Stoneleigh Crescent,"Sold $1,012,000 in Jun 2020","Last Sold $194,000 in Aug 2010",Rent $650pw in Jun 2020, ,Land size: 988 sqm | Building size: 270 sqm
+63,5 Nelson Avenue,"Sold $582,000 in 06 Jun 2020(Auction)", , ,House: 3  ,Land size: 656 sqm
+64,5/3 Augustine Drive,"Sold $400,000 in Jun 2020","Last Sold $97,000 in May 1992",Rent $340pw in Dec 2017, ,Land size: 204 sqm
+65,8 (Lot 695) Narrawong Avenue,"Sold $260,000 in Jun 2020", , , , 
+66,5 Elliott Avenue,"Sold $613,250 in May 2020", , ,House: 3  1  2 ,Land size: 650 sqm
+67,1/1 Waddington Court,"Sold $469,000 in May 2020","Last Sold $130,040 in Apr 1992",Rent $340pw in Jul 2013, ,Land size: 414 sqm
+68,31 Lansell Drive,"Sold $722,000 in 23 May 2020(Auction)","Last Sold $485,000 in Sep 2010(Auction)", ,House: 4  2  2 ,Land size: 813 sqm | Building size: 205 sqm
+69,4/114 South Valley Road,"Sold $565,000 in May 2020", , , , 
+70,11 Cuthbert Avenue,"Sold $500,000 in May 2020", , ,House: 3  1  2 ,Land size: 589 sqm
+71,13 Huntly Close,"Sold $605,000 in 14 May 2020(Auction)","Last Sold $153,000 in Oct 1989",Rent $380pw in Oct 2014,House: 3  2  1 ,Land size: 870 sqm
+72,8 Victory Way,"Sold $675,000 in May 2020","Last Sold $50,250 in Aug 1996",Rent $430pw in Jan 2015,House: 5  3  2 ,Land size: 671 sqm | Building size: 220 sqm
+73,2 Rivington Court,"Sold $1,280,000 in May 2020","Last Sold $1,000,000 in Apr 2015", ,House: 4  3  3 ,Land size: 650 sqm
+74,21 Montrose Place,"Sold $1,044,999 in May 2020","Last Sold $70,000 in Oct 1998", ,House: 4  2  2 ,Land size: 676 sqm | Building size: 250 sqm
+75,15 Pepperdine Way,"Sold $725,000 in May 2020","Last Sold $401,000 in Apr 2009", ,House: 3  2  2 ,Land size: 791 sqm
+76,34 Remony Avenue,"Sold $745,000 in May 2020", , ,House: 3  2  2 ,"Land size: 1,087 sqm"
+77,10 Glastonbury Drive,"Sold $641,000 in May 2020","Last Sold $163,000 in Jun 1987", ,House: 4  ,Land size: 660 sqm
+78,206 Mt Pleasant Road,"Sold $790,000 in May 2020","Last Sold $442,500 in Jul 2012(Auction)", ,House: 4  2  2 ,Land size: 910 sqm
+79,2/3 Hillcrest Court,"Sold $516,000 in Apr 2020","Last Sold $295,000 in Apr 2009", , ,Land size: 341 sqm
+80,14 Maidie Street,"Sold $635,000 in Apr 2020","Last Sold $56,000 in Jul 1983", ,House: 3  2  2 ,Land size: 653 sqm
+81,7 Caudry Street,"Sold $780,000 in Apr 2020","Last Sold $182,000 in Jan 2010", , ,Land size: 825 sqm | Building size: 212 sqm
+82,2/54 Daly Boulevard,"Sold $457,000 in Apr 2020","Last Sold $270,000 in Jan 2008", , ,Land size: 283 sqm
+83,3 Meadow Court,"Sold $1,225,000 in Apr 2020","Last Sold $355,000 in Nov 2015", , ,"Land size: 1,322 sqm"
+84,82 Reigate Road,"Sold $665,000 in Apr 2020","Last Sold $565,000 in Mar 2014", ,House: 3  3  4 ,Land size: 739 sqm
+85,161 Grantham Drive,"Sold $850,000 in Apr 2020","Last Sold $215,000 in Jun 2012", , ,Land size: 720 sqm | Building size: 325 sqm
+86,34 Cuthbert Avenue,"Sold $565,000 in Apr 2020","Last Sold $75,000 in Apr 1987", ,House: 3  1  2 ,Land size: 590 sqm
+87,22 Strickland Avenue,"Sold $491,000 in Apr 2020","Last Sold $88,000 in Aug 1996", ,House: 3  ,Land size: 589 sqm
+88,12 Lansell Drive,"Sold $695,000 in Apr 2020","Last Sold $177,000 in Dec 1999", ,House: 4  2  2 ,Land size: 606 sqm
+89,2 Orchardview Court,"Sold $935,000 in Apr 2020","Last Sold $240,000 in Aug 2009",Rent $520pw in Aug 2015,House: 3  2  3 ,Land size: 933 sqm
+90,12 Maidie Street,"Sold $700,000 in Mar 2020","Last Sold $165,000 in Mar 2000", ,House: 3  2  2 ,Land size: 656 sqm
+91,59 South Valley Road,"Sold $728,000 in Mar 2020","Last Sold $417,500 in Oct 2014", ,House: 3  1  2 ,Land size: 594 sqm
+92,3 Oxbow Court,"Sold $240,000 in Mar 2020", , , ,Land size: 363 sqm
+93,13-15 Clemont Street,"Sold $745,000 in Mar 2020","Last Sold $210,000 in Jan 2017", , ,Land size: 700 sqm
+94,1/41 South Valley Road,"Sold $465,000 in Mar 2020","Last Sold $382,502 in Mar 2015",Rent $260pw in Dec 2008,House: 2  1  1 ,Land size: 293 sqm | Building size: 104 sqm
+95,50 Reigate Road,"Sold $770,000 in Mar 2020","Last Sold $650,000 in Jul 2016", ,House: 4  2  4 ,Land size: 790 sqm
+96,39 Wallaroo Way,"Sold $925,000 in Mar 2020", , , ,Land size: 703 sqm
+97,8 Mosman Way,"Sold $290,000 in Mar 2020","Last Sold $139,000 in Sep 2009", , ,Land size: 687 sqm
+98,8/114 South Valley Road,"Sold $560,000 in Mar 2020", , , , 
+99,4 Galloway Court,"Sold $750,000 in Mar 2020", , ,House: 3  2  2 ,Land size: 511 sqm
+100,5 Kooyong Place,"Sold $587,500 in 14 Mar 2020(Auction)", , , ,Land size: 869 sqm
+101,7 Caroline Street,"Sold $700,000 in 14 Mar 2020(Auction)","Last Sold $150,000 in Mar 1990", ,House: 4  ,Land size: 717 sqm
+102,37 Lansell Drive,"Sold $744,000 in 14 Mar 2020(Auction)","Last Sold $490,000 in Oct 2014",Rent $440pw in Oct 2016,House: 4  2  2 ,Land size: 570 sqm
+103,6-8 Jewell Place,"Sold $940,000 in Mar 2020","Last Sold $730,000 in Nov 2012", ,House: 3  ,Land size: 633 sqm
+104,9 Cahill Court,"Sold $665,000 in Mar 2020","Last Sold $122,500 in Nov 2002", ,House: 4  2  2 ,Land size: 722 sqm
+105,28 Leigh Road,"Sold $1,010,000 in Mar 2020","Last Sold $766,000 in Dec 2017", ,House: 5  3  2 ,Land size: 642 sqm
+106,118 Grantham Drive,"Sold $910,000 in Mar 2020","Last Sold $730,000 in Apr 2016", ,House: 4  4  2 ,Land size: 922 sqm | Building size: 300 sqm
+107,22B St Cloud Court,"Sold $875,000 in Mar 2020", , , , 
+108,1/1 Triumph Court,"Sold $640,000 in Mar 2020", , , , 
+109,9 Fryers Road,"Sold $638,000 in 07 Mar 2020(Auction)","Last Sold $255,000 in Dec 2004", ,House: 3  ,Land size: 658 sqm
+110,68 Clydesdale Way,"Sold $915,000 in Mar 2020","Last Sold $250,000 in May 2008", ,House: 4  2  ,Land size: 996 sqm
+111,39 Pepperdine Way,"Sold $905,000 in 07 Mar 2020(Auction)","Last Sold $760,000 in Dec 2018", ,House: 4  2  3 ,Land size: 657 sqm
+112,1/11 Patern Street,"Sold $545,000 in Mar 2020", ,Rent $400pw in Jan 2017, ,Land size: 239 sqm
+113,3/17 Jinjella Road,"Sold $520,000 in Mar 2020","Last Sold $345,000 in Sep 2015",Rent $430pw in Jan 2020, ,Land size: 132 sqm
+114,50 Glastonbury Drive,"Sold $500,000 in Mar 2020", , , ,Land size: 672 sqm
+115,11-13 Cara Road,"Sold $1,885,000 in Feb 2020","Last Sold $714,000 in Dec 2015(Auction)", ,House: 3  2  2 ,Land size: 785 sqm
+116,22 Shoubra Drive,"Sold $862,000 in 22 Feb 2020(Auction)", , ,House: ,"Land size: 1,045 sqm"
+117,135 South Valley Road,"Sold $490,000 in 22 Feb 2020(Auction)", , , ,Land size: 654 sqm
+118,1/15 Waddington Court,"Sold $445,000 in 22 Feb 2020(Auction)","Last Sold $131,000 in Nov 1997", , ,Land size: 249 sqm
+119,9 Mcevoy Close,"Sold $490,000 in Feb 2020","Last Sold $266,500 in Mar 2005",Rent $375pw in Dec 2015,House: 3  1  1 ,Land size: 303 sqm | Building size: 108 sqm
+120,4 Roncliffe Road,"Sold $808,000 in Feb 2020","Last Sold $520,000 in Dec 2016",Rent $410pw in Jul 2012,House: 3  1  1 ,Land size: 724 sqm | Building size: 135 sqm
+121,4 Vaucluse Rise,"Sold $680,000 in Feb 2020","Last Sold $64,000 in Apr 2000", ,House: 3  2  1 ,Land size: 703 sqm
+122,31 Pepperdine Way,"Sold $1,006,250 in Feb 2020","Last Sold $565,000 in Mar 2005", ,House: 5  4  2 ,Land size: 911 sqm
+123,14 Orana Road,"Sold $1,250,000 in Feb 2020","Last Sold $245,000 in Jun 2007", , ,Land size: 984 sqm
+124,39 Molesworth Drive,"Sold $845,000 in Feb 2020","Last Sold $162,000 in Sep 2006", ,House: ,Land size: 738 sqm
+125,12 Fryers Road,"Sold $580,000 in 08 Feb 2020(Auction)", ,Rent $350pw in Apr 2011,House: 3  1  ,Land size: 664 sqm
+126,5 Cuthbert Avenue,"Sold $624,000 in 08 Feb 2020(Auction)","Last Sold $402,000 in May 2015(Auction)", ,House: 3  1  2 ,Land size: 590 sqm | Building size: 103 sqm
+127,10 Fenland Court,"Sold $641,000 in Feb 2020", , ,House: ,Land size: 635 sqm
+128,15 Leigh Road,"Sold $697,000 in Feb 2020","Last Sold $386,000 in Apr 2008", ,House: 3  2  2 ,Land size: 670 sqm
+129,3/12 Patern Street,"Sold $170,000 in Jan 2020", , , ,Land size: 160 sqm
+130,9 Shetland Close,"Sold $1,170,000 in Jan 2020","Last Sold $106,000 in Jun 2001", , ,"Land size: 1,248 sqm"
+131,8/6 Nelson Avenue,"Sold $373,000 in Jan 2020","Last Sold $199,000 in Nov 2007", , ,Land size: 172 sqm | Building size: 77 sqm
+132,12 Patern Street,"Sold $170,000 in Jan 2020","Last Sold $72,500 in Mar 2011", ,House: 2  ,Land size: 766 sqm
+133,2-4 Esperence Crescent,"Sold $712,500 in Jan 2020","Last Sold $187,000 in Nov 2009",Rent $510pw in Oct 2017,House: 4  2  2 ,Land size: 807 sqm
+134,124 South Valley Road,"Sold $592,000 in Jan 2020","Last Sold $225,000 in Jul 2008", ,House: 3  1  1 ,Land size: 327 sqm | Building size: 111 sqm
+135,8 Rice Court,"Sold $580,000 in Jan 2020","Last Sold $112,000 in Jun 2003",Rent $460pw in Nov 2018, ,Land size: 539 sqm | Building size: 153 sqm
+136,37 Grantham Drive,"Sold $825,000 in Jan 2020","Last Sold $530,000 in Apr 2012", ,House: 3  2  6 ,Land size: 725 sqm
+137,66 Mulquiney Crescent,"Sold $650,000 in Jan 2020","Last Sold $435,000 in Jul 2011",Rent $495pw in Feb 2018,House: 4  2  2 ,Land size: 759 sqm
+138,3/16 Montague Street,"Sold $450,000 in Jan 2020","Last Sold $60,000 in Dec 2002", , ,Land size: 159 sqm
+139,13B BUCKLEY FALLS ROAD,"Sold $425,000 in Jan 2020","Last Sold $350,000 in Feb 2017", , ,Land size: 577 sqm
+140,2/45 Vanessa Avenue,"Sold $433,000 in Jan 2020","Last Sold $190,100 in Jul 2008",Rent $260pw in Dec 2015, ,Land size: 140 sqm | Building size: 64 sqm
+141,2 Highpoint Crescent,"Sold $258,500 in Jan 2020", , , ,Land size: 647 sqm
+142,14 Valencay Avenue,"Sold $815,000 in Dec 2019","Last Sold $178,000 in Nov 2009", , ,Land size: 736 sqm | Building size: 226 sqm
+143,21 Stoneleigh Crescent,"Sold $840,000 in Dec 2019","Last Sold $202,000 in Apr 2012", , ,Land size: 725 sqm | Building size: 198 sqm
+144,17 Porter Avenue,"Sold $540,000 in Dec 2019", , ,House: ,Land size: 589 sqm
+145,4/150 South Valley Road,"Sold $350,000 in Dec 2019","Last Sold $177,000 in Apr 2002",Rent $310pw in Feb 2018, ,Land size: 307 sqm | Building size: 95 sqm
+146,1 Villawood Court,"Sold $790,000 in Dec 2019","Last Sold $410,000 in Aug 2009", ,House: 4  2  2 ,Land size: 699 sqm | Building size: 195 sqm
+147,27 Strickland Avenue,"Sold $540,000 in Dec 2019","Last Sold $350,000 in Jan 2012",Rent $340pw in May 2017,House: 3  1  2 ,Land size: 589 sqm | Building size: 123 sqm
+148,9-11 Mosman Way,"Sold $1,070,000 in Dec 2019", , ,House: ,"Land size: 1,077 sqm"
+149,30 St Cloud Court,"Sold $630,000 in Dec 2019", , ,House: ,Land size: 769 sqm
+150,50 Parkwood Drive,"Sold $795,000 in Dec 2019","Last Sold $92,000 in May 2002", ,House: 4  2  ,Land size: 721 sqm
+151,16 Wynfield Drive,"Sold $715,000 in Dec 2019", , ,House: ,Land size: 649 sqm
+152,27 Grantham Drive,"Sold $902,000 in Dec 2019","Last Sold $767,000 in Dec 2013", ,House: 5  4  2 ,Land size: 676 sqm
+153,73 Fogarty Avenue,"Sold $795,000 in Dec 2019","Last Sold $495,000 in Sep 2010(Auction)", ,House: 4  2  2 ,Land size: 703 sqm
+154,104 Belle Vue Avenue,"Sold $535,000 in 14 Dec 2019(Auction)", , ,House: ,Land size: 681 sqm
+155,21 Aitkenside Avenue,"Sold $657,000 in Dec 2019", , , ,Land size: 585 sqm
+156,8 Woolondoon Drive,"Sold $580,000 in Dec 2019","Last Sold $180,000 in Dec 2013",Rent $410pw in Oct 2017,House: 3  2  3 ,Land size: 407 sqm
+157,1/22 Elizabeth Street,"Sold $427,000 in Dec 2019","Last Sold $310,000 in Aug 2016",Rent $365pw in Jan 2019,House: 2  1  1 ,Land size: 863 sqm | Building size: 89 sqm
+158,116 Mill Race Road,"Sold $1,350,000 in Dec 2019", , ,House: 5  3  2 ,Land size: 805 sqm
+159,21 Daly Boulevard,"Sold $695,000 in Dec 2019","Last Sold $360,000 in Apr 2007", ,House: 3  2  2 ,Land size: 722 sqm | Building size: 216 sqm
+160,1 Merrick Court,"Sold $825,000 in Dec 2019","Last Sold $58,000 in Jun 1996", , ,Land size: 965 sqm
+161,6 Thwaites Close,"Sold $595,000 in Dec 2019","Last Sold $420,000 in Apr 2012",Rent $440pw in Apr 2016,House: 3  2  2 ,Land size: 629 sqm
+162,11 Thwaites Close,"Sold $685,000 in Dec 2019","Last Sold $501,000 in Mar 2014",Rent $500pw in Jun 2014,House: 4  2  2 ,Land size: 525 sqm
+163,35 Montpellier Drive,"Sold $630,000 in Dec 2019", , , ,Land size: 720 sqm
+164,39 Belle Vue Avenue,"Sold $725,000 in 07 Dec 2019(Auction)","Last Sold $255,000 in Oct 2007", ,House: 3  1  ,Land size: 656 sqm | Building size: 110 sqm
+165,14 Koorong Court,"Sold $770,000 in Dec 2019","Last Sold $253,500 in Nov 1998", ,House: 3  3  3 ,Land size: 813 sqm
+166,13 Majestic Drive,"Sold $285,500 in Dec 2019", , , ,Land size: 857 sqm
+167,2 Senior Court,"Sold $540,000 in Dec 2019","Last Sold $330,000 in Feb 2000", , ,Land size: 314 sqm
+168,6/157-159 Barrabool Road,"Sold $585,000 in Dec 2019","Last Sold $415,000 in Apr 2012",Rent $500pw in Aug 2020, ,Land size: 235 sqm
+169,20 Arkana Avenue,"Sold $610,000 in 30 Nov 2019(Auction)", , ,House: ,Land size: 761 sqm
+170,5 Oakview Court,"Sold $760,000 in Nov 2019","Last Sold $64,000 in Mar 2000", , ,"Land size: 1,167 sqm"
+171,192 Mt Pleasant Road,"Sold $980,000 in 30 Nov 2019(Auction)","Last Sold $415,000 in Dec 2012", ,House: 5  2  2 ,Land size: 713 sqm | Building size: 220 sqm
+172,69 Belle Vue Avenue,"Sold $550,000 in Nov 2019","Last Sold $330,000 in Aug 2012", ,House: 3  1  2 ,Land size: 652 sqm
+173,2 Jalana Court,"Sold $729,500 in Nov 2019","Last Sold $150,000 in Aug 1990",Rent $550pw in Feb 2020,House: 4  2  1 ,Land size: 858 sqm | Building size: 204 sqm
+174,32 Esperence Crescent,"Sold $690,000 in Nov 2019","Last Sold $191,000 in Jul 2008",Rent $570pw in Feb 2018, ,Land size: 643 sqm | Building size: 221 sqm
+175,31 Montpellier Drive,"Sold $760,000 in Nov 2019","Last Sold $750,000 in Nov 2017", , ,Land size: 508 sqm
+176,15 Challambra Crescent,"Sold $845,000 in Nov 2019","Last Sold $605,000 in Aug 2013",Rent $330pw in Nov 2005,House: 4  3  4 ,Land size: 345 sqm
+177,10 Pepperdine Way,"Sold $810,000 in 23 Nov 2019(Auction)","Last Sold $203,000 in Apr 1993", , ,Land size: 824 sqm
+178,151 Stoneleigh Crescent,"Sold $955,000 in Nov 2019", , ,House: ,Land size: 512 sqm
+179,39 Bonsey Road,"Sold $665,000 in Nov 2019","Last Sold $550,000 in Mar 2014",Rent $240pw in Sep 2005,House: 4  2  1 ,Land size: 862 sqm | Building size: 174 sqm
+180,6 Rice Court,"Sold $700,000 in Nov 2019","Last Sold $122,000 in Mar 2003", ,House: 4  2  2 ,Land size: 834 sqm
+181,15 Northam Avenue,"Sold $530,000 in Nov 2019","Last Sold $278,000 in Dec 2007", ,House: 3  3  1 ,Land size: 652 sqm
+182,3 Sweeney Court,"Sold $790,000 in Nov 2019","Last Sold $435,000 in Mar 2004", ,House: 4  2  2 ,"Land size: 1,239 sqm"
+183,106 Thornhill Road,"Sold $550,000 in Nov 2019", , ,House: 3  2  1 ,Land size: 671 sqm
+184,1 Cannes Court,"Sold $624,000 in 09 Nov 2019(Auction)","Last Sold $70,250 in Apr 1981", ,House: 3  2  2 ,Land size: 645 sqm
+185,33 Dunsmore Road,"Sold $637,500 in 09 Nov 2019(Auction)","Last Sold $519,500 in Oct 2015",Rent $480pw in Dec 2019,House: 4  2  2 ,Land size: 677 sqm | Building size: 199 sqm
+186,31 Gwyther Road,"Sold $610,000 in 09 Nov 2019(Auction)","Last Sold $120,000 in Sep 1988", ,House: 3  2  2 ,Land size: 734 sqm
+187,166 Thornhill Road,"Sold $1,150,000 in 09 Nov 2019(Auction)","Last Sold $705,000 in Sep 2016(Auction)", ,House: 3  2  2 ,"Land size: 2,291 sqm"
+188,1 Badenoch Court,"Sold $820,000 in Nov 2019","Last Sold $525,000 in Oct 2009", ,House: 3  2  2 ,Land size: 789 sqm | Building size: 226 sqm
+189,132 MILL RACE Road,"Sold $645,000 in Nov 2019","Last Sold $262,000 in Feb 2015", ,House: 3  2  2 ,Land size: 374 sqm
+190,4 Jellindale Court,"Sold $706,000 in 02 Nov 2019(Auction)","Last Sold $65,000 in Oct 1986", , ,Land size: 854 sqm
+191,10 Fryers Road,"Sold $525,000 in Nov 2019","Last Sold $256,000 in Jan 2004", ,House: 4  2  2 ,Land size: 654 sqm
+192,19 Cedarville Close,"Sold $590,000 in Nov 2019","Last Sold $400,000 in Mar 2011",Rent $410pw in Feb 2011,House: 3  2  2 ,Land size: 944 sqm | Building size: 150 sqm
+193,26B Grantham Drive,"Sold $250,000 in Nov 2019", , , ,Land size: 300 sqm
+194,4/45 Vanessa Avenue,"Sold $400,000 in Nov 2019","Last Sold $195,000 in Mar 2005",Rent $335pw in Aug 2016, ,Land size: 167 sqm
+195,1/60 Barwon Boulevard,"Sold $682,500 in Oct 2019","Last Sold $299,000 in Apr 2002",Rent $380pw in Jul 2013,House: 3  2  2 ,Land size: 249 sqm
+196,43-45 Hewat Drive,"Sold $655,000 in Oct 2019","Last Sold $331,000 in Oct 2012",Rent $340pw in Jun 2013,House: 5  1  1 ,Land size: 623 sqm
+197,58 Dryden Way,"Sold $270,000 in Oct 2019", , , ,Land size: 546 sqm
+198,2/156 South Valley Road,"Sold $410,000 in Oct 2019","Last Sold $99,500 in May 1993", , ,Land size: 364 sqm
+199,17 Exmoor Close,"Sold $635,000 in Oct 2019","Last Sold $534,000 in Feb 2016", ,House: 3  2  2 ,Land size: 747 sqm | Building size: 152 sqm
+200,10 Glenmire Street,"Sold $571,000 in 26 Oct 2019(Auction)","Last Sold $150,000 in Dec 2000", ,House: 3  2  2 ,Land size: 634 sqm
+201,13 Oakview Court,"Sold $502,000 in Oct 2019","Last Sold $325,000 in Sep 2008",Rent $280pw in Apr 2007,House: 3  2  2 ,Land size: 560 sqm | Building size: 143 sqm
+202,23 Arkana Avenue,"Sold $588,000 in 26 Oct 2019(Auction)","Last Sold $547,000 in Sep 2018",Rent $350pw in Feb 2015,House: 3  1  1 ,Land size: 613 sqm
+203,18 Roncliffe Road,"Sold $517,500 in Oct 2019","Last Sold $320,000 in Dec 2013",Rent $285pw in Mar 2011,House: 2  1  1 ,Land size: 343 sqm
+204,9 Strickland Avenue,"Sold $535,000 in Oct 2019","Last Sold $53,500 in May 1984", ,House: 3  1  1 ,Land size: 589 sqm | Building size: 122 sqm
+205,9 Lascelles Place,"Sold $805,000 in 19 Oct 2019(Auction)","Last Sold $716,000 in Feb 2018", ,House: 4  2  2 ,Land size: 722 sqm
+206,22 Granby Crescent,"Sold $655,000 in 19 Oct 2019(Auction)","Last Sold $472,000 in Oct 2010", ,House: 4  2  2 ,Land size: 735 sqm
+207,4 Woolondoon Drive,"Sold $895,000 in Oct 2019","Last Sold $215,000 in May 2015", ,House: 4  2  2 ,Land size: 846 sqm
+208,12 Hillary Court,"Sold $650,000 in Oct 2019","Last Sold $415,000 in May 2003",Rent $550pw in Aug 2020,House: 3  2  2 ,Land size: 429 sqm
+209,36 Cuthbert Avenue,"Sold $540,000 in Oct 2019","Last Sold $295,000 in Feb 2009",Rent $390pw in Nov 2018,House: 3  1  1 ,Land size: 589 sqm | Building size: 104 sqm
+210,1/59-69 Victory Way,"Sold $465,000 in Oct 2019","Last Sold $295,000 in Aug 2011",Rent $330pw in Feb 2011,House: 3  2  2 ,Land size: 201 sqm
+211,20 Aitkenside Avenue,"Sold $690,000 in Oct 2019", , ,House: 4  2  2 ,Land size: 635 sqm
+212,5 Floreat Avenue,"Sold $610,000 in Oct 2019","Last Sold $473,000 in Jun 2015",Rent $480pw in Nov 2019,House: 4  2  2 ,Land size: 734 sqm | Building size: 163 sqm
+213,1 Cedmar Avenue,"Sold $578,000 in 05 Oct 2019(Auction)", ,Rent $290pw in Mar 2018,House: 3  1  2 ,Land size: 771 sqm
+214,66 Belle Vue Avenue,"Sold $580,000 in 05 Oct 2019(Auction)", , , ,Land size: 701 sqm
+215,7 Bundoora Crescent,"Sold $782,000 in 05 Oct 2019(Auction)","Last Sold $66,000 in Sep 1981", ,House: 4  2  1 ,Land size: 697 sqm
+216,12 Pinecrest Drive,"Sold $610,000 in Oct 2019","Last Sold $335,000 in Aug 2007", ,House: 4  2  2 ,Land size: 643 sqm
+217,27 Stoneleigh Crescent,"Sold $1,018,000 in Oct 2019","Last Sold $169,000 in Feb 2000",Rent $640pw in Oct 2019, ,Land size: 725 sqm
+218,1 Melrose Avenue,"Sold $687,500 in Oct 2019","Last Sold $365,000 in Jun 2008", ,House: 3  2  2 ,Land size: 840 sqm
+219,5 Woolondoon Drive,"Sold $660,000 in Oct 2019","Last Sold $188,000 in Mar 2013", ,House: 3  2  2 ,Land size: 529 sqm | Building size: 168 sqm
+220,1/32 Bonsey Road,"Sold $415,000 in Sep 2019","Last Sold $112,000 in Mar 1999", , ,Land size: 159 sqm
+221,6/271 Roslyn Road,"Sold $340,000 in Sep 2019", , , ,Land size: 158 sqm
+222,41-43 Highland Way,"Sold $940,000 in Sep 2019", , ,House: 4  2  4 ,"Land size: 1,008 sqm"
+223,9 Oakbank Avenue,"Sold $780,000 in Sep 2019","Last Sold $755,000 in Jun 2018",Rent $470pw in Sep 2011,House: 4  3  2 ,Land size: 726 sqm | Building size: 212 sqm
+224,2 Bundoora Crescent,"Sold $596,000 in 21 Sep 2019(Auction)", ,Rent $450pw in Jan 2020,House: 4  2  2 , 
+225,2/19 Granby Crescent,"Sold $615,000 in Sep 2019", , , ,Land size: 448 sqm
+226,11 Jewell Place,"Sold $910,000 in 21 Sep 2019(Auction)","Last Sold $200,000 in Sep 2008", ,House: 4  2  2 ,Land size: 406 sqm | Building size: 264 sqm
+227,11 Oakhill Avenue,"Sold $1,240,000 in Sep 2019","Last Sold $230,000 in Feb 2000", ,House: 4  4  2 ,"Land size: 1,001 sqm | Building size: 323 sqm"
+228,2 Maidie Street,"Sold $868,000 in 17 Sep 2019(Auction)","Last Sold $520,000 in Apr 2014", ,House: 4  2  1 ,"Land size: 1,060 sqm"
+229,1 Adelaide Street,"Sold $526,000 in 14 Sep 2019(Auction)", , ,House: 3  1  4 ,Land size: 711 sqm
+230,23 Evwick Crescent,"Sold $500,000 in Sep 2019","Last Sold $78,000 in Oct 1987", ,House: 3  1  2 ,Land size: 622 sqm
+231,15 Thoroughbred Drive,"Sold $695,000 in Sep 2019","Last Sold $174,000 in Jul 2004",Rent $620pw in Oct 2018,House: 5  2  2 ,Land size: 715 sqm | Building size: 4839 sqm
+232,5/28 Barrabool Road,"Sold $365,000 in Sep 2019","Last Sold $255,000 in Jan 2013", , ,Land size: 159 sqm
+233,14 Woolbrae Place,"Sold $385,000 in Sep 2019", , , , 
+234,7/228 Roslyn Road,"Sold $377,000 in Sep 2019","Last Sold $275,500 in Apr 2018",Rent $240pw in Mar 2015, ,Land size: 145 sqm | Building size: 80 sqm
+235,179A Barrabool Road,"Sold $600,000 in Sep 2019", , , ,Land size: 312 sqm
+236,6 Cobden Street,"Sold $485,000 in Sep 2019", ,Rent $290pw in Aug 2018,House: 3  1  1 ,Land size: 658 sqm
+237,31 Hewat Drive,"Sold $955,000 in Aug 2019","Last Sold $134,000 in Jul 2008", ,House: 8  8  2 ,Land size: 755 sqm
+238,2/22 Molesworth Drive,"Sold $480,000 in Aug 2019","Last Sold $285,000 in Apr 2005", , ,Land size: 238 sqm
+239,7 Mawarra Court,"Sold $1,300,000 in Aug 2019","Last Sold $112,500 in Feb 2000", ,House: 4  2  2 ,Land size: 993 sqm | Building size: 276 sqm
+240,1/11 Cedarville Close,"Sold $450,000 in Aug 2019","Last Sold $271,000 in Mar 2006", , ,Land size: 241 sqm
+241,25 Shire Court,"Sold $805,000 in Aug 2019","Last Sold $606,000 in Apr 2009", ,House: 3  2  2 ,Land size: 587 sqm | Building size: 223 sqm
+242,20/27-29 Montague Street,"Sold $400,000 in Aug 2019","Last Sold $340,000 in Mar 2018",Rent $340pw in Apr 2019, ,Land size: 71 sqm
+243,84 Mulquiney Crescent,"Sold $529,000 in Aug 2019", , , ,Land size: 354 sqm
+244,35 Reigate Road,"Sold $652,000 in 21 Aug 2019(Auction)","Last Sold $320,000 in Feb 2000",Rent $560pw in Dec 2018,House: 5  2  2 ,Land size: 725 sqm
+245,46 Stoneleigh Crescent,"Sold $1,130,000 in Aug 2019","Last Sold $275,000 in Jun 2010", ,House: 4  2  2 ,Land size: 756 sqm
+246,8 Northam Avenue,"Sold $538,000 in Aug 2019","Last Sold $54,000 in Jan 1981", ,House: 4  1  2 ,Land size: 650 sqm
+247,1/13 Finningley Court,"Sold $545,000 in Aug 2019","Last Sold $171,500 in May 1998", , ,Land size: 358 sqm
+248,3 Wynfield Drive,"Sold $782,000 in Aug 2019","Last Sold $739,000 in Jun 2017", ,House: 4  2  2 ,Land size: 722 sqm
+249,4 Taylor Court,"Sold $1,340,000 in Aug 2019","Last Sold $60,000 in May 1982",Rent $500pw in Feb 2020,House: 4  2  2 ,"Land size: 2,304 sqm"
+250,35 Dryden Way,"Sold $767,000 in Aug 2019","Last Sold $268,000 in Nov 2014", ,House: 4  2  2 ,Land size: 647 sqm
+251,7 Northbridge Road,"Sold $615,000 in Aug 2019","Last Sold $320,000 in Jan 2013", ,House: 4  2  2 ,Land size: 357 sqm
+252,20 Stanbury Avenue,"Sold $755,000 in Aug 2019","Last Sold $215,002 in Apr 2007", ,House: 4  2  2 ,Land size: 885 sqm
+253,101 Belle Vue Avenue,"Sold $675,000 in 10 Aug 2019(Auction)","Last Sold $390,000 in Nov 2013",Rent $375pw in Jul 2013,House: 3  1  2 ,Land size: 706 sqm | Building size: 121 sqm
+254,27 Cara Road,"Sold $735,000 in Aug 2019","Last Sold $236,000 in Feb 2001", ,House: 4  2  2 ,Land size: 837 sqm | Building size: 180 sqm
+255,14 Galloway Court,"Sold $685,000 in Jul 2019","Last Sold $253,000 in Mar 2000", ,House: 4  2  2 ,Land size: 466 sqm
+256,7 Lipizzaner Court,"Sold $720,000 in Jul 2019", ,Rent $550pw in Oct 2015,House: 4  3  2 ,Land size: 673 sqm
+257,5 Caroline Street,"Sold $730,000 in Jul 2019", , ,House: 4  2  6 ,Land size: 718 sqm
+258,13 Roycroft Avenue,"Sold $500,000 in Jul 2019","Last Sold $111,000 in Jan 1998", ,House: 3  1  2 ,Land size: 652 sqm
+259,123a Thornhill Road,"Sold $421,250 in Jul 2019","Last Sold $382,000 in Sep 2017",Rent $270pw in May 2009, ,Land size: 325 sqm | Building size: 99 sqm
+260,14 Adelaide Street,"Sold $523,000 in 13 Jul 2019(Auction)", ,Rent $310pw in Oct 2013,House: 3  1  1 ,Land size: 737 sqm
+261,6 Molesworth Drive,"Sold $835,000 in 13 Jul 2019(Auction)","Last Sold $792,000 in Jan 2018", ,House: 5  2  2 ,Land size: 715 sqm | Building size: 247 sqm
+262,18/27 Montague Street,"Sold $368,000 in Jul 2019","Last Sold $257,000 in Dec 2012",Rent $270pw in Feb 2015, ,Land size: 65 sqm | Building size: 69 sqm
+263,10 Radstock Avenue,"Sold $265,000 in Jul 2019", , , ,Land size: 803 sqm
+264,21 Montpellier Drive,"Sold $655,000 in Jul 2019","Last Sold $95,000 in May 1995",Rent $460pw in Sep 2019,House: 4  2  3 ,Land size: 597 sqm
+265,12 Lipizzaner Court,"Sold $525,000 in Jul 2019","Last Sold $227,000 in Jun 2001", ,House: 3  2  2 ,Land size: 512 sqm
+266,30 Elliott Avenue,"Sold $550,000 in Jul 2019","Last Sold $365,000 in Nov 2013",Rent $220pw in Dec 2005,House: 3  1  3 ,Land size: 651 sqm | Building size: 132 sqm
+267,24 Daly Boulevard,"Sold $720,000 in Jul 2019","Last Sold $330,000 in Sep 2009", ,House: 4  2  3 ,Land size: 619 sqm | Building size: 320 sqm
+268,3 Norman Court,"Sold $615,000 in 06 Jul 2019(Auction)","Last Sold $391,000 in Oct 2011",Rent $350pw in Jun 2015,House: 3  1  2 ,Land size: 669 sqm
+269,4 Rivington Court,"Sold $905,000 in Jul 2019","Last Sold $80,000 in May 1989", ,House: 4  2  2 ,Land size: 651 sqm
+270,5 Hutcheson Avenue,"Sold $479,000 in Jul 2019","Last Sold $82,000 in Nov 1996",Rent $365pw in Dec 2017,House: 3  1  1 ,Land size: 651 sqm
+271,108 Province Boulevard,"Sold $715,000 in Jul 2019", , ,House: 3  2  2 ,Land size: 313 sqm
+272,15/27-29 Montague Street,"Sold $355,000 in Jun 2019","Last Sold $235,000 in Mar 2014",Rent $230pw in Jul 2013,House: 2  1  1 ,Land size: 69 sqm
+273,9 Clearview Court,"Sold $447,500 in Jun 2019","Last Sold $235,000 in Dec 2011", ,House: ,Land size: 876 sqm
+274,21/20 Ficinia Mews,"Sold $225,000 in Jun 2019", ,Rent $265pw in Dec 2017, , 
+275,41 DRYDEN WAY,"Sold $343,000 in Jun 2019","Last Sold $255,000 in Feb 2016", , ,Land size: 646 sqm
+276,274 Mt Pleasant Road,"Sold $525,000 in Jun 2019","Last Sold $415,000 in Mar 2016",Rent $280pw in Jan 2010,House: 3  1  1 ,Land size: 586 sqm | Building size: 110 sqm
+277,15 Mawarra Court,"Sold $810,000 in Jun 2019","Last Sold $382,000 in Oct 2005", ,House: 4  2  2 ,Land size: 822 sqm
+278,28C Lambhill Crescent,"Sold $610,000 in Jun 2019", , , ,Land size: 365 sqm
+279,12B Larcombe Street,"Sold $635,000 in Jun 2019", ,Rent $390pw in Oct 2017,House: 3  2  2 ,Land size: 430 sqm
+280,1/9 Cedar Grove,"Sold $535,000 in Jun 2019","Last Sold $353,000 in Oct 2010", ,House: 3  1  2 ,"Land size: 1,084 sqm | Building size: 128 sqm"
+281,17 Strickland Avenue,"Sold $565,000 in Jun 2019","Last Sold $350,000 in Jan 2014",Rent $380pw in Mar 2012,House: 3  1  3 ,Land size: 589 sqm | Building size: 124 sqm
+282,7 Montril Court,"Sold $665,000 in Jun 2019","Last Sold $235,000 in May 2011", ,House: 4  2  2 ,Land size: 633 sqm | Building size: 190 sqm
+283,27 Highland Way,"Sold $1,000,000 in Jun 2019","Last Sold $205,000 in Nov 2004", ,House: 5  2  2 ,Land size: 865 sqm | Building size: 400 sqm
+284,43 Victory Way,"Sold $900,000 in Jun 2019","Last Sold $210,000 in Jan 2007", ,House: 5  3  2 ,Land size: 754 sqm | Building size: 322 sqm
+285,7 Tarring Court,"Sold $660,000 in Jun 2019", , ,House: 4  2  2 ,Land size: 792 sqm
+286,18 Valencay Avenue,"Sold $930,000 in Jun 2019","Last Sold $795,000 in Jul 2015", ,House: 5  3  2 ,Land size: 680 sqm | Building size: 240 sqm
+287,9 Clemont Street,"Sold $806,000 in Jun 2019","Last Sold $182,000 in Oct 2009", ,House: 4  2  2 ,Land size: 804 sqm
+288,14 Cara Road,"Sold $775,000 in Jun 2019","Last Sold $184,000 in Nov 2000", ,House: 4  2  2 ,Land size: 844 sqm
+289,80 Fogarty Avenue,"Sold $535,000 in Jun 2019","Last Sold $329,000 in Jun 2008", ,House: 3  2  2 ,Land size: 368 sqm
+290,3/233 Roslyn Road,"Sold $423,000 in Jun 2019","Last Sold $387,000 in Feb 2000", , ,Land size: 193 sqm
+291,11B St Elmo Crescent,"Sold $495,000 in Jun 2019", ,Rent $430pw in Jun 2019,House: 3  1  1 ,Land size: 455 sqm
+292,97 Victory Way,"Sold $780,000 in Jun 2019","Last Sold $765,000 in Feb 2014", ,House: 3  2  2 ,Land size: 420 sqm
+293,76 South Valley Road,"Sold $551,000 in 01 Jun 2019(Auction)","Last Sold $385,000 in Feb 2010", ,House: 3  1  1 ,Land size: 633 sqm | Building size: 138 sqm
+294,49 Larcombe Street,"Sold $792,000 in 01 Jun 2019(Auction)","Last Sold $545,000 in Dec 2011", ,House: 4  2  2 ,Land size: 805 sqm
+295,14 Fryers Road,"Sold $460,000 in May 2019","Last Sold $72,500 in Jul 1986", ,House: 3  1  2 ,Land size: 945 sqm
+296,229 Roslyn Road,"Sold $844,000 in May 2019","Last Sold $84,500 in Aug 1997", ,House: 6  1  7 ,Land size: 766 sqm
+297,5 Lascelles Place,"Sold $763,500 in 25 May 2019(Auction)","Last Sold $74,500 in Jan 2001", ,House: 3  2  2 ,Land size: 737 sqm | Building size: 240 sqm
+298,7 South Valley Road,"Sold $647,000 in May 2019","Last Sold $345,000 in Mar 2010", ,House: 4  2  2 ,Land size: 644 sqm | Building size: 146 sqm
+299,32 Augustine Drive,"Sold $650,000 in May 2019", , ,House: 4  2  2 ,Land size: 822 sqm

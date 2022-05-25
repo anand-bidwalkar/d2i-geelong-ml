@@ -1,0 +1,491 @@
+Address,Sell Price,Sell Date,Last Sell Price,Last Sell Date,Auction,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Car,Suburb,Suburb_Code
+10 Dane Avenue,"1,100,000",Mar 2021,"170,000",Sep 2003,,,,720,365,,,,Bell Post Hill,3
+74A Ernest Street,"450,000",Feb 2021,"345,000",Aug 2018,,,,,,2,1,,Bell Post Hill,3
+44 Newton Avenue,"478,000",Feb 2021,"280,000",Aug 2013,,310,Apr 2017,544,112,3,1,1,Bell Post Hill,3
+2/82 Braund Avenue,"380,000",Feb 2021,"201,000",Sep 2008,,280,Feb 2015,218,90,,,,Bell Post Hill,3
+1/111 Liston Street,"422,000",Feb 2021,,,,,,283,,,,,Bell Post Hill,3
+3/14-16 Wolseley Grove,"250,000",Feb 2021,"130,000",Dec 2014,,210,Jun 2018,"1,299",,,,,Bell Post Hill,3
+8 Aintree Road,"535,000",Feb 2021,"275,000",Mar 2008,,380,Feb 2018,552,127,3,2,1,Bell Post Hill,3
+7 Kansas Avenue,"565,000",Feb 2021,"430,000",Jun 2015,,420,Jul 2015,537,199,5,2,3,Bell Post Hill,3
+49 Jedda Street,"560,000",Jan 2021,"386,000",May 2014,,400,Dec 2011,446,203,4,2,2,Bell Post Hill,3
+2/10-12 Chatham Close,"373,750",Jan 2021,"218,000",Aug 2014,,260,Nov 2018,138,,,,,Bell Post Hill,3
+2 Ravenell Court,"745,000",Jan 2021,"435,000",May 2012,,445,Oct 2011,817,,4,2,2,Bell Post Hill,3
+19 McNaughton Street,"215,000",Dec 2020,"133,250",Sep 2016,,,,218,,,,,Bell Post Hill,3
+24 Kansas Avenue,"430,000",Dec 2020,,,,,,527,,,,,Bell Post Hill,3
+29 Kinlock Street,"426,000",Dec 2020,"195,000",May 2005,,,,624,,4,1,2,Bell Post Hill,3
+4 Schofield Court,"827,000",Dec 2020,"495,000",Jan 2007,,,,815,,5,2,2,Bell Post Hill,3
+33 Kansas Avenue,"496,000",Dec 2020,"332,000",Jan 2015,,345,Dec 2014,539,169,3,1,1,Bell Post Hill,3
+12 Darriwill Street,"435,000",Dec 2020,,,,380,Jan 2021,537,,3,1,2,Bell Post Hill,3
+13 Kinlock Street,"640,000",Dec 2020,"450,000",Aug 2016,,480,Jan 2021,624,188,4,2,2,Bell Post Hill,3
+18 Tova Avenue,"450,000",Dec 2020,,,,,,899,,,,,Bell Post Hill,3
+9 Pratt Court,"515,700",Dec 2020,,,,340,Sep 2018,677,,3,2,1,Bell Post Hill,3
+169 Anakie Road,"575,000",Dec 2020,"482,500",Sep 2018,,,,569,,4,1,8,Bell Post Hill,3
+4 Darriwill Street,"440,000",Dec 2020,"258,250",Feb 2010,,310,Feb 2016,544,,3,1,1,Bell Post Hill,3
+6a Eagleview Crescent,"310,500",Nov 2020,,,,,,454,,,,,Bell Post Hill,3
+16 Tova Avenue,"450,000",Nov 2020,,,,,,901,,,,,Bell Post Hill,3
+141 Anakie Road,"580,000",Nov 2020,"437,500",Mar 2016,1.0,,,648,284,4,2,2,Bell Post Hill,3
+74 Newton Avenue,"693,000",Nov 2020,"175,000",May 1989,,,,795,,5,2,3,Bell Post Hill,3
+16 Schofield Court,"917,000",Nov 2020,"720,000",Apr 2013,,,,710,,5,3,2,Bell Post Hill,3
+40 Beauford Avenue,"510,000",Nov 2020,,,,,,569,,3,1,2,Bell Post Hill,3
+8A Wolseley Grove,"530,000",Oct 2020,,,,,,,,,,,Bell Post Hill,3
+14 Kansas Avenue,"415,000",Oct 2020,,,,,,536,,,,,Bell Post Hill,3
+74 Kansas Avenue,"562,000",Oct 2020,"175,000",May 2002,,,,545,,1,1,2,Bell Post Hill,3
+50 Neil Street,"596,000",Oct 2020,"51,000",May 1985,,480,Dec 2020,623,,4,2,2,Bell Post Hill,3
+17 Hosie Avenue,"500,000",Oct 2020,,,,,,558,,3,1,1,Bell Post Hill,3
+46 Neil Street,"580,000",Oct 2020,"230,000",Feb 2000,,,,620,,3,1,2,Bell Post Hill,3
+26 Corinella Street,"475,000",Oct 2020,"310,000",Sep 2014,,300,Mar 2017,624,90,3,1,1,Bell Post Hill,3
+55 Wolseley Grove,"505,000",Sep 2020,"255,000",Jun 2009,,,,570,,3,2,2,Bell Post Hill,3
+67 Corinella Street,"452,000",Sep 2020,,,,290,May 2018,622,,2,1,3,Bell Post Hill,3
+16 Fordview Crescent,"545,000",Sep 2020,"257,500",Jul 2007,,,,560,,3,2,1,Bell Post Hill,3
+32 Wolseley Grove,"610,000",Sep 2020,,,,,,657,,,,,Bell Post Hill,3
+80 Ruhamah Avenue,"497,420",Sep 2020,"88,000",Apr 2000,,,,629,,3,1,1,Bell Post Hill,3
+62 Neil Street,"470,000",Sep 2020,"183,500",Jun 2003,,,,623,,2,1,1,Bell Post Hill,3
+9 Jedda Street,"470,000",Sep 2020,"350,000",Nov 2016,,365,Aug 2020,695,,3,2,2,Bell Post Hill,3
+2/7 Quinn Street,"360,000",Sep 2020,"158,500",Apr 2002,,190,Apr 2004,177,,,,,Bell Post Hill,3
+4 Kardinia Drive,"460,000",Sep 2020,"244,000",Aug 2007,,,,361,114,,,,Bell Post Hill,3
+21 Hosie Avenue,"500,000",Sep 2020,"101,000",Nov 1994,,,,575,,2,2,2,Bell Post Hill,3
+3/10-12 Chatham Close,"372,500",Sep 2020,,,,260,May 2018,171,,,,,Bell Post Hill,3
+24 Darriwill Street,"457,500",Sep 2020,"265,000",Jun 2011,,310,Mar 2018,536,,3,1,1,Bell Post Hill,3
+8B Wolseley Grove,"530,000",Aug 2020,,,,,,,,,,,Bell Post Hill,3
+25 Fairy Street,"494,000",12 Aug 2020,,,1.0,390,Aug 2020,627,,3,1,2,Bell Post Hill,3
+19 Molloy Court,"640,000",Aug 2020,"460,000",Apr 2013,,450,Apr 2015,440,193,3,2,2,Bell Post Hill,3
+215 Anakie Road,"412,500",Aug 2020,,,,,,549,,,,,Bell Post Hill,3
+51 Corinella Street,"600,000",Aug 2020,"350,000",Dec 2013,,,,631,,4,2,,Bell Post Hill,3
+2/2 Liston Street,"400,000",Aug 2020,"233,500",Jul 2005,,,,280,,,,,Bell Post Hill,3
+23 Edison Road,"605,000",Jul 2020,"397,000",May 2015,,,,522,,4,2,2,Bell Post Hill,3
+12 Gotemba Road,"575,000",Jul 2020,"369,500",Sep 2012,,,,566,,3,2,2,Bell Post Hill,3
+65-75 Bluestone Bridge Road,"1,500,000",Jul 2020,,,,,,"16,072",,,,,Bell Post Hill,3
+1/10-12 Chatham Close,"376,500",Jul 2020,"218,000",Aug 2014,,250,Jan 2017,173,,,,,Bell Post Hill,3
+25 Darriwill Street,"467,500",Jul 2020,"335,000",Feb 2017,,390,Mar 2019,628,139,3,1,1,Bell Post Hill,3
+16 Kinlock Street,"500,000",Jul 2020,"485,000",Feb 2018,,355,Nov 2019,626,120,3,1,1,Bell Post Hill,3
+1/10 Chatham Close,"376,500",Jul 2020,"180,000",Aug 2010,,260,Sep 2014,173,,,,,Bell Post Hill,3
+96 Fairy Street,"486,000",Jul 2020,"91,000",Sep 2000,,,,637,,1,,,Bell Post Hill,3
+49 Ruhamah Avenue,"485,000",Jul 2020,"72,000",Nov 1991,,,,625,,3,1,1,Bell Post Hill,3
+1 Wolseley Grove,"473,000",Jul 2020,"286,100",Jan 2008,,,,683,,3,2,3,Bell Post Hill,3
+29 Corinella Street,"410,000",Jul 2020,,,,,,699,,,,,Bell Post Hill,3
+Lot 18 Tova Street,"320,000",Jul 2020,,,,,,594,,,,,Bell Post Hill,3
+29 Dane Avenue,"900,000",Jun 2020,"540,000",Jan 2015,,,,716,,3,2,2,Bell Post Hill,3
+43 Newton Avenue,"432,000",Jun 2020,"261,000",Jul 2014,,310,Sep 2018,535,96,2,1,1,Bell Post Hill,3
+38 Dane Avenue,"855,000",Jun 2020,"650,000",Dec 2014,,,,790,,4,3,3,Bell Post Hill,3
+98A Neil Street,"515,000",Jun 2020,"365,000",May 2015,,,,305,,3,,,Bell Post Hill,3
+10 Darriwill Street,"455,000",Jun 2020,"330,000",Jan 2011,,385,Jul 2019,544,,3,1,1,Bell Post Hill,3
+72 Neil Street,"457,500",May 2020,"286,000",Jun 2015,,,,622,104,3,1,1,Bell Post Hill,3
+34 Fairy Street,"508,500",May 2020,"355,000",Mar 2014,,350,May 2014,635,,3,1,1,Bell Post Hill,3
+98 Darriwill Street,"415,000",May 2020,"292,500",Sep 2013,,290,Jan 2014,550,117,4,1,1,Bell Post Hill,3
+49 Kinlock Street,"562,500",May 2020,"375,000",Oct 2012,,,,569,,3,2,2,Bell Post Hill,3
+46 Kansas Avenue,"465,000",May 2020,"150,000",Apr 2012,,390,Jul 2020,533,,,,,Bell Post Hill,3
+31 Leila Crescent,"550,000",May 2020,"99,000",Oct 1987,,,,572,,3,2,2,Bell Post Hill,3
+97 Neil Street,"550,000",May 2020,"359,000",Apr 2011,,,,646,,3,1,4,Bell Post Hill,3
+98 Ruhamah Avenue,"525,000",Apr 2020,"395,000",Jun 2016,,,,625,,3,2,2,Bell Post Hill,3
+44 Leila Crescent,"535,000",Apr 2020,"320,000",Oct 2008,,,,671,,4,2,2,Bell Post Hill,3
+72 Ernest Street,"470,000",Apr 2020,"114,000",Oct 1998,,,,657,,3,2,2,Bell Post Hill,3
+3 Beauford Avenue,"520,000",Apr 2020,"325,000",Apr 2014,,320,Jun 2013,559,185,3,1,2,Bell Post Hill,3
+6 Ernest Street,"475,000",Apr 2020,"247,000",Jun 2007,,,,650,104,3,1,2,Bell Post Hill,3
+70 Newton Avenue,"850,000",Apr 2020,"272,500",Nov 2010,,,,850,,,,,Bell Post Hill,3
+91 Ernest Street,"560,000",Mar 2020,"361,000",Aug 2013,,,,647,,3,1,1,Bell Post Hill,3
+45 Newton Avenue,"484,092",Mar 2020,"312,000",Dec 2015,,285,Dec 2014,535,120,2,2,2,Bell Post Hill,3
+8 Gotemba Road,"793,000",Mar 2020,"615,000",Jun 2016,,,,647,260,4,2,4,Bell Post Hill,3
+3 Aintree Road,"592,000",Mar 2020,"380,000",Jul 2011,,,,559,,3,2,2,Bell Post Hill,3
+157 Anakie Road,"472,000",Feb 2020,,,,360,Mar 2020,582,,3,1,2,Bell Post Hill,3
+130 Rollins Road,"575,000",Feb 2020,"326,000",Aug 2006,,,,677,,,,,Bell Post Hill,3
+6 Eagleview Crescent,"620,000",21 Feb 2020,,,1.0,,,"1,029",,,,,Bell Post Hill,3
+24 Newton Avenue,"477,000",Feb 2020,"312,000",Sep 2012,,395,Jul 2017,527,125,4,2,1,Bell Post Hill,3
+60 Jedda Street,"427,500",Feb 2020,"306,000",Jun 2012,,310,Sep 2012,645,,3,1,1,Bell Post Hill,3
+126 Rollins Road,"599,000",Feb 2020,"525,000",Dec 2017,1.0,,,684,,3,2,4,Bell Post Hill,3
+10 Rita Court,"785,000",Jan 2020,"279,000",Aug 2015,,,,559,,,,,Bell Post Hill,3
+36 Rollins Road,"735,000",Jan 2020,"300,000",Nov 2007,,,,840,,,,,Bell Post Hill,3
+151 Anakie Road,"590,000",Dec 2019,"412,500",Mar 2017,1.0,400,Jun 2017,641,,3,2,2,Bell Post Hill,3
+7 Newton Avenue,"460,000",Dec 2019,"365,000",Apr 2015,,400,Mar 2019,532,,3,2,2,Bell Post Hill,3
+8 Peter Street,"638,000",Dec 2019,"320,000",Dec 2007,,,,656,187,3,2,1,Bell Post Hill,3
+1/3 Peter Street,"349,000",Dec 2019,"225,000",Apr 2013,,270,Jan 2013,151,,,,,Bell Post Hill,3
+49A Darriwill Street,"462,000",Nov 2019,,,,,,,,,,,Bell Post Hill,3
+2/29 Leila Crescent,"425,000",Nov 2019,,,,310,Dec 2016,294,,,,,Bell Post Hill,3
+61 Neil Street,"441,000",Nov 2019,"115,000",Aug 2001,,,,633,,3,1,4,Bell Post Hill,3
+3 Kansas Avenue,"560,000",Nov 2019,"379,000",Nov 2015,,,,538,,3,2,1,Bell Post Hill,3
+88 Fairy Street,"490,000",Nov 2019,,,,380,Nov 2019,635,,3,1,3,Bell Post Hill,3
+96 Neil Street,"455,000",Nov 2019,"385,000",Oct 2017,,450,Jan 2021,631,,3,1,3,Bell Post Hill,3
+51 Darriwill Street,"490,000",Nov 2019,"225,000",Nov 2007,,,,575,131,4,1,5,Bell Post Hill,3
+10 Corinella Street,"545,000",Oct 2019,,,,,,649,,3,1,2,Bell Post Hill,3
+100 Ernest Street,"510,000",Oct 2019,"108,000",Oct 2001,,,,648,,3,1,1,Bell Post Hill,3
+87 Darriwill Street,"418,000",Oct 2019,,,,,,626,,,,,Bell Post Hill,3
+73 Corinella Street,"452,500",Oct 2019,"410,000",Dec 2016,,380,Jul 2018,617,,5,2,2,Bell Post Hill,3
+97 Kansas Avenue,"460,000",Oct 2019,"84,000",Nov 1998,,380,Jan 2021,541,130,3,1,1,Bell Post Hill,3
+5A Kinlock Street,"330,000",Sep 2019,,,,,,308,,,,,Bell Post Hill,3
+39B Jedda Street,"422,000",Sep 2019,,,,,,291,,,,,Bell Post Hill,3
+6/14-16 Wolseley Grove,"372,500",Sep 2019,"200,000",Dec 2014,,340,Aug 2019,"1,299",,,,,Bell Post Hill,3
+83 Darriwill Street,"480,000",Sep 2019,"333,000",May 2010,,360,May 2015,624,180,3,2,4,Bell Post Hill,3
+25 Aintree Road,"570,000",Sep 2019,"322,200",May 2004,,390,May 2011,564,,3,2,2,Bell Post Hill,3
+21 Darriwill Street,"385,000",Aug 2019,"230,000",Feb 2014,,240,Mar 2014,360,93,2,1,1,Bell Post Hill,3
+1 Milan Street,"400,000",Aug 2019,,,,,,,,2,1,1,Bell Post Hill,3
+2 Wolseley Grove,"390,000",Aug 2019,"95,000",Oct 2002,,210,Mar 2016,654,81,,,,Bell Post Hill,3
+74B Ernest Street,"445,000",Aug 2019,,,,400,Feb 2021,270,,3,2,2,Bell Post Hill,3
+38 Jedda Street,"430,000",Aug 2019,"337,000",May 2016,,,,645,100,2,1,1,Bell Post Hill,3
+3 Newton Avenue,"420,000",Aug 2019,"268,000",Jul 2012,,280,Feb 2010,543,113,3,1,1,Bell Post Hill,3
+221 Anakie Road,"545,000",Aug 2019,"260,000",Sep 2008,,,,593,191,4,2,5,Bell Post Hill,3
+72 Corinella Street,"580,000",Aug 2019,"115,000",Nov 1984,,,,624,,4,2,4,Bell Post Hill,3
+a/1 Ruhamah Avenue,"575,000",Jul 2019,,,,,,,,3,2,2,Bell Post Hill,3
+1/70 Ruhamah Avenue,"410,000",Jul 2019,,,,350,Aug 2018,630,,3,1,1,Bell Post Hill,3
+34 Liston Street,"405,000",Jun 2019,"225,000",Sep 2006,,450,Oct 2020,635,,3,1,2,Bell Post Hill,3
+5 Pratt Court,"540,000",Jun 2019,"284,990",Dec 2008,,,,820,,4,2,2,Bell Post Hill,3
+31 Jedda Street,"485,000",Jun 2019,"277,500",Dec 2008,,,,698,219,3,1,7,Bell Post Hill,3
+2/36 Eagleview Crescent,"365,000",Jun 2019,"238,000",Nov 2009,,270,Jul 2015,305,92,,,,Bell Post Hill,3
+5B Kinlock Street,"175,000",Jun 2019,,,,,,313,,,,,Bell Post Hill,3
+31 Ernest Street,"572,500",Jun 2019,"370,000",Feb 2010,,450,Jun 2018,651,385,5,2,2,Bell Post Hill,3
+61 Ruhamah Avenue,"445,000",Jun 2019,"302,000",Jan 2011,,310,Feb 2018,629,112,3,1,3,Bell Post Hill,3
+5 Ward Street,"485,000",Jun 2019,,,,,,,,,,,Bell Post Hill,3
+40 Kansas Avenue,"447,000",May 2019,,,,,,540,,4,1,3,Bell Post Hill,3
+45 Kansas Avenue,"452,500",May 2019,"296,000",May 2011,,295,Sep 2011,540,121,3,1,4,Bell Post Hill,3
+27 Ernest Street,"375,000",May 2019,"80,000",Jul 1992,,,,643,,4,1,1,Bell Post Hill,3
+1/57 Rollins Road,"385,000",May 2019,"280,000",Jan 2015,,320,Feb 2018,302,,,,,Bell Post Hill,3
+58 Ruhamah Avenue,"485,000",May 2019,"376,500",Nov 2014,,350,May 2017,621,139,3,1,2,Bell Post Hill,3
+15 Molloy Court,"590,000",Apr 2019,"197,000",Dec 2011,,430,Apr 2017,428,177,3,2,6,Bell Post Hill,3
+78 Corinella Street,"480,000",Apr 2019,"305,000",Jun 2014,,390,Aug 2016,628,,3,2,3,Bell Post Hill,3
+13 Jedda Street,"515,000",Apr 2019,"128,000",Sep 2000,,445,Jul 2019,705,,4,2,2,Bell Post Hill,3
+53 Braund Avenue,"488,000",Apr 2019,"74,000",Sep 1988,,270,Apr 2016,634,,3,1,5,Bell Post Hill,3
+43 Edison Road,"450,000",Mar 2019,"203,000",Feb 2000,,,,538,,3,2,2,Bell Post Hill,3
+167 Anakie Road,"440,000",Mar 2019,"200,000",Dec 2004,,,,563,,4,1,2,Bell Post Hill,3
+49 Rollins Road,"468,000",Mar 2019,"360,000",Sep 2014,,320,Sep 2014,557,143,3,1,3,Bell Post Hill,3
+38 Kinlock Street,"480,000",Mar 2019,"67,500",Sep 1999,,,,620,,3,1,6,Bell Post Hill,3
+112 Rollins Road,"505,000",Mar 2019,"360,000",May 2013,,370,May 2017,613,,4,1,2,Bell Post Hill,3
+23 Kinlock Street,"399,000",Mar 2019,"83,000",Mar 1994,,375,Jun 2019,552,,3,1,2,Bell Post Hill,3
+11 Molloy Court,"592,000",Mar 2019,"101,000",Feb 2000,,360,Nov 2016,427,137,3,1,2,Bell Post Hill,3
+67 Kansas Avenue,"479,000",Feb 2019,,,,370,Mar 2019,539,,3,1,4,Bell Post Hill,3
+42 Kinlock Street,"390,000",Feb 2019,"84,500",Aug 1993,,,,740,,2,1,,Bell Post Hill,3
+50 Rollins Road,"440,000",Feb 2019,"310,000",Oct 2013,,,,589,140,3,1,5,Bell Post Hill,3
+72 Ruhamah Avenue,"452,500",Feb 2019,"251,000",May 2010,,330,May 2017,620,102,3,1,3,Bell Post Hill,3
+56 Corinella Street,"475,000",Feb 2019,"285,000",Jul 2013,1.0,,,631,5852,3,1,1,Bell Post Hill,3
+35 Darcy Crescent,"528,000",Feb 2019,"301,000",May 2007,,450,Mar 2019,558,,4,2,3,Bell Post Hill,3
+38 Ward Street,"570,000",Jan 2019,"232,000",Nov 2008,,,,585,113,3,1,4,Bell Post Hill,3
+72 Fairy Street,"510,000",Jan 2019,"325,000",Nov 2015,,,,636,,3,1,2,Bell Post Hill,3
+90 Liston Street,"399,600",Jan 2019,,,,,,570,,3,1,2,Bell Post Hill,3
+8 Wolseley Grove,"370,000",Jan 2019,"206,000",Jun 2008,,,,653,,3,1,,Bell Post Hill,3
+20 Wolseley Grove,"352,500",Jan 2019,,,,,,641,,4,1,3,Bell Post Hill,3
+15 Darriwill Street,"460,000",Dec 2018,"188,000",Aug 2002,,380,Jun 2019,626,109,3,1,2,Bell Post Hill,3
+71 Darriwill Street,"370,000",Dec 2018,"291,000",Feb 2013,,260,Jun 2014,630,118,3,1,1,Bell Post Hill,3
+84 Corinella Street,"554,000",18 Dec 2018,"531,000",Sep 2017,1.0,,,627,,4,2,1,Bell Post Hill,3
+27 Edison Road,"440,000",Dec 2018,"145,000",Mar 2002,,370,Sep 2019,535,,3,1,2,Bell Post Hill,3
+71 Neil Street,"579,000",Dec 2018,"347,000",Aug 2017,1.0,,,633,,4,2,1,Bell Post Hill,3
+22 Corinella Street,"537,000",Dec 2018,,,,380,Jan 2019,752,,3,1,2,Bell Post Hill,3
+20 Kansas Avenue,"490,000",Dec 2018,,,,400,Jan 2019,538,,4,1,3,Bell Post Hill,3
+13 Neil Street,"575,500",Dec 2018,"365,000",Nov 2008,1.0,,,656,,4,2,4,Bell Post Hill,3
+44 Braund Avenue,"410,000",Dec 2018,"69,000",Feb 2000,,,,578,,4,1,1,Bell Post Hill,3
+18 Kansas Avenue,"335,000",Dec 2018,,,,,,538,,,,,Bell Post Hill,3
+16 Rushden Close,"531,000",01 Dec 2018,,,1.0,,,642,,4,2,2,Bell Post Hill,3
+42 Ernest Street,"486,000",Nov 2018,,,,,,776,,3,1,1,Bell Post Hill,3
+6 Chanel Avenue,"630,000",Nov 2018,"125,000",Nov 1985,,,,"1,074",,5,3,2,Bell Post Hill,3
+153 Anakie Road,"566,000",Nov 2018,"353,000",Jan 2005,,,,644,,4,2,2,Bell Post Hill,3
+7 Darriwill Street,"587,000",Nov 2018,,,,,,623,,3,2,4,Bell Post Hill,3
+16 Rollins Road,"400,000",24 Nov 2018,"105,000",Sep 2003,1.0,,,534,,3,1,2,Bell Post Hill,3
+18 Corinella Street,"550,000",Nov 2018,,,,,,655,,4,2,4,Bell Post Hill,3
+7 Fairy Street,"605,000",Nov 2018,"405,000",Nov 2016,1.0,,,537,,2,1,1,Bell Post Hill,3
+30 Newton Avenue,"445,000",Nov 2018,"195,000",Dec 2005,,,,535,140,3,1,2,Bell Post Hill,3
+2 Cardiff Street,"525,000",Oct 2018,"405,000",Jun 2008,,430,Apr 2019,555,159,4,2,2,Bell Post Hill,3
+21 Newton Avenue,"515,123",Oct 2018,"244,000",Jul 2005,,430,Nov 2018,529,,4,2,3,Bell Post Hill,3
+54 Fairy Street,"507,000",Oct 2018,"71,500",Apr 1986,,,,636,,3,1,4,Bell Post Hill,3
+27 Kinlock Street,"513,500",13 Oct 2018,,,1.0,,,617,,3,1,1,Bell Post Hill,3
+30 Kansas Avenue,"425,000",13 Oct 2018,,,1.0,320,Feb 2013,531,,3,1,1,Bell Post Hill,3
+16 Darriwill Street,"500,000",Oct 2018,"327,000",Apr 2011,,330,Jul 2011,544,146,3,1,1,Bell Post Hill,3
+29 Quinn Street,"431,000",11 Oct 2018,,,1.0,,,439,,3,2,2,Bell Post Hill,3
+23 Kansas Avenue,"530,000",06 Oct 2018,"336,500",Jul 2013,1.0,410,Dec 2019,529,,3,1,1,Bell Post Hill,3
+3B Neil Street,"445,000",Sep 2018,,,,390,Mar 2019,310,,3,1,2,Bell Post Hill,3
+1/21 Fordview Crescent,"350,000",Sep 2018,"239,000",Jun 2016,,280,Apr 2018,217,,,,,Bell Post Hill,3
+31 Braund Avenue,"481,000",Sep 2018,"65,500",Apr 1988,,,,631,,3,1,5,Bell Post Hill,3
+15 Hosie Avenue,"335,000",08 Sep 2018,,,1.0,,,566,,,,,Bell Post Hill,3
+77 Ernest Street Street,"438,000",Sep 2018,,,,,,,,4,1,3,Bell Post Hill,3
+77 Ernest Street,"438,000",08 Sep 2018,"330,500",Mar 2013,1.0,445,Mar 2019,642,,3,1,1,Bell Post Hill,3
+86 Neil Street,"510,000",08 Sep 2018,"97,500",Apr 1997,1.0,350,Sep 2014,626,,3,1,3,Bell Post Hill,3
+41 Darcy Crescent,"550,000",07 Sep 2018,"215,500",May 2002,1.0,,,555,,3,2,5,Bell Post Hill,3
+12 Fordview Crescent,"457,500",Sep 2018,"230,250",Oct 2007,,380,Nov 2018,560,,3,1,1,Bell Post Hill,3
+9 Peter Street,"515,000",01 Sep 2018,"310,000",Dec 2009,1.0,305,Aug 2011,612,,3,1,1,Bell Post Hill,3
+61 Corinella Street,"402,000",Aug 2018,"265,900",Jul 2009,,320,Aug 2012,626,,3,1,2,Bell Post Hill,3
+89 Neil Street,"425,000",11 Aug 2018,,,1.0,,,647,,3,1,2,Bell Post Hill,3
+57 Kinlock Street,"133,000",Aug 2018,,,,335,Jul 2017,625,102,2,2,1,Bell Post Hill,3
+17 Molloy Court,"557,500",Aug 2018,"146,000",May 2005,,370,Jun 2017,440,,3,2,1,Bell Post Hill,3
+52 Jedda Street,"620,000",Aug 2018,,,,,,596,,4,2,4,Bell Post Hill,3
+14 Darriwill Street,"530,000",Aug 2018,"300,000",Sep 2016,,280,May 2015,544,115,3,2,1,Bell Post Hill,3
+60 Darriwill Street,"475,000",Jul 2018,,,,,,543,,3,1,4,Bell Post Hill,3
+45 Rollins Road,"372,000",14 Jul 2018,"59,000",Feb 2000,1.0,,,532,,3,2,2,Bell Post Hill,3
+9 Eagleview Crescent,"540,000",Jul 2018,"314,000",Jan 2006,,,,781,221,4,1,1,Bell Post Hill,3
+89 Darriwell Street,"485,000",Jul 2018,,,,,,,,,,,Bell Post Hill,3
+89 Darriwill Street,"485,000",Jul 2018,"300,000",Jul 2009,,360,Jul 2016,616,171,3,1,1,Bell Post Hill,3
+101 Corinella Street,"398,000",Jul 2018,"240,000",Apr 2014,,,,300,104,2,1,1,Bell Post Hill,3
+47 Rollins Road,"450,000",Jun 2018,"295,000",Nov 2010,,400,Feb 2013,581,,4,2,1,Bell Post Hill,3
+68 Ernest Street,"361,000",Jun 2018,,,,,,648,,3,1,2,Bell Post Hill,3
+20 Darriwill Street,"455,000",Jun 2018,"192,000",Jul 2003,,330,Aug 2018,543,,3,1,1,Bell Post Hill,3
+223 Anakie Road,"450,000",Jun 2018,,,,,,586,,3,1,5,Bell Post Hill,3
+22 Darriwill Street,"417,500",Jun 2018,"150,000",Sep 2005,,330,Apr 2015,536,,3,1,2,Bell Post Hill,3
+1/102 Ernest Street,"410,000",Jun 2018,,,,,,308,,,,,Bell Post Hill,3
+50 Braund Avenue,"487,500",May 2018,"330,300",May 2016,,,,576,145,2,1,1,Bell Post Hill,3
+58 Kansas Avenue,"505,000",May 2018,"330,000",Jan 2014,,360,Nov 2016,536,121,4,2,1,Bell Post Hill,3
+113 Liston Street,"520,000",12 May 2018,"330,000",Apr 2013,1.0,380,Mar 2018,639,131,3,1,2,Bell Post Hill,3
+8 Kinlock Street,"517,000",12 May 2018,"304,250",Jun 2014,1.0,315,Nov 2016,624,125,3,1,2,Bell Post Hill,3
+93 Braund Avenue,"515,000",28 Apr 2018,"95,500",Aug 1985,1.0,440,Aug 2019,632,,1,1,1,Bell Post Hill,3
+23 Newton Avenue,"451,000",Apr 2018,"290,000",Apr 2012,,300,Feb 2014,530,136,3,1,2,Bell Post Hill,3
+7b Chanel Avenue,"420,311",Apr 2018,,,,350,Oct 2015,320,,,,,Bell Post Hill,3
+30 Cardiff Street,"540,000",Apr 2018,"316,000",Nov 2009,,,,556,168,3,2,1,Bell Post Hill,3
+2/57 Rollins Road,"381,000",Apr 2018,"232,500",May 2005,,,,305,,,,,Bell Post Hill,3
+34 Newton Avenue,"435,000",07 Apr 2018,,,1.0,360,Jun 2018,539,,3,1,2,Bell Post Hill,3
+13 Darriwill Street,"503,000",Apr 2018,,,,395,Jul 2018,619,,4,2,2,Bell Post Hill,3
+5 Eagleview Crescent,"657,500",Apr 2018,"570,000",Aug 2014,,,,950,282,6,3,2,Bell Post Hill,3
+43 Corinella Street,"500,000",Mar 2018,"247,000",Jul 2008,,,,624,,3,1,1,Bell Post Hill,3
+99 Corinella Street,"165,000",Mar 2018,,,,210,May 2009,328,,3,1,,Bell Post Hill,3
+10 Neil Street,"585,000",Mar 2018,"175,000",Sep 2001,,,,651,,1,1,1,Bell Post Hill,3
+1/14-16 Wolseley Grove,"187,000",Mar 2018,"130,000",Dec 2014,,130,Apr 2010,"1,299",,,,,Bell Post Hill,3
+95 Ernest Street,"516,000",Mar 2018,"168,000",Jun 2001,,400,Mar 2018,637,,4,2,5,Bell Post Hill,3
+33 Edison Road,"470,000",Mar 2018,"287,000",Mar 2014,,395,Jul 2019,534,106,3,1,1,Bell Post Hill,3
+40 Liston Street,"586,000",24 Feb 2018,"395,000",Jul 2014,1.0,470,Jan 2021,643,214,3,2,4,Bell Post Hill,3
+54 Ruhamah Avenue,"530,000",24 Feb 2018,"380,000",Nov 2010,1.0,400,May 2018,619,,3,2,1,Bell Post Hill,3
+32 Braund Avenue,"500,000",Feb 2018,"317,000",Oct 2009,,400,Aug 2018,631,204,4,2,3,Bell Post Hill,3
+68 Fairy Street,"502,500",Feb 2018,"315,000",Jun 2010,,380,Mar 2018,632,126,3,1,4,Bell Post Hill,3
+10 Piccadilly Close,"460,000",Feb 2018,"117,000",Oct 1993,,390,Jun 2019,697,,3,2,6,Bell Post Hill,3
+30 Liston Street,"530,000",Feb 2018,"340,000",Feb 2012,,,,646,143,3,1,4,Bell Post Hill,3
+73 Ruhamah Avenue,"471,000",Feb 2018,"328,000",May 2012,,360,May 2018,620,,3,1,2,Bell Post Hill,3
+123 Anakie Road,"422,000",Feb 2018,"329,000",May 2014,,330,Feb 2012,410,139,3,1,1,Bell Post Hill,3
+14 Dane Avenue,"412,500",Feb 2018,"62,000",Dec 1995,,,,720,,,,,Bell Post Hill,3
+32 Ward Street,"512,000",Feb 2018,"83,000",Oct 1999,,,,578,,3,1,2,Bell Post Hill,3
+75 Fairy Street,"520,000",03 Feb 2018,"280,000",Dec 2006,1.0,,,619,,5,3,2,Bell Post Hill,3
+21 Edison Road,"435,000",Jan 2018,"270,000",Jul 2010,,325,May 2017,524,,3,1,1,Bell Post Hill,3
+17 Harcombe Street,"535,051",Jan 2018,"379,990",Mar 2012,,,,579,227,4,2,1,Bell Post Hill,3
+73 Jedda Street,"440,000",Jan 2018,"336,000",Nov 2014,,320,Apr 2016,696,,3,1,4,Bell Post Hill,3
+1/2 Jedda Street,"413,000",Jan 2018,"310,000",Jun 2011,,340,May 2015,299,136,,,,Bell Post Hill,3
+99 Ernest Street,"445,000",Dec 2017,"335,000",Oct 2014,,400,Sep 2019,647,162,3,2,8,Bell Post Hill,3
+48 Ernest Street,"476,250",Dec 2017,"268,500",Oct 2005,,,,579,190,4,2,4,Bell Post Hill,3
+5 Dane Avenue,"735,000",Dec 2017,,,,,,743,,4,2,3,Bell Post Hill,3
+118B Rollins Road,"428,000",Dec 2017,,,,420,Jan 2021,312,,3,2,2,Bell Post Hill,3
+36 Darriwill Street,"400,000",16 Dec 2017,"165,000",Oct 2001,1.0,430,Feb 2020,541,148,3,1,2,Bell Post Hill,3
+42 Beauford Avenue,"421,000",16 Dec 2017,"80,000",Mar 1988,1.0,350,Feb 2018,617,,3,1,2,Bell Post Hill,3
+6 Molloy Court,"506,000",Dec 2017,"333,000",Dec 2006,,,,439,,3,2,4,Bell Post Hill,3
+79 Ruhamah Avenue,"425,000",09 Dec 2017,,,1.0,320,Mar 2018,629,,3,1,1,Bell Post Hill,3
+65 Corinella Street,"440,000",Dec 2017,,,,,,633,,3,1,3,Bell Post Hill,3
+48 Kinlock Street,"399,000",Dec 2017,,,,,,568,,3,1,1,Bell Post Hill,3
+84 Darriwill Street,"430,000",Nov 2017,"50,000",Aug 1984,,350,Nov 2017,541,,3,1,3,Bell Post Hill,3
+62 Ernest Street,"429,000",Nov 2017,"270,000",Jul 2014,,280,Jul 2015,640,,3,1,2,Bell Post Hill,3
+63 Fairy Street,"405,000",25 Nov 2017,,,1.0,380,May 2019,626,,3,1,2,Bell Post Hill,3
+42A Braund Avenue,"419,000",Nov 2017,,,,385,Mar 2017,411,,3,2,2,Bell Post Hill,3
+69 Braund Avenue,"490,000",18 Nov 2017,"405,000",Aug 2015,1.0,440,Feb 2019,626,110,3,2,4,Bell Post Hill,3
+80 Darriwill Street,"417,000",18 Nov 2017,"270,000",Sep 2010,1.0,,,537,140,3,1,1,Bell Post Hill,3
+61 Leila Crescent,"490,000",Nov 2017,"395,000",Feb 2013,,,,573,152,3,2,2,Bell Post Hill,3
+24 Ruhamah Avenue,"535,000",11 Nov 2017,"370,000",Oct 2012,1.0,460,Mar 2018,625,207,4,2,6,Bell Post Hill,3
+41 Dane Avenue,"697,000",Nov 2017,"594,000",Jan 2015,,,,761,335,5,2,2,Bell Post Hill,3
+41 Kinlock Street,"455,000",Nov 2017,"357,500",Oct 2014,,320,Apr 2016,749,108,3,1,2,Bell Post Hill,3
+41 Kansas Avenue,"485,000",28 Oct 2017,"68,000",Oct 1986,1.0,,,641,,3,1,7,Bell Post Hill,3
+2/2 Jedda Street,"376,500",Oct 2017,,,,330,Aug 2018,339,,,,,Bell Post Hill,3
+11 Cardiff Street,"310,000",Oct 2017,"52,000",Jul 1994,,,,558,,,,,Bell Post Hill,3
+38 Newton Avenue,"500,000",Oct 2017,"372,000",Aug 2016,,,,532,,4,2,2,Bell Post Hill,3
+10 Cardiff Street,"575,000",Oct 2017,"335,000",Oct 2003,,,,557,278,3,2,3,Bell Post Hill,3
+42 Jedda Street,"428,500",Oct 2017,"295,000",Jul 2013,,295,Jan 2013,776,133,3,1,2,Bell Post Hill,3
+8 Fordview Crescent,"431,500",Oct 2017,"267,500",Jul 2010,,350,Nov 2017,562,113,3,1,1,Bell Post Hill,3
+139 Anakie Road,"425,000",Sep 2017,"325,000",Dec 2013,,370,Sep 2019,676,111,3,1,2,Bell Post Hill,3
+2 Ruhamah Avenue,"465,000",23 Sep 2017,"126,500",Nov 2013,1.0,370,Jan 2019,632,,3,1,4,Bell Post Hill,3
+5 Kinlock Street,"400,000",Sep 2017,"189,000",Nov 2003,,325,Oct 2017,622,,3,1,1,Bell Post Hill,3
+91 Ruhamah Avenue,"482,400",09 Sep 2017,"362,500",Jul 2014,1.0,440,Nov 2017,628,179,4,2,1,Bell Post Hill,3
+55 Corinella Street,"531,000",Sep 2017,"54,000",Feb 2000,,,,633,,4,2,2,Bell Post Hill,3
+2/41 Leila Crescent,"376,000",Sep 2017,,,,450,Apr 2017,198,,,,,Bell Post Hill,3
+82 Fairy Street,"436,500",Sep 2017,,,,,,637,,,,,Bell Post Hill,3
+77 Fairy Street,"462,000",Sep 2017,"220,000",Jul 2007,,,,629,,3,1,4,Bell Post Hill,3
+24 Neil Street,"438,000",02 Sep 2017,,,1.0,360,Oct 2018,631,,3,1,2,Bell Post Hill,3
+3 Leila Crescent,"525,000",02 Sep 2017,,,1.0,430,May 2019,560,,3,2,4,Bell Post Hill,3
+82 Jedda Street,"436,500",02 Sep 2017,"64,000",Feb 1981,1.0,,,638,,3,2,2,Bell Post Hill,3
+3/41 Leila Crescent,"231,000",Aug 2017,,,,260,Jan 2019,206,,,,,Bell Post Hill,3
+17 Neil Street,"347,000",26 Aug 2017,,,1.0,,,661,,,,,Bell Post Hill,3
+97 Ernest Street,"412,000",26 Aug 2017,,,1.0,360,Nov 2017,639,,3,1,3,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3
+45 Liston Street,"447,000",26 Aug 2017,"315,000",Oct 2013,1.0,360,Oct 2017,596,,3,1,4,Bell Post Hill,3
+147 Anakie Road,"395,000",Aug 2017,"141,000",Feb 2002,,420,Jan 2020,646,,3,1,4,Bell Post Hill,3
+2/3 Peter Street,"180,000",Aug 2017,,,,295,Nov 2017,190,,,,,Bell Post Hill,3
+61 Liston Street,"442,000",Aug 2017,"341,000",Oct 2015,,330,Apr 2017,599,,3,1,2,Bell Post Hill,3
+10 Jedda Street,"420,000",29 Jul 2017,,,1.0,360,Dec 2020,642,,3,1,2,Bell Post Hill,3
+80 Kansas Avenue,"405,000",Jul 2017,,,,340,Aug 2017,534,,3,2,,Bell Post Hill,3
+102 Wolseley Grove,"490,500",15 Jul 2017,"322,500",Nov 2010,1.0,370,Jul 2012,650,165,3,2,1,Bell Post Hill,3
+28 Fairy Street,"377,000",15 Jul 2017,"320,000",Nov 2011,1.0,340,Aug 2017,640,134,3,1,1,Bell Post Hill,3
+28 Darriwill Street,"329,000",Jul 2017,"106,000",Jan 2001,,,,538,,4,1,2,Bell Post Hill,3
+99 Neil Street,"480,000",Jul 2017,"62,500",Feb 1981,,,,640,151,5,2,2,Bell Post Hill,3

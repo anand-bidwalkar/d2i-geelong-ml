@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,5 Cosmos Court,"Sold $432,000 in Aug 2020","Last Sold $240,000 in Apr 2005", ,House: 4  1  1 ,Land size: 690 sqm
+1,6 Orbit Drive,"Sold $388,000 in Aug 2020","Last Sold $350,000 in Nov 2018", ,House: 3  1  3 ,Land size: 687 sqm
+2,16 Freesia Court,"Sold $420,000 in Jul 2020","Last Sold $262,500 in Sep 2013", ,House: 3  1  4 ,Land size: 841 sqm
+3,118 Solar Drive,"Sold $325,000 in Jul 2020","Last Sold $164,000 in Jul 2004", ,House: 3  1  2 ,Land size: 614 sqm
+4,2/53 Regent Street,"Sold $265,000 in Jul 2020","Last Sold $102,000 in Jun 2004", , ,Land size: 69 sqm
+5,43 Melva Crescent,"Sold $525,000 in Jul 2020","Last Sold $256,000 in May 2010", ,House: 3  1  2 ,Land size: 679 sqm | Building size: 114 sqm
+6,30/5 Oxford Street,"Sold $335,000 in Jul 2020", , , ,Land size: 91 sqm
+7,7 Samos Court,"Sold $408,000 in Jun 2020","Last Sold $290,000 in Jul 2017", ,House: 3  1  2 ,Land size: 645 sqm | Building size: 99 sqm
+8,83 Townsend Road,"Sold $316,000 in Jun 2020","Last Sold $54,000 in Jan 1996", ,House: 3  ,Land size: 557 sqm
+9,2/58-60 Regent Street,"Sold $300,000 in May 2020","Last Sold $87,000 in Feb 2000", , ,Land size: 197 sqm
+10,2/58 Regent Street,"Sold $300,000 in May 2020","Last Sold $87,000 in Feb 2000", , ,Land size: 197 sqm
+11,3/37 Chapel Street,"Sold $307,000 in Apr 2020","Last Sold $140,000 in Sep 2003", , ,Land size: 262 sqm
+12,20 Oxford Street,"Sold $485,000 in Apr 2020","Last Sold $302,000 in Mar 2010", ,House: 4  1  4 ,Land size: 839 sqm
+13,1B Thatcher Court,"Sold $395,000 in Apr 2020","Last Sold $240,000 in Feb 2013", ,House: 2  1  1 ,Land size: 737 sqm | Building size: 106 sqm
+14,141-143 TOWNSEND Road,"Sold $550,000 in Mar 2020","Last Sold $84,000 in Jun 1992", ,House: 3  1  1 ,Land size: 678 sqm
+15,8 Vostok Court,"Sold $410,000 in Mar 2020", , , ,Land size: 576 sqm
+16,13 Regent Street,"Sold $491,000 in Mar 2020","Last Sold $310,000 in Sep 2014", ,House: 3  2  2 ,Land size: 651 sqm | Building size: 135 sqm
+17,1/15 Orbit Drive,"Sold $350,000 in Feb 2020","Last Sold $267,500 in Jul 2017", , ,Land size: 375 sqm
+18,3/15-19 Thompson Street,"Sold $350,000 in Feb 2020","Last Sold $73,000 in Aug 1999", , ,Land size: 257 sqm
+19,104 Solar Drive,"Sold $332,500 in Feb 2020","Last Sold $146,000 in Dec 2002", ,House: 3  1  1 ,Land size: 567 sqm
+20,7/220-222 Wilsons Road,"Sold $210,000 in Feb 2020","Last Sold $165,000 in Jun 2013", , ,Land size: 43 sqm
+21,227 Wilsons Road,"Sold $408,500 in Feb 2020","Last Sold $259,000 in May 2013", ,House: 5  2  1 ,Land size: 558 sqm | Building size: 146 sqm
+22,4 Galaxy Court,"Sold $412,000 in Jan 2020","Last Sold $247,500 in Sep 2009", ,House: 4  1  1 ,Land size: 802 sqm
+23,17 Titan Street,"Sold $322,000 in Jan 2020","Last Sold $219,900 in Mar 2012", ,House: 3  1  ,Land size: 553 sqm
+24,138 Solar Drive,"Sold $344,500 in Jan 2020","Last Sold $70,000 in Nov 2014", , ,Land size: 609 sqm
+25,5/1-3 Apollo Place,"Sold $298,000 in Dec 2019","Last Sold $165,000 in Feb 2008", , ,Land size: 162 sqm
+26,6 Dew Street,"Sold $505,000 in Dec 2019","Last Sold $350,000 in Mar 2017(Auction)", ,House: 3  1  3 ,"Land size: 1,012 sqm"
+27,160 Wilsons Road,"Sold $455,000 in Dec 2019","Last Sold $208,000 in Aug 2008", ,House: 3  1  2 ,Land size: 656 sqm
+28,93 Townsend Road,"Sold $325,000 in Dec 2019","Last Sold $207,000 in Mar 2010", ,House: 3  1  1 ,Land size: 557 sqm
+29,26 Chapel Street,"Sold $440,000 in Nov 2019","Last Sold $318,000 in Aug 2016", ,House: ,Land size: 510 sqm
+30,1/117-121 Solar Drive,"Sold $175,000 in Nov 2019", , , ,Land size: 91 sqm
+31,70 Solar Drive,"Sold $355,000 in Nov 2019","Last Sold $215,000 in Feb 2009", ,House: 3  2  2 ,Land size: 553 sqm
+32,23 Truscott Street,"Sold $500,000 in Nov 2019","Last Sold $320,000 in Jan 2014", ,House: 4  1  4 ,Land size: 837 sqm | Building size: 148 sqm
+33,13 Sylvia Court,"Sold $531,000 in Nov 2019","Last Sold $143,000 in Apr 1995", ,House: 3  2  2 ,Land size: 808 sqm
+34,123 Solar Drive,"Sold $380,000 in Oct 2019","Last Sold $130,000 in Feb 2000", ,House: 3  1  2 ,Land size: 553 sqm
+35,16 Bellagio Court,"Sold $390,000 in Oct 2019","Last Sold $340,000 in Oct 2018", ,House: 2  1  2 ,Land size: 454 sqm | Building size: 100 sqm
+36,227 Boundary Road,"Sold $325,000 in Oct 2019","Last Sold $86,700 in Apr 1989", ,House: 3  1  3 ,Land size: 528 sqm
+37,2/41 Townsend Road,"Sold $305,000 in Oct 2019","Last Sold $69,000 in Nov 2017", , ,Land size: 266 sqm
+38,12 Regent Street,"Sold $360,100 in Oct 2019","Last Sold $240,000 in Jan 2017", ,House: 3  2  2 ,Land size: 310 sqm | Building size: 114 sqm
+39,53 Townsend Road,"Sold $129,000 in Sep 2019", ,Rent $160pw in Oct 2007, ,Land size: 124 sqm | Building size: 86 sqm
+40,62 Regent Street,"Sold $441,000 in Sep 2019", , ,House: 3  1  1 ,Land size: 726 sqm
+41,166 Wilsons Road,"Sold $417,500 in Aug 2019","Last Sold $260,000 in May 2012", ,House: 3  1  1 ,Land size: 727 sqm | Building size: 124 sqm
+42,25 Townsend Road,"Sold $552,000 in Aug 2019","Last Sold $365,000 in Sep 2012", ,House: 2  1  2 ,"Land size: 1,166 sqm | Building size: 91 sqm"
+43,24/5 Oxford Street,"Sold $329,000 in Aug 2019", , , ,Land size: 91 sqm
+44,182 Wilsons Road,"Sold $375,000 in Jul 2019","Last Sold $273,500 in May 2011", ,House: 3  1  1 ,Land size: 630 sqm
+45,16 Proton Court,"Sold $347,500 in Jul 2019","Last Sold $63,500 in Sep 1992", ,House: 3  1  3 ,Land size: 684 sqm
+46,11 Katarina Place,"Sold $385,000 in Jul 2019","Last Sold $89,500 in Sep 1996", ,House: 3  1  1 ,Land size: 570 sqm | Building size: 110 sqm
+47,159 Solar Drive,"Sold $325,000 in Jul 2019","Last Sold $215,000 in Jul 2012", ,House: 3  1  2 ,Land size: 612 sqm | Building size: 100 sqm
+48,2/6 Harvard Court,"Sold $342,000 in Jun 2019","Last Sold $225,000 in Apr 2017", , ,Land size: 273 sqm
+49,223 Boundary Road,"Sold $380,000 in Jun 2019", , ,House: 3  1  1 ,Land size: 495 sqm
+50,55 Solar Drive,"Sold $340,000 in Jun 2019", , ,House: 3  1  2 ,Land size: 571 sqm
+51,22 Melva Crescent,"Sold $435,000 in May 2019","Last Sold $88,000 in Mar 1995", ,House: 3  1  1 ,Land size: 803 sqm
+52,246 Wilsons Road,"Sold $360,000 in May 2019","Last Sold $180,000 in Jun 2007", ,House: 3  1  4 ,Land size: 755 sqm
+53,2/16 Dew Street,"Sold $445,000 in May 2019","Last Sold $220,000 in Mar 2011", ,Townhouse: 3  2  3 ,Land size: 469 sqm
+54,8/15-19 Thompson Street,"Sold $345,000 in May 2019","Last Sold $209,000 in Jan 2015", , ,Land size: 226 sqm | Building size: 94 sqm
+55,5/197 Boundary Road,"Sold $260,000 in May 2019", , , , 
+56,172 Wilsons Road,"Sold $469,000 in May 2019","Last Sold $125,000 in Oct 2001", ,House: 3  2  4 ,Land size: 611 sqm
+57,65 Solar Drive,"Sold $410,000 in May 2019","Last Sold $285,000 in Jan 2014", ,House: 4  2  2 ,Land size: 931 sqm
+58,6 Proton Court,"Sold $325,000 in Apr 2019","Last Sold $215,000 in Dec 2013", ,House: 3  1  3 ,Land size: 613 sqm | Building size: 110 sqm
+59,4 Echo Court,"Sold $352,000 in Apr 2019","Last Sold $190,000 in Nov 2007", ,House: 3  1  2 ,Land size: 785 sqm | Building size: 114 sqm
+60,2/211-213 Boundary Road,"Sold $365,000 in Apr 2019","Last Sold $169,000 in Feb 2003", , ,Land size: 258 sqm
+61,14 Katarina Place,"Sold $385,000 in Apr 2019", , ,House: 3  1  ,Land size: 459 sqm
+62,170 Wilsons Road,"Sold $440,000 in 13 Apr 2019(Auction)", ,Rent $340pw in Jul 2019,House: 3  1  1 ,Land size: 717 sqm
+63,241 Boundary Road,"Sold $510,000 in 13 Apr 2019(Auction)","Last Sold $391,500 in Aug 2015", ,House: 4  2  2 ,Land size: 498 sqm
+64,35 Townsend Road,"Sold $353,000 in Apr 2019","Last Sold $331,000 in Dec 2017(Auction)", ,House: 3  1  2 ,Land size: 737 sqm
+65,3/8 Casaceli Court,"Sold $234,000 in Apr 2019","Last Sold $114,000 in Jul 2007", , ,Land size: 140 sqm
+66,45 Melva Crescent,"Sold $417,500 in Apr 2019","Last Sold $97,500 in Feb 2000", ,House: 3  1  2 ,Land size: 662 sqm
+67,1/1-3 Apollo Place,"Sold $292,000 in Apr 2019","Last Sold $169,000 in May 2008", , ,Land size: 191 sqm
+68,2/209 Boundary Road,"Sold $265,000 in Mar 2019","Last Sold $64,000 in Oct 1988", , ,Land size: 142 sqm
+69,2/5 Katarina Place,"Sold $340,000 in Mar 2019","Last Sold $200,000 in Mar 2013", ,House: 2  1  1 ,Land size: 229 sqm | Building size: 74 sqm
+70,2/8-10 Regent Street,"Sold $340,000 in Mar 2019", , , ,Land size: 149 sqm
+71,5 Galaxy Court,"Sold $365,000 in Mar 2019","Last Sold $227,500 in Dec 2016", ,House: 3  1  2 ,Land size: 696 sqm
+72,17 Conrad Court,"Sold $367,000 in Mar 2019","Last Sold $247,000 in Feb 2015", ,House: 3  2  1 ,Land size: 822 sqm
+73,26/5 Oxford Street,"Sold $322,000 in Mar 2019", , ,Townhouse: 2  1  1 ,Land size: 90 sqm
+74,4/214-216 Wilsons Road,"Sold $240,000 in Mar 2019","Last Sold $140,000 in Mar 2007", , ,Land size: 125 sqm
+75,3 Harvard Court,"Sold $437,500 in Mar 2019","Last Sold $260,000 in Aug 2012", ,House: 4  2  4 ,Land size: 650 sqm
+76,2/25 Schmitt Court,"Sold $300,000 in Feb 2019","Last Sold $245,000 in Jan 2017", , ,Land size: 225 sqm | Building size: 114 sqm
+77,8 Sputnik Court,"Sold $330,000 in Feb 2019","Last Sold $251,000 in Jun 2010", ,House: 3  1  2 ,Land size: 560 sqm | Building size: 105 sqm
+78,1/20 Regent Street,"Sold $185,000 in Feb 2019","Last Sold $121,000 in May 2009", , ,Land size: 30 sqm
+79,3/53 Regent Street,"Sold $251,000 in Jan 2019","Last Sold $169,500 in Feb 2016", , ,Land size: 87 sqm
+80,10 Atlas Court,"Sold $363,000 in Jan 2019","Last Sold $215,000 in Mar 2014", ,House: 3  1  2 ,Land size: 702 sqm | Building size: 106 sqm
+81,12 Sputnik Court,"Sold $340,000 in Jan 2019","Last Sold $235,000 in Jan 2013", ,House: 3  1  3 ,Land size: 716 sqm | Building size: 98 sqm
+82,2c Thatcher Court,"Sold $137,000 in Dec 2018", , , ,Land size: 378 sqm
+83,21 Titan Street,"Sold $360,000 in Dec 2018","Last Sold $207,000 in Jun 2012", ,House: 4  1  3 ,Land size: 608 sqm | Building size: 122 sqm
+84,7 Freesia Court,"Sold $395,000 in Dec 2018","Last Sold $300,000 in Oct 2015", ,House: 3  2  1 ,Land size: 715 sqm
+85,3 Monash Court,"Sold $440,000 in Dec 2018","Last Sold $334,000 in May 2012", ,House: 4  2  2 ,Land size: 734 sqm
+86,2/66 Regent Street,"Sold $310,000 in Nov 2018","Last Sold $205,000 in Nov 2007", , ,Land size: 361 sqm
+87,5 Thompson Street,"Sold $450,000 in Nov 2018","Last Sold $205,500 in Sep 2008", ,House: 4  1  1 ,Land size: 685 sqm | Building size: 158 sqm
+88,33 Hickey Street,"Sold $385,000 in Nov 2018", , ,House: 3  1  5 ,Land size: 685 sqm
+89,9 Melva Crescent,"Sold $390,000 in Nov 2018","Last Sold $250,000 in Nov 2013", ,House: 3  1  1 ,Land size: 739 sqm | Building size: 101 sqm
+90,12-14 Stefania Mews,"Sold $465,500 in Nov 2018","Last Sold $320,000 in Jun 2015", ,House: 4  2  1 ,Land size: 591 sqm
+91,4 Alouette Court,"Sold $350,000 in Nov 2018","Last Sold $231,000 in Nov 2013", ,House: 3  1  1 ,Land size: 724 sqm
+92,217 Boundary Road,"Sold $421,000 in Oct 2018", , ,House: 2  2  2 ,Land size: 984 sqm
+93,56 Oxford Street,"Sold $420,000 in Sep 2018","Last Sold $295,000 in Mar 2012", ,House: 3  1  1 ,Land size: 639 sqm
+94,31 Melva Crescent,"Sold $450,000 in Sep 2018","Last Sold $287,000 in Dec 2013", ,House: 3  1  4 ,Land size: 726 sqm
+95,2/112 Coppards Road,"Sold $324,000 in Sep 2018","Last Sold $219,000 in Nov 2012", , ,Land size: 215 sqm | Building size: 72 sqm
+96,1/14 Oxford Street,"Sold $337,000 in Sep 2018","Last Sold $255,000 in Feb 2017", , ,Land size: 132 sqm
+97,113 Solar Drive,"Sold $355,000 in Sep 2018","Last Sold $235,000 in Mar 2015", ,House: 3  1  3 ,Land size: 637 sqm | Building size: 121 sqm
+98,1 & 2/36 Hickey Street,"Sold $305,000 in Aug 2018", , ,House: 2  1  1 , 
+99,55 Regent Street,"Sold $439,000 in Aug 2018","Last Sold $327,000 in Jun 2017", ,House: 3  1  1 ,Land size: 842 sqm
+100,5 Bettsons Court,"Sold $420,000 in Aug 2018","Last Sold $261,000 in Sep 2011(Auction)", ,House: 3  2  2 ,Land size: 660 sqm
+101,33 Melva Crescent,"Sold $385,000 in Aug 2018","Last Sold $175,000 in Nov 2005", ,House: 3  1  2 ,Land size: 688 sqm
+102,1/21 Freesia Court,"Sold $345,000 in Aug 2018","Last Sold $92,500 in Aug 1994", , ,Land size: 374 sqm
+103,36 Oxford Street,"Sold $446,000 in 04 Aug 2018(Auction)", ,Rent $360pw in Aug 2018,House: 3  2  2 ,Land size: 650 sqm
+104,37 Townsend Road,"Sold $339,000 in Aug 2018","Last Sold $220,000 in Apr 2012", ,House: 3  1  1 ,Land size: 253 sqm
+105,15/5 OXFORD Street,"Sold $321,000 in Jul 2018", , , ,"Land size: 9,343 sqm"
+106,37 Regent Street,"Sold $455,000 in 28 Jul 2018(Auction)","Last Sold $92,500 in Dec 2000", ,House: 3  1  2 ,Land size: 549 sqm
+107,15 Lino Court,"Sold $525,000 in Jul 2018", , ,House: 3  2  2 ,Land size: 703 sqm
+108,10 Gemini Court,"Sold $401,250 in Jul 2018","Last Sold $321,500 in May 2017", ,House: 4  1  1 ,Land size: 630 sqm
+109,39 Melva Crescent,"Sold $420,000 in 21 Jul 2018(Auction)", ,Rent $320pw in Sep 2018,House: 3  2  2 ,Land size: 684 sqm
+110,5 Hickey Street,"Sold $450,000 in Jul 2018", , ,House: 3  1  1 ,Land size: 679 sqm
+111,9/117 Solar Drive,"Sold $221,000 in Jul 2018","Last Sold $76,000 in Oct 2002", ,House: 2  1  1 ,Land size: 134 sqm | Building size: 41 sqm
+112,1/12 Freesia Court,"Sold $350,000 in Jul 2018","Last Sold $76,000 in Aug 1991", , ,Land size: 193 sqm
+113,1/16 Dew Street,"Sold $295,000 in Jul 2018","Last Sold $205,000 in Mar 2015", ,House: 3  1  1 ,Land size: 402 sqm | Building size: 100 sqm
+114,165 Townsend Road,"Sold $416,000 in Jun 2018","Last Sold $265,000 in Nov 2005", ,House: 3  2  4 ,Land size: 714 sqm
+115,3/67 Townsend Road,"Sold $175,000 in Jun 2018","Last Sold $105,000 in Feb 2000", , ,Land size: 50 sqm
+116,183 Solar Drive,"Sold $338,500 in Jun 2018","Last Sold $190,000 in Feb 2012", ,House: 3  1  1 ,Land size: 766 sqm
+117,9 Planet Court,"Sold $390,000 in Jun 2018", , ,House: 4  1  1 ,Land size: 961 sqm
+118,32 Oxford Street,"Sold $406,000 in Jun 2018","Last Sold $227,000 in Nov 2004", ,House: 3  2  2 ,Land size: 645 sqm
+119,20 Freedom Court,"Sold $343,000 in May 2018","Last Sold $225,000 in Jun 2011", ,House: 3  1  4 ,Land size: 776 sqm
+120,17 Koala Court,"Sold $430,000 in May 2018","Last Sold $116,840 in Feb 2000", ,House: 4  2  2 ,Land size: 500 sqm
+121,21 Hickey Street,"Sold $475,000 in May 2018","Last Sold $333,000 in Jul 2012", ,House: 4  2  6 ,Land size: 683 sqm | Building size: 142 sqm
+122,162 Wilsons Road,"Sold $450,000 in May 2018","Last Sold $255,000 in Mar 2005", ,House: 4  1  1 ,"Land size: 1,033 sqm | Building size: 134 sqm"
+123,128 Coppards Road,"Sold $412,000 in May 2018","Last Sold $230,000 in Jul 2007", ,House: 3  1  4 ,Land size: 581 sqm
+124,45 Oxford Street,"Sold $360,000 in May 2018","Last Sold $177,000 in Nov 2007", ,House: 3  1  2 ,Land size: 606 sqm
+125,37B Oxford Street,"Sold $405,000 in Apr 2018", ,Rent $360pw in Dec 2013,Townhouse: 3  2  2 ,Land size: 412 sqm
+126,8 5 Oxford Street,"Sold $300,000 in Apr 2018", , ,Townhouse: 2  1  1 , 
+127,8/5 OXFORD Street,"Sold $300,000 in Apr 2018", , , ,"Land size: 9,343 sqm"
+128,43 Oxford Street,"Sold $250,000 in 21 Apr 2018(Auction)","Last Sold $136,000 in Aug 2009", ,House: 4  1  1 ,Land size: 388 sqm
+129,25 Bellagio Court,"Sold $420,000 in Apr 2018","Last Sold $270,002 in Apr 2013", ,House: 3  2  2 ,Land size: 394 sqm | Building size: 124 sqm
+130,12 Katrina Place,"Sold $395,000 in Mar 2018", , , , 
+131,12 Katarina Place,"Sold $395,000 in Mar 2018","Last Sold $205,000 in Apr 2003", , ,Land size: 534 sqm
+132,47 Townsend Road,"Sold $410,000 in Mar 2018","Last Sold $265,000 in May 2010", ,House: 3  1  4 ,Land size: 778 sqm | Building size: 154 sqm
+133,32 Thompson Street,"Sold $512,000 in Mar 2018","Last Sold $100,000 in Feb 1997", ,House: 1  2  2 ,Land size: 946 sqm
+134,55 Truscott Street,"Sold $480,000 in Mar 2018","Last Sold $330,000 in Mar 2011", ,House: 5  3  4 ,Land size: 735 sqm | Building size: 212 sqm
+135,8 Challenger Close,"Sold $290,000 in Feb 2018","Last Sold $220,000 in Feb 2016", ,House: 3  1  4 ,Land size: 609 sqm | Building size: 98 sqm
+136,26 Truscott Street,"Sold $442,000 in 24 Feb 2018(Auction)","Last Sold $128,250 in Dec 2001", ,House: 2  1  2 ,Land size: 725 sqm
+137,1/166 Coppards Road,"Sold $265,000 in Feb 2018","Last Sold $192,000 in Feb 2011", , ,Land size: 297 sqm
+138,19 Solar Drive,"Sold $342,000 in Feb 2018","Last Sold $159,000 in Feb 2005", ,House: 3  1  2 ,Land size: 654 sqm
+139,4 Solar Drive,"Sold $310,000 in Jan 2018","Last Sold $178,000 in Mar 2006", ,House: 3  1  3 ,Land size: 567 sqm | Building size: 169 sqm
+140,2-11 Greenwood Street,"Sold $435,000 in Jan 2018", , , , 
+141,19 Freedom Court,"Sold $269,000 in Dec 2017","Last Sold $64,000 in Jan 1998", ,House: 3  1  2 ,Land size: 635 sqm
+142,5 Vincent Court,"Sold $317,000 in Dec 2017","Last Sold $171,000 in Oct 2006", ,House: 2  1  1 ,Land size: 339 sqm
+143,4 Pandora Court,"Sold $460,000 in Dec 2017","Last Sold $233,000 in Nov 2005", ,House: 3  1  4 ,Land size: 981 sqm | Building size: 200 sqm
+144,48 Hickey Street,"Sold $341,000 in Dec 2017", ,Rent $280pw in Jan 2018,House: 2  1  2 ,Land size: 680 sqm
+145,8 Bettsons Court,"Sold $447,550 in Dec 2017", ,Rent $370pw in Jan 2018,House: 3  2  2 ,Land size: 762 sqm
+146,2 Katarina Place,"Sold $295,000 in Dec 2017","Last Sold $200,000 in Mar 2006", ,House: 2  1  1 ,Land size: 280 sqm
+147,20 Truscott Street,"Sold $429,900 in Dec 2017","Last Sold $330,000 in Aug 2016", ,House: 4  2  2 ,Land size: 729 sqm
+148,77 Solar Drive,"Sold $326,000 in Nov 2017","Last Sold $182,500 in Mar 2009", ,House: 3  1  3 ,Land size: 649 sqm
+149,2 Koala Court,"Sold $471,000 in 18 Nov 2017(Auction)","Last Sold $380,000 in May 2015", ,House: 3  2  4 ,"Land size: 1,166 sqm | Building size: 175 sqm"
+150,13 Armstrong Court,"Sold $320,000 in Nov 2017","Last Sold $118,000 in Mar 2003", ,House: 3  1  1 ,Land size: 644 sqm
+151,6/220 Wilsons Road,"Sold $175,000 in Nov 2017","Last Sold $127,500 in Apr 2013", ,House: 1  1  , 
+152,15 Koala Court,"Sold $346,000 in Oct 2017","Last Sold $97,000 in Apr 2006", , ,Land size: 332 sqm | Building size: 102 sqm
+153,2 Casaceli Court,"Sold $342,500 in Oct 2017","Last Sold $240,000 in Feb 2015", ,House: 3  1  1 ,Land size: 590 sqm
+154,6 Galaxy Court,"Sold $351,000 in Oct 2017","Last Sold $310,500 in Mar 2013", ,House: 3  1  2 ,Land size: 855 sqm | Building size: 128 sqm
+155,233 Wilsons Road,"Sold $312,000 in Oct 2017","Last Sold $255,000 in Feb 2013", ,House: 4  1  1 ,Land size: 558 sqm | Building size: 102 sqm
+156,195 Boundary Road,"Sold $347,500 in Oct 2017", , ,House: 3  1  2 ,Land size: 659 sqm
+157,139 Solar Drive,"Sold $292,000 in Oct 2017","Last Sold $218,000 in Jan 2014", ,House: 3  1  4 ,Land size: 574 sqm
+158,5/216 Wilsons Road,"Sold $210,000 in 07 Oct 2017(Auction)", ,Rent $230pw in Feb 2016, , 
+159,5/214-216 Wilsons Road,"Sold $210,000 in Oct 2017","Last Sold $140,000 in Oct 2003", , ,Land size: 128 sqm
+160,5/214 Wilsons Road,"Sold $210,000 in 07 Oct 2017(Auction)","Last Sold $140,000 in Oct 2003", , ,Land size: 128 sqm
+161,2/197-201 Boundary Road,"Sold $198,000 in Oct 2017","Last Sold $120,000 in Aug 2007", , ,Land size: 109 sqm
+162,2/197 Boundary Road,"Sold $198,000 in Oct 2017","Last Sold $120,000 in Aug 2007", ,House: 1  1  1 ,Land size: 109 sqm
+163,15B Orbit Drive,"Sold $250,000 in Oct 2017", , , , 
+164,51 Hickey Street,"Sold $377,000 in Sep 2017","Last Sold $180,000 in Feb 2000", ,House: 3  1  ,Land size: 674 sqm
+165,12 Bellagio Court,"Sold $440,000 in Sep 2017","Last Sold $392,000 in May 2012", ,House: 4  2  2 ,Land size: 505 sqm | Building size: 224 sqm
+166,15 Freedom Court,"Sold $294,000 in Sep 2017","Last Sold $165,250 in May 2005", ,House: 3  1  2 ,Land size: 564 sqm
+167,141 Solar Drive,"Sold $298,000 in Sep 2017","Last Sold $244,000 in Sep 2011", ,House: 3  1  1 ,Land size: 568 sqm
+168,2/144-152 Wilsons Road,"Sold $155,000 in Sep 2017","Last Sold $97,500 in Jun 2005", , ,"Land size: 1,017 sqm"
+169,32 Regent Street,"Sold $317,000 in Sep 2017","Last Sold $277,500 in Oct 2014", ,House: 3  1  1 ,Land size: 391 sqm | Building size: 102 sqm
+170,2/158 Wilsons Road,"Sold $225,000 in Aug 2017","Last Sold $160,000 in May 2003", , ,Land size: 236 sqm | Building size: 75 sqm
+171,57 Solar Drive,"Sold $320,000 in Aug 2017","Last Sold $66,500 in Dec 1992", ,House: 4  1  2 ,Land size: 566 sqm
+172,9 Lovell Court,"Sold $326,000 in Aug 2017","Last Sold $200,000 in Sep 2011", ,House: 3  1  4 ,Land size: 575 sqm
+173,1/5 Cernan Court,"Sold $260,600 in Aug 2017","Last Sold $185,000 in Apr 2014", ,Townhouse: 3  1  1 ,Land size: 282 sqm | Building size: 105 sqm
+174,1/3 Armstrong Court,"Sold $229,000 in Aug 2017","Last Sold $209,950 in Oct 2010", ,House: 3  1  1 ,Land size: 364 sqm
+175,10/117-121 Solar Drive,"Sold $154,000 in Jul 2017","Last Sold $138,000 in Sep 2013", ,Townhouse: 1  1  1 ,Land size: 120 sqm
+176,1/180 Coppards Road,"Sold $200,001 in Jul 2017","Last Sold $180,000 in Feb 2005", , ,Land size: 135 sqm | Building size: 77 sqm
+177,2/51 Regent Street,"Sold $338,000 in Jul 2017", ,Rent $360pw in Sep 2018,Townhouse: 3  2  1 ,Land size: 275 sqm
+178,2/1 Apollo Place,"Sold $218,000 in Jul 2017","Last Sold $78,000 in Jul 1992", , ,Land size: 198 sqm
+179,10/117 Solar Drive,"Sold $154,000 in Jul 2017","Last Sold $138,000 in Sep 2013", , ,Land size: 120 sqm | Building size: 40 sqm
+180,2/1-3 Apollo Place,"Sold $218,000 in Jul 2017","Last Sold $78,000 in Jul 1992", , ,Land size: 198 sqm
+181,5/20 Regent Street,"Sold $210,500 in Jul 2017","Last Sold $177,000 in Aug 2012", , ,Land size: 48 sqm
+182,15 Ranger Court,"Sold $312,000 in Jul 2017","Last Sold $180,000 in Jul 2015", ,House: 3  1  2 ,Land size: 558 sqm | Building size: 104 sqm
+183,49 Melva Crescent,"Sold $290,000 in Jul 2017","Last Sold $216,000 in Apr 2007", ,House: 3  1  1 ,Land size: 325 sqm
+184,16 Patrick Street,"Sold $230,000 in Jul 2017", , ,House: 4  1  2 ,Land size: 646 sqm
+185,1/61 Regent Street,"Sold $287,000 in Jun 2017","Last Sold $249,000 in Jun 2009", , ,Land size: 263 sqm | Building size: 101 sqm
+186,30a Orbit Drive,"Sold $315,000 in Jun 2017", ,Rent $330pw in Jul 2017,Townhouse: 3  2  1 ,Land size: 285 sqm
+187,7B Bettsons Court,"Sold $375,000 in Jun 2017","Last Sold $330,000 in Aug 2012", , ,Land size: 379 sqm | Building size: 145 sqm
+188,5/220-222 Wilsons Road,"Sold $195,000 in Jun 2017","Last Sold $185,000 in Oct 2013", , ,Land size: 60 sqm
+189,9/211-213 Boundary Road,"Sold $250,000 in May 2017","Last Sold $170,000 in Oct 2003", , ,Land size: 214 sqm
+190,35 Oxford Street,"Sold $316,000 in May 2017","Last Sold $247,500 in Jun 2014", ,House: 3  1  3 ,Land size: 602 sqm
+191,42 Regent Street,"Sold $315,000 in May 2017","Last Sold $249,000 in Feb 2012", ,House: 3  1  1 ,Land size: 683 sqm | Building size: 106 sqm
+192,11 Chapel Street,"Sold $400,000 in May 2017", , , ,Land size: 665 sqm
+193,239 Boundary Road,"Sold $328,000 in May 2017","Last Sold $279,000 in Oct 2013", ,House: 3  1  2 ,Land size: 528 sqm | Building size: 127 sqm
+194,16 Regent Street,"Sold $350,000 in 29 Apr 2017(Auction)", ,Rent $350pw in Jun 2018,House: 3  1  1 ,"Land size: 1,041 sqm"
+195,45 Townsend Road,"Sold $290,000 in Apr 2017","Last Sold $230,000 in Apr 2010", ,House: 3  1  2 ,Land size: 779 sqm
+196,44 Regent Street,"Sold $498,000 in 01 Apr 2017(Auction)","Last Sold $350,700 in Oct 2008", ,House: 4  2  4 ,"Land size: 1,092 sqm | Building size: 154 sqm"
+197,43 Townsend Road,"Sold $245,000 in 25 Mar 2017(Auction)","Last Sold $68,000 in Dec 2000", ,House: 3  1  2 ,Land size: 789 sqm
+198,169 Solar Drive,"Sold $279,000 in Mar 2017","Last Sold $250,000 in Feb 2016", ,House: 3  1  ,Land size: 840 sqm
+199,2/38 Orbit Drive,"Sold $200,000 in Mar 2017","Last Sold $65,000 in Feb 2000", , ,Land size: 178 sqm
+200,6 Monash Court,"Sold $350,000 in Mar 2017","Last Sold $325,000 in Sep 2014", ,House: 3  2  2 ,Land size: 738 sqm
+201,4/1-3 Apollo Place,"Sold $215,000 in Mar 2017","Last Sold $185,000 in Jun 2009", , ,Land size: 166 sqm
+202,4/1 Apollo Place,"Sold $215,000 in Mar 2017","Last Sold $185,000 in Jun 2009", , ,Land size: 166 sqm
+203,22 Lino Court,"Sold $240,000 in Mar 2017","Last Sold $145,000 in Aug 2002", ,House: 3  1  1 ,Land size: 822 sqm
+204,4/53 Regent,"Sold $215,000 in Mar 2017", , , , 
+205,4/53 Regent Street,"Sold $215,000 in Mar 2017","Last Sold $195,000 in Dec 2015", , ,Land size: 94 sqm
+206,6 Ariel Court,"Sold $225,000 in Mar 2017","Last Sold $71,000 in Mar 1994", ,House: 3  1  1 ,Land size: 598 sqm
+207,11 Armstrong Court,"Sold $280,000 in Feb 2017","Last Sold $155,000 in Apr 2005", ,House: 3  1  1 ,Land size: 732 sqm
+208,5/17 Truscott Street,"Sold $183,000 in Feb 2017","Last Sold $150,700 in Mar 2010", , ,Land size: 193 sqm | Building size: 60 sqm
+209,18 Worden Court,"Sold $255,000 in Feb 2017","Last Sold $228,000 in Jun 2011", ,House: 3  1  2 ,Land size: 648 sqm
+210,2/14 Oxford Street,"Sold $252,000 in Feb 2017","Last Sold $247,500 in Feb 2013", , ,Land size: 167 sqm
+211,1/53 Townsend Road,"Sold $182,500 in Feb 2017", , , ,Land size: 240 sqm
+212,2/7 Patrick Street,"Sold $258,000 in Feb 2017","Last Sold $227,000 in Apr 2012", , ,Land size: 232 sqm
+213,7 Vostok Court,"Sold $245,000 in Feb 2017","Last Sold $225,000 in Jan 2016", ,House: 3  1  1 ,Land size: 575 sqm | Building size: 89 sqm
+214,18 Bettsons Court,"Sold $350,000 in Feb 2017","Last Sold $123,000 in Nov 1994", ,House: 3  2  1 ,Land size: 668 sqm
+215,98 Solar Drive,"Sold $250,000 in Jan 2017","Last Sold $225,000 in May 2014", ,House: 3  1  2 ,Land size: 663 sqm | Building size: 112 sqm
+216,12 Lovell Court,"Sold $270,000 in Jan 2017","Last Sold $253,000 in Dec 2011", ,House: 4  2  2 ,Land size: 609 sqm
+217,1 Regent Street,"Sold $3,100,000 in Jan 2017","Last Sold $400,000 in May 2006", , ,"Land size: 2,190 sqm"
+218,30B Orbit Drive,"Sold $317,500 in Jan 2017","Last Sold $102,500 in Mar 2015", , ,Land size: 283 sqm
+219,4 Planet Court,"Sold $290,000 in Jan 2017","Last Sold $265,000 in Sep 2013", ,House: 3  1  2 ,Land size: 668 sqm | Building size: 106 sqm
+220,4/224 Wilsons Road,"Sold $173,000 in Jan 2017","Last Sold $148,000 in Nov 2014", , ,Land size: 69 sqm
+221,21 Townsend Road,"Sold $290,000 in Jan 2017", ,Rent $320pw in Oct 2019,House: 3  1  1 ,Land size: 697 sqm
+222,4/224-226 Wilsons Road,"Sold $173,000 in Jan 2017","Last Sold $148,000 in Nov 2014", ,Townhouse: 1  1  1 ,Land size: 69 sqm
+223,21 Bellagio Court,"Sold $365,000 in Jan 2017","Last Sold $99,000 in Jul 2007", ,House: 3  2  2 ,Land size: 513 sqm
+224,112 Solar Drive,"Sold $260,000 in Dec 2016","Last Sold $116,000 in Feb 2000", ,House: 3  1  ,Land size: 671 sqm | Building size: 668 sqm
+225,1/5 Koala Court,"Sold $278,000 in Dec 2016", , , ,Land size: 241 sqm
+226,165 Boundary Road,"Sold $265,000 in Dec 2016", ,Rent $270pw in Dec 2017,House: 3  1  1 ,Land size: 567 sqm
+227,47 Melva Crescent,"Sold $307,000 in Dec 2016","Last Sold $222,000 in Sep 2006", ,House: 3  1  2 ,Land size: 658 sqm | Building size: 113 sqm
+228,2 Thatcher Court,"Sold $263,500 in Dec 2016","Last Sold $67,000 in Nov 1997", ,House: 4  1  2 ,Land size: 733 sqm
+229,4 Thatcher Court,"Sold $249,000 in Dec 2016","Last Sold $230,000 in Aug 2010", ,House: 3  1  1 ,Land size: 675 sqm
+230,34 Regent Street,"Sold $300,000 in 03 Dec 2016(Auction)", ,Rent $350pw in Jun 2017,House: 4  1  1 ,Land size: 655 sqm
+231,1/1 Cernan Court,"Sold $205,000 in Dec 2016","Last Sold $172,000 in May 2011", ,House: 2  1  1 ,Land size: 250 sqm
+232,142 & 142a Wilsons Road,"Sold $305,000 in Nov 2016", , , , 
+233,3 Galaxy Court,"Sold $287,000 in Nov 2016","Last Sold $235,000 in Oct 2013", ,House: 4  1  4 ,Land size: 670 sqm | Building size: 99 sqm
+234,3/6 Casaceli Court,"Sold $160,000 in Nov 2016","Last Sold $142,000 in Aug 2015", , ,Land size: 121 sqm
+235,1/6 Yale Court,"Sold $240,000 in Nov 2016","Last Sold $151,000 in Oct 1989", , ,Land size: 153 sqm
+236,10 Oxford Street,"Sold $290,000 in Nov 2016","Last Sold $79,000 in Mar 1987", ,House: 3  1  2 ,Land size: 655 sqm
+237,53 Oxford Street,"Sold $240,000 in Nov 2016","Last Sold $207,750 in Nov 2005", ,House: 3  1  1 ,Land size: 380 sqm
+238,59 Regent Street,"Sold $325,000 in Nov 2016", , ,House: 3  1  ,Land size: 866 sqm
+239,3/206-208 Wilsons Road,"Sold $166,000 in Nov 2016","Last Sold $160,000 in Sep 2008", , ,Land size: 62 sqm
+240,3/206 Wilsons Road,"Sold $166,000 in Nov 2016","Last Sold $135,000 in Sep 2008", , ,Land size: 62 sqm
+241,1/220-222 Wilsons Road,"Sold $175,000 in Oct 2016","Last Sold $107,250 in Jul 2007", , ,Land size: 62 sqm
+242,43 Chapel Street,"Sold $295,000 in Oct 2016","Last Sold $220,000 in Jul 2009", ,House: 3  1  2 ,Land size: 540 sqm | Building size: 151 sqm
+243,6/224-226 Wilsons Road,"Sold $195,000 in Oct 2016","Last Sold $184,000 in Feb 2015", , ,Land size: 125 sqm
+244,6/224 Wilsons road,"Sold $195,000 in Oct 2016","Last Sold $184,000 in Jan 2015", , ,"Land size: 1,525 sqm"
+245,6/117-121 Solar Drive,"Sold $180,000 in Oct 2016","Last Sold $147,000 in Oct 2010", ,Townhouse: 2  1  1 ,Land size: 107 sqm
+246,6/117 Solar Drive,"Sold $180,000 in Oct 2016","Last Sold $147,000 in Oct 2010", , ,Land size: 107 sqm
+247,4 Orbit Drive,"Sold $292,000 in Sep 2016","Last Sold $214,000 in Jun 2006", ,House: 3  1  5 ,Land size: 742 sqm
+248,5 Sylvia Court,"Sold $395,000 in Aug 2016", , ,House: 4  2  2 ,Land size: 874 sqm
+249,24 Chapel Street,"Sold $318,000 in Aug 2016","Last Sold $286,330 in Jul 2012", ,House: 3  1  4 ,Land size: 510 sqm
+250,183 Wilsons Road,"Sold $346,000 in Aug 2016","Last Sold $310,000 in Jun 2013", ,House: 4  2  1 ,Land size: 690 sqm | Building size: 156 sqm
+251,13A Townsend Road,"Sold $280,000 in Aug 2016","Last Sold $210,500 in Oct 2007", ,House: 3  1  1 ,Land size: 355 sqm
+252,6/206 Wilsons Road,"Sold $205,000 in Aug 2016","Last Sold $160,000 in Sep 2008", , ,Land size: 122 sqm
+253,6/144 Wilsons Road,"Sold $143,000 in Aug 2016", ,Rent $210pw in Aug 2018, ,"Land size: 1,017 sqm"
+254,6/206-208 Wilsons Road,"Sold $205,000 in Aug 2016","Last Sold $112,000 in Apr 2008", , ,Land size: 122 sqm
+255,1 & 2/6 Yale Court,"Sold $245,000 in Aug 2016", , , ,Land size: 152 sqm
+256,8 Regent Street,"Sold $600,000 in Aug 2016","Last Sold $149,000 in May 2001", ,House: 3  1  ,"Land size: 1,409 sqm"
+257,10 Regent Street,"Sold $600,000 in Jul 2016","Last Sold $150,000 in Jul 2003", ,House: 3  1  1 ,"Land size: 1,405 sqm"
+258,6/144-152 Wilsons Road,"Sold $143,000 in Jul 2016", ,Rent $100pw in Apr 2007, ,"Land size: 1,017 sqm"
+259,14 Regent Street,"Sold $375,000 in Jul 2016","Last Sold $230,000 in Feb 2004", ,House: 4  2  4 ,Land size: 581 sqm
+260,45 Thompson Street,"Sold $300,000 in Jun 2016","Last Sold $178,000 in Dec 2002", ,House: 3  1  1 ,Land size: 645 sqm | Building size: 122 sqm
+261,19 Townsend Road,"Sold $255,000 in Jun 2016","Last Sold $143,000 in Nov 2009", ,House: 3  1  4 ,Land size: 774 sqm
+262,8/18 Regent Street,"Sold $149,500 in Jun 2016", ,Rent $220pw in Jun 2019, ,Land size: 45 sqm
+263,1 & 8/18 Regent Street,"Sold $149,500 in Jun 2016", , , , 
+264,48 Regent Street,"Sold $261,000 in Jun 2016", , ,House: 4  1  1 ,Land size: 627 sqm
+265,8 Conrad Court,"Sold $260,000 in Jun 2016","Last Sold $206,500 in May 2008", ,House: 3  2  2 ,Land size: 582 sqm | Building size: 126 sqm
+266,2/18 REGENT Street,"Sold $151,500 in Jun 2016", ,Rent $230pw in Oct 2019, ,Land size: 42 sqm
+267,51 Regent Street,"Sold $320,000 in May 2016", , ,House: 3  1  1 ,Land size: 206 sqm
+268,22 Thompson Street,"Sold $280,000 in May 2016","Last Sold $105,000 in Oct 1992", ,House: 3  1  1 ,Land size: 798 sqm | Building size: 130 sqm
+269,1/232-234 Wilsons Road,"Sold $174,000 in May 2016", ,Rent $190pw in Sep 2011, ,Land size: 82 sqm
+270,1/18 Regent Street,"Sold $151,500 in May 2016", ,Rent $195pw in Oct 2018, ,Land size: 45 sqm
+271,2/110 Coppards Road,"Sold $236,000 in May 2016","Last Sold $225,000 in Jan 2013", ,Townhouse: 2  1  1 ,Land size: 310 sqm
+272,17/5 OXFORD Street,"Sold $329,500 in May 2016", ,Rent $320pw in Apr 2019, ,"Land size: 2,112 sqm"
+273,6/20 Regent Street,"Sold $227,000 in May 2016","Last Sold $175,000 in Feb 2011", , ,"Land size: 1,370 sqm | Building size: 63 sqm"
+274,54 Oxford Street,"Sold $277,500 in May 2016", , ,House: 3  1  1 ,Land size: 638 sqm | Building size: 116 sqm
+275,5/18 Regent Street,"Sold $151,500 in May 2016","Last Sold $80,000 in Dec 2005", , ,Land size: 64 sqm
+276,9 Sputnik Court,"Sold $230,000 in May 2016","Last Sold $220,000 in Dec 2009", ,House: 3  1  1 ,Land size: 590 sqm | Building size: 103 sqm
+277,2/37 Thompson Street,"Sold $100,000 in May 2016", ,Rent $200pw in Apr 2008, ,Land size: 316 sqm
+278,1/37 Thompson Street,"Sold $100,000 in May 2016", ,Rent $140pw in Apr 2007, ,Land size: 229 sqm
+279,7/18 Regent Street,"Sold $149,500 in May 2016", ,Rent $185pw in Jul 2013, ,Land size: 45 sqm
+280,9/18 Regent Street,"Sold $151,500 in Apr 2016", ,Rent $180pw in Aug 2011, ,Land size: 44 sqm
+281,3/18 Regent Street,"Sold $146,250 in Apr 2016", ,Rent $190pw in Jan 2016, ,Land size: 44 sqm
+282,6/18 Regent Street,"Sold $149,500 in Apr 2016","Last Sold $80,000 in Dec 2005", , ,Land size: 56 sqm
+283,4/18 Regent Street,"Sold $144,250 in Apr 2016", ,Rent $115pw in Jun 2007, ,Land size: 43 sqm
+284,4 Atlas Court,"Sold $250,000 in Apr 2016","Last Sold $236,000 in Jun 2010", ,House: 3  1  2 ,Land size: 558 sqm | Building size: 106 sqm
+285,37 Truscott Street,"Sold $295,001 in Apr 2016", ,Rent $300pw in Oct 2018,House: 3  1  2 ,Land size: 690 sqm | Building size: 108 sqm
+286,3 Redstone Court,"Sold $245,000 in Apr 2016","Last Sold $242,000 in Sep 2010", ,House: 3  1  4 ,Land size: 563 sqm
+287,2/4 Koala Court,"Sold $261,500 in Apr 2016","Last Sold $209,000 in Mar 2009", , ,Land size: 181 sqm | Building size: 103 sqm
+288,5 Telstar Court,"Sold $215,000 in Apr 2016","Last Sold $202,000 in Jun 2010", ,House: 3  1  2 ,Land size: 557 sqm
+289,2 Conrad Court,"Sold $260,000 in Apr 2016","Last Sold $195,000 in Mar 2015(Auction)", ,House: 3  1  4 ,Land size: 623 sqm | Building size: 120 sqm
+290,155 Wilsons Road,"Sold $278,000 in 29 Mar 2016(Auction)","Last Sold $270,000 in Jun 2011", ,House: 3  1  2 ,Land size: 598 sqm | Building size: 118 sqm
+291,11 Gemini Court,"Sold $252,500 in Mar 2016","Last Sold $118,000 in Jan 2002", ,House: 3  1  2 ,Land size: 564 sqm
+292,3 Raaf Street,"Sold $310,000 in Feb 2016", , ,House: 3  2  1 ,Land size: 262 sqm
+293,2/18 Katarina Place,"Sold $213,000 in Feb 2016", ,Rent $250pw in Mar 2016,Townhouse: 2  1  1 ,Land size: 207 sqm
+294,162 Coppards Road,"Sold $345,000 in Feb 2016","Last Sold $94,500 in Feb 1996", ,House: 3  1  3 ,"Land size: 1,248 sqm"
+295,20 Titan Street,"Sold $219,000 in Feb 2016","Last Sold $64,000 in Jun 1989", ,House: 3  1  2 ,Land size: 575 sqm
+296,18 Gemini Court,"Sold $272,000 in Jan 2016","Last Sold $235,000 in Apr 2012", ,House: 3  1  2 ,Land size: 626 sqm
+297,20/5 OXFORD Street,"Sold $329,500 in Jan 2016", , , ,"Land size: 2,112 sqm"
+298,4 Universe Court,"Sold $246,000 in Jan 2016","Last Sold $216,000 in May 2010", ,House: 3  1  2 ,Land size: 865 sqm | Building size: 102 sqm
+299,18/5 OXFORD Street,"Sold $329,500 in Jan 2016", , , ,"Land size: 2,112 sqm"

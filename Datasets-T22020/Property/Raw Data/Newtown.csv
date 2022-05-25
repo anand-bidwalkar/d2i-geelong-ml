@@ -1,0 +1,298 @@
+,address,sold,last sold,rent,house_info,land_size
+0,24 Stinton Avenue,"Sold $855,000 in Aug 2020", , ,House: , 
+1,13 Churchill Avenue,"Sold $445,000 in 22 Aug 2020(Auction)", , ,House: 3  ,Land size: 360 sqm
+2,255 Noble Street,"Sold $1,530,000 in Aug 2020","Last Sold $1,175,000 in Aug 2012", ,House: 4  1  2 ,Land size: 779 sqm | Building size: 300 sqm
+3,444 Latrobe Terrace,"Sold $540,000 in Aug 2020", ,Rent $410pw in Oct 2019,Townhouse: 3  1  1 ,Land size: 210 sqm
+4,114 Skene Street,"Sold $802,000 in 14 Aug 2020(Auction)","Last Sold $135,000 in Aug 1992", ,House: 2  ,Land size: 439 sqm
+5,32 Craigie Road,"Sold $755,000 in Jul 2020","Last Sold $117,000 in Dec 1998",Rent $340pw in Oct 2019,House: 2  1  ,Land size: 741 sqm
+6,9/199 Noble Street,"Sold $402,000 in Jul 2020","Last Sold $290,000 in Jul 2015",Rent $295pw in Sep 2013,House: 2  1  1 ,Land size: 93 sqm
+7,38 Cook Street,"Sold $890,000 in Jul 2020", , ,House: 4  2  1 ,Land size: 679 sqm
+8,25 Ballater Avenue,"Sold $700,000 in 11 Jul 2020(Auction)", , ,House: ,Land size: 717 sqm
+9,5 Bosanquet Avenue,"Sold $525,000 in Jul 2020","Last Sold $320,000 in Jun 2008",Rent $390pw in Mar 2020,House: 3  1  1 ,Land size: 746 sqm
+10,35 Upper Skene Street,"Sold $1,360,000 in Jul 2020","Last Sold $180,000 in Sep 1998", ,House: 4  2  2 ,Land size: 525 sqm | Building size: 275 sqm
+11,36-38 Russell Street,"Sold $1,030,000 in Jul 2020", , ,House: , 
+12,14 Sherbourne Terrace,"Sold $486,000 in Jun 2020","Last Sold $265,500 in Mar 2007",Rent $325pw in Apr 2014,House: 3  1  1 ,Land size: 264 sqm
+13,185 Aberdeen Street,"Sold $420,000 in Jun 2020","Last Sold $397,500 in May 2018",Rent $300pw in Jul 2018, ,Land size: 357 sqm
+14,39 Cumberland Street,"Sold $1,080,000 in Jun 2020","Last Sold $555,000 in Dec 2004",Rent $550pw in Nov 2010,House: 4  2  2 ,Land size: 387 sqm
+15,51 Upper Skene Street,"Sold $1,080,000 in Jun 2020","Last Sold $701,600 in Oct 2013",Rent $400pw in Feb 2009,House: 3  2  2 ,Land size: 519 sqm
+16,2/251 Noble Street,"Sold $610,000 in Jun 2020","Last Sold $300,000 in Nov 2015(Auction)", ,House: 2  1  1 ,Land size: 137 sqm
+17,19 Ardlui Drive,"Sold $1,500,000 in Jun 2020","Last Sold $465,000 in Feb 2011",Rent $450pw in Feb 2011,House: 3  2  2 ,Land size: 725 sqm | Building size: 134 sqm
+18,8 Neiley Street,"Sold $810,000 in Jun 2020","Last Sold $372,000 in Jun 2010",Rent $330pw in Apr 2014,House: 3  1  2 ,Land size: 766 sqm
+19,3 Marshall Street,"Sold $825,000 in May 2020","Last Sold $600,000 in Mar 2016",Rent $450pw in Aug 2014,House: 4  1  2 ,Land size: 457 sqm
+20,86 Aphrasia Street,"Sold $1,630,000 in May 2020","Last Sold $700,000 in Apr 2007", ,House: 3  2  1 ,Land size: 828 sqm
+21,3/2 Upper Skene Street,"Sold $580,000 in May 2020","Last Sold $330,000 in Dec 2014",Rent $330pw in Feb 2016,Townhouse: 2  1  2 ,Land size: 144 sqm
+22,452-456 Latrobe Terrace,"Sold $1,200,000 in 23 May 2020(Auction)", , ,House: 2  1  , 
+23,1/116 Nicholas Street,"Sold $670,000 in May 2020","Last Sold $200,000 in Apr 1999", , ,Land size: 352 sqm
+24,Lot 2 Scarsdale-Pitfield Road,"Sold $149,000 in May 2020", , , , 
+25,10 Allen Street,"Sold $525,000 in May 2020", ,Rent $440pw in Jan 2019,House: 3  2  2 ,Land size: 287 sqm
+26,6 Montmorency Street,"Sold $675,000 in Apr 2020","Last Sold $627,500 in Nov 2015",Rent $400pw in May 2016,House: 4  2  1 ,Land size: 426 sqm | Building size: 195 sqm
+27,1/13 Stinton Avenue,"Sold $370,000 in Apr 2020","Last Sold $194,000 in Jul 1998", , ,Land size: 112 sqm
+28,45 Roebuck Street,"Sold $1,410,000 in Apr 2020","Last Sold $395,000 in Jul 2004", ,House: 3  1  1 ,Land size: 522 sqm
+29,80A Noble Street,"Sold $870,000 in Apr 2020", , ,House: 3  2  2 ,Land size: 273 sqm
+30,7/22-26 Craigie Road,"Sold $282,000 in Apr 2020","Last Sold $57,000 in Oct 1994", , ,Land size: 53 sqm
+31,33 Stinton Avenue,"Sold $1,061,000 in Mar 2020", , ,House: ,Land size: 501 sqm
+32,83 Nicholas Street,"Sold $790,000 in Mar 2020","Last Sold $460,000 in Jan 2011", ,House: 3  1  2 ,Land size: 597 sqm | Building size: 134 sqm
+33,361 Autumn Street,"Sold $790,000 in 28 Mar 2020(Auction)","Last Sold $369,000 in Apr 2011", ,House: 3  1  1 ,Land size: 602 sqm
+34,7/22 Craigie Road,"Sold $282,000 in Mar 2020","Last Sold $57,000 in Oct 1994", , ,Land size: 53 sqm
+35,94 Buckingham Road,"Sold $975,000 in Mar 2020", , ,House: ,Land size: 884 sqm
+36,4/28 Upper Skene Street,"Sold $370,000 in 21 Mar 2020(Auction)","Last Sold $173,000 in Oct 2007", , ,Land size: 65 sqm
+37,23 Clarke Street,"Sold $555,000 in Mar 2020","Last Sold $430,000 in Jul 2016",Rent $360pw in Nov 2018,House: 2  1  1 ,Land size: 210 sqm
+38,32 Aphrasia Street,"Sold $1,430,000 in 19 Mar 2020(Auction)","Last Sold $920,000 in Mar 2011", ,House: 5  1  2 ,Land size: 879 sqm
+39,3/11 Elcho Street,"Sold $240,000 in Mar 2020","Last Sold $220,000 in May 2018",Rent $240pw in Nov 2019, ,Land size: 639 sqm
+40,14 Camden Road,"Sold $1,610,000 in Mar 2020","Last Sold $1,100,000 in Oct 2015", ,House: 3  3  2 ,Land size: 781 sqm
+41,143 Aberdeen Street,"Sold $745,000 in 14 Mar 2020(Auction)","Last Sold $590,000 in Dec 2015",Rent $550pw in Apr 2020,House: 3  1  1 ,Land size: 459 sqm | Building size: 146 sqm
+42,6/133 Aberdeen Street,"Sold $439,000 in Mar 2020","Last Sold $270,000 in Aug 2007", ,Townhouse: 2  1  1 ,Land size: 164 sqm
+43,70 West Fyans Street,"Sold $610,000 in Mar 2020","Last Sold $286,000 in Jul 2008", ,House: 3  2  ,Land size: 277 sqm | Building size: 122 sqm
+44,11 Vista Road,"Sold $935,000 in 29 Feb 2020(Auction)","Last Sold $580,000 in Dec 2012", ,House: 2  1  1 ,"Land size: 1,067 sqm | Building size: 125 sqm"
+45,"2, 1 Cairns Avenue","Sold $850,000 in Feb 2020", , , , 
+46,Lot 2 1 Cairns Avenue,"Sold $850,000 in Feb 2020", , , , 
+47,8 Stephen Street,"Sold $1,140,000 in 22 Feb 2020(Auction)", , ,House: ,Land size: 694 sqm
+48,8/2 Aphrasia Street,"Sold $260,500 in Feb 2020","Last Sold $185,000 in Oct 2015",Rent $105pw in Aug 2004, ,Land size: 878 sqm
+49,4/16-18 WEST FYANS Street,"Sold $325,000 in Feb 2020","Last Sold $188,500 in Jul 2009",Rent $180pw in Sep 2007,Townhouse: 2  1  1 ,Land size: 79 sqm
+50,313 Pakington Street,"Sold $2,400,000 in Feb 2020","Last Sold $790,000 in Aug 2006", , ,Land size: 775 sqm
+51,3/35 Marshall Street,"Sold $524,000 in Feb 2020","Last Sold $251,000 in Sep 2006",Rent $295pw in Sep 2017, ,Land size: 235 sqm
+52,299 Pitfield-Scarsdale Road,"Sold $380,000 in Feb 2020", , , , 
+53,109 Aberdeen Street,"Sold $890,000 in 08 Feb 2020(Auction)","Last Sold $305,000 in Apr 2005",Rent $510pw in Apr 2020,House: 2  1  ,Land size: 543 sqm
+54,16 Sharp Street,"Sold $1,170,000 in Feb 2020","Last Sold $815,000 in Jun 2016", ,House: 4  2  3 ,Land size: 870 sqm | Building size: 187 sqm
+55,1/62 Bond Street,"Sold $445,000 in Feb 2020","Last Sold $53,000 in Sep 1984", , ,Land size: 109 sqm
+56,65 Bond Street,"Sold $615,000 in Feb 2020","Last Sold $410,000 in Feb 2010",Rent $395pw in Apr 2011,House: 2  1  1 ,Land size: 162 sqm
+57,32 Mervyn Street,"Sold $1,004,999 in Feb 2020", , ,House: ,Land size: 662 sqm
+58,42 Laurel Bank Parade,"Sold $1,560,000 in Feb 2020","Last Sold $838,000 in Dec 2012", ,House: 4  1  1 ,Land size: 511 sqm | Building size: 322 sqm
+59,31 Fairview Avenue,"Sold $1,004,999 in Feb 2020","Last Sold $94,500 in Apr 1997", ,House: 3  1  1 ,Land size: 477 sqm
+60,5 Queens Road,"Sold $1,335,000 in Jan 2020","Last Sold $800,000 in Oct 2007", ,House: 4  2  2 ,Land size: 901 sqm | Building size: 263 sqm
+61,299 Pitfield Scarsdale Road,"Sold $380,000 in Jan 2020", , ,House: 3  1  4 , 
+62,Lot 12 Haywards Road,"Sold $210,000 in Jan 2020","Last Sold $160,000 in Jun 2018", , , 
+63,Lot 1 Scarsdale Pitfield Road,"Sold $259,000 in Jan 2020", , , , 
+64,C/A 1 Scarsdale-Pitfield Road,"Sold $259,000 in Jan 2020", , , , 
+65,185 Minerva Road,"Sold $641,500 in Jan 2020","Last Sold $400,000 in Jan 2014", ,House: 3  ,Land size: 591 sqm | Building size: 122 sqm
+66,32 Cumberland Street,"Sold $765,000 in Jan 2020","Last Sold $440,000 in May 2012",Rent $350pw in Apr 2014,House: 3  1  1 ,Land size: 256 sqm
+67,26 Stinton Avenue,"Sold $1,225,000 in Jan 2020","Last Sold $1,100,000 in Mar 2018",Rent $290pw in Mar 2006,House: 3  2  2 ,Land size: 590 sqm | Building size: 178 sqm
+68,6 Chelmsford Avenue,"Sold $650,000 in Dec 2019","Last Sold $345,000 in Mar 2009", ,House: 3  2  2 ,Land size: 317 sqm | Building size: 125 sqm
+69,6B Elcho Street,"Sold $765,000 in Dec 2019", ,Rent $650pw in Nov 2019,Townhouse: 4  3  1 ,Land size: 528 sqm
+70,113a Noble Street,"Sold $1,450,000 in Dec 2019","Last Sold $1,225,000 in Sep 2012(Auction)", ,House: 5  3  4 ,"Land size: 1,013 sqm"
+71,2 Neiley Street,"Sold $902,000 in Dec 2019", , ,House: 3  1  1 ,Land size: 760 sqm
+72,16 Russell Street,"Sold $695,000 in Dec 2019","Last Sold $510,000 in Jul 2015",Rent $450pw in Apr 2019,House: 3  1  1 ,Land size: 326 sqm
+73,7 Clarke Street,"Sold $1,530,000 in Dec 2019","Last Sold $936,000 in Sep 2015", ,House: 4  3  1 ,Land size: 672 sqm
+74,37 Fairview Avenue,"Sold $910,000 in 14 Dec 2019(Auction)","Last Sold $79,500 in Jul 1997", ,House: 3  1  1 ,Land size: 321 sqm
+75,27 Cumberland Street,"Sold $685,000 in Dec 2019","Last Sold $158,500 in Feb 2000", ,House: 2  2  2 ,Land size: 261 sqm
+76,2A Neiley Street,"Sold $765,000 in 07 Dec 2019(Auction)", ,Rent $440pw in Apr 2015,House: 3  2  1 ,Land size: 305 sqm
+77,48 Clarendon Street,"Sold $600,000 in 07 Dec 2019(Auction)","Last Sold $417,500 in Jun 2016",Rent $430pw in Nov 2018,House: 2  1  1 ,Land size: 204 sqm
+78,330 Shannon Avenue,"Sold $965,000 in Dec 2019","Last Sold $112,000 in Aug 1988", ,House: 4  2  1 ,Land size: 926 sqm | Building size: 193 sqm
+79,3/94 Aphrasia Street,"Sold $230,000 in Nov 2019","Last Sold $195,000 in Oct 2017",Rent $240pw in Feb 2019, ,Land size: 29 sqm
+80,16 Elderslie Terrace,"Sold $1,180,000 in Nov 2019","Last Sold $651,000 in Nov 2012",Rent $530pw in Sep 2014,House: 4  2  2 ,Land size: 520 sqm | Building size: 219 sqm
+81,1/94 Aphrasia Street,"Sold $407,000 in 23 Nov 2019(Auction)","Last Sold $205,000 in Aug 2009",Rent $320pw in Feb 2012, ,Land size: 64 sqm
+82,2/71 Clarke Street,"Sold $810,000 in Nov 2019","Last Sold $220,000 in May 2010", ,House: 3  2  2 ,Land size: 727 sqm | Building size: 162 sqm
+83,4/11 Elcho Street,"Sold $220,000 in Nov 2019","Last Sold $105,000 in Dec 2005",Rent $220pw in Sep 2019, ,Land size: 57 sqm
+84,4 Woodstock Street,"Sold $565,000 in Nov 2019", , ,House: 2  1  2 , 
+85,49 Bond Street,"Sold $1,350,000 in 10 Nov 2019(Auction)","Last Sold $540,000 in Sep 2011(Auction)",Rent $400pw in Sep 2011,House: 5  2  3 ,Land size: 490 sqm
+86,11 Grant Street,"Sold $832,000 in 09 Nov 2019(Auction)", ,Rent $350pw in Jan 2017,House: 2  1  1 ,Land size: 677 sqm
+87,4/199 Noble Street,"Sold $383,000 in Nov 2019","Last Sold $310,000 in Oct 2015",Rent $280pw in Dec 2015, ,Land size: 99 sqm
+88,1/67 Nicholas Street,"Sold $730,000 in Nov 2019","Last Sold $550,000 in Jul 2013", ,Townhouse: 3  2  ,Land size: 270 sqm
+89,250 Scarsdale-Pitfield Road,"Sold $370,000 in Nov 2019", , ,House: 3  ,"Land size: 2,022 sqm"
+90,13b Craigie Road,"Sold $585,000 in Oct 2019","Last Sold $481,000 in Dec 2012", ,House: 3  2  2 ,Land size: 292 sqm
+91,7/2 Aphrasia Street,"Sold $261,000 in Oct 2019","Last Sold $166,000 in Aug 2007",Rent $260pw in Nov 2019, ,Land size: 878 sqm
+92,12 Churchill Avenue,"Sold $612,500 in 26 Oct 2019(Auction)","Last Sold $225,000 in Apr 2006", ,House: 3  1  1 ,Land size: 392 sqm
+93,82 Noble Street,"Sold $1,165,000 in 26 Oct 2019(Auction)","Last Sold $525,000 in Aug 2006", ,House: 4  2  2 ,Land size: 603 sqm
+94,2/96 West Fyans Street,"Sold $612,000 in Oct 2019","Last Sold $460,000 in Nov 2014",Rent $440pw in Oct 2014,Townhouse: 2  2  1 ,Land size: 141 sqm
+95,2A Huntingdon Street,"Sold $1,200,000 in Oct 2019","Last Sold $1,050,000 in Aug 2014",Rent $780pw in Nov 2019,House: 4  3  2 ,Land size: 266 sqm | Building size: 240 sqm
+96,45 Retreat Road,"Sold $1,550,000 in Oct 2019","Last Sold $810,000 in Apr 2005", ,House: 5  3  2 ,Land size: 704 sqm
+97,3/154 Skene Street,"Sold $390,000 in Oct 2019","Last Sold $305,000 in Sep 2012(Auction)",Rent $330pw in Nov 2019, ,Land size: 99 sqm
+98,1/8-10 Elcho Street,"Sold $310,000 in Oct 2019","Last Sold $173,000 in Apr 2010",Rent $250pw in Mar 2019, ,"Land size: 1,494 sqm"
+99,152 West Fyans Street,"Sold $642,000 in 19 Oct 2019(Auction)","Last Sold $60,790 in Mar 1984", ,House: 3  2  2 ,Land size: 653 sqm
+100,139 Skene Street,"Sold $1,125,000 in 12 Oct 2019(Auction)", , ,House: 3  1  2 ,"Land size: 1,322 sqm"
+101,4/69A Camden Road,"Sold $350,000 in Oct 2019","Last Sold $127,000 in Nov 2015", , ,Land size: 111 sqm
+102,8 Vista Road,"Sold $830,000 in 12 Oct 2019(Auction)","Last Sold $86,000 in Apr 1997", ,House: 3  1  1 ,Land size: 741 sqm
+103,3/33 Clarendon Street,"Sold $315,000 in Oct 2019","Last Sold $180,000 in Aug 2007", ,Townhouse: 1  1  1 ,Land size: 634 sqm
+104,12 Elcho Street,"Sold $770,000 in Oct 2019","Last Sold $155,000 in Jan 2002",Rent $310pw in Jan 2016,House: 3  1  4 ,Land size: 698 sqm | Building size: 140 sqm
+105,137 Skene Street,"Sold $671,000 in 05 Oct 2019(Auction)", , ,House: 3  1  ,Land size: 543 sqm
+106,18 Ballater Avenue,"Sold $590,000 in 05 Oct 2019(Auction)","Last Sold $257,500 in Mar 2006", ,House: 2  1  1 ,Land size: 623 sqm | Building size: 102 sqm
+107,402 Shannon Avenue,"Sold $780,000 in Sep 2019","Last Sold $80,000 in Aug 1997", ,House: 4  1  1 ,Land size: 697 sqm
+108,35 Camden Road,"Sold $873,000 in 21 Sep 2019(Auction)", , ,House: 3  2  1 ,Land size: 784 sqm
+109,38 Sandringham Parade,"Sold $648,000 in Sep 2019","Last Sold $610,000 in Dec 2017",Rent $350pw in May 2012,House: 3  2  2 ,Land size: 816 sqm
+110,5 Louis Court,"Sold $590,000 in Sep 2019","Last Sold $585,000 in Feb 2018", , ,Land size: 743 sqm
+111,4 Cumberland Street,"Sold $940,000 in Sep 2019","Last Sold $575,000 in Nov 2012",Rent $390pw in Aug 2009,House: 3  1  2 ,Land size: 521 sqm
+112,14 Chester Street,"Sold $736,000 in 07 Sep 2019(Auction)", , , ,Land size: 603 sqm
+113,35 Sharp Street,"Sold $900,000 in 07 Sep 2019(Auction)","Last Sold $535,000 in Nov 2013",Rent $520pw in Mar 2020,House: 3  2  3 ,Land size: 551 sqm
+114,6/199 Noble Street,"Sold $410,000 in Sep 2019","Last Sold $358,500 in Dec 2017",Rent $360pw in Dec 2019, ,Land size: 97 sqm
+115,68 Bond Street,"Sold $586,000 in 31 Aug 2019(Auction)", ,Rent $300pw in Nov 2019,House: 2  1  ,Land size: 263 sqm
+116,2/71 Marshall Street,"Sold $985,000 in Aug 2019", , ,Townhouse: 3  2  2 ,Land size: 271 sqm
+117,15 Blessington Street,"Sold $940,000 in Aug 2019","Last Sold $465,000 in Apr 2015",Rent $600pw in Oct 2018,House: 3  2  1 ,Land size: 324 sqm | Building size: 101 sqm
+118,74 Sandringham Parade,"Sold $650,000 in Aug 2019", , ,House: 3  1  1 ,Land size: 689 sqm
+119,2/304 Pakington Street,"Sold $640,000 in Aug 2019","Last Sold $152,500 in Nov 1995", ,Townhouse: 2  1  1 ,Land size: 288 sqm
+120,23 Hermitage Road,"Sold $1,365,000 in Aug 2019","Last Sold $120,000 in May 1979",Rent $750pw in Nov 2019,House: 4  2  2 ,Land size: 660 sqm
+121,1/7 Churchill Avenue,"Sold $365,000 in Aug 2019","Last Sold $255,000 in Mar 2015",Rent $350pw in Jul 2017,House: 3  1  1 ,Land size: 234 sqm
+122,114b Aphrasia Street,"Sold $522,000 in Aug 2019", , , , 
+123,7 Bosanquet Avenue,"Sold $621,750 in Aug 2019", , ,House: 3  2  1 ,Land size: 369 sqm
+124,39 Saffron Street,"Sold $1,000,000 in Jul 2019","Last Sold $501,000 in Sep 2015(Auction)",Rent $340pw in Oct 2013,House: 3  2  2 ,Land size: 420 sqm
+125,73B Noble Street,"Sold $630,000 in Jul 2019", ,Rent $550pw in Apr 2019,Townhouse: 3  2  1 ,Land size: 209 sqm
+126,28/12-14 Balcombe Road,"Sold $825,000 in 27 Jul 2019(Auction)", ,Rent $500pw in Mar 2017,Townhouse: 3  2  2 , 
+127,4 John Place,"Sold $610,000 in 27 Jul 2019(Auction)", , ,Townhouse: 2  1  ,Land size: 147 sqm
+128,309 Autumn Street,"Sold $720,000 in 27 Jul 2019(Auction)","Last Sold $415,000 in May 2012", ,House: 3  1  2 ,Land size: 665 sqm
+129,66 Virginia Street,"Sold $1,820,000 in Jul 2019","Last Sold $1,425,000 in Oct 2013", ,House: 4  3  4 ,"Land size: 1,142 sqm"
+130,2/73 Marshall Street,"Sold $500,000 in Jul 2019","Last Sold $372,500 in Jul 2010",Rent $345pw in Nov 2015,Townhouse: 3  2  2 ,Land size: 123 sqm
+131,317 Autumn Street,"Sold $535,000 in Jul 2019","Last Sold $393,500 in Feb 2011",Rent $380pw in May 2018,House: 3  1  1 ,Land size: 325 sqm | Building size: 107 sqm
+132,76 Saffron Street,"Sold $715,000 in Jul 2019","Last Sold $165,000 in Mar 2008",Rent $340pw in Nov 2018,House: 3  1  1 ,Land size: 390 sqm | Building size: 95 sqm
+133,40 George Street,"Sold $1,315,000 in 10 Jul 2019(Auction)","Last Sold $1,125,000 in Jul 2013", ,House: 4  2  1 ,Land size: 638 sqm
+134,5 Vista Road,"Sold $871,000 in 06 Jul 2019(Auction)","Last Sold $288,000 in Dec 2001",Rent $340pw in Apr 2014,House: 3  1  6 ,Land size: 831 sqm | Building size: 163 sqm
+135,5/155-157 Minerva Road,"Sold $269,000 in Jul 2019","Last Sold $205,000 in Mar 2015", , ,Land size: 68 sqm
+136,185 West Fyans Street,"Sold $640,000 in Jun 2019", , ,House: 3  2  3 ,Land size: 757 sqm
+137,48 Upper Skene Street,"Sold $656,000 in 22 Jun 2019(Auction)", , ,House: 3  1  ,Land size: 468 sqm
+138,118 Skene Street,"Sold $800,000 in 22 Jun 2019(Auction)", , ,House: 3  2  2 ,Land size: 575 sqm
+139,1/6 Huntingdon Street,"Sold $725,000 in 22 Jun 2019(Auction)","Last Sold $350,000 in Dec 2012",Rent $490pw in Aug 2019,House: 3  2  2 ,Land size: 346 sqm
+140,5/41-43 Buckingham Road,"Sold $280,000 in Jun 2019","Last Sold $191,500 in Feb 2008",Rent $245pw in Sep 2012, ,Land size: 84 sqm
+141,159 Minerva Road,"Sold $669,000 in Jun 2019","Last Sold $447,000 in Sep 2014",Rent $650pw in Nov 2019,House: 3  2  1 ,Land size: 374 sqm
+142,21 Roebuck Street,"Sold $845,000 in 08 Jun 2019(Auction)","Last Sold $80,000 in Nov 1984", ,House: 4  2  2 ,Land size: 517 sqm
+143,20 Manning Street,"Sold $680,000 in Jun 2019","Last Sold $450,000 in Apr 2002", ,House: 3  2  1 ,Land size: 556 sqm
+144,82 Balcombe Road,"Sold $840,000 in Jun 2019","Last Sold $620,000 in Aug 2013", ,House: 3  2  1 ,Land size: 645 sqm | Building size: 176 sqm
+145,2/57 Fairview Avenue,"Sold $571,000 in Jun 2019","Last Sold $71,000 in May 1985", , ,Land size: 130 sqm
+146,44 Clarendon Street,"Sold $1,000,000 in May 2019", , ,Townhouse: 3  3  2 ,Land size: 245 sqm
+147,10 Whyte Court,"Sold $815,000 in May 2019","Last Sold $800,000 in Oct 2015",Rent $620pw in Dec 2011,House: 4  2  3 ,Land size: 694 sqm
+148,27 Gairloch Grove,"Sold $820,000 in 25 May 2019(Auction)","Last Sold $327,500 in Jul 2003",Rent $270pw in Oct 2009,House: 2  1  1 ,Land size: 690 sqm
+149,11 Marshall Street,"Sold $689,000 in May 2019","Last Sold $515,000 in Feb 2015(Auction)",Rent $290pw in Jun 2009,House: 3  1  2 ,Land size: 575 sqm | Building size: 105 sqm
+150,18 Buckland Avenue,"Sold $1,310,000 in May 2019","Last Sold $640,000 in Feb 2007",Rent $850pw in Jul 2019,House: 4  3  1 ,Land size: 766 sqm | Building size: 212 sqm
+151,12B Ballater Avenue,"Sold $1,064,000 in May 2019", ,Rent $650pw in Jan 2017,House: 3  2  2 ,Land size: 303 sqm
+152,34 Skene Street,"Sold $800,000 in May 2019", , , ,Land size: 604 sqm
+153,2/83 Camden Road,"Sold $230,000 in May 2019","Last Sold $177,000 in Nov 2013",Rent $225pw in Jan 2018, ,Land size: 852 sqm | Building size: 52 sqm
+154,2/377 Autumn Street,"Sold $625,000 in May 2019","Last Sold $400,000 in Oct 2013",Rent $540pw in May 2019, ,Land size: 259 sqm | Building size: 175 sqm
+155,13/12 Balcombe Road,"Sold $800,000 in Apr 2019","Last Sold $679,000 in Jan 2015", ,House: 3  2  2 ,"Land size: 9,857 sqm | Building size: 191 sqm"
+156,13 Pleasant Street,"Sold $755,000 in Apr 2019", , ,House: 4  1  1 ,Land size: 382 sqm
+157,47 Clarke Street,"Sold $823,000 in Apr 2019", ,Rent $370pw in Jun 2016,House: 3  1  1 ,Land size: 699 sqm
+158,1/1 Holyrood Avenue,"Sold $338,000 in Apr 2019","Last Sold $235,000 in Nov 2010",Rent $250pw in Apr 2015, ,Land size: 65 sqm
+159,10 Cumberland Street,"Sold $1,175,000 in Apr 2019","Last Sold $295,000 in Apr 1997", ,House: 4  2  3 ,Land size: 695 sqm | Building size: 200 sqm
+160,95 Camden Road,"Sold $792,250 in Mar 2019","Last Sold $190,000 in Jul 1990", ,House: 4  2  2 ,Land size: 780 sqm
+161,2A Stinton Avenue,"Sold $385,000 in Mar 2019","Last Sold $349,000 in Jan 2016",Rent $285pw in Jul 2017, ,Land size: 897 sqm
+162,22/12 Balcombe Road,"Sold $700,000 in Mar 2019","Last Sold $230,000 in Dec 2013",Rent $480pw in Jul 2017,Townhouse: 3  2  1 ,Land size: 320 sqm | Building size: 167 sqm
+163,6 Carmichael Avenue,"Sold $862,000 in Mar 2019", ,Rent $580pw in May 2019,Townhouse: 3  2  2 ,Land size: 271 sqm
+164,5 Warwick Street,"Sold $510,000 in 23 Mar 2019(Auction)", ,Rent $320pw in Feb 2017,House: 3  1  ,Land size: 552 sqm
+165,9 Camden Road,"Sold $900,000 in Mar 2019", ,Rent $700pw in Nov 2019,House: 3  2  5 ,Land size: 373 sqm
+166,355 Autumn Street,"Sold $755,000 in Mar 2019","Last Sold $655,000 in Jul 2013",Rent $650pw in Jan 2019,House: 4  2  3 ,Land size: 602 sqm
+167,25 Nantes Street,"Sold $1,750,000 in Mar 2019","Last Sold $905,000 in Feb 2015(Auction)", ,House: 5  2  3 ,"Land size: 1,036 sqm | Building size: 310 sqm"
+168,21 Blessington Street,"Sold $678,000 in 16 Mar 2019(Auction)","Last Sold $415,250 in Mar 2013",Rent $400pw in Mar 2019,House: 3  1  1 ,Land size: 366 sqm
+169,1C Carmichael Avenue,"Sold $660,000 in Mar 2019","Last Sold $120,000 in Apr 2001",Rent $370pw in May 2019,House: 4  1  2 ,Land size: 818 sqm
+170,134 West Fyans Street,"Sold $612,000 in Mar 2019","Last Sold $306,000 in Jul 2008", ,House: 3  1  ,Land size: 340 sqm | Building size: 117 sqm
+171,2/2A BALLATER Avenue,"Sold $370,000 in Mar 2019","Last Sold $74,000 in Dec 1988", , ,Land size: 544 sqm
+172,369 Shannon Avenue,"Sold $803,500 in Mar 2019","Last Sold $115,000 in Nov 1993", ,House: 4  1  2 ,Land size: 505 sqm
+173,2/4 Belfast Street,"Sold $562,000 in 09 Mar 2019(Auction)","Last Sold $400,000 in Apr 2010",Rent $350pw in Jul 2014, ,Land size: 213 sqm
+174,27 Chadwick Street,"Sold $682,000 in Mar 2019","Last Sold $390,000 in Jul 2004",Rent $580pw in Mar 2019,House: 3  2  1 ,Land size: 215 sqm
+175,63 Saffron Street,"Sold $650,000 in 02 Mar 2019(Auction)","Last Sold $399,000 in Jun 2013", ,House: 3  1  ,Land size: 225 sqm
+176,6 Bond Street,"Sold $666,000 in Feb 2019","Last Sold $450,000 in Dec 2009",Rent $500pw in Jun 2019,House: 3  2  1 ,Land size: 419 sqm
+177,2/33 Buckingham Road,"Sold $545,000 in Feb 2019","Last Sold $367,000 in Aug 2012",Rent $440pw in May 2017,Townhouse: 3  2  2 ,Land size: 415 sqm | Building size: 12 sqm
+178,4 Pinaroo Street,"Sold $605,000 in Feb 2019","Last Sold $445,000 in May 2015(Auction)",Rent $450pw in Jun 2019,House: 4  1  1 ,Land size: 409 sqm
+179,3/299 Autumn Street,"Sold $372,000 in Feb 2019","Last Sold $245,000 in Jan 2012",Rent $330pw in Oct 2019, ,Land size: 101 sqm | Building size: 83 sqm
+180,40 Nantes Street,"Sold $950,000 in 16 Feb 2019(Auction)","Last Sold $148,000 in May 1991",Rent $475pw in Jul 2019,House: 3  2  2 ,Land size: 763 sqm
+181,8 Austin Terrace,"Sold $525,000 in Feb 2019","Last Sold $74,500 in Jul 1995",Rent $315pw in Feb 2013,House: 2  1  ,Land size: 206 sqm | Building size: 72 sqm
+182,34 Stinton Avenue,"Sold $740,000 in Feb 2019","Last Sold $690,000 in May 2016(Auction)",Rent $490pw in Jun 2017,Townhouse: 3  2  2 ,Land size: 438 sqm
+183,23 Craigie Road,"Sold $585,000 in Feb 2019","Last Sold $248,000 in May 2005",Rent $380pw in Jun 2016,House: 3  1  1 ,Land size: 689 sqm
+184,15 Clarendon Street,"Sold $740,000 in Jan 2019","Last Sold $366,000 in Nov 2007",Rent $370pw in Jan 2016,House: 3  1  2 ,Land size: 420 sqm
+185,3/16-18 West Fyans Street,"Sold $330,330 in Jan 2019","Last Sold $225,000 in Aug 2015",Rent $330pw in Apr 2019, ,Land size: 77 sqm
+186,10/199 Noble Street,"Sold $365,000 in Jan 2019","Last Sold $65,500 in Apr 1988",Rent $285pw in Oct 2015, ,Land size: 103 sqm
+187,45 Mervyn Street,"Sold $825,000 in Jan 2019","Last Sold $561,000 in Jul 2014(Auction)",Rent $595pw in Dec 2018,House: 3  1  1 ,Land size: 561 sqm
+188,59 George Street,"Sold $1,700,000 in Jan 2019","Last Sold $575,000 in Mar 2016(Auction)","Rent $1,100pw in Dec 2018",House: 4  2  2 ,Land size: 575 sqm
+189,24 Virginia Street,"Sold $1,875,000 in Jan 2019","Last Sold $1,850,000 in May 2016",Rent $850pw in Jan 2014,House: 4  3  2 ,Land size: 514 sqm | Building size: 380 sqm
+190,59a Fairview Avenue,"Sold $1,015,000 in Dec 2018","Last Sold $863,000 in Nov 2011", ,House: 4  2  2 ,Land size: 555 sqm
+191,19 Camden Road,"Sold $730,000 in Dec 2018","Last Sold $370,000 in Jul 2008",Rent $420pw in Apr 2019,House: 3  1  2 ,Land size: 773 sqm | Building size: 130 sqm
+192,2/22 Stinton Avenue,"Sold $472,500 in Dec 2018","Last Sold $247,000 in Jul 2006",Rent $325pw in Oct 2011,Townhouse: 2  1  1 ,Land size: 113 sqm | Building size: 88 sqm
+193,4/133 Aberdeen Street,"Sold $460,000 in Dec 2018","Last Sold $340,000 in Apr 2012", , ,Land size: 183 sqm
+194,2/319 Autumn Street,"Sold $677,500 in Dec 2018","Last Sold $490,000 in Jun 2016", ,House: 4  2  1 ,Land size: 440 sqm
+195,6/11 Elcho Street,"Sold $185,000 in Dec 2018","Last Sold $105,000 in Aug 2006",Rent $185pw in Dec 2015, ,Land size: 51 sqm
+196,301b Pakington Street,"Sold $1,065,000 in Dec 2018", , ,Townhouse: 3  2  2 ,Land size: 394 sqm
+197,226 Pitfield-Scarsdale Road,"Sold $183,000 in Dec 2018", , , , 
+198,136 Skene Street,"Sold $1,175,000 in Dec 2018","Last Sold $576,000 in Nov 2004", ,House: 4  2  2 ,Land size: 662 sqm
+199,2/4 Percy Street,"Sold $730,000 in Dec 2018","Last Sold $565,000 in May 2014", ,House: 3  2  2 ,Land size: 402 sqm | Building size: 149 sqm
+200,233-235 West Fyans Street,"Sold $925,000 in Dec 2018", ,Rent $500pw in May 2020,House: 3  1  1 ,Land size: 684 sqm
+201,11 Braemar Court,"Sold $691,000 in Dec 2018","Last Sold $505,000 in Sep 2016", ,House: 3  2  3 ,Land size: 636 sqm
+202,1/379 Shannon Avenue,"Sold $280,000 in Dec 2018","Last Sold $195,000 in Sep 2014",Rent $245pw in Nov 2017,Townhouse: 1  1  1 ,Land size: 62 sqm | Building size: 42 sqm
+203,2c Stinton Avenue,"Sold $392,000 in Dec 2018","Last Sold $275,000 in Dec 2008",Rent $340pw in Jun 2019, ,Land size: 169 sqm | Building size: 86 sqm
+204,53 Mervyn Street,"Sold $870,000 in Dec 2018","Last Sold $735,000 in Jan 2016", ,House: 3  2  1 ,Land size: 278 sqm | Building size: 147 sqm
+205,17 Camden Road,"Sold $787,500 in Dec 2018","Last Sold $345,000 in Nov 2002",Rent $470pw in Mar 2018,House: 4  2  2 ,Land size: 728 sqm
+206,8 Hollyrood Avenue,"Sold $549,000 in Dec 2018", , , , 
+207,8 Holyrood Avenue,"Sold $549,000 in 08 Dec 2018(Auction)", , ,House: 3  1  1 ,Land size: 653 sqm
+208,74 Noble Street,"Sold $1,075,000 in 08 Dec 2018(Auction)","Last Sold $826,000 in Jan 2016", ,House: 5  2  2 ,Land size: 643 sqm
+209,1/52 Clarendon Street,"Sold $760,000 in 08 Dec 2018(Auction)","Last Sold $733,600 in Sep 2011",Rent $420pw in Jun 2012,House: 3  2  1 ,Land size: 214 sqm
+210,2/138 West Fyans Street,"Sold $273,000 in Dec 2018","Last Sold $200,000 in Sep 2011",Rent $295pw in Dec 2018, ,Land size: 55 sqm
+211,9/2 Aphrasia Street,"Sold $245,000 in Dec 2018","Last Sold $52,000 in May 1997",Rent $220pw in Apr 2018, ,Land size: 878 sqm
+212,3/17 Aberdeen Street,"Sold $350,000 in Dec 2018","Last Sold $113,000 in Jun 1997",Rent $270pw in Apr 2013, ,Land size: 65 sqm
+213,35 Grant Street,"Sold $777,000 in 01 Dec 2018(Auction)","Last Sold $470,000 in Jan 2015",Rent $420pw in Jan 2019,House: 3  1  1 ,Land size: 677 sqm | Building size: 105 sqm
+214,1/35 Buckingham Road,"Sold $466,000 in Nov 2018", ,Rent $410pw in Feb 2019,House: 3  1  2 ,Land size: 337 sqm
+215,4/22 Percy Street,"Sold $890,000 in Nov 2018", ,Rent $550pw in Aug 2013,Townhouse: 3  2  2 ,Land size: 309 sqm
+216,1 Allen Street,"Sold $370,000 in Nov 2018","Last Sold $125,500 in Jun 2001",Rent $310pw in Dec 2018,House: 1  1  2 ,Land size: 208 sqm | Building size: 238 sqm
+217,45 Read Street,"Sold $1,030,000 in 28 Nov 2018(Auction)","Last Sold $359,000 in Jan 2008",Rent $330pw in Jul 2011,House: 4  2  2 ,Land size: 578 sqm | Building size: 229 sqm
+218,15 Braemer Court,"Sold $590,000 in Nov 2018", , , , 
+219,10 Shelley Avenue,"Sold $620,000 in 24 Nov 2018(Auction)", , ,House: 2  1  1 ,Land size: 529 sqm
+220,86 Prospect Road,"Sold $1,515,000 in Nov 2018","Last Sold $653,000 in Oct 2007",Rent $295pw in Jan 2005,House: 3  2  1 ,Land size: 870 sqm | Building size: 220 sqm
+221,15 Braemar Court,"Sold $590,000 in Nov 2018","Last Sold $153,000 in Sep 2001",Rent $350pw in Aug 2013,House: 3  1  2 ,Land size: 576 sqm
+222,3 Mervyn Street,"Sold $1,250,000 in Nov 2018","Last Sold $255,000 in Mar 2005", ,House: 2  1  1 ,Land size: 566 sqm
+223,16/199 Noble Street,"Sold $345,000 in Nov 2018","Last Sold $220,000 in Oct 2009",Rent $320pw in Apr 2019,House: 2  1  1 ,Land size: 104 sqm | Building size: 80 sqm
+224,5/16-18 West Fyans Street,"Sold $305,000 in Nov 2018","Last Sold $210,000 in Feb 2009",Rent $180pw in Nov 2009, ,Land size: 81 sqm
+225,1/304 Pakington Street,"Sold $635,000 in Nov 2018","Last Sold $415,000 in May 2016",Rent $400pw in Nov 2017,House: 2  1  2 ,Land size: 248 sqm | Building size: 125 sqm
+226,11 Aphrasia Street,"Sold $1,790,000 in Nov 2018", , ,House: 5  2  2 ,Land size: 190 sqm
+227,14 Mercer Parade,"Sold $1,325,000 in Nov 2018","Last Sold $147,500 in Sep 1991", ,House: 6  4  2 ,"Land size: 7,057 sqm"
+228,12 Chesterfield Court,"Sold $850,000 in 15 Nov 2018(Auction)","Last Sold $205,000 in Sep 1988", ,House: 5  2  2 ,Land size: 622 sqm
+229,2/428 Latrobe Terrace,"Sold $295,000 in Nov 2018","Last Sold $165,000 in Feb 2000",Rent $350pw in May 2019, ,Land size: 142 sqm
+230,1B Carmichael Avenue,"Sold $835,000 in Nov 2018","Last Sold $242,000 in Apr 2013", , ,Land size: 369 sqm
+231,14 Churchill Avenue,"Sold $516,000 in Nov 2018","Last Sold $290,000 in Mar 2011", ,House: 3  1  2 ,Land size: 392 sqm | Building size: 80 sqm
+232,110A Skene Street,"Sold $972,500 in Nov 2018", , , , 
+233,100A Skene Street,"Sold $972,500 in Nov 2018","Last Sold $742,000 in Mar 2015", ,House: 3  3  4 ,Land size: 291 sqm
+234,84 Fairview Avenue,"Sold $1,810,000 in Nov 2018","Last Sold $1,250,001 in May 2013", ,House: 5  3  2 ,"Land size: 1,016 sqm | Building size: 316 sqm"
+235,30 Fairmont Road,"Sold $1,250,000 in 10 Nov 2018(Auction)","Last Sold $280,000 in Nov 2013", ,House: 3  2  2 ,Land size: 647 sqm
+236,85 Buckingham Road,"Sold $430,000 in 10 Nov 2018(Auction)","Last Sold $282,000 in Oct 2012",Rent $350pw in Apr 2019, ,Land size: 180 sqm | Building size: 67 sqm
+237,365 Shannon Avenue,"Sold $797,000 in Nov 2018","Last Sold $115,000 in Sep 1990", ,House: 3  2  3 ,Land size: 697 sqm
+238,20 Sharp Street,"Sold $812,500 in 07 Nov 2018(Auction)","Last Sold $507,500 in Jul 2012",Rent $400pw in Mar 2011,House: 3  2  1 ,Land size: 296 sqm | Building size: 123 sqm
+239,384 Aberdeen Street,"Sold $742,000 in 27 Oct 2018(Auction)", ,Rent $400pw in Oct 2013,House: 3  1  2 ,Land size: 622 sqm
+240,32 Laurel Bank Parade,"Sold $1,920,000 in 27 Oct 2018(Auction)", , ,House: 4  2  2 ,Land size: 510 sqm
+241,19/54 Percy Street,"Sold $380,000 in Oct 2018","Last Sold $245,530 in Apr 2013",Rent $310pw in Jan 2016,Townhouse: 2  1  1 ,Land size: 75 sqm
+242,1/46 Russell Street,"Sold $589,000 in Oct 2018","Last Sold $521,000 in Feb 2017",Rent $380pw in Oct 2017,House: 2  2  2 ,Land size: 282 sqm
+243,1/71 Nicholas Street,"Sold $770,125 in Oct 2018","Last Sold $250,000 in Aug 2006",Rent $620pw in Feb 2019,House: 3  2  2 ,Land size: 261 sqm | Building size: 144 sqm
+244,7/28 Upper Skene Street,"Sold $354,000 in 13 Oct 2018(Auction)","Last Sold $163,000 in Nov 2004", , ,Land size: 69 sqm
+245,32 William Street,"Sold $970,000 in Oct 2018","Last Sold $865,000 in Apr 2017(Auction)",Rent $700pw in Jan 2019,House: 3  2  1 ,Land size: 494 sqm
+246,25 Stinton Avenue,"Sold $1,280,000 in Oct 2018","Last Sold $515,000 in Jul 2004", ,House: 4  2  2 ,Land size: 763 sqm
+247,17 Austin Street,"Sold $945,000 in 06 Oct 2018(Auction)", , ,House: 3  1  1 ,Land size: 663 sqm
+248,39 Bond Street,"Sold $1,000,000 in Oct 2018","Last Sold $135,000 in Jul 1998", ,House: 4  2  1 ,Land size: 608 sqm
+249,50 Buckingham Road,"Sold $595,000 in Sep 2018","Last Sold $234,000 in Oct 2013",Rent $400pw in Dec 2019,House: 3  1  3 ,Land size: 665 sqm
+250,14 Daisy Street,"Sold $1,327,500 in 22 Sep 2018(Auction)","Last Sold $350,000 in May 2003", , ,Land size: 723 sqm
+251,13 Huntingdon Street,"Sold $695,000 in Sep 2018", ,Rent $300pw in Nov 2018,House: 2  1  2 ,Land size: 370 sqm
+252,24 Sharp Street,"Sold $755,000 in 15 Sep 2018(Auction)","Last Sold $600,000 in Mar 2016",Rent $415pw in Dec 2010,House: 3  2  1 ,"Land size: 14,407 sqm | Building size: 118 sqm"
+253,4 Sharp Street,"Sold $590,000 in Sep 2018","Last Sold $370,000 in Apr 2011",Rent $330pw in Apr 2016,House: 3  1  2 ,Land size: 256 sqm
+254,2/28 Upper Skene Street,"Sold $320,000 in Sep 2018","Last Sold $56,000 in Mar 1997",Rent $300pw in Dec 2018, ,Land size: 63 sqm
+255,39 Sharp Street,"Sold $1,225,000 in Sep 2018", , ,House: 4  3  2 ,Land size: 682 sqm
+256,74 Saffron Street,"Sold $595,000 in 08 Sep 2018(Auction)","Last Sold $336,000 in Nov 2009", ,House: 2  1  1 ,Land size: 302 sqm | Building size: 85 sqm
+257,4/13-15 Glamis Street,"Sold $373,000 in Sep 2018", , ,House: 2  1  1 ,Land size: 101 sqm
+258,64 Russell Street,"Sold $1,080,000 in Sep 2018","Last Sold $175,000 in Apr 2001", ,House: 5  2  2 ,Land size: 481 sqm
+259,84 Saffron Street,"Sold $670,000 in Aug 2018", , ,Townhouse: 2  1  2 ,Land size: 315 sqm
+260,1/28 Mercer Parade,"Sold $1,700,000 in Aug 2018", , ,House: 3  2  2 ,Land size: 411 sqm
+261,130 Noble Street,"Sold $1,700,000 in Aug 2018", , ,House: 5  3  2 ,Land size: 619 sqm
+262,9A Fernery Grove,"Sold $965,000 in Aug 2018", , ,House: 3  2  2 ,Land size: 296 sqm
+263,31 Clarendon Street,"Sold $1,050,000 in Aug 2018","Last Sold $725,500 in Jul 2017", ,House: 3  2  2 ,Land size: 419 sqm
+264,2/130 West Fyans Street,"Sold $450,000 in Aug 2018","Last Sold $129,950 in Feb 2000",Rent $350pw in Oct 2018,Townhouse: 2  1  1 ,Land size: 215 sqm
+265,1 Ascot (Cnr Mercer Prd) Street,"Sold $1,880,000 in Aug 2018", , ,House: 4  2  4 , 
+266,266 Latrobe Terrace,"Sold $495,000 in Aug 2018","Last Sold $400,000 in Apr 2015", ,House: 2  1  2 ,Land size: 299 sqm
+267,2/2a Skene Street,"Sold $305,000 in Aug 2018","Last Sold $194,000 in Aug 2007",Rent $250pw in Jan 2017, ,"Land size: 1,121 sqm"
+268,3/12 Balcombe Road,"Sold $660,000 in Aug 2018","Last Sold $195,000 in Dec 2013", ,Townhouse: 3  2  1 ,Land size: 269 sqm
+269,16 Riversdale Road,"Sold $657,000 in 11 Aug 2018(Auction)","Last Sold $222,500 in Aug 2004", ,House: 2  1  1 ,Land size: 590 sqm
+270,8a Fernery Grove,"Sold $1,345,000 in 11 Aug 2018(Auction)","Last Sold $1,030,000 in Mar 2010", ,Townhouse: 4  2  2 , 
+271,11/94 Aphrasia Street,"Sold $239,100 in Aug 2018","Last Sold $160,000 in May 2007",Rent $190pw in Oct 2015, ,Land size: 45 sqm
+272,3/34 Nicholas Street,"Sold $540,000 in Aug 2018","Last Sold $185,000 in Jun 2001", , ,Land size: 272 sqm
+273,15 Cairns Avenue,"Sold $805,000 in 30 Jul 2018(Auction)", , ,House: 3  2  3 ,Land size: 490 sqm
+274,450 Latrobe Terrace,"Sold $800,000 in Jul 2018", , ,House: 4  2  2 ,Land size: 403 sqm
+275,2/67 Nicholas Street,"Sold $712,000 in Jul 2018","Last Sold $660,000 in Mar 2017", , ,Land size: 273 sqm
+276,97 Nicholas Street,"Sold $440,000 in Jul 2018", , , ,Land size: 84 sqm | Building size: 39 sqm
+277,3a Bosanquet Avenue,"Sold $880,000 in Jul 2018", , ,House: 3  2  2 ,Land size: 413 sqm
+278,9B Fernery Grove,"Sold $950,000 in Jul 2018", , ,House: 3  2  2 ,Land size: 248 sqm
+279,109 Aphrasia Street,"Sold $1,500,000 in 07 Jul 2018(Auction)","Last Sold $507,000 in May 2012", ,House: 4  2  2 ,Land size: 583 sqm
+280,30 Chester Street,"Sold $842,000 in Jul 2018","Last Sold $313,500 in Nov 2008",Rent $550pw in May 2016,House: 3  2  2 ,Land size: 602 sqm
+281,5 Craigie Road,"Sold $600,000 in Jun 2018", , ,House: 3  1  2 ,Land size: 689 sqm
+282,69 Buckingham ROAD,"Sold $685,000 in Jun 2018","Last Sold $430,000 in Dec 2013", ,House: 3  1  2 ,Land size: 690 sqm
+283,29 Camden Road,"Sold $675,000 in Jun 2018", , ,House: 3  1  2 ,Land size: 789 sqm
+284,292A Pakington Street,"Sold $900,000 in Jun 2018","Last Sold $400,000 in Jun 2009",Rent $550pw in Nov 2015,House: 4  2  2 ,Land size: 532 sqm | Building size: 173 sqm
+285,109 Skene Street,"Sold $870,000 in Jun 2018","Last Sold $215,000 in Oct 1994", ,House: 4  2  3 ,Land size: 530 sqm
+286,17/54 Percy Street,"Sold $392,500 in Jun 2018", ,Rent $310pw in Oct 2016,Townhouse: 2  1  1 ,Land size: 90 sqm
+287,23 Austin Street,"Sold $1,020,000 in Jun 2018","Last Sold $250,000 in Sep 1997", , ,"Land size: 1,723 sqm"
+288,52 Fairview Avenue,"Sold $1,700,000 in Jun 2018", , ,House: 4  2  1 ,"Land size: 1,115 sqm"
+289,29 Glens Road,"Sold $365,000 in Jun 2018","Last Sold $320,000 in Dec 2015", ,House: 3  1  6 ,"Land size: 8,498 sqm"
+290,32 Belfast Street,"Sold $1,115,000 in Jun 2018","Last Sold $203,000 in Mar 2000", ,House: 4  2  2 ,Land size: 709 sqm | Building size: 187 sqm
+291,158 Skene Street,"Sold $970,000 in Jun 2018","Last Sold $870,000 in Nov 2012", ,House: 3  2  2 ,Land size: 396 sqm
+292,59 Buckingham Road,"Sold $700,000 in 16 Jun 2018(Auction)", ,Rent $380pw in Sep 2019,House: 3  1  1 ,Land size: 697 sqm
+293,53 Virginia Street,"Sold $1,300,000 in Jun 2018","Last Sold $128,750 in Dec 1983",Rent $495pw in Aug 2018,House: 3  2  1 ,Land size: 537 sqm
+294,17 Retreat Road,"Sold $2,400,000 in Jun 2018","Last Sold $1,550,000 in Jul 2014", ,House: 4  2  1 ,Land size: 718 sqm | Building size: 258 sqm
+295,61 Buckingham Road,"Sold $725,000 in Jun 2018","Last Sold $450,000 in Sep 2015(Auction)",Rent $300pw in Apr 2016,House: 3  2  2 ,Land size: 688 sqm
+296,1/26 Mercer Parade,"Sold $2,075,000 in Jun 2018","Last Sold $1,550,000 in Feb 2000", , ,Land size: 447 sqm | Building size: 253 sqm

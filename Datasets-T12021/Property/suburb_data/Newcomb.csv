@@ -1,0 +1,491 @@
+Address,Sell Price,Sell Date,Last Sell Price,Last Sell Date,Auction,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Car,Suburb,Suburb_Code
+2A Ising Street,"485,000",Mar 2021,,,,,,721,,,,,Newcomb,20
+16 Lancaster Avenue,"520,000",Mar 2021,"240,000",Jun 2012,,,,697,,3,1,4,Newcomb,20
+1-3/126 Helms Street,"888,000",Mar 2021,,,,,,758,,,,,Newcomb,20
+16 Portarlington Road,"625,500",Mar 2021,,,,,,647,,,,,Newcomb,20
+4 Rose Court,"415,000",Feb 2021,"175,000",May 2007,,250,Oct 2015,617,,2,1,2,Newcomb,20
+5/22-24 Lindsay Street,"261,000",Feb 2021,"148,000",May 2009,,200,May 2016,51,,,,,Newcomb,20
+1/49 Bellarine Highway,"425,000",Feb 2021,,,,,,340,,,,,Newcomb,20
+36 Wilsons Road,"490,000",Feb 2021,"426,000",Nov 2017,1.0,310,May 2016,664,,3,1,1,Newcomb,20
+20 Neptune Avenue,"470,000",Feb 2021,"152,000",Jun 2009,,290,Nov 2013,537,109,3,1,1,Newcomb,20
+60 Wilton Avenue,"502,000",Feb 2021,"390,000",Nov 2018,1.0,,,656,,,,,Newcomb,20
+38 Neptune Avenue,"510,000",Feb 2021,"201,000",Mar 2009,,340,Nov 2019,761,104,3,1,1,Newcomb,20
+42B Wilton Avenue,"625,000",Feb 2021,,,,,,426,,,,,Newcomb,20
+39 Richard Street,"562,000",Feb 2021,"250,000",Jun 2015,,160,Sep 2005,550,98,3,1,1,Newcomb,20
+15 Lucas Street,"492,000",Jan 2021,,,,,,541,,,,,Newcomb,20
+2/1 Herbert Court,"540,000",Jan 2021,,,,370,Dec 2017,316,,3,2,2,Newcomb,20
+6 Wilsons Road,"610,000",Jan 2021,"335,000",Jun 2014,,,,664,118,3,1,1,Newcomb,20
+139 Boundary Road,"420,000",Jan 2021,"335,000",Aug 2017,,290,Aug 2014,392,110,3,1,1,Newcomb,20
+4 Vega Court,"440,000",Jan 2021,,,,,,651,,,,,Newcomb,20
+32 Wilsons Road,"482,000",Dec 2020,"290,000",Mar 2010,,310,Nov 2019,664,111,2,1,2,Newcomb,20
+9 Nelson Avenue,"602,500",Dec 2020,"79,000",Apr 2000,,260,Jan 2018,987,,3,1,1,Newcomb,20
+41 Brayshay Road,"606,000",Dec 2020,,,,,,663,,3,1,4,Newcomb,20
+5 Wilton Avenue,"545,000",Dec 2020,"310,000",Aug 2014,,,,654,107,2,1,1,Newcomb,20
+42B Poplar Street,"510,000",Dec 2020,,,,,,215,,,,,Newcomb,20
+7/2-4 Morpeth Street,"260,000",Dec 2020,,,,,,49,,,,,Newcomb,20
+26 Wilton Avenue,"565,000",Nov 2020,"145,000",Apr 2002,,,,655,,3,,,Newcomb,20
+26 Wilsons Road,"540,000",Nov 2020,"382,000",Oct 2019,,390,Dec 2020,660,,3,1,1,Newcomb,20
+15 Dorward Avenue,"557,000",Nov 2020,"265,000",May 2013,,430,Dec 2020,593,102,3,1,1,Newcomb,20
+1/3 Rose Court,"238,000",Nov 2020,"103,000",Aug 2007,,200,Oct 2018,74,,,,,Newcomb,20
+50 Brayshay Road,"455,000",Nov 2020,"250,000",Mar 2010,1.0,290,Jun 2013,404,107,3,1,1,Newcomb,20
+42b Helms Street,"475,000",Nov 2020,,,,,,,,,,,Newcomb,20
+7/5 Helms Street,"390,000",Nov 2020,,,,,,,,,,,Newcomb,20
+4/3 Lindel Street,"435,000",Nov 2020,,,,,,,,3,2,2,Newcomb,20
+2/23 Glover Street,"555,000",Nov 2020,,,,,,250,,,,,Newcomb,20
+4 Cheltenham Road,"600,000",Nov 2020,"555,000",Mar 2018,,,,762,111,3,1,4,Newcomb,20
+16 Glover Street,"500,000",Nov 2020,,,,,,692,,3,1,4,Newcomb,20
+4 Drysdale Avenue,"475,000",Nov 2020,"130,000",Aug 2010,,,,255,,2,1,1,Newcomb,20
+11 Lancaster Avenue,"550,000",Oct 2020,"62,000",Apr 1996,,450,Feb 2021,669,243,5,2,2,Newcomb,20
+105B Boundary Road,"420,000",Oct 2020,,,,,,413,,3,2,2,Newcomb,20
+44 Wilton Avenue,"525,000",Oct 2020,,,,,,655,,3,1,1,Newcomb,20
+1/45 Wilsons Road,"415,000",Oct 2020,"80,500",Jan 1989,,,,455,,,,,Newcomb,20
+4/5-7 Lindel Street,"415,000",Oct 2020,,,,330,Sep 2019,266,,,,,Newcomb,20
+56 Brayshay Road,"461,000",Sep 2020,"185,000",May 2003,,,,641,,3,1,2,Newcomb,20
+1/28 Brayshay Road,"478,500",Sep 2020,"285,000",Dec 2011,,,,310,104,3,2,1,Newcomb,20
+10 Ising Street,"472,000",Sep 2020,"305,000",Jun 2016,,320,Mar 2014,661,114,3,1,5,Newcomb,20
+2 Helms Street,"505,000",Sep 2020,"375,000",Oct 1984,,,,798,,3,1,1,Newcomb,20
+2-4 Portarlington Road,"826,000",19 Sep 2020,,,1.0,,,"1,474",,,,,Newcomb,20
+1/1 Pitman Street,"431,000",Sep 2020,,,,320,May 2017,342,,,,,Newcomb,20
+33 Boundary Road,"660,000",Sep 2020,"390,000",Aug 2014,,,,723,138,3,1,4,Newcomb,20
+61 Wilton Avenue,"475,000",Aug 2020,,,,,,658,,2,1,1,Newcomb,20
+34 Ivy Street,"541,000",Aug 2020,"265,000",Sep 2008,,,,557,124,3,1,2,Newcomb,20
+1 Fuchsia Court,"386,000",Aug 2020,,,,,,604,,,,,Newcomb,20
+2/4 Ivanhoe Court,"455,000",Aug 2020,,,,340,Dec 2015,262,,,,,Newcomb,20
+17-19 Helms Street,"457,000",Aug 2020,"152,000",May 1993,,360,Mar 2014,"1,436",,4,1,1,Newcomb,20
+2/3 Lindel Street,"387,500",Aug 2020,,,,,,183,,,,,Newcomb,20
+1/3 Lindel Street,"376,000",Aug 2020,,,,,,,,,,,Newcomb,20
+9 Ivanhoe Court,"525,000",Aug 2020,"93,000",Feb 2000,,,,984,,3,2,2,Newcomb,20
+3/3 Lindel Street,"453,000",Aug 2020,,,,,,,,,,,Newcomb,20
+17 Helms Street,"457,000",Aug 2020,,,,360,Feb 2014,"2,105",,4,1,1,Newcomb,20
+5/3 Lindel Street,"455,000",Jul 2020,,,,,,,,,,,Newcomb,20
+92 Bellarine Highway,"550,000",Jul 2020,"360,000",Aug 2013,,,,743,150,,,,Newcomb,20
+1/5 Charlotte Avenue,"455,000",Jul 2020,,,,350,Dec 2015,278,,3,2,1,Newcomb,20
+9 Cecil Court,"633,000",11 Jul 2020,"305,000",Oct 2015,1.0,270,May 2015,592,,3,1,1,Newcomb,20
+14 Anthony Street,"505,000",Jul 2020,,,,,,813,,3,1,1,Newcomb,20
+3/12 Cheltenham Road,"430,000",Jul 2020,,,,,,226,,,,,Newcomb,20
+38 Charles Street,"435,000",Jul 2020,"84,000",Mar 1996,,,,512,,3,1,2,Newcomb,20
+10 Lancaster Avenue,"505,000",Jun 2020,"335,000",Jun 2013,,380,Mar 2016,774,157,3,2,2,Newcomb,20
+21 Helms Street,"460,000",Jun 2020,,,,,,326,,3,2,2,Newcomb,20
+3 Gibbs Street,"500,000",Jun 2020,,,,,,677,,2,1,1,Newcomb,20
+39 Wilton Avenue,"420,000",Jun 2020,"181,000",Jun 2006,,310,Sep 2017,396,110,3,1,1,Newcomb,20
+1/37 Boundary Road,"430,000",May 2020,,,,,,308,,3,1,2,Newcomb,20
+20 Carinya Avenue,"410,000",May 2020,"87,700",Aug 2000,,,,686,125,3,1,1,Newcomb,20
+1/56 Pitman Street,"322,000",May 2020,"277,500",Feb 2017,,,,304,85,,,,Newcomb,20
+3 Saturn Street,"355,000",May 2020,"175,000",Jun 2007,,,,556,,3,1,2,Newcomb,20
+1/50 Wilsons Road,"340,000",Apr 2020,"227,000",Aug 2011,,280,Sep 2017,317,102,2,1,3,Newcomb,20
+8 Bain Court,"550,000",Apr 2020,"125,000",Sep 1998,,,,"1,102",,4,2,2,Newcomb,20
+114 Portarlington Road,"435,000",Apr 2020,,,,,,535,,3,2,3,Newcomb,20
+101 Helms Street,"685,000",Apr 2020,"60,500",Jan 1995,,,,"1,746",,,,,Newcomb,20
+1/51-53 Helms Street,"360,000",Apr 2020,"281,000",Aug 2017,,,,162,,,,,Newcomb,20
+41 Wilton Avenue,"476,000",Mar 2020,,,,,,657,,,,,Newcomb,20
+34 Pitman Street,"445,000",Mar 2020,"285,000",Apr 2012,,280,Mar 2011,758,124,3,1,1,Newcomb,20
+62 Wilton Avenue,"500,000",Mar 2020,"240,000",Feb 2015,1.0,300,May 2017,655,,2,1,1,Newcomb,20
+18 Wilsons Road,"430,000",19 Mar 2020,"200,000",Dec 2007,1.0,,,664,300,3,1,3,Newcomb,20
+7 Newland Street,"479,000",Mar 2020,,,,,,701,,,,,Newcomb,20
+38 Bellarine Highway,"500,000",Mar 2020,"290,000",Jul 2010,,360,Dec 2018,669,,4,2,1,Newcomb,20
+2 Ivanhoe Court,"555,000",Mar 2020,,,,355,Aug 2018,711,,3,1,1,Newcomb,20
+1/4 Ivanhoe Court,"415,000",Mar 2020,,,,330,Jul 2018,308,,3,1,1,Newcomb,20
+7 Jacaranda Court,"445,000",Feb 2020,"254,000",Nov 2011,,280,Jul 2017,551,,3,1,1,Newcomb,20
+34 Breadalbane Street,"515,000",22 Feb 2020,,,1.0,,,921,,3,,,Newcomb,20
+8 Hinchcliff Crescent,"475,000",Feb 2020,,,,,,774,,3,1,1,Newcomb,20
+4 Poplar Street,"451,000",Feb 2020,,,,,,694,,,,,Newcomb,20
+67 Neptune Avenue,"440,000",Feb 2020,"268,000",Aug 2015,,,,563,98,,,,Newcomb,20
+2/20 Wilsons Road,"430,000",Feb 2020,,,,,,229,,,,,Newcomb,20
+13 Cheltenham Road,"460,000",Feb 2020,"282,000",Jul 2012,,320,Jul 2018,591,,3,1,1,Newcomb,20
+1/22-24 Lindsay Street,"289,000",Feb 2020,,,,285,Jan 2019,92,,,,,Newcomb,20
+25 Glover Street,"511,250",Jan 2020,"293,000",Jun 2011,,320,Oct 2012,711,,4,1,1,Newcomb,20
+1/22 Lindsay Street,"289,000",Jan 2020,"218,000",Dec 2010,,300,Feb 2020,92,,,,,Newcomb,20
+1 Daphne Court,"495,000",Jan 2020,"407,000",Sep 2018,,300,Mar 2016,585,,4,1,4,Newcomb,20
+3 Lindsay Street,"415,000",Jan 2020,"310,000",Nov 2017,,350,Mar 2018,547,,3,1,2,Newcomb,20
+46 Anthony Street,"421,600",Dec 2019,"199,000",Aug 2004,,,,779,,3,1,1,Newcomb,20
+129 Helms Street,"460,000",Dec 2019,"53,500",Mar 1999,,,,711,103,1,1,,Newcomb,20
+35 Lucas Street,"490,000",Dec 2019,"342,000",Sep 2017,,,,528,,3,1,3,Newcomb,20
+2/41 Wilsons Road,"415,000",Dec 2019,"320,000",Nov 2012,,,,243,,,,,Newcomb,20
+27 Lucas Street also known as 53 Andrew Street,"392,000",Dec 2019,,,,,,606,,3,1,2,Newcomb,20
+26 Bayfield Court,"710,000",Dec 2019,"150,000",May 2006,,,,756,,,,,Newcomb,20
+2/5-7 Lindel Street,"385,000",Dec 2019,"300,000",Nov 2016,,315,Aug 2014,267,,,,,Newcomb,20
+35 Mercury Crescent,"391,200",Nov 2019,,,,,,535,,,,,Newcomb,20
+1/57-59 Wilsons Road,"425,000",Nov 2019,"340,000",Mar 2013,,325,Feb 2014,269,,,,,Newcomb,20
+7 Neptune Avenue,"440,000",Nov 2019,,,,,,527,,3,1,4,Newcomb,20
+130 Portarlington Road,"340,000",Nov 2019,"75,000",Sep 1995,,,,564,,3,1,1,Newcomb,20
+15 Brayshay Road,"472,000",Nov 2019,"320,000",May 2016,,360,Apr 2020,664,120,3,1,1,Newcomb,20
+4 Ruth Court,"428,000",Oct 2019,"216,000",Nov 2006,,,,727,110,3,1,3,Newcomb,20
+23 Watsons Road,"402,000",Oct 2019,"295,000",Oct 2010,,310,May 2014,652,,3,1,1,Newcomb,20
+3 Ivanhoe Court,"455,000",Oct 2019,"102,500",May 2001,,,,711,,3,1,2,Newcomb,20
+26 Lancaster Avenue,"500,000",Oct 2019,"79,000",Oct 2000,,480,Dec 2020,780,,3,2,4,Newcomb,20
+1/11 Ivanhoe Court,"430,000",Oct 2019,,,,,,400,,3,1,2,Newcomb,20
+6 Pluto Court,"382,500",Oct 2019,,,,370,Nov 2019,619,,3,1,1,Newcomb,20
+105 Helms Street,"886,000",Sep 2019,,,,,,"2,382",,4,2,7,Newcomb,20
+34 Watsons Road,"450,000",Sep 2019,"132,500",Sep 2015,,,,593,,3,1,2,Newcomb,20
+57 Boundary Road,"455,000",Sep 2019,"320,000",May 2016,,340,Jun 2017,557,115,3,1,2,Newcomb,20
+4/8 Hillford Street,"208,000",Sep 2019,"119,000",2009,,195,Jan 2015,47,,1,1,1,Newcomb,20
+2/49 Bellarine Highway,"457,700",Sep 2019,"133,000",Oct 2017,,,,234,,,,,Newcomb,20
+9/7 Helms Street,"411,000",Sep 2019,"269,000",Oct 2008,,400,Dec 2019,367,,,,,Newcomb,20
+2/44 Bellarine Highway,"288,000",Sep 2019,,,,,,149,,,,,Newcomb,20
+29 Ivy Street,"449,000",Sep 2019,"340,000",Nov 2014,,380,Mar 2019,285,,3,2,1,Newcomb,20
+55 Watsons Road,"415,000",Sep 2019,,,,,,628,,3,1,2,Newcomb,20
+2 Acton Court,"482,000",Sep 2019,"290,000",Oct 2013,,350,Aug 2020,894,,3,1,1,Newcomb,20
+97 Boundary Road,"525,000",Aug 2019,"250,000",Oct 2011,,400,Oct 2019,683,197,4,2,3,Newcomb,20
+7 Dorward Avenue,"489,000",24 Aug 2019,,,1.0,,,592,,3,1,1,Newcomb,20
+46 Hibiscus Crescent,"460,100",Aug 2019,,,,370,Oct 2019,546,,3,1,,Newcomb,20
+24 Neptune Avenue,"390,000",Aug 2019,"275,000",Dec 2015,,330,May 2019,536,127,3,1,2,Newcomb,20
+63 Wilton Avenue,"430,000",Aug 2019,,,,,,658,,4,2,2,Newcomb,20
+12 Wirth Court,"422,000",Aug 2019,"345,000",Jan 2016,,350,Feb 2016,573,122,3,1,1,Newcomb,20
+1/6 Tilly Court,"305,000",Aug 2019,"270,000",Aug 2017,,300,Nov 2019,169,,,,,Newcomb,20
+5 Dorward Avenue,"455,000",Aug 2019,,,,360,Sep 2019,593,,3,1,3,Newcomb,20
+4/14-16 Lindsay Street,"215,000",Jul 2019,"210,000",Jul 2018,,210,Feb 2019,64,,,,,Newcomb,20
+132B Wilsons Road,"357,500",Jul 2019,,,,,,384,,,,,Newcomb,20
+14 Boronia Street,"386,000",Jul 2019,,,,,,583,,,,,Newcomb,20
+60 Helms Street,"465,000",Jul 2019,"324,000",Dec 2010,,325,Nov 2014,822,,3,1,1,Newcomb,20
+29B Poplar Street,"425,000",Jul 2019,"305,000",Apr 2012,,330,Dec 2013,306,130,,,,Newcomb,20
+7 Myrtle Avenue,"491,500",Jul 2019,"159,500",Feb 2000,,360,Sep 2019,673,,3,2,2,Newcomb,20
+14 Drysdale Avenue,"477,000",Jul 2019,"345,000",Feb 2008,,325,Jul 2016,665,112,3,1,2,Newcomb,20
+30 Wilton Avenue,"600,000",Jun 2019,"225,000",May 2004,,,,655,134,4,2,2,Newcomb,20
+26 Watsons Road,"412,000",Jun 2019,,,,,,591,,3,1,1,Newcomb,20
+50 Neptune Avenue,"475,000",Jun 2019,,,,450,Jul 2019,657,,4,1,4,Newcomb,20
+111 Boundary Road,"370,000",Jun 2019,"259,900",Feb 2010,,240,Jan 2010,314,85,2,2,1,Newcomb,20
+13 Johnston Avenue,"425,700",Jun 2019,"285,000",Mar 2014,,,,341,,2,2,2,Newcomb,20
+65 Neptune Avenue,"390,000",Jun 2019,,,,300,Jan 2015,533,,3,1,2,Newcomb,20
+1/8 Poplar Street,"460,000",Jun 2019,"295,500",Jul 2017,,295,Jun 2016,300,120,3,2,2,Newcomb,20
+1/41 Miller Street,"380,000",May 2019,,,,300,Oct 2016,296,,3,1,2,Newcomb,20
+22 Gibbs Street,"375,000",May 2019,"186,000",Oct 2006,,280,Aug 2014,541,,2,1,3,Newcomb,20
+24 Hibiscus Crescent,"350,320",May 2019,"267,000",Mar 2012,,300,Jun 2014,541,104,3,1,1,Newcomb,20
+43 Watsons Road,"485,000",May 2019,,,,,,628,,3,1,2,Newcomb,20
+27 Veronica Avenue,"405,000",May 2019,"239,000",Nov 2008,,,,535,,3,1,4,Newcomb,20
+15 Breadalbane Street,"418,500",May 2019,,,,320,Aug 2019,631,,4,1,1,Newcomb,20
+134-136 PORTARLINGTON Road,"650,000",May 2019,"128,000",Feb 1999,,,,"1,447",,4,2,2,Newcomb,20
+1/20 Wilsons Road,"357,500",May 2019,,,,390,May 2019,275,,4,1,1,Newcomb,20
+1-4/12 Hillford Street,"1,123,500",Apr 2019,,,,,,,,,,,Newcomb,20
+11 Charlotte Avenue,"330,000",Apr 2019,"265,000",Mar 2015,,350,Mar 2019,383,,3,1,,Newcomb,20
+43 Anthony Street,"429,000",Apr 2019,"194,000",Aug 2003,,,,833,,3,1,1,Newcomb,20
+57 Watsons Road,"318,000",Apr 2019,,,,,,630,,,,,Newcomb,20
+48 Charles Street,"430,000",Apr 2019,,,,,,587,,3,1,2,Newcomb,20
+61 Neptune Avenue,"388,500",Apr 2019,"251,000",Dec 2013,,285,Dec 2013,535,,3,1,1,Newcomb,20
+5/29-31 Boundary Road,"334,000",Apr 2019,"235,000",Mar 2013,,,,89,,,,,Newcomb,20
+9 Myrtle Avenue,"445,000",Apr 2019,"210,100",Jun 2003,,330,May 2019,673,,3,1,4,Newcomb,20
+10 Dorward Avenue,"400,000",Apr 2019,,,,330,May 2019,588,,3,1,1,Newcomb,20
+5/29 Boundary Road,"334,000",Apr 2019,"235,000",Mar 2013,,320,May 2019,89,,,,,Newcomb,20
+6/51-53 Helms Street,"350,000",Mar 2019,"245,000",Oct 2012,,260,May 2012,243,,,,,Newcomb,20
+2 Lancaster Avenue,"350,000",Mar 2019,"325,000",Nov 2014,1.0,230,Apr 2016,120,118,3,1,1,Newcomb,20
+28 Glover Street,"500,000",Mar 2019,,,,,,724,,3,1,5,Newcomb,20
+1 Myrtle Avenue,"462,000",Mar 2019,"139,000",Sep 2002,,,,544,,4,2,5,Newcomb,20
+118 Portarlington Road,"380,000",Mar 2019,"242,000",May 2014,,,,535,,3,1,,Newcomb,20
+16 Neptune Avenue,"385,000",Mar 2019,"290,000",Apr 2017,,350,Jan 2021,539,,3,1,,Newcomb,20
+12A Brayshay Road,"416,000",Mar 2019,"337,000",Oct 2016,,380,Apr 2019,359,,,,,Newcomb,20
+2/3 Saltpan Place,"357,000",Feb 2019,"195,000",Jan 2005,,,,178,,,,,Newcomb,20
+12 Portarlington Road,"570,000",Feb 2019,"240,000",Sep 2009,,380,Mar 2016,776,,3,2,1,Newcomb,20
+28 Neptune Avenue,"460,000",25 Feb 2019,"163,000",Dec 2005,1.0,375,Sep 2019,535,,4,2,2,Newcomb,20
+14 Carinya Avenue,"366,000",Feb 2019,"81,000",Feb 2000,,,,621,,3,1,1,Newcomb,20
+4/53 Anthony Street,"405,000",Feb 2019,"80,000",Jun 2005,,365,Nov 2018,355,,,,,Newcomb,20
+12 Cecil Court,"480,000",09 Feb 2019,,,1.0,370,Mar 2019,"1,176",,3,1,4,Newcomb,20
+7 Brayshay Road,"475,000",Feb 2019,"310,000",Nov 2014,,,,664,128,3,1,2,Newcomb,20
+17 Dorward Avenue,"400,000",Feb 2019,,,,,,588,,3,1,1,Newcomb,20
+16 Bayfield Court,"527,000",Feb 2019,"89,000",Jul 2003,,,,807,260,3,2,1,Newcomb,20
+13 Mercury Crescent,"386,000",Jan 2019,"265,000",Oct 2013,,300,May 2013,537,104,3,1,2,Newcomb,20
+9 Bayfield Court,"550,000",Jan 2019,"385,000",May 2007,,,,848,,4,2,3,Newcomb,20
+48 Anthony Street,"591,000",Jan 2019,"369,000",May 2016,,,,777,,4,2,1,Newcomb,20
+52 Anthony Street,"400,000",Jan 2019,"199,000",Feb 2000,,200,Aug 2004,771,141,3,1,3,Newcomb,20
+3 Pluto Court,"370,000",Jan 2019,,,,,,558,,2,1,1,Newcomb,20
+8 Helms Street,"425,000",Jan 2019,"120,000",Apr 2002,,,,625,,4,1,2,Newcomb,20
+64 Wilton Avenue,"324,000",Dec 2018,,,,,,654,,,,,Newcomb,20
+2 Cecil Court,"460,000",Dec 2018,"232,000",Dec 2005,,,,666,176,4,1,2,Newcomb,20
+1/23 Glover Street,"431,000",Dec 2018,,,,,,343,,,,,Newcomb,20
+2/11 Gibbs Street,"400,000",Dec 2018,"290,000",Sep 2013,,290,Oct 2012,255,96,,,,Newcomb,20
+1/25 Boundary Road,"280,000",19 Dec 2018,"189,000",Jul 2009,1.0,,,108,85,,,,Newcomb,20
+2 Bain Court,"450,000",Dec 2018,"82,000",Jul 1989,,350,Jan 2019,739,,3,1,1,Newcomb,20
+10 Dorcas Street,"347,500",Dec 2018,"195,000",Dec 2014,,340,Jan 2019,129,,,,,Newcomb,20
+26 Glover Street,"500,000",01 Dec 2018,"305,000",May 2010,1.0,340,Dec 2017,725,,3,1,3,Newcomb,20
+2/8-10 Breadalbane Street,"410,000",Nov 2018,"271,000",Feb 2009,,310,Apr 2018,323,,,,,Newcomb,20
+1 Sally Court,"390,000",Nov 2018,"83,500",Sep 2000,,,Move In,535,,3,1,2,Newcomb,20
+13 Poplar Street,"521,000",24 Nov 2018,,,1.0,340,Jan 2019,692,,3,1,4,Newcomb,20
+13a Hinchcliff Crescent,"470,000",Nov 2018,,,,,,363,,,,,Newcomb,20
+37 Wilton Avenue,"381,500",Nov 2018,"223,000",Nov 2007,,280,Nov 2016,356,,3,1,2,Newcomb,20
+48 Wilsons Road,"405,000",Nov 2018,,,,,,672,,3,1,4,Newcomb,20
+48 Willsons Road,"405,000",Nov 2018,,,,,,,,,,,Newcomb,20
+9 Ivy Street,"546,000",Nov 2018,"276,000",Jun 2012,,380,Feb 2019,639,115,3,1,4,Newcomb,20
+3 Ferry Grove,"502,500",Nov 2018,,,,375,Oct 2019,703,,3,1,4,Newcomb,20
+7/29-31 Boundary Road,"335,000",Nov 2018,"188,000",Oct 2012,,175,Sep 2011,91,,,,,Newcomb,20
+2 Murray Street,"410,000",Nov 2018,"320,000",Jan 2017,,,,365,,2,1,1,Newcomb,20
+7/29 Boundary Road,"335,000",Nov 2018,"188,000",Oct 2012,,320,Nov 2018,91,,,,,Newcomb,20
+124 Wilsons Road,"525,000",03 Nov 2018,"290,000",Apr 2013,1.0,290,Jan 2009,669,6215,3,1,2,Newcomb,20
+2/68 Watsons Road,"361,000",Oct 2018,"267,000",Oct 2013,,320,Jan 2019,166,,,,,Newcomb,20
+47 Mercury Crescent,"420,000",Oct 2018,"315,000",Jul 2016,,360,Apr 2019,827,104,3,1,2,Newcomb,20
+6 Andrew Street,"360,000",13 Oct 2018,"230,000",Dec 2013,1.0,,,538,,3,1,3,Newcomb,20
+15 Anthony Street,"465,000",Sep 2018,"274,000",Dec 2010,,285,Feb 2011,776,119,3,1,2,Newcomb,20
+2/126 Wilsons Road,"350,000",Sep 2018,"270,000",Apr 2013,,300,Dec 2017,205,,,,,Newcomb,20
+1 Glover Street,"501,000",Sep 2018,"52,000",Mar 1985,,350,Aug 2019,648,,3,1,2,Newcomb,20
+12 Watsons Road,"551,000",Sep 2018,"300,000",Dec 2013,,290,Jan 2014,604,,4,1,2,Newcomb,20
+14 Portarlington Road,"596,400",Sep 2018,"345,000",Feb 2008,,430,Jun 2019,819,,3,1,2,Newcomb,20
+45 Andrew Street,"407,000",Sep 2018,"55,000",Dec 1987,,300,Oct 2018,543,,3,1,3,Newcomb,20
+26 Gibbs Street,"411,000",Sep 2018,"162,000",Mar 2006,,330,Jan 2019,554,,3,1,1,Newcomb,20
+18 Charlotte Avenue,"543,000",15 Sep 2018,"74,000",Aug 2000,1.0,310,Nov 2018,609,,2,1,1,Newcomb,20
+118 Helms Street,"550,000",10 Sep 2018,"355,000",Nov 2011,1.0,,,816,157,3,2,2,Newcomb,20
+6 Bain Court,"505,000",Sep 2018,"305,000",Apr 2011,,320,May 2013,721,,3,1,2,Newcomb,20
+12a Cheltenham Road,"452,000",Sep 2018,"355,000",Oct 2016,,,,252,,,,,Newcomb,20
+149 Bellarine Highway,"780,000",Sep 2018,,,,300,Dec 2018,"3,871",,,,,Newcomb,20
+1a Charles Street,"435,000",Aug 2018,"312,500",Apr 2013,,340,Apr 2013,267,,,,,Newcomb,20
+20 Charlotte Avenue,"436,000",18 Aug 2018,"185,000",Aug 2003,1.0,300,Nov 2018,613,,3,1,1,Newcomb,20
+74 Bellarine Highway,"452,000",04 Aug 2018,"190,000",Jun 2006,1.0,,,787,,2,1,6,Newcomb,20
+2 Adzar Road,"540,000",01 Aug 2018,"212,000",Feb 2000,1.0,,,706,,3,1,4,Newcomb,20
+48 Richard Street,"473,300",Jul 2018,"305,000",Jul 2011,,380,Sep 2018,640,,4,2,3,Newcomb,20
+17 Brayshay Road,"525,000",Jul 2018,"210,000",Dec 2005,,350,Oct 2018,664,113,3,1,2,Newcomb,20
+9/51 Helms Street,"440,000",Jul 2018,"330,000",Jan 2012,,,,528,,,,,Newcomb,20
+13 Miller Street,"440,000",14 Jul 2018,"190,000",Apr 2004,1.0,275,Oct 2010,661,,3,1,2,Newcomb,20
+22 Brayshay Road,"480,000",Jul 2018,"240,000",Jul 2011,,260,Sep 2014,664,,2,1,2,Newcomb,20
+47 Pitman Street,"407,500",Jul 2018,"257,500",Dec 2012,,360,Oct 2019,395,,3,1,3,Newcomb,20
+34 Hibiscus Crescent,"390,000",Jul 2018,"278,000",Jan 2014,,290,May 2017,536,,4,1,1,Newcomb,20
+151 Boundary Road,"441,000",Jul 2018,"280,000",Dec 2011,,290,Apr 2016,596,142,3,1,1,Newcomb,20
+10 Pitman Street,"452,000",Jul 2018,"72,500",Apr 2000,,360,Sep 2018,592,,3,1,2,Newcomb,20
+22 Wilton Avenue,"508,000",30 Jun 2018,,,1.0,380,Jan 2019,654,,3,1,2,Newcomb,20
+16 Charles Street,"462,500",30 Jun 2018,"82,000",Jul 1993,1.0,,,594,,2,1,1,Newcomb,20
+1/5-7 Lindel Street,"400,000",Jun 2018,"315,000",Aug 2014,,335,Aug 2014,267,,3,2,2,Newcomb,20
+59 Brayshay Road,"470,000",Jun 2018,,,,,,669,,3,1,1,Newcomb,20
+3 Baybreeze Close,"520,000",Jun 2018,"129,000",Sep 2005,,380,Jun 2010,610,174,3,2,2,Newcomb,20
+2/11 Ivanhoe Court,"345,000",Jun 2018,,,,,,258,,2,1,1,Newcomb,20
+9/118 Bellarine Highway,"327,000",Jun 2018,,,,,,,166,,,,Newcomb,20
+1/55 Anthony Street,"380,000",Jun 2018,"280,000",Jul 2015,,350,Aug 2019,365,104,,,,Newcomb,20
+131 Wilsons Road,"470,000",Jun 2018,"210,000",Nov 2003,,270,May 2012,690,,3,2,2,Newcomb,20
+12b Cheltenham Road,"455,000",Jun 2018,,,,,,242,,,,,Newcomb,20
+63 Neptune Avenue,"420,000",May 2018,"275,000",Apr 2012,,,,534,13,3,1,2,Newcomb,20
+3/68 Bellarine Highway,"315,000",May 2018,"275,000",Jan 2017,,290,Apr 2015,194,97,,,,Newcomb,20
+19 Cheltenham Road,"417,000",May 2018,"280,000",Mar 2009,,330,Jul 2016,309,110,,,,Newcomb,20
+12 Carinya Avenue,"455,000",May 2018,"265,000",May 2016,,,,586,106,3,1,1,Newcomb,20
+31 Watsons Road,"460,000",May 2018,"296,000",Oct 2013,1.0,260,Jun 2010,661,,3,1,2,Newcomb,20
+13 Lancaster Avenue,"488,000",May 2018,"132,500",Jan 2016,,,,353,,2,1,1,Newcomb,20
+9 Vega Court,"443,000",May 2018,"65,200",Oct 1986,,,,602,100,3,1,2,Newcomb,20
+8 Cheltenham Road,"535,000",May 2018,"177,000",Apr 2005,,275,Sep 2013,773,110,3,1,2,Newcomb,20
+13 Saturn Street,"402,000",May 2018,"75,000",Sep 1991,,325,Jun 2018,534,,3,1,1,Newcomb,20
+5/3 Rose Court,"190,000",May 2018,"132,000",Feb 2010,,210,Jun 2019,67,,1,1,1,Newcomb,20
+93 Boundary Road,"495,000",05 May 2018,,,1.0,500,May 2019,941,,3,2,1,Newcomb,20
+6 Ising Street,"499,000",May 2018,"68,900",Feb 1986,,350,Jun 2018,711,,4,2,2,Newcomb,20
+31 Wilton Avenue,"500,000",May 2018,"260,000",Feb 2012,,350,May 2018,656,,3,1,2,Newcomb,20
+12 Banksia Court,"419,000",May 2018,"81,000",Jan 2001,,340,Jul 2018,557,,3,1,1,Newcomb,20
+14 Charlotte Avenue,"650,000",May 2018,"395,100",Mar 2012,,,,771,179,4,1,2,Newcomb,20
+7/133 Helms Street,"315,000",Apr 2018,"182,500",Jan 2008,,290,Jun 2018,157,71,,,,Newcomb,20
+37 Anthony Street,"526,500",Apr 2018,,,,380,Jun 2019,833,,3,1,2,Newcomb,20
+18 Boronia Street,"506,000",Apr 2018,"187,000",Sep 2006,,,,585,,3,1,1,Newcomb,20
+3/20 Saturn Street,"325,000",Apr 2018,"210,000",Mar 2010,,,,158,,,,,Newcomb,20
+7-8 Alma Court,"540,000",Apr 2018,,,,370,Apr 2019,939,,3,1,4,Newcomb,20
+10 Andrew Street,"425,000",Apr 2018,"120,000",Jun 2002,,,,559,100,3,2,4,Newcomb,20
+3/6 Tilly Court,"240,000",Apr 2018,"180,000",May 2015,,215,Mar 2015,118,,,,,Newcomb,20
+2/17 Lancaster Avenue,"375,000",Apr 2018,"300,000",Mar 2012,,340,Jun 2018,336,,,,,Newcomb,20
+40 Coppards Road,"750,000",Mar 2018,"475,000",Sep 2006,,,,"4,053",,3,2,5,Newcomb,20
+16 Andrew Street,"395,000",Mar 2018,,,,,,610,,3,1,1,Newcomb,20
+1 & 3 Lindel Street,"950,000",Mar 2018,,,,,,"2,180",,4,2,1,Newcomb,20
+34 Portarlington Road,"463,000",Mar 2018,,,,340,Aug 2015,651,,3,2,3,Newcomb,20
+35 Wilsons Road,"502,500",Mar 2018,"270,000",Aug 2009,,380,Jun 2018,628,115,3,1,2,Newcomb,20
+2/6 Hillford Street,"361,000",Mar 2018,"265,000",Aug 2012,,,,207,,,,,Newcomb,20
+16 Lucas Street,"420,000",Mar 2018,"256,000",May 2014,1.0,360,Apr 2019,576,,3,1,3,Newcomb,20
+18 Lucas Street,"425,000",Mar 2018,"190,000",Mar 2013,1.0,310,Dec 2016,576,101,3,1,1,Newcomb,20
+4/52-54 Wilton Avenue,"340,000",Mar 2018,"94,000",Jul 1989,,,,178,,,,,Newcomb,20
+1 Cassia Court,"410,000",Mar 2018,"250,500",Apr 2016,,300,Jun 2018,604,120,3,2,1,Newcomb,20
+4 Bellarine Highway,"403,000",Mar 2018,"215,000",Jan 2004,,330,Nov 2019,610,,3,1,4,Newcomb,20
+2/5 Charlotte Avenue,"365,000",Feb 2018,,,,330,Dec 2015,154,,,,,Newcomb,20
+40 Wilsons Road,"472,500",Feb 2018,"275,000",Nov 2014,,360,Jun 2019,664,,4,1,1,Newcomb,20
+33 Richard Street,"440,000",Feb 2018,"77,000",Apr 2001,,390,Feb 2018,544,,3,1,1,Newcomb,20
+2/30 Breadalbane Street,"371,250",Jan 2018,,,,340,Nov 2018,297,,3,1,1,Newcomb,20
+111 Bellarine Highway,"1,280,000",Jan 2018,"990,000",Sep 2014,,,,"3,881",83,,,,Newcomb,20
+45 Wilton Avenue,"471,000",Jan 2018,,,,330,Apr 2018,656,,3,1,2,Newcomb,20
+2/11 Greenwood Street,"435,000",Jan 2018,,,,,,,,,,,Newcomb,20
+3/25 Boundary Road,"286,500",Dec 2017,"165,000",Jul 2004,,315,Feb 2019,100,,,,,Newcomb,20
+25 Brayshay Road,"420,000",Dec 2017,"305,000",Jun 2008,,360,Apr 2015,641,,4,1,1,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20
+42 Helms Street,"469,000",16 Dec 2017,"186,000",Jan 2005,1.0,300,May 2017,808,,3,1,1,Newcomb,20
+3/1 Fern Street,"355,000",09 Dec 2017,,,1.0,,,5,,,,,Newcomb,20
+11 Andrew Street,"355,000",09 Dec 2017,"268,000",Oct 2012,1.0,,,544,,3,1,3,Newcomb,20
+7/14-16 Lindsay Street,"192,000",Dec 2017,"116,000",Mar 2005,,,,64,,,,,Newcomb,20
+1/30 Breadalbane Street,"321,150",Dec 2017,,,,295,May 2020,282,,3,1,1,Newcomb,20
+24 Watsons Road,"445,000",06 Dec 2017,"310,000",Nov 2011,1.0,340,Jan 2018,593,109,3,1,1,Newcomb,20
+4/2-4 Morpeth Street,"215,000",Nov 2017,,,,210,Feb 2017,64,,,,,Newcomb,20
+26 Ivy Street,"357,178",Nov 2017,"246,000",Sep 2011,1.0,330,Dec 2017,351,,3,1,2,Newcomb,20
+4 Carol Court,"457,500",Nov 2017,"220,000",Jun 2008,,350,Mar 2018,845,110,3,1,1,Newcomb,20
+2/55 Anthony Street,"335,000",Nov 2017,"280,000",Jan 2014,,340,Jan 2018,320,,,,,Newcomb,20

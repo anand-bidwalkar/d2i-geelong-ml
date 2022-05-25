@@ -1,0 +1,301 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,16 Lonsdale Street," 1,180,000 ", Aug 2020,0," 262,500 ", May 2001, 300 , Nov 2009, 487 ,,3,1,2,South Geelong
+1,3/42 Park Crescent," 425,000 ", Aug 2020,0," 155,000 ", May 2003, 295 , Apr 2016, 429 ,,0,0,0,South Geelong
+2,3/42-44 Park Crescent," 425,000 ", Jul 2020,0, ,, 295 , Apr 2016, ,,2,1,1,South Geelong
+3,225 Yarra Street," 610,000 ", Apr 2020,0," 385,000 ", Jul 2013, ,, 262  ,  107 ,3,1,2,South Geelong
+4,4/85 Fyans Street," 255,000 ", Mar 2020,0," 190,000 ", Jan 2018, 220 , Oct 2017, 728 ,,0,0,0,South Geelong
+5,111 Fyans Street," 679,000 ", 08 Feb 2020,1," 210,000 ", Mar 2005, 290 , May 2015, 650 ,,3,1,2,South Geelong
+6,289 Bellerine Street," 696,000 ", 08 Feb 2020,1," 548,500 ", Aug 2016, 435 , Oct 2017, 280 ,,3,2,1,South Geelong
+7,32 Verner Street," 688,000 ", 30 Nov 2019,1," 79,000 ", Mar 1996, ,, 483 ,,3,0,0,South Geelong
+8,17 Hopkins Street," 565,000 ", Nov 2019,0," 179,000 ", May 1999, ,, 213 ,,2,2,2,South Geelong
+9,2a Lonsdale Street," 702,500 ", Sep 2019,0," 664,000 ", Apr 2017, 470 , Apr 2018, 122 ,,3,2,1,South Geelong
+10,6 Park Crescent," 530,000 ", 31 Aug 2019,1," 62,000 ", Mar 1988, 400 , Nov 2019, 379 ,,3,1,1,South Geelong
+11,14 Foster Street," 742,000 ", Aug 2019,0," 540,000 ", May 2012, ,, 459 ,,2,1,1,South Geelong
+12,190 Swanston Street," 710,000 ", 17 Aug 2019,1," 500,000 ", May 2013, 460 , Sep 2019, 307  ,  118 ,3,1,1,South Geelong
+13,80 Foster Street," 560,000 ", Jul 2019,0," 395,000 ", May 2010, 395 , Sep 2019, 404  ,  115 ,3,1,2,South Geelong
+14,290 Bellerine Street," 618,000 ", Jul 2019,0," 382,500 ", Jul 2012, ,, 459  ,  121 ,3,1,1,South Geelong
+15,14 Lonsdale Street," 785,000 ", Jun 2019,0, ,, ,, 486 ,,3,1,3,South Geelong
+16,10 Lonsdale Street," 617,500 ", 13 Apr 2019,1," 126,000 ", Aug 1996, ,, 486 ,,3,1,1,South Geelong
+17,170 Swanston Street," 575,000 ", 30 Mar 2019,1, ,, 350 , Jul 2019, 446 ,,2,1,1,South Geelong
+18,163 Swanston Street," 573,000 ", 30 Mar 2019,1," 295,000 ", Feb 2013, ,, 310  ,  104 ,3,1,1,South Geelong
+19,17 Balliang Street," 755,000 ", Mar 2019,0," 450,000 ", Oct 2012, 450 , Oct 2012, 460  ,  150 ,3,2,2,South Geelong
+20,8 Lonsdale Street," 1,120,000 ", 23 Feb 2019,1," 185,000 ", Nov 2001, 650 , Dec 2017, 487 ,,4,3,3,South Geelong
+21,46 Balliang Street," 760,000 ", Feb 2019,0," 430,000 ", Oct 2008, 190 , Nov 2006, 562  ,  126 ,3,2,0,South Geelong
+22,2/87 Fyans Street," 590,000 ", 25 Jan 2019,1," 130,000 ", Jan 2014, ,, 304  ,  119 ,3,2,2,South Geelong
+23,2/42 Park Crescent," 400,000 ", Dec 2018,0," 305,000 ", Aug 2012, ,, 429 ,,0,0,0,South Geelong
+24,298 Bellerine Street," 650,000 ", Dec 2018,0," 243,000 ", Jul 2003, ,, 508 ,,3,2,2,South Geelong
+25,2/42-44 Park Crescent," 400,000 ", Dec 2018,0," 305,000 ", Aug 2012, 310 , Apr 2020, 429 ,,0,0,0,South Geelong
+26,50 Balliang Street," 680,000 ", 16 Nov 2018,1," 74,000 ", Feb 2000, ,, 563 ,,4,1,2,South Geelong
+27,69 Balliang Street," 980,000 ", Oct 2018,0," 520,000 ", Mar 2013, 250 , Nov 2010, 927  ,  114 ,3,1,1,South Geelong
+28,2/80 Balliang Street," 351,500 ", Oct 2018,0," 230,000 ", Sep 2016, 330 , Feb 2020, 326 ,,0,0,0,South Geelong
+29,78 Foster Street," 600,000 ", 13 Oct 2018,1," 220,000 ", Aug 2008, ,, 405  ,  84 ,2,2,2,South Geelong
+30,14 Verner Street," 612,550 ", Sep 2018,0, ,, ,, 485 ,,3,1,1,South Geelong
+31,5/3 Findon Street," 426,000 ", Sep 2018,0," 215,000 ", Apr 2006, ,, 169 ,,0,0,0,South Geelong
+32,259-263 Bellerine Street," 3,150,000 ", Aug 2018,0, ,, ,," 5,872 ",,0,0,0,South Geelong
+33,40 Verner Street," 830,000 ", Jun 2018,0," 475,000 ", Sep 2007, ,, 485  ,  182 ,3,2,3,South Geelong
+34,258 Bellerine Street," 720,000 ", Jun 2018,0," 355,000 ", Jul 2004, ,, 319 ,,3,2,2,South Geelong
+35,2/258 Yarra Street," 782,000 ", May 2018,0," 610,000 ", Feb 2000, ,, 220  ,  186 ,3,2,2,South Geelong
+36,57 Balliang Street," 690,000 ", 03 Mar 2018,1," 158,000 ", Feb 2000, 350 , Jun 2015, 464 ,,3,1,2,South Geelong
+37,276 Bellerine Street," 1,153,000 ", Jan 2018,0," 360,000 ", Sep 2015, ,, 140 ,,2,1,2,South Geelong
+38,7 Victory Place," 475,000 ", Dec 2017,0, ,, ,, 265 ,,2,1,1,South Geelong
+39,188 Swanston Street," 880,000 ", Dec 2017,0," 230,000 ", Mar 2005, ,, 337 ,,3,2,1,South Geelong
+40,29 Fyans Street," 640,000 ", 13 Dec 2017,1," 123,000 ", Jul 1998, ,, 342 ,,3,1,2,South Geelong
+41,231 Yarra Street," 1,100,000 ", Dec 2017,0," 525,000 ", Feb 2000, ,, 477 ,,3,2,2,South Geelong
+42,5A Lonsdale Street," 720,000 ", Oct 2017,0," 635,000 ", Jul 2015, ,, 259 ,,3,2,2,South Geelong
+43,18 Lonsdale Street," 660,000 ", Oct 2017,0," 76,000 ", Mar 1992, ,, 487 ,,3,1,2,South Geelong
+44,1/258 Yarra Street," 645,000 ", Sep 2017,0," 570,000 ", Sep 2013, 475 , Feb 2017, 259  ,  134 ,3,2,1,South Geelong
+45,142a Fyans Street," 860,000 ", Sep 2017,0," 480,000 ", Feb 2007," 43,000 ", Mar 2015, 422 ,,0,0,0,South Geelong
+46,3/85 Fyans Street," 175,000 ", Aug 2017,0," 140,000 ", Jan 2008, 185 , Jun 2017, 729 ,,0,0,0,South Geelong
+47,1/35 Fyans Street," 580,000 ", Aug 2017,0," 409,250 ", Nov 2009, ,, 312  ,  140 ,3,1,1,South Geelong
+48,4/15 Mundy Street," 361,000 ", Jul 2017,0, ,, 340 , Feb 2019, ,,0,0,0,South Geelong
+49,23 Fyans Street," 661,000 ", Jun 2017,0," 71,000 ", Mar 1987, ,, 268 ,,3,0,0,South Geelong
+50,85 Bailliang Street," 620,000 ", May 2017,0, ,, ,, ,,0,0,0,South Geelong
+51,85 Balliang Street," 620,000 ", 13 May 2017,1," 380,500 ", Feb 2010, ,, 472  ,  112 ,3,1,3,South Geelong
+52,14 Hede Street," 800,000 ", May 2017,0," 175,000 ", Apr 2005, ,, 868  ,  682 ,0,0,0,South Geelong
+53,82 Foster Street," 597,000 ", 06 May 2017,1," 440,000 ", Feb 2011, 520 , Mar 2019, 405 ,,3,1,2,South Geelong
+54,Lot 2 87 Fyans Street," 195,000 ", Apr 2017,0, ,, ,, ,,0,0,0,South Geelong
+55,48A Balliang Street," 665,000 ", Apr 2017,0," 415,000 ", Sep 2011, ,, 281 ,,3,3,2,South Geelong
+56,20 Park Crescent," 575,000 ", Mar 2017,0," 417,500 ", Dec 2013, 405 , Nov 2019, 515 ,,3,1,2,South Geelong
+57,4/2 Foster Street," 342,000 ", Mar 2017,0," 280,400 ", Mar 2013, ,, 114  ,  68 ,0,0,0,South Geelong
+58,1 Crown Street," 2,200,000 ", Feb 2017,0," 1,100,000 ", Sep 1997, ,," 11,293  ",  1880 ,0,0,0,South Geelong
+59,274 Yarra Street," 290,000 ", 04 Feb 2017,1," 197,000 ", May 2004, ,, 303  ,  85 ,2,1,2,South Geelong
+60,272 Yarra Street," 340,000 ", 04 Feb 2017,1," 305,000 ", Nov 2012, ,, 309  ,  80 ,2,1,2,South Geelong
+61,26 Park Crescent," 882,500 ", Feb 2017,0," 645,000 ", May 2008, ,, 449 ,,4,2,3,South Geelong
+62,9 Findon Street," 392,500 ", Jan 2017,0," 52,000 ", Nov 1997, ,, 252 ,,2,1,1,South Geelong
+63,8 Foster Street," 612,000 ", 22 Dec 2016,1," 130,000 ", Aug 1994, ,, 460 ,,4,2,1,South Geelong
+64,37 Foster Street," 493,000 ", 17 Dec 2016,1," 120,000 ", Oct 2000, ,, 485 ,,3,1,2,South Geelong
+65,5 Hopkins Street," 640,000 ", Dec 2016,0," 465,000 ", Dec 2007, ,, 260 ,,3,2,2,South Geelong
+66,4/80 Balliang Street," 271,000 ", Nov 2016,0, ,, 270 , Jan 2016, 123 ,,0,0,0,South Geelong
+67,9 Hopkins Street," 445,000 ", Nov 2016,0," 375,000 ", Apr 2012, 365 , Dec 2017, 174  ,  129 ,2,2,2,South Geelong
+68,119 Fyans Street," 375,000 ", 05 Nov 2016,1," 290,000 ", 2009, ,, 329  ,  84 ,2,1,1,South Geelong
+69,1 Lonsdale Street," 372,000 ", Oct 2016,0," 337,500 ", Mar 2014, 320 , Sep 2017, 207 ,,4,1,1,South Geelong
+70,3/80 Balliang Street," 270,000 ", Oct 2016,0, ,, 310 , Nov 2019," 1,026 ",,0,0,0,South Geelong
+71,22 Foster Street," 440,000 ", 16 Oct 2016,1, ,, ,, 153  ,  101 ,3,1,0,South Geelong
+72,32 Wood Street," 485,000 ", Oct 2016,0," 65,000 ", Oct 1988, ,," 1,951 ",,0,0,0,South Geelong
+73,89 Barwon Terrace," 1,100,000 ", Sep 2016,0," 214,000 ", Nov 2001," 70,000 ", Feb 2015," 2,030  ",  850 ,0,0,0,South Geelong
+74,407 Yarra Street," 620,500 ", Sep 2016,0," 225,000 ", Apr 2004, ,, 468  ,  151 ,3,2,4,South Geelong
+75,24-28 RAPTOR Place," 346,500 ", Sep 2016,0, ,, ,," 1,348 ",,0,0,0,South Geelong
+76,10 Birkett Place," 374,000 ", Aug 2016,0," 160,000 ", Dec 2007, ,, 875 ,,0,0,0,South Geelong
+77,205 Swanston Street," 403,000 ", Aug 2016,0," 307,500 ", Dec 2010, 200 , Dec 2007, 346  ,  120 ,2,1,2,South Geelong
+78,347 Moorabool Street," 616,000 ", Aug 2016,0," 77,500 ", Aug 1987, ,, 446 ,,0,0,0,South Geelong
+79,273 Bellerine Street," 598,000 ", Jul 2016,0," 124,000 ", Sep 1998, ,, 464  ,  142 ,4,2,2,South Geelong
+80,237 Bellerine Street," 332,000 ", Jun 2016,0, ,, ,, ,,3,1,0,South Geelong
+81,1/87 Fyans Street," 495,000 ", Jun 2016,0," 325,000 ", Aug 2012, 540 , Nov 2019, 304  ,  145 ,4,2,1,South Geelong
+82,11 Gravel Pits Road," 650,000 ", Jun 2016,0," 425,000 ", May 2003, ,," 20,000 ",,0,0,0,South Geelong
+83,11-13 GRAVEL PITS Road," 650,000 ", May 2016,0," 200,000 ", Jul 2003, ,," 4,920 ",,0,0,0,South Geelong
+84,70 Foster Street," 590,000 ", 21 May 2016,1," 225,000 ", Sep 2006, ,, 405  ,  120 ,3,1,2,South Geelong
+85,2B Lonsdale Street," 400,000 ", 14 May 2016,1, ,, 430 , Oct 2017, 122 ,,3,1,0,South Geelong
+86,4 Lonsdale Street," 565,000 ", Apr 2016,0," 275,300 ", Jul 2008, 465 , Apr 2019, 487 ,,3,1,2,South Geelong
+87,13 Fyans Street," 495,000 ", Apr 2016,0," 395,000 ", Apr 2015, ,, 69 ,,3,1,1,South Geelong
+88,172 Fyans Street," 790,000 ", Apr 2016,0," 68,295 ", Jul 2012, ,," 2,400 ",,0,0,0,South Geelong
+89,10-12 RAPTOR Place," 335,500 ", Apr 2016,0, ,, ,," 1,352 ",,3,2,2,South Geelong
+90,6/38 Balliang Street," 281,000 ", Mar 2016,0," 240,000 ", Nov 2012, 300 , Nov 2018, 65 ,,0,0,0,South Geelong
+91,2/3 Findon Street," 295,000 ", Mar 2016,0," 193,500 ", Nov 2006, 220 , Nov 2009, 146 ,,0,0,0,South Geelong
+92,107 Fyans Street," 457,000 ", 09 Mar 2016,1," 255,000 ", Nov 2007, ,, 650  ,  122 ,2,1,3,South Geelong
+93,281 Yarra Street," 360,000 ", Mar 2016,0," 220,000 ", Sep 2004, ,, 293 ,,2,1,1,South Geelong
+94,361 Moorabool Street," 650,000 ", Mar 2016,0, ,, ,," 1,317 ",,0,0,0,South Geelong
+95,72A Foster Street," 525,000 ", Mar 2016,0, ,, ,, 405 ,,3,1,1,South Geelong
+96,1/260 Yarra Street," 680,000 ", Feb 2016,0," 620,000 ", Feb 2013, ,, 222  ,  195 ,4,3,1,South Geelong
+97,297 Bellerine Street," 620,000 ", 20 Feb 2016,1, ,, 470 , Nov 2018, 491  ,  144 ,3,2,3,South Geelong
+98,268 Bellerine Street," 450,000 ", Feb 2016,0," 115,000 ", Jun 1999, 395 , Jan 2014, 486  ,  142 ,3,2,2,South Geelong
+99,65 Balliang Street," 441,000 ", Feb 2016,0, ,, ,, 464 ,,2,1,3,South Geelong
+100,2/10 Foster Street," 600,000 ", Feb 2016,0," 150,000 ", Aug 1999, ,, 345 ,,2,1,2,South Geelong
+101,51 Little Fyans Street," 2,740,000 ", Feb 2016,0," 401,500 ", Jul 2008," 29,000 ", Sep 2008, 882  ,  635 ,0,0,0,South Geelong
+102,21 Balliang Street," 550,000 ", Feb 2016,0," 157,900 ", Oct 1998, 430 , Aug 2020, 279 ,,3,2,1,South Geelong
+103,42 Foster Street," 610,000 ", 06 Feb 2016,1, ,, 480 , Mar 2019, 575  ,  127 ,3,2,4,South Geelong
+104,3/3 Findon Street," 292,500 ", Feb 2016,0," 189,000 ", Nov 2006, 260 , Mar 2016, 148  ,  71 ,0,0,0,South Geelong
+105,4 Turner Place," 385,000 ", 30 Jan 2016,1," 96,000 ", May 1998, 340 , Apr 2016, 149  ,  80 ,2,1,1,South Geelong
+106,3 Turner Place," 385,000 ", Jan 2016,0," 307,000 ", Nov 2014, 275 , Nov 2011, 145  ,  102 ,2,1,1,South Geelong
+107,12 Lonsdale Street," 572,000 ", Dec 2015,0," 385,000 ", Dec 2006, 360 , Jan 2007, 487 ,,3,2,1,South Geelong
+108,23 Foster Street," 435,000 ", Dec 2015,0," 70,500 ", Jul 1994, 180 , Apr 2007, 97 ,,2,1,1,South Geelong
+109,294 Bellerine Street," 325,000 ", Dec 2015,0," 220,000 ", May 2002, 325 , Mar 2019, 186 ,,0,0,0,South Geelong
+110,19 Foster Street," 775,000 ", 05 Dec 2015,1," 96,000 ", Dec 1998, ,, 487 ,,3,2,2,South Geelong
+111,6 Gravel Pits Road," 1,600,000 ", Dec 2015,0," 1,200,000 ", Jun 2005, ,," 7,374  ",  3300 ,0,0,0,South Geelong
+112,1/100 Barwon Terrace," 425,000 ", Nov 2015,0," 320,000 ", Oct 2010, ,, 434 ,,0,0,0,South Geelong
+113,177 Swanston Street," 800,000 ", Nov 2015,0," 410,000 ", Mar 2012, ,, 505  ,  155 ,2,0,0,South Geelong
+114,53 Fyans Street," 765,000 ", 31 Oct 2015,1," 144,500 ", Sep 1991, ,," 1,010 ",,6,3,1,South Geelong
+115,1 Turner Place," 415,000 ", Oct 2015,0," 107,000 ", Feb 2000, 395 , Jun 2014, 170  ,  127 ,3,1,1,South Geelong
+116,120 Fyans Street," 1,800,000 ", Oct 2015,0," 1,680,000 ", Sep 2013, ,," 1,011 ",,0,0,0,South Geelong
+117,79 Balliang Street," 437,000 ", 10 Oct 2015,1, ,, ,, 464 ,,2,1,2,South Geelong
+118,6/100 Barwon Terrace," 429,000 ", Sep 2015,0," 200,000 ", Aug 2009, ,, 392 ,,0,0,0,South Geelong
+119,25 Foster Street," 499,000 ", 05 Sep 2015,1, ,, ,, 486 ,,3,1,0,South Geelong
+120,3 Lonsdale Street," 625,000 ", Sep 2015,0, ,, 525 , Jun 2020, 258 ,,3,2,2,South Geelong
+121,24-26 Wood Street," 850,000 ", Aug 2015,0," 240,000 ", Jul 2002, ,," 11,723 ",,0,0,0,South Geelong
+122,4/49 Lonsdale Street," 640,000 ", Aug 2015,0, ,, ,, ,,4,3,2,South Geelong
+123,167 Swanston Street," 535,000 ", Aug 2015,0," 480,000 ", Jul 2014, 250 , Aug 2004, 504 ,,3,1,3,South Geelong
+124,22 Wood Street," 2,450,000 ", Aug 2015,0," 140,000 ", May 1988, ,," 11,247 ",,0,0,0,South Geelong
+125,18 Dowsett Street," 355,000 ", Aug 2015,0, ,," 25,000 ", Nov 2013," 1,198  ",  148 ,0,0,0,South Geelong
+126,193 Swanston Street," 406,000 ", 08 Aug 2015,1," 325,000 ", Oct 2011, 330 , Apr 2015, 12  ,  114 ,3,1,1,South Geelong
+127,6 Spurling Close," 366,000 ", 01 Aug 2015,1," 210,000 ", Nov 2001, 350 , Jun 2015, 227  ,  96 ,2,1,1,South Geelong
+128,40 Park Crescent," 393,000 ", 01 Aug 2015,1," 377,500 ", May 2012, 300 , Sep 2016, 393 ,,2,1,1,South Geelong
+129,1/9 Strong Street," 422,500 ", Jul 2015,0, ,, ,, 445 ,,0,0,0,South Geelong
+130,16 Park Crescent," 357,000 ", 04 Jul 2015,1," 97,000 ", Dec 1997, ,, 265 ,,2,1,1,South Geelong
+131,100 Balliang Street," 1,017,500 ", Jun 2015,0," 355,000 ", Mar 2000, ,," 2,493 ",,0,0,0,South Geelong
+132,20 Balliang Street," 520,000 ", Jun 2015,0," 467,500 ", Oct 2009, 430 , Aug 2011, 522 ,,3,1,1,South Geelong
+133,75 Fyans Street," 310,000 ", May 2015,0," 118,885 ", Jul 2001, 385 , Jun 2017, 272  ,  153 ,3,1,1,South Geelong
+134,161 Swanston Street," 315,000 ", May 2015,0," 215,000 ", Jan 2009, 220 , Jan 2008, 316 ,,2,1,1,South Geelong
+135,138 Fyans Street," 882,200 ", Apr 2015,0," 260,000 ", May 1999, ,, 460  ,  360 ,0,0,0,South Geelong
+136,32 Maud Street," 550,000 ", Apr 2015,0, ,, ,, ,,4,1,4,South Geelong
+137,260a Yarra Street," 630,000 ", Apr 2015,0," 290,000 ", Mar 2012, ,, 209 ,,3,2,2,South Geelong
+138,201 Swanston Street," 316,500 ", 11 Apr 2015,1, ,, 150 , May 2013, 338  ,  86 ,2,1,0,South Geelong
+139,1/38 Balliang Street," 195,000 ", 11 Apr 2015,1," 112,000 ", Oct 2005, ,, 637 ,,1,1,1,South Geelong
+140,92 Foster Street," 440,000 ", Mar 2015,0," 115,000 ", Jun 1998, 320 , Dec 2014, 405 ,,2,1,1,South Geelong
+141,8 Bowen Way," 235,000 ", Mar 2015,0," 156,000 ", Sep 2012, 515 , Sep 2019, 208 ,,0,0,0,South Geelong
+142,67 Fyans Street," 340,000 ", Feb 2015,0," 238,000 ", Sep 2003, 360 , Sep 2019, 337  ,  91 ,2,1,1,South Geelong
+143,30 Park Crescent," 520,000 ", 14 Feb 2015,1, ,, ,, 337 ,,3,1,0,South Geelong
+144,45 Lonsdale Street," 400,000 ", Dec 2014,0, ,, 380 , Mar 2015, ,,3,1,1,South Geelong
+145,1/7 Strong Street," 845,000 ", Dec 2014,0, ,, ,, 540 ,,0,0,0,South Geelong
+146,13 Balliang Street," 840,000 ", 18 Nov 2014,1," 360,000 ", Feb 2009, ,, 460  ,  190 ,3,1,2,South Geelong
+147,35 Gravel Pits Road," 717,000 ", Nov 2014,0," 200,000 ", Jul 2003, ,," 20,345 ",,2,1,2,South Geelong
+148,2/110 Balliang Street," 485,000 ", Nov 2014,0, ,, ,, 282 ,,0,0,0,South Geelong
+149,3/2 Foster Street," 245,000 ", 18 Oct 2014,1, ,, 300 , Jan 2018, 114  ,  69 ,0,0,0,South Geelong
+150,36 Foster Street," 512,500 ", Oct 2014,0," 79,500 ", Jan 1999, 430 , Aug 2015, 262 ,,3,1,2,South Geelong
+151,224 Yarra Street," 253,000 ", Oct 2014,0, ,, ,, 474 ,,3,1,0,South Geelong
+152,119 Balliang Street," 1,210,000 ", Sep 2014,0, ,, ,," 1,736 ",,0,0,0,South Geelong
+153,20 Verner Street," 721,000 ", 30 Aug 2014,1," 572,746 ", Mar 2010, 450 , Jul 2008, 486  ,  99 ,3,2,3,South Geelong
+154,260b Yarra Street," 275,000 ", Aug 2014,0, ,, ,, 270 ,,3,0,0,South Geelong
+155,45 Balliang Street," 463,000 ", 02 Aug 2014,1, ,, 390 , Feb 2018, 283  ,  97 ,2,1,2,South Geelong
+156,351 Moorabool Street," 1,400,000 ", Aug 2014,0," 238,000 ", Jan 1996, ,, 890  ,  501 ,0,0,0,South Geelong
+157,22 Lonsdale Street," 533,300 ", Jul 2014,0," 157,000 ", Nov 1994, 540 , Apr 2016, 85 ,,4,3,2,South Geelong
+158,20 Dowsett Street," 460,000 ", Jul 2014,0," 87,500 ", Jun 1984, ,," 1,198 ",,0,0,0,South Geelong
+159,1/49 Balliang Street," 300,000 ", Jun 2014,0," 255,000 ", Jun 2008, 360 , Jan 2018, 157  ,  85 ,2,1,1,South Geelong
+160,248 Bellerine Street," 481,350 ", Jun 2014,0," 455,000 ", Jun 2010, 450 , Feb 2013, 473  ,  184 ,3,1,3,South Geelong
+161,17 Verner Street," 475,000 ", Jun 2014,0," 380,000 ", May 2007, ,, 486  ,  86 ,2,1,1,South Geelong
+162,121 Fyans Street," 507,000 ", May 2014,0, ,, ,," 1,019 ",,2,1,1,South Geelong
+163,254 Yarra Street," 465,000 ", May 2014,0, ,, ,, 480 ,,4,1,1,South Geelong
+164,3/16 Balliang Street," 295,000 ", May 2014,0," 112,000 ", Jun 1998, ,, 175 ,,0,0,0,South Geelong
+165,1/106 Balliang Street," 511,500 ", May 2014,0, ,, ,, 372 ,,0,0,0,South Geelong
+166,69 Fyans Street," 373,000 ", Apr 2014,0, ,, ,, 337  ,  87 ,3,1,2,South Geelong
+167,3/87 Fyans Street," 107,000 ", Apr 2014,0, ,, ,, 185  ,  162 ,0,0,0,South Geelong
+168,44 Little Fyans Street," 355,000 ", 05 Apr 2014,1, ,, ,," 1,011 ",,0,0,0,South Geelong
+169,5 Birkett Place," 275,000 ", Apr 2014,0," 170,000 ", Mar 2008, ,, 875 ,,0,0,0,South Geelong
+170,277 Bellerine Street," 395,000 ", Mar 2014,0, ,, 380 , Feb 2019, 193 ,,3,1,0,South Geelong
+171,53 Balliang Street," 372,500 ", Mar 2014,0, ,, 350 , Jun 2017, ,,3,1,2,South Geelong
+172,51 Balliang Street," 372,500 ", Mar 2014,0," 235,000 ", Feb 2002, ,, 309 ,,3,1,2,South Geelong
+173,164 Fyans Street," 1,000,000 ", Feb 2014,0, ,, ,," 2,000  ",  910 ,0,0,0,South Geelong
+174,221a Yarra Street," 552,000 ", Feb 2014,0," 450,000 ", Jul 2010, ,, 780  ,  214 ,0,0,0,South Geelong
+175,1/110 Balliang Street," 533,500 ", Jan 2014,0, ,, ,, 372 ,,0,0,0,South Geelong
+176,47 Lonsdale Street," 370,000 ", 01 Jan 2014,1," 221,500 ", Feb 2000, ,, 561 ,,3,1,1,South Geelong
+177,20-22 Birkett Place," 255,000 ", Dec 2013,0," 190,000 ", Sep 2010, ,, 863 ,,0,0,0,South Geelong
+178,20 Birkett Place," 255,000 ", Dec 2013,0, ,, ,, 863 ,,0,0,0,South Geelong
+179,8 Verner Street," 490,000 ", 23 Nov 2013,1, ,, 380 , Aug 2014, 486 ,,3,1,3,South Geelong
+180,395-399 Moorabool Street," 1,980,000 ", Nov 2013,0," 730,000 ", Jan 1999, ,," 1,416 ",,0,0,0,South Geelong
+181,10 Park Crescent," 467,000 ", Nov 2013,0, ,, ,, 283 ,,3,2,1,South Geelong
+182,179 Swanston Street," 531,000 ", 17 Nov 2013,1," 83,000 ", Jan 1991, 335 , Mar 2008, 505  ,  116 ,3,1,2,South Geelong
+183,27 Foster Street," 76,000 ", Nov 2013,0, ,, ,, 485 ,,0,0,0,South Geelong
+184,395 Moorabool Street," 1,980,000 ", Nov 2013,0, ,, ,, 359 ,,0,0,0,South Geelong
+185,449 Moorabool Street," 4,500,000 ", Nov 2013,0, ,, ,," 7,240 ",,0,0,0,South Geelong
+186,80 Balliang Street," 320,000 ", 26 Oct 2013,1, ,, 450 , Aug 2020," 1,025 ",,9,4,4,South Geelong
+187,248 Yarra Street," 650,000 ", Oct 2013,0, ,, ,, 475  ,  155 ,3,2,2,South Geelong
+188,66 Balliang Street," 400,000 ", Sep 2013,0, ,, ,, 651  ,  300 ,3,1,0,South Geelong
+189,197 Swanston Street," 345,000 ", 21 Sep 2013,1, ,, ,, 506 ,,2,1,1,South Geelong
+190,1/227 Yarra Street," 500,000 ", Sep 2013,0," 315,000 ", Mar 2002, ,, 194 ,,3,2,2,South Geelong
+191,81 Balliang Street," 420,000 ", Sep 2013,0," 228,000 ", Aug 2001, 370 , Oct 2013, 464  ,  116 ,3,1,1,South Geelong
+192,2/260 Yarra Street," 562,000 ", Sep 2013,0, ,, ,, 256  ,  220 ,0,0,0,South Geelong
+193,12 Fyans Street," 2,350,000 ", Sep 2013,0, ,, ,," 1,422 ",,0,0,0,South Geelong
+194,24 Verner Street," 800,000 ", Aug 2013,0, ,, ,, 486 ,,4,2,2,South Geelong
+195,300 Bellarine Street," 380,250 ", Aug 2013,0, ,, 450 , Apr 2018, 558 ,,2,1,0,South Geelong
+196,355-357 Moorabool Street," 350,000 ", Aug 2013,0, ,, ,, 231 ,,0,0,0,South Geelong
+197,46 Lonsdale Street," 401,000 ", 25 Aug 2013,1, ,, ,, ,,2,1,1,South Geelong
+198,355 Moorabool Street," 350,000 ", Aug 2013,0, ,, ,, 466 ,,0,0,0,South Geelong
+199,4 Park Crescent," 370,000 ", Aug 2013,0," 260,000 ", Feb 2006, ,, 428 ,,3,0,0,South Geelong
+200,300 Bellerine Street," 380,000 ", Aug 2013,0," 130,000 ", Nov 2000, 450 , Nov 2016, 558  ,  120 ,2,1,0,South Geelong
+201,38 Verner Street," 590,000 ", Jul 2013,0," 460,000 ", Mar 2007, ,, 485  ,  178 ,3,2,3,South Geelong
+202,80 Barwon Terrace," 4,070,000 ", Jul 2013,0, ,, ,," 3,265 ",,0,0,0,South Geelong
+203,165 Fyans Street," 1,254,000 ", Jul 2013,0, ,, ,," 2,049  ",  50 ,0,0,0,South Geelong
+204,316 Bellerine Street," 625,000 ", Jun 2013,0," 250,000 ", Sep 2011, 515 , Jun 2018, 886 ,,4,1,2,South Geelong
+205,252 Bellerine Street," 435,000 ", Jun 2013,0," 105,000 ", Apr 1997, ,, 473 ,,3,1,1,South Geelong
+206,34 Foster Street," 490,000 ", Jun 2013,0," 145,000 ", Nov 2001, 445 , Oct 2018, 330  ,  145 ,3,2,1,South Geelong
+207,309 Bellerine Street," 380,000 ", Jun 2013,0, ,, 320 , Sep 2016, 407 ,,3,1,2,South Geelong
+208,18 Gravel Pits Road," 156,532 ", Jun 2013,0," 90,000 ", May 1989, ,, 931 ,,0,0,0,South Geelong
+209,112 Balliang Street," 374,000 ", Jun 2013,0, ,, ,," 1,046 ",,0,0,0,South Geelong
+210,20 Gravel Pits Road," 85,092 ", Jun 2013,0, ,, ,," 1,861 ",,0,0,0,South Geelong
+211,2/49 Balliang Street," 284,000 ", May 2013,0," 235,000 ", Jan 2007, 300 , Feb 2016, 167 ,,0,0,0,South Geelong
+212,18 Foster Street," 362,000 ", Mar 2013,0, ,, ,, 134  ,  90 ,2,1,1,South Geelong
+213,187 Swanston Street," 380,000 ", 26 Mar 2013,1, ,, 360 , Feb 2015, 296  ,  110 ,3,1,2,South Geelong
+214,6 Richmond Street," 410,000 ", Mar 2013,0, ,, ,, ,,2,1,2,South Geelong
+215,12 Birkett Place," 345,000 ", Mar 2013,0," 168,000 ", Sep 2008, ,, 875 ,,0,0,0,South Geelong
+216,3 Spurling Close," 380,000 ", Mar 2013,0, ,, 350 , Jun 2019, 148 ,,3,1,1,South Geelong
+217,43 Balliang Street," 420,500 ", 16 Mar 2013,1, ,, ,, 289 ,,3,1,1,South Geelong
+218,105 Balliang Street," 560,000 ", Mar 2013,0," 52,000 ", Jun 1987, ,," 1,071 ",,0,0,0,South Geelong
+219,25 Birkett Place," 379,500 ", Mar 2013,0, ,, ,," 1,231 ",,0,0,0,South Geelong
+220,2/35 Fyans Street," 177,000 ", Feb 2013,0," 100,000 ", Feb 2004, ,, 49 ,,0,0,0,South Geelong
+221,42 Gravel Pits Road," 300,000 ", Feb 2013,0," 250,000 ", Mar 2005, ,," 3,282 ",,3,1,1,South Geelong
+222,411 Yarra Street," 490,000 ", Feb 2013,0," 94,500 ", Jul 1991, ,, 423  ,  130 ,3,1,2,South Geelong
+223,6-8 Birkett Place," 520,000 ", Feb 2013,0," 462,000 ", Aug 2011," 42,000 ", Aug 2017, 877 ,,0,0,0,South Geelong
+224,2/7 Fleming Way," 470,000 ", Jan 2013,0, ,, ,, 235  ,  161 ,0,0,0,South Geelong
+225,7 Fleming Way," 470,000 ", Jan 2013,0, ,, 440 , Jun 2019, 235  ,  161 ,3,2,2,South Geelong
+226,46 Little Fyans Street," 368,500 ", Dec 2012,0," 185,000 ", Oct 2005, ,," 1,039 ",,0,0,0,South Geelong
+227,191 Swanston Street," 355,552 ", Nov 2012,0, ,, 300 , Jan 2013, 490  ,  106 ,4,1,2,South Geelong
+228,4-6 Foster Street," 560,000 ", Nov 2012,0," 122,500 ", Aug 1987, 390 , May 2014, 919 ,,5,1,3,South Geelong
+229,4 Foster Street," 560,000 ", Nov 2012,0, ,, 400 , Dec 2018, 920 ,,4,2,5,South Geelong
+230,78-108 GRAVEL PITS Road," 670,000 ", Nov 2012,0, ,, ,," 25,832 ",,0,0,0,South Geelong
+231,106 Balliang Street," 341,000 ", Nov 2012,0, ,, ,," 1,046 ",,0,0,0,South Geelong
+232,2/14 Birkett Place," 350,900 ", Nov 2012,0, ,, ,, 857 ,,0,0,0,South Geelong
+233,243-245 Yarra Street," 605,000 ", 27 Oct 2012,1, ,, ,, ,,3,1,2,South Geelong
+234,2/2 Foster Street," 241,000 ", 20 Oct 2012,1," 56,000 ", May 1986, 320 , Jan 2017, 134 ,,1,1,1,South Geelong
+235,138 Swanston Street," 417,000 ", 13 Oct 2012,1," 94,100 ", Jun 1991, 300 , Dec 2012," 2,093 ",,3,1,4,South Geelong
+236,243 Yarra Street," 605,000 ", Oct 2012,0, ,, ,, 646  ,  145 ,3,1,2,South Geelong
+237,2/16 Birkett Place," 361,900 ", Oct 2012,0, ,, ,, 857 ,,2,1,1,South Geelong
+238,11 Balliang Street," 648,500 ", 01 Sep 2012,1, ,, ,, 460  ,  206 ,3,2,2,South Geelong
+239,1/7 Carr Street," 465,000 ", Aug 2012,0, ,, ,, ,,2,2,1,South Geelong
+240,203 Yarra Street," 475,000 ", Aug 2012,0, ,, ,, 210 ,,3,1,2,South Geelong
+241,3 Birkett Place," 225,500 ", Aug 2012,0," 176,000 ", Dec 2007, ,, 875  ,  172 ,0,0,0,South Geelong
+242,1/14 Birkett Place," 352,000 ", Aug 2012,0, ,, ,, 857 ,,0,0,0,South Geelong
+243,4/123 Fyans Street," 265,000 ", Jul 2012,0," 66,000 ", Feb 1987, 340 , Oct 2018, 255 ,,0,0,0,South Geelong
+244,44 Gravel Pits Road," 100,000 ", Jul 2012,0, ,, ,," 15,650 ",,0,0,0,South Geelong
+245,3/66 Foster Street," 350,000 ", Jul 2012,0, ,, 370 , Apr 2019, 205 ,,2,1,1,South Geelong
+246,1/403 Moorabool Street," 1,254,000 ", Jul 2012,0, ,, ,," 1,431 ",,0,0,0,South Geelong
+247,78 Gravel Pits Road," 670,000 ", Jul 2012,0, ,, ,, ,,0,0,0,South Geelong
+248,52 Balliang Street," 380,000 ", 03 Jun 2012,1, ,, 270 , Mar 2014, 563  ,  93 ,2,1,2,South Geelong
+249,255 Yarra Street," 456,000 ", May 2012,0, ,, 270 , Mar 2005, 433 ,,3,1,1,South Geelong
+250,9 Hopkins," 375,000 ", Apr 2012,0, ,, ,, 174 ,,2,2,2,South Geelong
+251,5/9 Hopkins Street," 375,000 ", Apr 2012,0, ,, ,, 173  ,  132 ,0,0,0,South Geelong
+252,8 Gravel Pits Road," 1,045,000 ", Apr 2012,0, ,, ,," 13,291 ",,0,0,0,South Geelong
+253,20 Foster Street," 310,000 ", 17 Mar 2012,1, ,, 360 , Jan 2019, 124 ,,3,1,1,South Geelong
+254,8 Park Crescent," 535,000 ", Mar 2012,0, ,, ,, 497 ,,4,2,5,South Geelong
+255,260 Yarra Street," 850,000 ", Mar 2012,0, ,, ,, 255 ,,3,1,0,South Geelong
+256,4 Crown Street," 2,000,000 ", Mar 2012,0," 1,450,000 ", Nov 2001, ,," 5,536 ",,0,0,0,South Geelong
+257,16 Crown Street," 850,000 ", Mar 2012,0, ,, ,," 1,058  ",  799 ,0,0,0,South Geelong
+258,23 Mundy Street," 390,000 ", Feb 2012,0, ,, 300 , May 2009, 274 ,,2,2,3,South Geelong
+259,41 Balliang Street," 342,000 ", 25 Feb 2012,1, ,, 270 , Oct 2011, 278  ,  93 ,2,1,2,South Geelong
+260,5/13-15 Crown Street," 320,000 ", Feb 2012,0," 290,000 ", Oct 2007, ,, 323 ,,0,0,0,South Geelong
+261,266 Bellerine Street," 367,000 ", Dec 2011,0, ,, 210 , Jan 2011, 486 ,,2,1,1,South Geelong
+262,76 Barwon Terrace," 935,000 ", Dec 2011,0, ,, ,," 3,140 ",,0,0,0,South Geelong
+263,158 Fyans Street," 462,000 ", Dec 2011,0, ,, ,," 7,456 ",,0,0,0,South Geelong
+264,2/72 Balliang Street," 415,000 ", Nov 2011,0, ,, ,, 271 ,,3,3,2,South Geelong
+265,22 Balliang Street," 472,500 ", Nov 2011,0, ,, 405 , Sep 2011, 224  ,  136 ,3,2,2,South Geelong
+266,6/13-15 Crown Street," 380,000 ", Nov 2011,0," 310,000 ", Oct 2007, ,, 324 ,,0,0,0,South Geelong
+267,1 Fyans Street," 1,320,000 ", Nov 2011,0," 750,000 ", Feb 2004, ,, 1 ,,0,0,0,South Geelong
+268,6/13 Crown Street," 380,000 ", Nov 2011,0, ,, ,, 324 ,,0,0,0,South Geelong
+269,9 Lonsdale Street," 320,000 ", Oct 2011,0, ,, 340 , Nov 2019, 345 ,,2,1,1,South Geelong
+270,32 Foster Street," 410,000 ", Oct 2011,0, ,, 350 , Aug 2011, 305 ,,2,1,1,South Geelong
+271,4/33 Lonsdale Street," 405,000 ", Oct 2011,0, ,, 400 , Jun 2012, ,,3,2,1,South Geelong
+272,1/48A Balliang Street," 415,000 ", Sep 2011,0, ,, ,, 281 ,,0,0,0,South Geelong
+273,40 Foster Street," 389,300 ", Sep 2011,0, ,, 320 , Oct 2010, 509  ,  133 ,3,1,1,South Geelong
+274,3/49 Foster Street," 389,300 ", Sep 2011,0, ,, ,, ,,3,0,0,South Geelong
+275,141 Fyans Street," 820,000 ", Sep 2011,0," 750,000 ", Dec 2009, ,," 1,500 ",,0,0,0,South Geelong
+276,48 Balliang Street," 415,000 ", Sep 2011,0, ,, ,, ,,0,0,0,South Geelong
+277,108 Balliang Street," 324,500 ", Sep 2011,0, ,, ,," 1,046 ",,0,0,0,South Geelong
+278,203 Swanston Street," 289,000 ", Sep 2011,0," 57,000 ", Jul 1992, 220 , Apr 2007, 346  ,  77 ,2,1,0,South Geelong
+279,153 Swanston," 435,000 ", Aug 2011,0," 411,000 ", Nov 2009, ,, ,,3,1,1,South Geelong
+280,56 Balliang Street," 367,000 ", Jul 2011,0, ,, 360 , Jun 2019, 186  ,  81 ,2,1,1,South Geelong
+281,291 Bellerine Street," 376,000 ", 09 Jul 2011,1, ,, ,, 490 ,,3,1,1,South Geelong
+282,2/117 Fyans Street," 285,000 ", Jul 2011,0," 116,500 ", Mar 1999, 210 , Mar 2007, 800 ,,0,0,0,South Geelong
+283,123 Balliang Street," 278,960 ", Jul 2011,0, ,, ,," 15,161 ",,0,0,0,South Geelong
+284,110 Balliang Street," 290,000 ", Jul 2011,0, ,, ,," 15,161 ",,0,0,0,South Geelong
+285,102 Balliang Street," 387,200 ", Jul 2011,0, ,, ,," 15,161 ",,0,0,0,South Geelong
+286,125 Balliang Street," 297,352 ", Jul 2011,0, ,, ,," 15,161 ",,0,0,0,South Geelong
+287,1/85 Fyans Street," 279,000 ", May 2011,0," 180,000 ", Jul 2007, 265 , May 2016, 343  ,  89 ,0,0,0,South Geelong
+288,16 Verner Street," 377,500 ", May 2011,0, ,, ,, 486 ,,4,1,2,South Geelong
+289,5 Foster Street," 650,000 ", Apr 2011,0, ,, ,, 486 ,,3,2,4,South Geelong
+290,6 Wood Street," 370,000 ", Apr 2011,0, ,, ,, 305 ,,0,0,0,South Geelong
+291,30 Verner Street," 365,000 ", Mar 2011,0," 202,000 ", Jul 2001, 300 , Feb 2011, 200  ,  88 ,2,1,1,South Geelong
+292,10 Hopkins Street," 495,000 ", Mar 2011,0," 380,000 ", Dec 2009, 270 , Feb 2009, 271 ,,1,1,2,South Geelong
+293,1 24 Balliang Street," 369,900 ", Feb 2011,0, ,, ,, 195 ,,3,1,1,South Geelong
+294,301 Bellerine Street," 162,500 ", Feb 2011,0, ,, ,, 564 ,,3,0,0,South Geelong
+295,250 BELLERINE Street," 483,500 ", Jan 2011,0," 106,000 ", Nov 1995, 450 , Jun 2018, 473 ,,3,2,2,South Geelong
+296,256 Yarra Street," 540,000 ", Jan 2011,0, ,, ,, 479  ,  144 ,4,2,2,South Geelong
+297,24 Balliang Street," 360,000 ", Jan 2011,0, ,, ,, 195 ,,0,0,0,South Geelong
+298,2/168-170 Fyans Street," 594,000 ", Dec 2010,0, ,, ,," 4,095 ",,0,0,0,South Geelong
+299,2/7 Carr Street," 298,000 ", Dec 2010,0, ,, 330 , Dec 2016, 315 ,,0,0,0,South Geelong

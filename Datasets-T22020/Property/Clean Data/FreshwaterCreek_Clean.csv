@@ -1,0 +1,125 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,775 Pettavel Road," 1,400,000 ", Aug 2020,0," 445,000 ", May 2002, ,," 40,328 ",,0,0,0,Freshwater Creek
+1,535 Pettavel Road," 1,560,000 ", Jul 2020,0," 570,000 ", Apr 2005, ,," 42,344 ",,5,2,3,Freshwater Creek
+2,30 Hardings Road," 1,675,000 ", Oct 2019,0, ,, ,," 54,016 ",,4,2,12,Freshwater Creek
+3,785 Dickins Road," 1,195,000 ", 26 Oct 2019,1, ,, ,," 80,649 ",,0,0,0,Freshwater Creek
+4,5 Hardings Road," 1,520,000 ", Dec 2018,0," 165,500 ", Sep 1984, ,," 43,471 ",,0,0,0,Freshwater Creek
+5,735 Anglesea Road," 805,000 ", Nov 2018,0," 347,000 ", Mar 2003, 600 , Nov 2019," 19,882 ",,4,1,2,Freshwater Creek
+6,1120 Anglesea Road," 1,150,000 ", Jul 2018,0," 511,000 ", Dec 2005, 650 , Nov 2019," 17,665 ",,3,2,2,Freshwater Creek
+7,455 Dickins Road," 1,600,000 ", Jul 2018,0," 602,500 ", Sep 2011, ,," 68,918 ",,4,2,2,Freshwater Creek
+8,1115 Dickins Road," 1,600,000 ", Jul 2018,0," 570,000 ", May 2009, ,," 470,388 ",,0,0,0,Freshwater Creek
+9,900 Mt Duneed Road," 1,642,000 ", Aug 2017,0, ,, ,," 39,405 ",,0,0,0,Freshwater Creek
+10,380 Coombes Road," 1,235,000 ", 20 May 2017,1," 210,000 ", May 1989, ,," 89,717 ",,0,0,0,Freshwater Creek
+11,135 Loutitt Bay Road," 1,225,000 ", Dec 2016,0," 392,500 ", Dec 2001, ,," 64,489  ",  230 ,0,0,0,Freshwater Creek
+12,25 Hardings Road," 1,200,000 ", Nov 2016,0, ,, ,," 86,805 ",,0,0,0,Freshwater Creek
+13,510 Loutitt Bay Road," 1,320,000 ", Oct 2016,0," 1,100,000 ", May 2007, ,," 70,409 ",,0,0,0,Freshwater Creek
+14,865 Anglesea Road," 1,390,000 ", Apr 2016,0, ,, ,," 105,600 ",,0,0,0,Freshwater Creek
+15,605 Mt Duneed Road," 720,000 ", Mar 2016,0, ,, ,," 56,656  ",  167 ,0,0,0,Freshwater Creek
+16,655 Willowite Road," 870,000 ", Oct 2015,0," 580,000 ", Jun 2003, ,," 15,016 ",,5,2,4,Freshwater Creek
+17,1305 Blackgate Road," 1,075,000 ", Oct 2015,0, ,, ,," 144,885 ",,3,2,3,Freshwater Creek
+18,175 Brushfields Road," 1,250,000 ", Oct 2015,0," 750,000 ", Dec 2010, ,," 555,258 ",,0,0,0,Freshwater Creek
+19,155 Loutitt Bay Road," 1,210,000 ", Oct 2015,0," 367,000 ", May 2003, ,," 90,585  ",  343 ,4,3,2,Freshwater Creek
+20,1060 Anglesea Road," 730,000 ", Jul 2015,0, ,, ,," 23,232 ",,3,2,2,Freshwater Creek
+21,55 Woodland Road," 410,000 ", Jun 2015,0, ,, ,," 844,103 ",,0,0,0,Freshwater Creek
+22,1185 Black Gate Road," 1,075,000 ", 06 Jun 2015,1, ,, ,," 363,920 ",,0,0,0,Freshwater Creek
+23,15 Hardings Road," 1,320,500 ", May 2015,0," 320,000 ", Mar 1998, ,," 34,398  ",  327 ,5,4,3,Freshwater Creek
+24,1395 Blackgate Road," 1,210,000 ", May 2015,0," 380,000 ", Apr 1996, ,," 246,818  ",  50 ,8,3,16,Freshwater Creek
+25,720 Dickins Road," 1,100,000 ", Apr 2015,0," 85,000 ", Oct 1988, ,," 46,777  ",  269 ,0,0,0,Freshwater Creek
+26,500 Dickins Road," 1,100,000 ", Jan 2015,0, ,, ,," 37,861  ",  302 ,0,0,0,Freshwater Creek
+27,550 Dickins Road," 920,000 ", 06 Dec 2014,1, ,, ,," 15,020 ",,4,3,5,Freshwater Creek
+28,830 Anglesea Road," 1,000,000 ", Nov 2014,0, ,, ,," 347,909 ",,0,0,0,Freshwater Creek
+29,2225 Hendy Main Road," 760,000 ", Nov 2014,0, ,, ,," 28,959  ",  114 ,3,1,2,Freshwater Creek
+30,655 Anglesea Road," 770,000 ", 25 Oct 2014,1, ,, 400 , Mar 2013," 8,091 ",,6,3,4,Freshwater Creek
+31,690 Dickins Road," 1,295,000 ", Sep 2014,0, ,, 420 , Sep 2014," 796,467 ",,0,0,0,Freshwater Creek
+32,975 Mt Duneed Road," 1,000,000 ", Sep 2014,0, ,, ,," 299,138  ",  163 ,3,1,0,Freshwater Creek
+33,755 Anglesea Road," 1,100,000 ", Sep 2014,0, ,, ,," 102,428 ",,0,0,0,Freshwater Creek
+34,1180 Anglesea Road," 1,175,000 ", Apr 2014,0, ,, ,," 620,021 ",,0,0,0,Freshwater Creek
+35,745 Dickins Road," 1,025,000 ", Dec 2013,0," 520,000 ", Dec 2002, ,," 237,367 ",,0,0,0,Freshwater Creek
+36,380 Pettavel Road," 1,100,000 ", Nov 2013,0, ,, ,," 450,125 ",,0,0,0,Freshwater Creek
+37,20 Yandina Road," 890,000 ", Oct 2013,0, ,, ,," 124,216  ",  236 ,0,0,0,Freshwater Creek
+38,675 Anglesea Road," 1,000,000 ", Sep 2013,0," 130,000 ", Mar 1996, ,," 158,407 ",,2,1,1,Freshwater Creek
+39,950 Pettavel road," 1,650,000 ", Sep 2013,0, ,, ,," 1,039,838 ",,0,0,0,Freshwater Creek
+40,1210 Anglesea Road," 660,000 ", Aug 2013,0, ,, ,," 285,659 ",,0,0,0,Freshwater Creek
+41,450 Dickins Road," 890,000 ", Mar 2013,0, ,, ,," 216,101 ",,0,0,0,Freshwater Creek
+42,795 Anglesea Road," 1,054,120 ", Mar 2013,0," 570,000 ", Nov 1997, ,," 126,716 ",,0,0,0,Freshwater Creek
+43,680 GHAZEEPORE Road," 1,550,000 ", Oct 2012,0, ,, ,," 2,764 ",,1,1,3,Freshwater Creek
+44,685 Ghazeepore Road," 1,550,000 ", Oct 2012,0, ,, ,, ,,0,0,0,Freshwater Creek
+45,235 Bogans Lane," 850,000 ", Apr 2012,0, ,, ,," 84,374 ",,0,0,0,Freshwater Creek
+46,2045 Hendy Main Road," 650,000 ", Dec 2011,0, ,, ,," 16,096  ",  136 ,3,1,4,Freshwater Creek
+47,880 Dickins Road," 837,500 ", Nov 2011,0, ,, ,," 122,684  ",  226 ,0,0,0,Freshwater Creek
+48,815 Pettavel Road," 1,540,000 ", Oct 2011,0," 825,000 ", Jun 2001, ,," 206,560 ",,0,0,0,Freshwater Creek
+49,425 Mt Duneed Road," 1,310,000 ", Jun 2011,0, ,, ,," 319,398 ",,0,0,0,Freshwater Creek
+50,765 Anglesea Road," 1,320,000 ", May 2011,0, ,, ,," 69,614 ",,4,3,0,Freshwater Creek
+51,665 Anglesea Road," 610,000 ", Apr 2010,0, ,, ,," 63,782 ",,3,2,0,Freshwater Creek
+52,Lot A/1180 Anglesea Road," 2,355,000 ", Feb 2010,0, ,, ,," 63,540 ",,0,0,0,Freshwater Creek
+53,Lot B/1180 Anglesea Road," 1,110,000 ", Feb 2010,0, ,, ,," 29,950 ",,0,0,0,Freshwater Creek
+54,640 Anglesea Road," 950,000 ", Dec 2009,0, ,, ,," 121,285 ",,2,1,0,Freshwater Creek
+55,915 Dickins Road," 1,591,000 ", Nov 2009,0, ,, ,," 90,240 ",,3,1,0,Freshwater Creek
+56,895 Dickins Road," 1,591,000 ", Nov 2009,0, ,, ,," 894,618 ",,0,0,0,Freshwater Creek
+57,865-895 Dickins Road," 1,150,000 ", Aug 2009,0, ,, ,, ,,3,2,4,Freshwater Creek
+58,865 Dickins Road," 1,250,000 ", Jul 2009,0," 527,500 ", Feb 2000, ,," 228,320 ",,0,0,0,Freshwater Creek
+59,555 Mt Duneed Road," 650,000 ", Oct 2008,0, ,, 550 , Apr 2015," 80,606  ",  148 ,0,0,0,Freshwater Creek
+60,205 Loutitt Bay Road," 655,000 ", Aug 2008,0, ,, ,," 84,122  ",  139 ,2,1,10,Freshwater Creek
+61,525 Pettavel Road," 895,000 ", May 2007,0," 805,000 ", Dec 2003, ,," 65,457 ",,0,0,0,Freshwater Creek
+62,735 Dickins Road," 850,000 ", Apr 2007,0, ,, ,," 190,563 ",,0,0,0,Freshwater Creek
+63,445 Willowite Road," 550,000 ", Apr 2007,0," 80,000 ", Feb 1997, ,," 24,591 ",,3,2,4,Freshwater Creek
+64,750 Dickins Road," 685,000 ", Dec 2006,0, ,, ,," 286,035 ",,5,3,3,Freshwater Creek
+65,740 Dickins Road," 423,000 ", Nov 2006,0, ,, ,," 41,970  ",  103 ,0,0,0,Freshwater Creek
+66,2145 Hendy Main Road," 800,000 ", Aug 2006,0, ,, ,," 64,968 ",,0,0,0,Freshwater Creek
+67,575 Willowite Road," 1,100,000 ", Jul 2006,0, ,, ,," 846,171 ",,0,0,0,Freshwater Creek
+68,1258 Blackgate Road," 725,000 ", Jun 2006,0, ,, ,," 535,060 ",,0,0,0,Freshwater Creek
+69,1100 Anglesea Road," 1,200,000 ", Apr 2006,0, ,, ,," 343,949  ",  221 ,0,0,0,Freshwater Creek
+70,270 Dickins Road," 745,000 ", Aug 2005,0," 157,000 ", Aug 1990, ,, ,,0,0,0,Freshwater Creek
+71,1010 Anglesea Road," 650,000 ", May 2005,0, ,, ,," 17,331  ",  362 ,3,3,2,Freshwater Creek
+72,535 Loutitt Bay Road," 570,000 ", Apr 2005,0, ,, ,, ,,0,0,0,Freshwater Creek
+73,545 Pettavel Road," 580,000 ", Nov 2004,0, ,, ,," 61,500 ",,3,3,3,Freshwater Creek
+74,515 Loutitt Bay Road," 701,250 ", Aug 2004,0, ,, ,," 162,555 ",,4,2,0,Freshwater Creek
+75,760 Anglesea Road," 810,000 ", May 2003,0, ,, ,," 392,240 ",,0,0,0,Freshwater Creek
+76,730 Dickins Road," 575,000 ", Apr 2003,0, ,, ,," 30,036  ",  202 ,3,2,9,Freshwater Creek
+77,940 Hendy Main Road," 400,000 ", Dec 2002,0, ,, ,," 200,000 ",,0,0,0,Freshwater Creek
+78,430 Hendy Main Road," 182,500 ", Aug 2002,0, ,, ,, ,,3,0,0,Freshwater Creek
+79,785 Pettavel Road," 445,000 ", May 2002,0, ,, ,, ,,0,0,0,Freshwater Creek
+80,520 Pettavel Road," 505,000 ", May 2002,0, ,, ,," 799,117 ",,5,3,3,Freshwater Creek
+81,215 Bogans Lane," 375,000 ", Apr 2002,0, ,, ,," 46,731 ",,3,3,3,Freshwater Creek
+82,1995 Hendy Main Road," 680,000 ", Jan 2002,0, ,, ,," 174,224 ",,5,0,0,Freshwater Creek
+83,270 Bogans Lane," 435,000 ", Dec 2001,0, ,, ,," 18,742 ",,5,3,3,Freshwater Creek
+84,1560 Blackgate Road," 377,650 ", Sep 2001,0, ,, ,," 559,337 ",,0,0,0,Freshwater Creek
+85,460 Loutitt Bay Road," 323,800 ", Jun 2001,0, ,, ,," 29,908  ",  218 ,4,2,2,Freshwater Creek
+86,515 Willowite Road," 310,000 ", Nov 2000,0, ,, ,," 258,967 ",,0,0,0,Freshwater Creek
+87,1355A Blackgate Road," 275,000 ", Sep 2000,0, ,, 400 , Jul 2016," 234,699 ",,3,1,1,Freshwater Creek
+88,1355 Blackgate Road," 275,000 ", Sep 2000,0, ,, 350 , Aug 2012," 234,700 ",,3,1,2,Freshwater Creek
+89,740 Anglesea Road," 267,000 ", Jul 2000,0, ,, ,," 377,690 ",,0,0,0,Freshwater Creek
+90,495 Pettavel Road," 292,500 ", Jun 2000,0, ,, ,," 53,937 ",,0,0,0,Freshwater Creek
+91,585 Mt Duneed Road," 305,000 ", Jun 2000,0, ,, ,," 56,686 ",,3,3,3,Freshwater Creek
+92,950 Dickins Road," 159,000 ", Feb 2000,0, ,, ,," 312,113 ",,0,0,0,Freshwater Creek
+93,685 Pettavel Road," 685,000 ", Feb 2000,0," 210,000 ", Aug 1998, ,," 163,205 ",,3,0,0,Freshwater Creek
+94,805 Dickins Road," 235,000 ", Feb 2000,0," 162,000 ", Jul 1998, ,," 40,976 ",,4,0,0,Freshwater Creek
+95,275 Bogans Lane," 1,286,000 ", Feb 2000,0, ,, ,," 89,547 ",,0,0,0,Freshwater Creek
+96,1855 Hendy Main Road," 275,000 ", Dec 1999,0," 105,000 ", Jul 1983, ,," 91,070 ",,0,0,0,Freshwater Creek
+97,820 Pettavel Road," 178,000 ", Aug 1999,0, ,, ,," 292,167  ",  198 ,3,2,0,Freshwater Creek
+98,155 Brushfields Road," 280,000 ", Jun 1999,0, ,, ,," 237,571 ",,3,3,3,Freshwater Creek
+99,540 Brushfields Road," 95,000 ", Jan 1999,0, ,, ,," 58,000 ",,0,0,0,Freshwater Creek
+100,560 Pettavel Road," 103,000 ", Sep 1998,0, ,, ,," 27,089  ",  336 ,5,3,3,Freshwater Creek
+101,115 Brushfields Road," 51,330 ", Jul 1998,0, ,, ,," 205,929 ",,5,3,3,Freshwater Creek
+102,250 Bogans Lane," 270,000 ", Jul 1998,0, ,, ,," 797,633 ",,3,2,0,Freshwater Creek
+103,1435 Blackgate Road," 190,000 ", Jan 1998,0, ,, ,," 20,549  ",  175 ,3,2,4,Freshwater Creek
+104,580 Loutitt Bay Road," 65,500 ", Dec 1997,0, ,, ,," 15,125  ",  161 ,0,0,0,Freshwater Creek
+105,50 Mcintyres Road," 300,000 ", Oct 1996,0, ,, ,," 339,620 ",,0,0,0,Freshwater Creek
+106,230 Dickins Road," 242,000 ", Sep 1996,0, ,, ,, ,,0,0,0,Freshwater Creek
+107,735 Dickens Road," 325,000 ", May 1996,0, ,, ,, ,,0,0,0,Freshwater Creek
+108,950 Mt Duneed Road," 65,000 ", Nov 1995,0, ,, ,," 27,104 ",,3,0,0,Freshwater Creek
+109,1 Brushfields Road," 310,000 ", Jul 1995,0, ,, ,," 557,600 ",,0,0,0,Freshwater Creek
+110,1280 Blackgate Road," 310,000 ", Jul 1995,0, ,, ,," 574,474 ",,2,1,2,Freshwater Creek
+111,635 Mt Duneed Road," 170,000 ", Dec 1994,0, ,, ,," 40,542 ",,3,2,0,Freshwater Creek
+112,105 Dickins Road," 145,000 ", May 1994,0, ,, ,, ,,0,0,0,Freshwater Creek
+113,525 Mt Duneed Road," 225,000 ", Dec 1993,0, ,, ,," 56,470  ",  284 ,0,0,0,Freshwater Creek
+114,1185 Brushfields Road," 226,000 ", Jul 1993,0, ,, ,, ,,0,0,0,Freshwater Creek
+115,540 Loutitt Bay Road," 73,000 ", Nov 1992,0, ,, ,," 18,301 ",,0,0,0,Freshwater Creek
+116,485 Loutitt Bay Road," 217,000 ", Nov 1992,0, ,, ,," 190,107 ",,0,0,0,Freshwater Creek
+117,2245 Hendy Main Road," 193,000 ", Jul 1991,0, ,, 585 , May 2019," 15,940 ",,0,0,0,Freshwater Creek
+118,50 Mcintyre Road," 398,000 ", Mar 1990,0, ,, ,, ,,0,0,0,Freshwater Creek
+119,575 Pettavel Road," 97,500 ", Jul 1988,0, ,, ,," 55,545 ",,0,0,0,Freshwater Creek
+120,575 Mt Duneed Road," 177,000 ", Oct 1984,0, ,, ,," 161,821 ",,0,0,0,Freshwater Creek
+121,1935 Hendy Main Road," 51,500 ", Jul 1984,0, ,, ,," 165,227 ",,0,0,0,Freshwater Creek
+122,335 Mt Duneed Road," 64,000 ", Mar 1984,0, ,, ,," 299,483 ",,0,0,0,Freshwater Creek
+123,635 Pettavel Road," 69,000 ", Mar 1983,0, ,, ,," 165,580 ",,0,0,0,Freshwater Creek

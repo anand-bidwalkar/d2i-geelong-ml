@@ -1,0 +1,491 @@
+Address,Sell Price,Sell Date,Last Sell Price,Last Sell Date,Auction,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Car,Suburb,Suburb_Code
+8 Lindon Street,"870,000",Mar 2021,"259,000",Apr 2003,,350,Dec 2017,629,,3,1,2,East Geelong,8
+11 Philpott Street,"1,013,000",Mar 2021,,,,,,586,,,,,East Geelong,8
+12 Tully Street,"645,000",Mar 2021,,,,,,322,,,,,East Geelong,8
+185 Verner Street,"820,000",Mar 2021,"484,000",Aug 2015,,,,337,118,3,1,2,East Geelong,8
+2a Loftus Street,"535,000",Feb 2021,"298,000",Aug 2012,,,,175,,2,1,1,East Geelong,8
+41 Loch Street,"665,000",Feb 2021,,,,,,417,,,,,East Geelong,8
+404 Ryrie Street,"797,500",Feb 2021,"350,000",Sep 2011,,,,149,,,,,East Geelong,8
+201B McKillop Street,"720,000",Jan 2021,"485,000",Sep 2015,,,,,,3,2,2,East Geelong,8
+7 Humble Street,"1,550,000",Jan 2021,"218,000",Oct 1995,,,,233,,3,,,East Geelong,8
+5 Denman Street,"906,000",Dec 2020,"179,000",Sep 1994,,,,700,,4,3,3,East Geelong,8
+22 Bendle Street,"750,000",Dec 2020,"580,000",Aug 2017,1.0,,,709,154,3,2,2,East Geelong,8
+9 Normanby Street,"901,000",Dec 2020,"510,000",Dec 2013,,,,437,,3,2,1,East Geelong,8
+392 Ryrie Street,"915,000",Dec 2020,"460,000",Mar 2016,,480,Oct 2019,405,129,3,1,1,East Geelong,8
+290 Myers Street,"750,000",Nov 2020,"500,000",Dec 2012,,550,Dec 2020,257,,4,2,2,East Geelong,8
+426 Ryrie Street,"900,000",Nov 2020,"452,000",Nov 2009,,290,Jan 2008,170,,4,1,2,East Geelong,8
+207 Mckillop Street,"740,000",Nov 2020,"310,000",Jun 2005,,320,Apr 2016,407,,3,1,1,East Geelong,8
+7 Bendle Street,"800,000",Oct 2020,,,,,,593,,,,,East Geelong,8
+11 Thorne Street,"1,110,000",Oct 2020,"810,000",Jun 2016,1.0,450,Mar 2013,401,171,3,2,2,East Geelong,8
+17 Anderson Street,"860,000",Oct 2020,"129,000",Dec 1999,,370,Nov 2015,666,125,3,1,1,East Geelong,8
+15 Darling Street,"603,000",Oct 2020,"385,000",Dec 2011,,355,Oct 2012,344,119,3,1,2,East Geelong,8
+1 Darling Street,"892,000",Oct 2020,"225,000",Jul 2006,,210,Apr 2007,345,150,2,1,2,East Geelong,8
+464 Ryrie Street,"697,500",Oct 2020,"280,000",Mar 2004,,,,567,,3,2,3,East Geelong,8
+15 Anderson Street,"1,320,000",Sep 2020,"417,850",Jan 2012,,305,Nov 2011,666,227,2,1,1,East Geelong,8
+181 Verner Street,"1,030,000",Sep 2020,"300,000",Sep 2013,,280,May 2014,337,87,2,1,1,East Geelong,8
+2 Lindon Street,"1,210,000",Sep 2020,"725,000",Apr 2014,1.0,,,666,209,4,2,1,East Geelong,8
+219 McKillop Street,"560,000",Sep 2020,,,,,,481,,3,1,,East Geelong,8
+24 MEAKIN Street,"1,305,000",Sep 2020,"52,000",Aug 1976,,,,134,,4,3,3,East Geelong,8
+14 Tully Street,"840,000",Sep 2020,"123,000",Sep 1992,,,,224,,3,,,East Geelong,8
+21 McNeill Avenue,"510,000",Aug 2020,,,,,,703,,3,2,2,East Geelong,8
+5 Boyne Avenue,"745,000",Aug 2020,"315,350",Sep 2008,,,,434,129,2,1,1,East Geelong,8
+23 Loch Street,"685,000",Aug 2020,"540,000",Oct 2017,1.0,460,Jan 2020,337,,3,2,2,East Geelong,8
+3/21 Glen Avenue,"410,000",Aug 2020,"270,000",Oct 2011,,,,"1,093",81,,,,East Geelong,8
+4 Bendle Street,"740,000",Aug 2020,"255,000",Dec 2006,,240,Apr 2007,672,131,3,1,1,East Geelong,8
+4D Walter Street,"840,000",Aug 2020,,,,,,,,3,,,East Geelong,8
+7/22-24 Walter Street,"365,000",Jul 2020,,,,280,Mar 2017,159,,,,,East Geelong,8
+10 Frederick Street,"900,000",Jul 2020,"877,000",Nov 2017,,170,Nov 2004,491,138,3,1,2,East Geelong,8
+5 Darling Street,"852,500",Jul 2020,"785,000",Mar 2018,,600,Jul 2018,515,,2,2,1,East Geelong,8
+409 Myers Street,"498,500",Jul 2020,"242,500",Mar 2009,,,,244,,2,1,1,East Geelong,8
+8 Thear Street,"790,000",Jul 2020,"77,500",Oct 1993,,,,563,,3,2,2,East Geelong,8
+13 Powell Street,"680,000",27 Jun 2020,,,1.0,,,694,,,,,East Geelong,8
+191 Verner Street,"665,000",Jun 2020,"439,000",Feb 2016,,350,Jun 2019,337,,2,1,1,East Geelong,8
+356 Myers Street,"1,186,750",May 2020,"515,000",Apr 2005,,330,Feb 2005,399,217,3,1,2,East Geelong,8
+6 Tully Street,"760,000",23 May 2020,"340,000",Oct 2007,1.0,370,Jan 2019,322,,3,1,2,East Geelong,8
+335 Myers Street,"831,000",May 2020,"407,500",Jun 2007,,485,Jan 2019,475,,3,1,2,East Geelong,8
+452 Ryrie Street,"1,075,000",May 2020,"660,000",Oct 2014,,580,Jul 2013,429,188,4,2,2,East Geelong,8
+31 St Albans Road,"472,000",May 2020,"349,000",Feb 2017,,340,Feb 2019,56,,,,,East Geelong,8
+3/346 Myers Street,"385,000",Apr 2020,"184,500",Jan 2006,,,,120,,,,,East Geelong,8
+17 Loftus Street,"580,000",Apr 2020,,,,,,371,,4,1,1,East Geelong,8
+2/229 Verner Street,"500,000",Apr 2020,,,,340,Oct 2015,,,,,,East Geelong,8
+24 Loch Street,"910,000",Mar 2020,"147,500",Feb 2000,,,,399,134,3,2,2,East Geelong,8
+3 Limeburners Road,"1,020,000",28 Mar 2020,"344,500",Jun 2008,1.0,,,726,,2,1,2,East Geelong,8
+3 Helen Street,"465,000",09 Mar 2020,"238,000",Jan 2013,1.0,350,Dec 2018,355,77,2,1,2,East Geelong,8
+5 Connor Street,"896,000",Mar 2020,"500,000",Mar 2010,,315,Mar 2007,432,140,3,2,2,East Geelong,8
+3 Connor Street,"1,051,520",29 Feb 2020,,,1.0,,,864,,3,,,East Geelong,8
+99 Garden Street,"670,000",Feb 2020,"230,000",May 2006,,200,Apr 2007,377,,3,1,,East Geelong,8
+486 Ryrie Street,"880,000",Feb 2020,"425,000",Mar 2008,,550,Jun 2020,473,,3,2,2,East Geelong,8
+16 Paterson Street,"630,000",Feb 2020,,,,,,586,,3,2,4,East Geelong,8
+7 Lindon Street,"500,000",Feb 2020,,,,295,Mar 2015,291,,2,1,3,East Geelong,8
+4/346 Myers Street,"395,000",Jan 2020,"290,000",Dec 2016,,290,Mar 2017,185,,,,,East Geelong,8
+12 Orchard Street,"710,000",Jan 2020,"61,000",Jan 1985,,480,Mar 2020,394,,4,3,3,East Geelong,8
+268 Mckillop Street,"977,000",Dec 2019,"798,000",Oct 2017,1.0,340,May 2009,565,,4,3,4,East Geelong,8
+85 Normanby Street,"491,598",Dec 2019,"352,000",Mar 2017,,280,Jan 2013,69,,,,,East Geelong,8
+407 Myers Street,"595,000",Dec 2019,"260,000",Nov 2008,,320,Jan 2019,730,,3,1,1,East Geelong,8
+30 Humble Street,"640,000",Dec 2019,"422,000",Sep 2010,,,,292,,,,,East Geelong,8
+8 Loftus Street,"520,000",Nov 2019,"166,250",Mar 2014,,,,556,120,,,,East Geelong,8
+3 Frederick Street,"830,000",Nov 2019,,,,,,234,,3,1,1,East Geelong,8
+14 Philpott Street,"1,148,000",23 Nov 2019,"625,000",Aug 2013,1.0,,,566,,3,2,4,East Geelong,8
+5 Kernot Street,"625,000",23 Nov 2019,"390,000",Apr 2010,1.0,390,Jan 2017,314,,3,1,2,East Geelong,8
+23 Martin Street,"640,000",Nov 2019,"540,000",Oct 2017,1.0,390,Jun 2018,683,105,3,1,1,East Geelong,8
+7 Meakin Street,"470,000",Nov 2019,"175,000",Aug 2006,,285,Aug 2018,133,,2,1,1,East Geelong,8
+10 Thear Street,"1,020,000",16 Nov 2019,"613,000",Apr 2017,1.0,,,563,,2,1,2,East Geelong,8
+73 Normanby Street,"788,000",16 Nov 2019,"560,000",Oct 2014,1.0,385,Feb 2012,453,129,3,1,2,East Geelong,8
+3 Orchard Street,"445,000",Nov 2019,,,,,,331,,2,1,,East Geelong,8
+12 Meakin Street,"1,020,000",Nov 2019,"477,500",Jun 2004,,,,150,,3,2,2,East Geelong,8
+4/6 Chapman Crescent,"435,500",Oct 2019,,,,385,Nov 2019,207,,,,,East Geelong,8
+185 McKillop Street,"770,000",26 Oct 2019,"379,000",Aug 2007,1.0,400,Aug 2014,435,168,3,1,2,East Geelong,8
+223 McKillop Street,"535,000",Oct 2019,,,,430,Nov 2020,482,,3,1,,East Geelong,8
+5 Philpott Street,"965,000",19 Oct 2019,"300,000",Apr 2004,1.0,550,Sep 2018,563,,4,2,1,East Geelong,8
+313 McKillop Street,"445,000",Oct 2019,,,,,,585,,,,,East Geelong,8
+6/450 Ryrie Street,"310,000",Oct 2019,"54,500",Jan 1996,,260,Jul 2018,66,,2,1,1,East Geelong,8
+22 Loftus Street,"713,000",Oct 2019,"199,500",Mar 2005,,,,373,93,2,1,,East Geelong,8
+203 Garden Street,"620,000",Oct 2019,"97,000",Oct 2011,,,,668,206,2,,,East Geelong,8
+406 Myers Street,"725,000",Sep 2019,"135,000",Nov 1997,,,,692,,4,2,3,East Geelong,8
+25 Martin Street,"660,000",Sep 2019,"345,000",Dec 2012,,370,Sep 2018,663,,2,1,4,East Geelong,8
+1A Normanby Street,"590,000",21 Sep 2019,,,1.0,,,153,,,,,East Geelong,8
+38 Richmond Street,"520,000",14 Sep 2019,,,1.0,350,Nov 2019,341,,3,1,1,East Geelong,8
+36 St Albans Road,"710,000",14 Sep 2019,"505,000",Nov 2016,1.0,400,Mar 2016,351,116,3,1,1,East Geelong,8
+11B Frederick Street,"990,000",Sep 2019,"380,000",Apr 2018,,,,276,,4,2,1,East Geelong,8
+5 Orchard Street,"970,000",Sep 2019,"753,000",Apr 2015,,,,364,239,,,,East Geelong,8
+49 Loch Street,"515,000",Aug 2019,,,,,,409,,,,,East Geelong,8
+248 Kilgour Street,"560,000",Aug 2019,"366,000",Sep 2009,,340,Dec 2009,216,,3,2,1,East Geelong,8
+492 Ryrie Street,"750,000",Aug 2019,"163,500",Dec 1996,,,,702,,4,3,3,East Geelong,8
+6B McNeill Avenue,"490,000",Aug 2019,"375,000",May 2015,,470,Sep 2019,369,,3,2,2,East Geelong,8
+28a McNeill Avenue,"401,000",Aug 2019,"280,000",Dec 2014,,,,352,,3,1,,East Geelong,8
+270 Mckillop Street,"535,000",Aug 2019,"94,000",Feb 2000,,300,Jul 2017,278,110,3,1,1,East Geelong,8
+7 St Albans Road,"975,000",17 Aug 2019,"217,000",Feb 2009,1.0,525,Feb 2018,491,,3,2,1,East Geelong,8
+3/45 Ormond Road,"408,000",Aug 2019,"210,000",Dec 2012,1.0,285,May 2016,183,,2,1,1,East Geelong,8
+201 Garden Street,"650,000",Jul 2019,"62,000",Jan 1986,,,,598,,3,1,3,East Geelong,8
+19 Godfrey Street,"480,800",Jul 2019,,,,,,685,,,,,East Geelong,8
+305 Myers Street,"820,000",Jul 2019,"515,000",Nov 2010,,,,352,215,3,2,2,East Geelong,8
+2/391 Myers Street,"691,000",Jun 2019,"600,000",Sep 2016,,420,Oct 2012,350,,,,,East Geelong,8
+153 Verner Street,"640,500",Jun 2019,"258,000",Dec 2003,,350,Feb 2018,608,140,3,1,1,East Geelong,8
+13 Orchard Street,"910,000",Jun 2019,"808,000",Mar 2017,,495,Dec 2015,152,,4,2,2,East Geelong,8
+36 Humble Street,"460,000",Jun 2019,,,,,,501,,3,1,2,East Geelong,8
+41 St Albans Road,"650,000",Jun 2019,"228,000",Jun 2014,,400,Apr 2018,387,139,3,2,1,East Geelong,8
+22 Denman Street,"770,000",Jun 2019,"289,000",Feb 2000,,,,700,,4,2,3,East Geelong,8
+416 Myers Street,"525,000",May 2019,"377,000",Jun 2015,,350,May 2018,601,125,2,1,1,East Geelong,8
+218 McKillop Street,"820,000",May 2019,,,,,,11,,4,2,1,East Geelong,8
+12 Bendle Court,"575,000",May 2019,,,,,,997,,3,1,2,East Geelong,8
+8 St Albans Road,"850,000",May 2019,"270,000",Feb 2000,,,,429,,4,2,2,East Geelong,8
+11 Tully Street,"695,000",04 May 2019,"205,000",Jan 2005,1.0,530,Jun 2019,334,108,3,1,2,East Geelong,8
+50 Grey Street,"560,000",27 Apr 2019,"418,000",May 2016,1.0,370,Feb 2019,337,,3,1,1,East Geelong,8
+203 Mckillop Street,"830,000",27 Apr 2019,"242,500",Aug 2003,1.0,390,Oct 2015,444,,4,2,2,East Geelong,8
+109 Carr Street,"517,500",Apr 2019,"370,000",Dec 2010,1.0,,,576,,3,2,2,East Geelong,8
+71 Normanby Street,"815,000",Apr 2019,"658,000",Nov 2015,1.0,450,Feb 2013,453,195,4,2,1,East Geelong,8
+40 Mcdonald Street,"505,000",13 Apr 2019,"212,000",Sep 2003,1.0,325,Feb 2014,379,,2,1,,East Geelong,8
+72 Ormond Road,"695,000",Apr 2019,"105,000",Feb 2000,,,,612,,,,,East Geelong,8
+281 Mckillop Street,"770,000",Apr 2019,"348,000",Feb 2009,,340,Jun 2008,713,,4,2,4,East Geelong,8
+27 Richmond Street,"655,000",30 Mar 2019,"387,000",Apr 2015,1.0,260,Jun 2012,333,,3,1,,East Geelong,8
+1/31 Normanby Street,"290,000",Mar 2019,"207,000",Mar 2013,,220,Dec 2018,78,,1,1,1,East Geelong,8
+231 Kilgour Street,"895,000",Mar 2019,"124,000",Mar 1996,,,,501,155,3,1,1,East Geelong,8
+8/12 Boyne Avenue,"360,000",23 Mar 2019,"227,000",Jul 2010,1.0,340,Apr 2019,88,,2,1,1,East Geelong,8
+39 Anderson Street,"275,000",Mar 2019,,,,,,153,,,,,East Geelong,8
+37 Anderson Street,"300,000",Mar 2019,,,,,,206,,,,,East Geelong,8
+8 Denman Street,"955,000",Mar 2019,"114,000",Oct 1994,,,,700,,3,3,3,East Geelong,8
+8 Darling Street,"565,000",Mar 2019,"345,250",Dec 2012,,330,Aug 2017,139,,2,1,1,East Geelong,8
+197 McKillop Street,"530,000",16 Mar 2019,,,1.0,,,575,,5,1,2,East Geelong,8
+48 Anderson Street,"515,000",16 Mar 2019,,,1.0,,,419,,2,1,2,East Geelong,8
+13 Tully Street,"430,000",16 Mar 2019,"59,000",Mar 1986,1.0,,,334,,3,1,1,East Geelong,8
+4/3-5 Lomond Terrace,"630,000",Mar 2019,,,,,,337,,,,,East Geelong,8
+1 Tully Street,"475,000",Mar 2019,"255,000",Oct 2006,,330,Apr 2017,221,80,2,1,1,East Geelong,8
+1/450 Ryrie Street,"343,000",Mar 2019,"60,000",Oct 1996,,280,Dec 2014,97,,2,1,1,East Geelong,8
+2/209 Verner Street,"415,000",Mar 2019,"282,000",May 2010,,260,Jul 2008,173,,,,,East Geelong,8
+110 Ormond Road,"460,000",Mar 2019,"188,000",Apr 2007,,295,Nov 2018,651,,3,1,1,East Geelong,8
+38 Anderson Street,"720,000",Mar 2019,"380,000",May 2009,,500,Feb 2021,419,156,3,2,1,East Geelong,8
+11 Helen Street,"518,000",Feb 2019,"319,002",Aug 2011,,300,Sep 2011,476,105,3,1,2,East Geelong,8
+50 Anderson Street,"615,000",Feb 2019,"440,000",May 2015,1.0,370,Nov 2017,419,86,2,1,,East Geelong,8
+514 Ryrie Street,"465,000",Feb 2019,,,,,,735,,3,1,3,East Geelong,8
+213 Verner Street,"527,500",Jan 2019,,,,,,71,,3,1,1,East Geelong,8
+54 St Albans Road,"440,000",Jan 2019,"67,000",Mar 1997,,,,570,,3,1,1,East Geelong,8
+2 Powell Street,"750,000",Dec 2018,"110,000",Jul 2006,,,,465,,3,2,1,East Geelong,8
+35 Loch Street,"515,000",Dec 2018,"83,000",May 1993,,,,419,,3,1,1,East Geelong,8
+32 Walter Street,"730,000",Dec 2018,"570,000",Feb 2016,,,,660,,4,2,4,East Geelong,8
+33 Martin Street,"508,000",Dec 2018,"353,500",Apr 2014,,,,661,,3,1,2,East Geelong,8
+2 Mcintyre Street,"526,000",08 Dec 2018,"61,500",Jun 1991,1.0,,,557,,2,1,1,East Geelong,8
+12 McDonald Street,"565,000",Dec 2018,"315,000",Nov 2009,,295,Jul 2008,300,,3,1,1,East Geelong,8
+4 Alfred Street,"675,000",Dec 2018,"430,000",Nov 2014,,450,Dec 2018,372,109,3,1,1,East Geelong,8
+205 McKillop Street,"695,000",Nov 2018,"565,000",Sep 2014,1.0,475,Dec 2017,407,140,4,2,2,East Geelong,8
+43 St Albans Road,"395,000",Nov 2018,,,,,,406,,3,1,2,East Geelong,8
+2 Mann Street,"543,000",Nov 2018,"371,000",Mar 2015,,330,Nov 2014,347,109,3,1,,East Geelong,8
+6 Loftus Street,"530,000",Nov 2018,,,,,,363,,3,2,1,East Geelong,8
+1/209 Verner Street,"420,000",Nov 2018,"220,000",Oct 2005,,190,Jun 2005,187,75,,,,East Geelong,8
+27 Loch Street,"700,000",15 Nov 2018,"280,000",Mar 2009,1.0,220,Jan 2015,337,,2,2,1,East Geelong,8
+5 Campbell Street,"600,000",Nov 2018,"304,500",May 2009,,320,Nov 2010,480,480,3,2,1,East Geelong,8
+5/21-23 Helmer Crescent,"365,000",Nov 2018,,,,,,,,,,,East Geelong,8
+336 Myers Street,"1,375,000",Nov 2018,,,,,,486,,4,3,3,East Geelong,8
+83 Normanby Street,"472,000",27 Oct 2018,"131,500",Dec 2001,1.0,275,Jan 2014,66,108,,,,East Geelong,8
+3 Walter Street,"516,000",27 Oct 2018,"292,000",Jul 2010,1.0,370,Jan 2019,94,,2,1,2,East Geelong,8
+58 Anderson Street,"638,000",20 Oct 2018,"245,000",Jul 2005,1.0,331,Mar 2014,409,,2,1,,East Geelong,8
+18 Kernot Street,"585,000",20 Oct 2018,"301,000",Mar 2008,1.0,300,Sep 2017,352,,2,1,1,East Geelong,8
+133 Garden Street,"455,000",13 Oct 2018,"87,800",Jan 1992,1.0,,,307,,2,1,1,East Geelong,8
+45 St Albans Road,"550,000",Oct 2018,"360,000",Nov 2011,,390,Dec 2011,371,,4,1,1,East Geelong,8
+434 Ryrie Street,"935,000",Oct 2018,"119,000",May 1989,,,,545,200,4,2,3,East Geelong,8
+12 Anderson Street,"450,000",06 Oct 2018,"255,000",Aug 2010,1.0,290,Dec 2016,225,,2,1,1,East Geelong,8
+20 Loftus Street,"637,000",03 Oct 2018,"365,000",Jun 2011,1.0,390,Jul 2017,185,120,3,2,1,East Geelong,8
+13 Ensby Street,"450,000",Sep 2018,,,,,,619,,3,1,5,East Geelong,8
+25 Richmond Street,"842,500",22 Sep 2018,"576,000",Mar 2017,1.0,,,387,,3,2,1,East Geelong,8
+177 Garden Street,"637,000",22 Sep 2018,"380,000",Nov 2011,1.0,320,Jan 2012,375,110,3,1,1,East Geelong,8
+10 Paterson Street,"586,000",Sep 2018,,,,,,560,,2,1,2,East Geelong,8
+232 McKillop Street,"790,000",15 Sep 2018,"607,000",Oct 2015,1.0,500,Feb 2014,441,207,4,2,3,East Geelong,8
+1/54 Ormond Road,"370,000",Sep 2018,"108,000",Feb 1998,,280,Oct 2015,293,,,,,East Geelong,8
+6 Denman Street,"752,000",Sep 2018,,,,,,701,,2,1,1,East Geelong,8
+2/20 Ormond Road,"335,000",Sep 2018,"182,000",Jan 2006,,,,157,,,,,East Geelong,8
+38 Humble Street,"670,000",08 Sep 2018,"416,000",Jul 2010,1.0,,,502,,3,1,3,East Geelong,8
+15 Connor Street,"865,000",01 Sep 2018,"133,800",Oct 1988,1.0,,,117,160,4,2,2,East Geelong,8
+54 Ormond Road,"370,000",Sep 2018,"108,000",Feb 2000,,310,Nov 2018,293,,2,1,1,East Geelong,8
+14 Humble Street,"1,310,000",Aug 2018,"890,000",Nov 2014,,,,683,261,4,2,2,East Geelong,8
+9 & 9a Humble Street,"906,000",Aug 2018,,,,,,,,4,2,1,East Geelong,8
+9A Humble Street,"906,000",25 Aug 2018,,,1.0,360,Jan 2019,329,,4,2,1,East Geelong,8
+9 Humble Street,"906,000",25 Aug 2018,,,1.0,420,Dec 2019,329,,4,2,1,East Geelong,8
+21 Darling Street,"616,000",25 Aug 2018,,,1.0,440,Dec 2018,347,,3,1,2,East Geelong,8
+5/56 St Albans Road,"390,000",Aug 2018,"325,000",Mar 2015,,360,Mar 2021,84,85,2,1,1,East Geelong,8
+9 Loftus Street,"540,000",Aug 2018,"236,000",Jan 2009,,360,Feb 2015,538,,3,1,,East Geelong,8
+78 Ormond Road,"490,000",Aug 2018,"410,000",Dec 2014,,380,Nov 2018,674,,3,1,5,East Geelong,8
+39 McDonald Street,"730,000",10 Aug 2018,"439,000",Dec 2013,1.0,,,414,123,3,2,2,East Geelong,8
+88 Ormond Road,"652,000",Aug 2018,,,,450,Dec 2018,674,,3,2,1,East Geelong,8
+10 Lindon Street,"930,000",Aug 2018,"121,000",Jul 1998,,,,674,,4,2,2,East Geelong,8
+20 Gurr Street,"940,000",Jul 2018,"610,000",Dec 2010,1.0,,,226,,4,2,3,East Geelong,8
+7 Birdsey Street,"535,000",Jul 2018,,,,,,929,,3,1,6,East Geelong,8
+5/9 Thear Street,"397,500",Jul 2018,"325,000",May 2014,,350,Aug 2018,168,83,,,,East Geelong,8
+2/9 Godfrey Street,"492,000",Jul 2018,,,,,,298,,,,,East Geelong,8
+77 Normanby Street,"724,000",Jun 2018,"300,000",Mar 2009,,480,Feb 2021,452,121,3,1,1,East Geelong,8
+4/450 Ryrie Street,"238,000",Jun 2018,,,,,,49,,,,,East Geelong,8
+236 Kilgour Street,"350,000",Jun 2018,,,,,,181,,,,,East Geelong,8
+230 Verner Street,"720,000",Jun 2018,"515,000",Apr 2015,,,,411,,3,2,5,East Geelong,8
+3 Godfrey Street,"470,000",Jun 2018,"293,000",Jul 2015,,320,Nov 2015,633,138,2,1,1,East Geelong,8
+238 Kilgour Street,"1,160,000",Jun 2018,"460,000",Aug 2014,,260,Jul 2013,415,,3,1,1,East Geelong,8
+24 Lomond Terrace,"500,000",Jun 2018,,,,,,172,,3,2,2,East Geelong,8
+5 Limeburners Road,"675,000",May 2018,"180,000",Dec 1993,,495,Feb 2020,441,200,4,2,1,East Geelong,8
+269 McKillop Street,"701,000",May 2018,,,,450,Nov 2018,723,,4,1,2,East Geelong,8
+396 Ryrie Street,"755,000",May 2018,"520,000",Apr 2017,1.0,250,Apr 2007,405,130,3,1,3,East Geelong,8
+45 Grey Street,"580,000",May 2018,"72,000",Nov 1994,,430,Aug 2018,506,,3,1,1,East Geelong,8
+24 Grey Street,"780,000",May 2018,"300,000",May 2013,,490,Aug 2018,337,,3,2,,East Geelong,8
+319 McKillop Street,"456,000",May 2018,,,,,,585,,3,2,2,East Geelong,8
+3 St Albans Road,"706,000",May 2018,"620,000",Dec 2016,1.0,490,Apr 2019,491,146,4,1,2,East Geelong,8
+20 Orchard Street,"671,500",May 2018,"72,000",Nov 1987,,405,Sep 2018,338,,3,1,2,East Geelong,8
+19 Darling Street,"630,000",May 2018,"178,002",Jul 2007,,,,345,139,4,1,,East Geelong,8
+2 Normanby Street,"1,034,999",May 2018,,,,,,434,,4,2,2,East Geelong,8
+11A Frederick Street,"380,000",Apr 2018,,,,,,332,,,,,East Geelong,8
+20 Boyne Avenue,"580,000",Apr 2018,,,,,,538,,3,1,2,East Geelong,8
+137 Garden Street,"545,000",14 Apr 2018,"190,000",Aug 2001,1.0,,,323,,2,1,1,East Geelong,8
+38A Gurr Street,"576,500",Apr 2018,"161,000",Jan 2000,,350,Mar 2017,281,,2,1,1,East Geelong,8
+128 Verner Street,"500,000",Mar 2018,,,,,,,,2,1,1,East Geelong,8
+29 McDonald Street,"680,000",Mar 2018,,,,,,414,,3,2,3,East Geelong,8
+241 McKillop Street,"710,000",Mar 2018,"470,000",Dec 2015,1.0,360,Aug 2007,479,,3,2,1,East Geelong,8
+297 Myers Street,"605,000",Mar 2018,,,,320,Feb 2015,337,,4,1,1,East Geelong,8
+17 Brown Street,"972,500",Mar 2018,"220,000",Jan 2001,,,,683,198,3,3,2,East Geelong,8
+4/11-13 Meakin Street,"547,000",Mar 2018,"429,000",Mar 2016,,365,May 2016,226,,,,,East Geelong,8
+17 Connor Street,"540,000",Mar 2018,"127,000",Sep 1993,,420,Apr 2018,215,125,3,1,1,East Geelong,8
+1 424 Ryrie Street,"373,000",Mar 2018,,,,,,,,2,1,1,East Geelong,8
+15 McDonald Street,"700,000",Mar 2018,"470,000",Mar 2014,1.0,260,Mar 2007,413,,3,1,2,East Geelong,8
+14 Bendle Street,"515,000",10 Mar 2018,,,1.0,,,669,,3,1,1,East Geelong,8
+14 Bendle Court,"515,000",Mar 2018,,,,420,Sep 2019,669,,4,2,2,East Geelong,8
+224B Verner Street,"785,000",Mar 2018,"625,000",Apr 2016,,,,411,,4,2,2,East Geelong,8
+4 Mann Street,"610,000",Mar 2018,"385,000",Oct 2014,1.0,410,Mar 2018,378,123,3,2,1,East Geelong,8
+2/102 St Albans Road,"349,000",Feb 2018,,,,,,359,,3,2,1,East Geelong,8
+42 Humble Street,"685,000",24 Feb 2018,"535,000",Nov 2010,1.0,,,614,180,3,2,2,East Geelong,8
+23 Breakwater Road,"345,000",Feb 2018,"235,000",Feb 2000,,340,Jun 2018,,,3,1,1,East Geelong,8
+54 Grey Street,"485,000",Feb 2018,"53,000",May 1985,,,,337,,2,1,1,East Geelong,8
+111 Carr Street,"651,000",Feb 2018,"69,000",Apr 1998,,,,589,114,3,2,1,East Geelong,8
+41 McDonald Street,"560,000",Feb 2018,"270,000",Oct 2013,,310,Feb 2017,415,86,2,1,2,East Geelong,8
+7 Orchard Street,"550,000",03 Feb 2018,,,1.0,,,367,,2,1,1,East Geelong,8
+23 Grey Street,"550,000",Jan 2018,,,,450,Feb 2021,336,,3,1,1,East Geelong,8
+1/25 Breakwater Road,"365,000",Jan 2018,,,,,,,,,,,East Geelong,8
+23 Richmond Crescent,"535,000",Jan 2018,,,,285,Oct 2010,,,3,1,1,East Geelong,8
+2/69 Normanby Street,"325,000",Jan 2018,"195,002",Sep 2009,,270,Jan 2015,80,,2,1,1,East Geelong,8
+5 Glen Avenue,"655,000",Jan 2018,"505,000",Dec 2010,1.0,400,Sep 2015,277,,3,1,1,East Geelong,8
+290 McKillop Street,"750,000",Jan 2018,"520,000",Oct 2012,,,,556,,3,1,2,East Geelong,8
+1/106 St Albans Road,"420,000",Dec 2017,,,,360,Oct 2014,,,,,,East Geelong,8
+32 Humble Street,"610,000",Dec 2017,"165,000",Apr 2004,,,,501,150,3,1,2,East Geelong,8
+1B Boyne Avenue,"430,000",Dec 2017,,,,330,Feb 2020,299,,2,1,1,East Geelong,8
+3 Mann Street,"440,000",Dec 2017,"190,000",Jan 2006,,280,Jun 2014,495,83,3,1,2,East Geelong,8
+488 Ryrie Street,"526,000",Dec 2017,,,,400,Jan 2018,473,,3,1,2,East Geelong,8
+4 Tully Street,"662,000",02 Dec 2017,,,1.0,420,Apr 2017,321,,,,,East Geelong,8
+50 Richmond Street,"534,000",02 Dec 2017,,,1.0,280,Oct 2015,164,,2,1,1,East Geelong,8
+226 Verner Street,"654,000",02 Dec 2017,"315,000",Jan 2006,1.0,430,Nov 2020,411,127,3,1,2,East Geelong,8
+7 Brown Street,"951,000",02 Dec 2017,"100,000",Jan 1991,1.0,,,669,,4,1,,East Geelong,8
+12 Thorne Street,"790,000",02 Dec 2017,"387,000",Jun 2010,1.0,550,Jun 2016,357,,4,2,1,East Geelong,8
+317 McKillop Street,"445,000",28 Nov 2017,"305,000",Sep 2010,1.0,290,Aug 2014,585,99,3,1,1,East Geelong,8
+117 Carr Street,"450,000",Nov 2017,"312,500",Feb 2014,,280,Apr 2013,532,105,3,1,1,East Geelong,8
+8/22 Walter Street,"306,000",Nov 2017,"239,950",Oct 2007,,300,Dec 2017,145,,,,,East Geelong,8
+57 St Albans Road,"755,000",18 Nov 2017,,,1.0,,,627,,3,1,2,East Geelong,8
+20 Grey Street,"696,000",18 Nov 2017,"350,000",Jan 2006,1.0,475,Apr 2019,337,,3,1,,East Geelong,8
+31 McDonald Street,"795,000",Nov 2017,"443,000",Jul 2008,,650,Mar 2019,414,307,4,2,1,East Geelong,8
+6 Thear Street,"620,000",18 Nov 2017,"470,000",May 2014,1.0,530,Jul 2015,563,,5,2,2,East Geelong,8
+8/22-24 Walter Street,"306,000",Nov 2017,"239,950",Oct 2007,,290,Dec 2016,145,,,,,East Geelong,8
+12 Gurr Street,"891,000",16 Nov 2017,"93,000",Sep 1990,1.0,,,355,,4,2,3,East Geelong,8
+40 Grey Street,"720,000",13 Nov 2017,"510,000",May 2014,1.0,430,Jul 2019,337,250,3,1,1,East Geelong,8
+17 Orchard Street,"623,000",Nov 2017,,,,,,443,,3,1,1,East Geelong,8
+16 Loch Street,"510,000",Nov 2017,"293,500",Feb 2009,,290,Oct 2014,236,,2,1,,East Geelong,8
+217 Kilgour Street,"756,000",11 Nov 2017,"477,000",Nov 2011,1.0,550,May 2019,542,154,4,1,1,East Geelong,8
+3/436 Ryrie Street,"345,000",11 Nov 2017,"320,000",Oct 2011,1.0,300,Aug 2015,224,69,,,,East Geelong,8
+24 St Albans Road,"527,500",Nov 2017,,,,385,Jun 2019,622,,3,1,2,East Geelong,8
+438 Ryrie Street,"703,000",04 Nov 2017,,,1.0,,,242,,5,2,1,East Geelong,8
+3/28 Breakwater Road,"260,000",Oct 2017,,,,290,Jun 2020,,,,,,East Geelong,8
+48 Humble Street,"640,000",Oct 2017,"255,000",Aug 2008,,200,Nov 2004,547,100,3,1,3,East Geelong,8
+42 Grey Street,"550,000",14 Oct 2017,"235,000",Sep 2002,1.0,285,Sep 2009,337,96,3,1,1,East Geelong,8
+264 Kilgour Street,"895,000",Oct 2017,"262,000",Jan 2006,,520,Jan 2019,324,,3,1,,East Geelong,8
+7 Mcdonald Street,"585,000",Oct 2017,"225,000",Apr 2002,,295,Sep 2012,414,,3,1,,East Geelong,8
+18 Brown Street,"675,500",07 Oct 2017,,,1.0,,,603,,3,1,2,East Geelong,8
+4 Grey Street,"653,000",07 Oct 2017,"360,000",Nov 2006,1.0,470,Oct 2017,337,135,3,2,,East Geelong,8
+3 Loch Street,"622,000",07 Oct 2017,"385,000",Dec 2009,1.0,,,337,,3,2,1,East Geelong,8
+3 Anderson Street,"745,000",07 Oct 2017,"300,000",Dec 2003,1.0,,,688,,4,2,2,East Geelong,8
+147 Garden Street,"676,000",07 Oct 2017,"153,000",May 2000,1.0,300,May 2014,490,,3,1,4,East Geelong,8
+6 Gurr Street,"735,000",23 Sep 2017,"375,000",Sep 2005,1.0,,,60,,,,,East Geelong,8
+27 Loftus Street,"659,000",16 Sep 2017,"446,000",Aug 2012,1.0,160,Apr 2007,354,125,3,2,2,East Geelong,8
+16 Bendle Street,"520,000",Sep 2017,,,,290,Dec 2017,971,,3,1,3,East Geelong,8
+16 Bendle Court,"520,000",09 Sep 2017,,,1.0,,,971,,3,1,3,East Geelong,8
+17 McDonald Street,"673,000",Sep 2017,"408,000",Jun 2011,,,,414,122,3,1,2,East Geelong,8
+250 Kilgour Street,"434,000",09 Sep 2017,"267,500",Oct 2009,1.0,360,Jul 2018,119,,2,1,1,East Geelong,8
+7 McNeill Avenue,"450,137",Sep 2017,"270,000",Jul 2013,,300,Dec 2014,650,,3,1,1,East Geelong,8
+3 Kernot Street,"475,000",02 Sep 2017,"340,000",Jul 2014,1.0,290,Jan 2016,110,,2,1,,East Geelong,8
+14 Campbell Street,"505,000",Aug 2017,"195,000",Jan 2005,,320,May 2017,523,88,1,1,3,East Geelong,8
+474 Ryrie Street,"660,000",19 Aug 2017,"540,000",May 2011,1.0,,,746,,3,2,3,East Geelong,8
+16 Orchard Street,"710,000",05 Aug 2017,,,1.0,,,231,,3,1,1,East Geelong,8
+2 Richardson Street,"407,000",05 Aug 2017,"310,000",Nov 2011,1.0,,,333,,2,2,1,East Geelong,8
+1/9 Godfrey Street,"315,100",Jul 2017,,,,330,Jan 2019,268,,3,1,,East Geelong,8
+32 Denman Street,"645,000",22 Jul 2017,,,1.0,350,Dec 2017,288,,4,2,1,East Geelong,8
+5 Grey Street,"660,000",22 Jul 2017,"320,000",Feb 2000,1.0,450,Jan 2019,337,142,3,2,1,East Geelong,8
+7 Tully Street,"658,000",Jul 2017,"110,000",Dec 1999,,,,213,138,3,1,5,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8
+284 McKillop Street,"800,000",Jul 2017,"591,500",Jul 2012,,,,557,195,4,2,2,East Geelong,8
+47 McDonald Street,"450,000",Jul 2017,"340,000",Dec 2014,1.0,,,414,82,2,1,2,East Geelong,8
+2/45 Ormond Road,"300,000",Jul 2017,"185,000",Sep 2004,,,,221,96,,,,East Geelong,8
+115 Ormond Road,"604,000",Jul 2017,"212,000",May 2005,,430,Jan 2016,530,,4,2,2,East Geelong,8
+15 Loch Street,"675,000",01 Jul 2017,"448,000",Nov 2013,1.0,175,Aug 2004,337,114,3,2,,East Geelong,8
+5/28-30 Breakwater Road,"277,000",Jun 2017,"244,000",Dec 2013,,300,Nov 2018,,,,,,East Geelong,8
+20 Loch Street,"495,000",Jun 2017,"368,500",Jun 2011,,395,Nov 2016,263,139,,,,East Geelong,8
+352 Myers Street,"610,000",24 Jun 2017,"87,000",Sep 1990,1.0,,,177,,3,1,2,East Geelong,8
+7 Walter Street,"481,000",24 Jun 2017,"365,000",Nov 2014,1.0,300,Aug 2018,679,93,2,1,1,East Geelong,8
+274 McKillop Street,"530,000",Jun 2017,,,,,,557,,3,1,2,East Geelong,8

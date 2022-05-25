@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,74 Marshalltown Road,"Sold $710,000 in Aug 2020","Last Sold $347,000 in Dec 2005", ,House: 5  ,"Land size: 1,250 sqm"
+1,31 Werner Avenue,"Sold $550,000 in Aug 2020","Last Sold $430,000 in Jun 2017", ,House: 4  2  2 ,Land size: 481 sqm | Building size: 173 sqm
+2,55 Marshalltown Road,"Sold $445,000 in Aug 2020","Last Sold $265,000 in Mar 2013",Rent $280pw in Aug 2011,House: 2  1  2 ,Land size: 806 sqm
+3,8 Esme Court,"Sold $550,000 in Aug 2020","Last Sold $175,000 in Dec 2013", , ,Land size: 536 sqm
+4,6 MORETTI Court,"Sold $475,000 in Aug 2020","Last Sold $173,000 in Mar 2016",Rent $380pw in Feb 2017, ,Land size: 303 sqm
+5,46-48 Macfarlane Street,"Sold $500,000 in Aug 2020", , ,House: 3  2  2 ,Land size: 502 sqm
+6,15 Grove Road,"Sold $445,000 in Aug 2020","Last Sold $130,000 in May 2009", , ,Land size: 450 sqm | Building size: 110 sqm
+7,55 Barwarre Road,"Sold $365,000 in Aug 2020","Last Sold $130,000 in Jan 2007", , ,Land size: 665 sqm
+8,1 Tamala Avenue,"Sold $485,000 in Jun 2020","Last Sold $261,000 in Jun 2010", ,House: 3  1  2 ,Land size: 666 sqm | Building size: 117 sqm
+9,13 Moretti Court,"Sold $510,000 in Jun 2020","Last Sold $179,000 in Mar 2015",Rent $410pw in Sep 2019,House: 4  2  2 ,Land size: 566 sqm
+10,10 Tamala Avenue,"Sold $410,000 in Apr 2020","Last Sold $248,150 in Nov 2004",Rent $350pw in Jul 2019,House: 3  1  1 ,Land size: 682 sqm | Building size: 136 sqm
+11,35 Orpington Crescent,"Sold $485,000 in Apr 2020","Last Sold $138,000 in Jan 2012", ,House: 4  2  ,Land size: 324 sqm
+12,17 Carlina Court,"Sold $510,000 in Mar 2020","Last Sold $179,000 in Apr 2011",Rent $400pw in May 2020, ,Land size: 405 sqm | Building size: 139 sqm
+13,4 Nikola Court,"Sold $535,000 in Mar 2020","Last Sold $147,500 in Dec 2009",Rent $435pw in Sep 2019, ,Land size: 492 sqm
+14,22 Station Road,"Sold $425,000 in Mar 2020","Last Sold $159,000 in Nov 2011", , ,Land size: 325 sqm
+15,2/191 Barwarre Road,"Sold $512,000 in Mar 2020","Last Sold $377,000 in Jan 2017",Rent $400pw in Mar 2020,House: 3  2  2 ,Land size: 411 sqm | Building size: 159 sqm
+16,31 Krisanway Drive,"Sold $415,000 in Feb 2020","Last Sold $311,000 in Feb 2016",Rent $320pw in Feb 2018,House: 2  1  1 ,Land size: 331 sqm
+17,33 Grove Road,"Sold $435,000 in Jan 2020","Last Sold $295,000 in Jun 2010",Rent $400pw in Jan 2018,House: 3  1  2 ,Land size: 463 sqm
+18,12 Orpington Crescent,"Sold $478,000 in Dec 2019", , , ,Land size: 299 sqm
+19,11 Basford Court,"Sold $556,000 in Dec 2019","Last Sold $145,000 in Mar 2013", , ,Land size: 475 sqm
+20,20 St Cuthberts Court,"Sold $660,000 in Dec 2019","Last Sold $112,500 in Aug 2004", ,House: 4  2  3 ,Land size: 714 sqm | Building size: 245 sqm
+21,29 Marvins Place,"Sold $495,000 in Dec 2019","Last Sold $377,500 in Nov 2013",Rent $440pw in Jan 2020,House: 3  2  2 ,Land size: 555 sqm | Building size: 153 sqm
+22,17 Mornane Road,"Sold $488,000 in Dec 2019","Last Sold $270,000 in Feb 2000",Rent $360pw in May 2012,House: 3  2  1 ,Land size: 664 sqm | Building size: 142 sqm
+23,43 Marshalltown Road,"Sold $450,000 in Nov 2019","Last Sold $295,000 in Oct 2007", ,House: 3  1  1 ,Land size: 633 sqm
+24,11-13 ORPINGTON Crescent,"Sold $452,500 in Nov 2019","Last Sold $338,000 in Jan 2015",Rent $385pw in Oct 2017,House: 3  2  1 ,Land size: 300 sqm
+25,41 Orpington Crescent,"Sold $485,000 in Oct 2019","Last Sold $138,000 in Jan 2012",Rent $400pw in Apr 2016,House: 4  2  2 ,Land size: 324 sqm
+26,22 Drews Road,"Sold $480,000 in Oct 2019", , ,House: 3  2  2 ,Land size: 369 sqm
+27,2/344 Barwon Heads Road,"Sold $525,000 in Oct 2019","Last Sold $50,000 in Oct 2007", , ,Land size: 451 sqm
+28,123 Barwarre Road,"Sold $460,000 in Oct 2019","Last Sold $132,000 in Apr 2009", ,House: 3  2  2 ,Land size: 419 sqm
+29,16 Marvins Place,"Sold $525,000 in Sep 2019","Last Sold $410,000 in Apr 2013",Rent $385pw in Feb 2013,House: 4  2  2 ,Land size: 495 sqm
+30,3 MORETTI Court,"Sold $470,000 in Sep 2019","Last Sold $177,001 in Mar 2016",Rent $400pw in Jul 2018,House: 4  2  3 ,Land size: 350 sqm
+31,30-32 Marvins Place,"Sold $515,000 in Aug 2019", , ,House: 3  1  5 ,Land size: 602 sqm
+32,6 Grove Road,"Sold $475,000 in Aug 2019","Last Sold $385,000 in May 2017(Auction)",Rent $400pw in May 2019,House: 3  2  2 ,Land size: 693 sqm
+33,5 Speranza Court,"Sold $455,000 in Aug 2019","Last Sold $150,000 in Mar 2010", ,House: 3  2  2 ,Land size: 389 sqm | Building size: 130 sqm
+34,1/76 Marshalltown Road,"Sold $365,000 in Aug 2019","Last Sold $332,000 in Apr 2017", ,House: 3  1  1 ,Land size: 343 sqm
+35,20 Carlina Court,"Sold $490,000 in Jul 2019","Last Sold $170,000 in Jun 2012",Rent $420pw in Feb 2018,House: 3  2  2 ,Land size: 436 sqm | Building size: 121 sqm
+36,3/3 Inala Court,"Sold $305,000 in Jul 2019","Last Sold $90,500 in May 2001", , ,Land size: 200 sqm
+37,9 Reedy Link,"Sold $495,000 in Jul 2019","Last Sold $145,000 in May 2009", ,House: 3  2  2 ,Land size: 474 sqm | Building size: 150 sqm
+38,9 Orpington Crescent,"Sold $430,000 in Jun 2019","Last Sold $140,000 in Jan 2012",Rent $365pw in Apr 2018,House: 3  1  1 ,Land size: 327 sqm
+39,43 Barwarre Road,"Sold $450,000 in Jun 2019","Last Sold $147,500 in Aug 2009",Rent $340pw in Mar 2019,House: 4  1  1 ,Land size: 468 sqm | Building size: 147 sqm
+40,7-9 Tannery Road,"Sold $846,000 in Jun 2019", , ,House: 4  2  6 , 
+41,1/344 Barwon Heads Road,"Sold $459,000 in Jun 2019", , ,House: 3  2  2 ,Land size: 495 sqm
+42,11 Leghorn Way,"Sold $458,000 in Jun 2019","Last Sold $165,000 in Jul 2012",Rent $380pw in Sep 2018,House: 3  2  1 ,Land size: 435 sqm | Building size: 137 sqm
+43,7 Adair Court,"Sold $475,000 in May 2019","Last Sold $150,000 in Mar 2015", ,House: 3  2  2 ,Land size: 350 sqm | Building size: 136 sqm
+44,9/9 Moretti Court,"Sold $370,000 in Mar 2019", ,Rent $320pw in Apr 2020, ,Land size: 147 sqm
+45,157-159 Reserve Road,"Sold $730,000 in Feb 2019", ,Rent $380pw in Feb 2020,House: 3  1  ,"Land size: 2,026 sqm"
+46,34 Werner Avenue,"Sold $510,000 in Feb 2019","Last Sold $140,000 in Nov 2008", ,House: 3  2  2 ,Land size: 484 sqm | Building size: 159 sqm
+47,5/73 Marshalltown Road,"Sold $357,000 in Feb 2019","Last Sold $84,500 in Mar 1989", , ,Land size: 164 sqm
+48,38 Drews Road,"Sold $495,000 in Nov 2018", , ,House: 4  2  2 ,Land size: 370 sqm
+49,17 Basford Court,"Sold $865,000 in Nov 2018","Last Sold $185,000 in Jul 2012", ,House: 5  2  10 ,"Land size: 2,997 sqm | Building size: 133 sqm"
+50,27 Drews Road,"Sold $555,000 in Nov 2018","Last Sold $430,000 in Oct 2010",Rent $390pw in May 2009,House: 4  2  2 ,Land size: 683 sqm | Building size: 234 sqm
+51,8 Leghorn Way,"Sold $455,000 in Nov 2018","Last Sold $138,000 in Nov 2012", ,House: 3  2  1 ,Land size: 320 sqm
+52,3-4 Emilija Court,"Sold $520,000 in Nov 2018","Last Sold $400,000 in Oct 2014", ,House: 3  3  2 ,Land size: 503 sqm
+53,51 Marshalltown Road,"Sold $500,000 in Oct 2018", , ,House: 3  1  2 ,Land size: 661 sqm
+54,21 Basford Court,"Sold $466,000 in Oct 2018","Last Sold $140,000 in Oct 2013",Rent $400pw in Oct 2018,House: 3  2  2 ,Land size: 377 sqm | Building size: 118 sqm
+55,29 Grove Road,"Sold $449,500 in Sep 2018","Last Sold $294,000 in Aug 2009",Rent $370pw in Jul 2014,House: 3  1  6 ,Land size: 475 sqm | Building size: 104 sqm
+56,12 Adair Court,"Sold $470,000 in Sep 2018","Last Sold $141,000 in Feb 2000",Rent $370pw in Nov 2018,House: 3  1  2 ,Land size: 416 sqm | Building size: 120 sqm
+57,9 Speranza Court,"Sold $445,000 in Sep 2018","Last Sold $136,000 in Feb 2000",Rent $360pw in Sep 2015,House: 3  2  2 ,Land size: 350 sqm
+58,16 Chambers Court,"Sold $485,000 in Sep 2018","Last Sold $288,900 in Jul 2007",Rent $400pw in Nov 2016,House: 4  2  2 ,Land size: 494 sqm | Building size: 143 sqm
+59,30 MacFarlane Street,"Sold $510,000 in Sep 2018", ,Rent $430pw in Sep 2019,House: 3  2  2 ,Land size: 400 sqm
+60,36 Grove Road,"Sold $550,000 in Aug 2018","Last Sold $176,000 in Mar 2013", , ,Land size: 420 sqm | Building size: 179 sqm
+61,25 Werner Street,"Sold $505,000 in Jul 2018", , , , 
+62,25 Werner Avenue,"Sold $505,000 in Jul 2018","Last Sold $387,500 in Aug 2012", ,House: 3  2  2 ,Land size: 481 sqm
+63,9 Oriondo Way,"Sold $500,000 in Jun 2018","Last Sold $167,000 in Jun 2011", ,House: 4  2  2 ,Land size: 359 sqm
+64,8 Krisanway Drive,"Sold $611,000 in Jun 2018","Last Sold $411,000 in Dec 2010", ,House: 4  2  4 ,Land size: 580 sqm | Building size: 204 sqm
+65,25 Marvins Place,"Sold $580,000 in Jun 2018","Last Sold $155,000 in Jul 2009",Rent $410pw in Dec 2014,House: 3  2  2 ,Land size: 744 sqm
+66,9 Adair Court,"Sold $431,500 in Jun 2018", , ,House: 3  1  1 ,Land size: 350 sqm
+67,7/66 Station Road,"Sold $360,000 in Jun 2018","Last Sold $85,000 in Feb 2000",Rent $320pw in Nov 2017, ,Land size: 238 sqm
+68,6 Orpington Crescent,"Sold $462,500 in May 2018","Last Sold $395,000 in Nov 2016",Rent $400pw in Aug 2020,House: 3  2  2 ,Land size: 300 sqm
+69,8 Orpington Crescent,"Sold $462,500 in May 2018","Last Sold $130,000 in Jun 2012",Rent $385pw in Jan 2016,House: 3  2  1 ,Land size: 300 sqm | Building size: 124 sqm
+70,19 Badminton Court,"Sold $470,000 in May 2018","Last Sold $440,000 in Feb 2017",Rent $410pw in May 2018,House: 4  2  2 ,Land size: 347 sqm
+71,34 Macfarlane Street,"Sold $475,000 in May 2018","Last Sold $154,500 in Oct 2010",Rent $390pw in Mar 2014,House: 3  2  1 ,Land size: 363 sqm | Building size: 145 sqm
+72,29 Basford Court,"Sold $500,000 in May 2018","Last Sold $429,000 in Mar 2016", ,House: 4  2  2 ,Land size: 562 sqm
+73,10 Drews Road,"Sold $460,000 in May 2018","Last Sold $375,000 in Sep 2015", ,House: 3  1  2 ,Land size: 704 sqm
+74,18 Badminton Court,"Sold $520,000 in Apr 2018","Last Sold $180,000 in Dec 2014", ,House: 4  2  2 ,Land size: 481 sqm
+75,10 Speranza Court,"Sold $442,000 in Apr 2018","Last Sold $365,000 in Jul 2012",Rent $400pw in Feb 2013,House: 3  2  1 ,Land size: 350 sqm | Building size: 139 sqm
+76,37 Orpington Crescent,"Sold $443,000 in Apr 2018","Last Sold $138,000 in Jan 2012",Rent $385pw in Dec 2016,House: 4  2  2 ,Land size: 324 sqm
+77,4/10 Oriondo Way,"Sold $410,000 in Mar 2018","Last Sold $155,000 in Apr 2012", ,House: 3  2  1 ,Land size: 336 sqm
+78,12 Werner Avenue,"Sold $487,000 in Mar 2018","Last Sold $140,800 in Mar 2009", ,House: 4  2  1 ,Land size: 484 sqm | Building size: 144 sqm
+79,43 Macfarlane Street,"Sold $488,500 in Mar 2018","Last Sold $168,000 in Apr 2012", , ,Land size: 470 sqm | Building size: 136 sqm
+80,5 Oriondo Way,"Sold $375,000 in Mar 2018", , ,House: 2  1  1 ,Land size: 302 sqm
+81,6 Oriondo Way,"Sold $390,000 in Mar 2018","Last Sold $161,000 in Nov 2011", ,House: 4  1  1 ,Land size: 300 sqm | Building size: 102 sqm
+82,8 Adair Court,"Sold $457,000 in Mar 2018","Last Sold $137,000 in Jan 2010",Rent $420pw in Mar 2018, ,Land size: 361 sqm | Building size: 361 sqm
+83,20 Adair Court,"Sold $425,000 in Mar 2018","Last Sold $142,000 in Feb 2000", ,House: 3  1  1 ,Land size: 364 sqm | Building size: 121 sqm
+84,5 Leghorn Way,"Sold $455,000 in Mar 2018","Last Sold $155,000 in Mar 2012",Rent $370pw in Jul 2014,House: 4  2  2 ,Land size: 378 sqm | Building size: 121 sqm
+85,11 Drews Road,"Sold $465,000 in Feb 2018","Last Sold $322,000 in Apr 2012",Rent $400pw in Mar 2018,House: 3  2  2 ,Land size: 669 sqm
+86,5 Nikola Court,"Sold $455,000 in Feb 2018","Last Sold $142,500 in Sep 2009",Rent $360pw in Jul 2013,House: 3  2  1 ,Land size: 454 sqm | Building size: 124 sqm
+87,33 Oriondo Way,"Sold $430,000 in Dec 2017","Last Sold $172,000 in Feb 2014",Rent $430pw in Jan 2020,House: 4  2  2 ,Land size: 347 sqm
+88,27 Basford Court,"Sold $435,000 in Dec 2017","Last Sold $400,000 in Oct 2016",Rent $400pw in Feb 2018,House: 3  2  2 ,Land size: 439 sqm
+89,8 Speranza Court,"Sold $445,000 in Nov 2017","Last Sold $147,000 in May 2010", ,House: 4  2  2 ,Land size: 350 sqm
+90,18 Basford Court,"Sold $425,000 in Nov 2017","Last Sold $143,000 in Jun 2014", ,House: 3  2  2 ,Land size: 388 sqm
+91,16 Oriondo Way,"Sold $459,000 in Oct 2017","Last Sold $167,000 in Jun 2011",Rent $400pw in Sep 2017,House: 3  2  2 ,Land size: 357 sqm | Building size: 151 sqm
+92,44 Macfarlane Street,"Sold $375,000 in Oct 2017","Last Sold $155,000 in May 2012", ,House: 2  2  2 ,Land size: 503 sqm
+93,5 Marvins Place,"Sold $490,000 in Oct 2017","Last Sold $140,000 in Jun 2009", , ,Land size: 577 sqm
+94,24 Drews Road,"Sold $415,000 in Oct 2017","Last Sold $155,000 in Jul 2012",Rent $395pw in Jun 2019,House: 3  2  2 ,Land size: 337 sqm | Building size: 130 sqm
+95,24 Marvins Place,"Sold $439,000 in Oct 2017","Last Sold $145,000 in Aug 2009",Rent $410pw in Apr 2015,House: 3  2  2 ,Land size: 515 sqm
+96,3/73-75 Marshalltown Road,"Sold $320,000 in Sep 2017","Last Sold $253,000 in Aug 2015", , ,Land size: 164 sqm
+97,3/73 Marshalltown Road,"Sold $320,000 in Sep 2017","Last Sold $253,000 in Jul 2015", , ,Land size: 164 sqm
+98,10 Werner Avenue,"Sold $472,000 in Sep 2017","Last Sold $139,800 in Feb 2000",Rent $410pw in Nov 2017,House: 4  2  2 ,Land size: 484 sqm | Building size: 182 sqm
+99,2/9 Krisanway Drive,"Sold $325,000 in Sep 2017", ,Rent $310pw in Aug 2016, ,Land size: 225 sqm
+100,2/73 Marshalltown Road,"Sold $270,000 in Sep 2017","Last Sold $230,000 in Jun 2010",Rent $255pw in Mar 2013, ,Land size: 164 sqm
+101,2/73-75 Marshalltown Road,"Sold $270,000 in Sep 2017","Last Sold $230,000 in Feb 2010", , ,Land size: 164 sqm
+102,1/68 Marshalltown Road,"Sold $300,000 in Aug 2017","Last Sold $87,500 in Jun 1996", , ,Land size: 183 sqm
+103,17 Barwarre Road,"Sold $437,000 in Aug 2017","Last Sold $170,000 in Mar 2012", , ,Land size: 480 sqm | Building size: 170 sqm
+104,10 Nikola Court,"Sold $460,000 in Jul 2017","Last Sold $380,000 in Jul 2015",Rent $430pw in May 2013,House: 4  2  2 ,Land size: 465 sqm | Building size: 161 sqm
+105,161-167 Reserve Road,"Sold $114,972 in Jun 2017", ,Rent $350pw in Nov 2018,House: 3  1  1 ,"Land size: 4,047 sqm"
+106,21 Orpington Crescent,"Sold $385,000 in Jun 2017","Last Sold $132,500 in Feb 2000",Rent $420pw in Apr 2019,House: 3  2  2 ,Land size: 299 sqm | Building size: 117 sqm
+107,13 Werner Avenue,"Sold $469,000 in Jun 2017","Last Sold $380,000 in Jun 2010",Rent $425pw in May 2019,House: 4  2  2 ,Land size: 481 sqm | Building size: 170 sqm
+108,2 Nikola Court,"Sold $407,500 in May 2017","Last Sold $144,900 in Sep 2009",Rent $380pw in Jun 2018,House: 3  2  2 ,Land size: 453 sqm | Building size: 127 sqm
+109,33 Marvins Place,"Sold $400,000 in May 2017","Last Sold $353,000 in Apr 2011",Rent $385pw in Sep 2015,House: 4  2  2 ,Land size: 700 sqm
+110,1/191 Barwarre Road,"Sold $396,100 in May 2017","Last Sold $142,000 in Aug 2009", ,House: 4  1  1 ,Land size: 399 sqm
+111,19-20 Chambers Court,"Sold $391,000 in Apr 2017","Last Sold $286,000 in May 2008", , ,Land size: 583 sqm
+112,24 Werner Avenue,"Sold $434,000 in Apr 2017","Last Sold $139,800 in Feb 2000",Rent $395pw in Apr 2016,House: 3  2  2 ,Land size: 484 sqm
+113,11 Nikola Court,"Sold $430,000 in Apr 2017","Last Sold $145,900 in Jan 2009",Rent $420pw in May 2018,House: 4  2  2 ,Land size: 465 sqm | Building size: 178 sqm
+114,16 Adair Court,"Sold $420,000 in Apr 2017", ,Rent $400pw in Jul 2018,House: 3  2  2 ,Land size: 370 sqm
+115,17-19 Oriondo Way,"Sold $412,000 in Mar 2017","Last Sold $164,000 in May 2012", ,House: 3  2  2 ,Land size: 338 sqm
+116,22 Marvins Place,"Sold $375,000 in Mar 2017","Last Sold $145,000 in Sep 2009", , ,Land size: 450 sqm
+117,12 Reedy Link,"Sold $425,000 in Mar 2017","Last Sold $305,801 in Mar 2009",Rent $400pw in Jun 2017,House: 3  2  2 ,Land size: 480 sqm
+118,16 Grove Road,"Sold $460,000 in Mar 2017", , ,House: 3  2  2 ,Land size: 708 sqm
+119,13-15 Marvins Place,"Sold $450,000 in Mar 2017","Last Sold $150,000 in Jul 2009",Rent $410pw in Jul 2011,House: 4  2  2 ,Land size: 632 sqm
+120,3 Minka Court,"Sold $381,000 in Mar 2017","Last Sold $336,000 in Mar 2010",Rent $450pw in Jun 2020, ,Land size: 853 sqm
+121,47 Barwarre Road,"Sold $420,000 in Feb 2017","Last Sold $142,000 in Jul 2009", , ,Land size: 437 sqm | Building size: 173 sqm
+122,2-4 Basford Court,"Sold $364,000 in Jan 2017","Last Sold $307,000 in Oct 2013", ,House: 3  1  1 ,Land size: 448 sqm
+123,18 Werner Avenue,"Sold $395,000 in Jan 2017","Last Sold $147,000 in Mar 2009", ,House: 4  1  1 ,Land size: 484 sqm
+124,6/66 Station Road,"Sold $305,000 in Jan 2017","Last Sold $85,000 in Feb 2000", , ,Land size: 243 sqm
+125,15 Macfarlane Street,"Sold $412,750 in Dec 2016","Last Sold $154,000 in Mar 2009", ,House: 3  2  2 ,Land size: 550 sqm | Building size: 150 sqm
+126,14/66 Station Road,"Sold $350,000 in Dec 2016","Last Sold $85,000 in Feb 2000", , ,Land size: 188 sqm
+127,6/64-68 Station Road,"Sold $305,000 in Dec 2016", , ,House: 2  1  , 
+128,16/64-68 Station Road,"Sold $370,000 in Dec 2016", , , , 
+129,6 Emilija Court,"Sold $307,000 in Nov 2016","Last Sold $275,000 in May 2010",Rent $300pw in Dec 2015,House: 2  1  1 ,Land size: 265 sqm | Building size: 96 sqm
+130,5 Priory Court,"Sold $470,000 in Nov 2016","Last Sold $440,000 in Feb 2014", ,House: 4  2  2 ,Land size: 714 sqm
+131,23 Basford Court,"Sold $357,000 in Nov 2016","Last Sold $140,000 in Jun 2011", ,House: 3  2  2 ,Land size: 368 sqm | Building size: 128 sqm
+132,31 St Cuthberts Court,"Sold $455,000 in Oct 2016","Last Sold $125,000 in Feb 2000", ,House: 4  2  3 ,Land size: 629 sqm | Building size: 229 sqm
+133,13 Macfarlane Street,"Sold $440,000 in Oct 2016","Last Sold $159,000 in Jul 2009", ,House: 4  2  2 ,Land size: 530 sqm | Building size: 168 sqm
+134,1/3 Inala Court,"Sold $270,000 in Sep 2016","Last Sold $158,500 in Sep 2002",Rent $340pw in Nov 2019, ,Land size: 363 sqm
+135,10 Marvins Place,"Sold $368,000 in Sep 2016","Last Sold $145,000 in Jun 2009",Rent $370pw in Jul 2016,House: 3  2  2 ,Land size: 496 sqm
+136,5 Liam Lane,"Sold $426,500 in Sep 2016","Last Sold $366,000 in Jul 2009", ,House: 3  2  5 ,"Land size: 2,272 sqm | Building size: 158 sqm"
+137,28 Macfarlane Street,"Sold $355,000 in Sep 2016","Last Sold $325,000 in Aug 2012",Rent $410pw in Feb 2020,House: 3  2  1 ,Land size: 377 sqm | Building size: 114 sqm
+138,14 Orpington Crescent,"Sold $161,000 in Aug 2016","Last Sold $150,000 in Jan 2012", , ,Land size: 374 sqm | Building size: 185 sqm
+139,153 Barwarre Road,"Sold $275,000 in Aug 2016", , ,House: 3  1  1 ,Land size: 145 sqm
+140,2 Inala Court,"Sold $408,000 in Aug 2016","Last Sold $58,500 in Apr 1983",Rent $420pw in Oct 2017,House: 4  2  2 ,"Land size: 1,392 sqm | Building size: 163 sqm"
+141,18 Marvins Place,"Sold $390,000 in Aug 2016", ,Rent $375pw in Aug 2015,House: 3  2  2 ,Land size: 487 sqm
+142,3/10 Oriondo Way,"Sold $325,000 in Jul 2016","Last Sold $156,000 in Jan 2012", , ,Land size: 353 sqm
+143,27 Krisanway Drive,"Sold $350,000 in Jul 2016","Last Sold $122,900 in Mar 2009", ,House: 3  2  1 ,Land size: 331 sqm | Building size: 131 sqm
+144,3 Barwarre Road,"Sold $425,000 in Jul 2016","Last Sold $172,500 in Jun 2012",Rent $460pw in Aug 2018,House: 4  2  2 ,Land size: 544 sqm
+145,9 Emilija Court,"Sold $425,000 in May 2016","Last Sold $143,000 in Dec 2008", ,House: 3  2  2 ,Land size: 482 sqm
+146,62-80 Horseshoe Bend Road,"Sold $1,310,000 in May 2016","Last Sold $635,000 in Feb 2011",Rent $540pw in Oct 2017, ,"Land size: 48,400 sqm"
+147,12 Ardeche Lane,"Sold $177,000 in May 2016","Last Sold $172,500 in May 2012", , ,Land size: 526 sqm
+148,35 Werner Avenue,"Sold $395,000 in May 2016","Last Sold $372,800 in May 2013", ,House: 4  2  2 ,Land size: 481 sqm | Building size: 143 sqm
+149,52 Marshalltown Road,"Sold $175,000 in May 2016", , , ,Land size: 480 sqm
+150,Lot 23 232-270 Barwon Heads Road,"Sold $170,000 in May 2016", , , , 
+151,76 Station Road,"Sold $395,000 in May 2016", , , ,Land size: 399 sqm
+152,23 272-280 Barwarre Road 'Barwarre Estate Stage 7',"Sold $170,000 in May 2016", , , ,Land size: 416 sqm
+153,Lot 23,"Sold $170,000 in May 2016", , , ,Land size: 416 sqm
+154,14 Badminton Court,"Sold $454,000 in May 2016","Last Sold $180,000 in May 2014", ,House: 4  2  2 ,Land size: 480 sqm | Building size: 209 sqm
+155,22 Adair Court,"Sold $360,000 in May 2016","Last Sold $168,000 in Nov 2010", ,House: 3  2  2 ,Land size: 464 sqm
+156,9 Esme Court,"Sold $165,000 in Apr 2016", ,Rent $390pw in Jan 2017,House: 3  2  2 ,Land size: 386 sqm | Building size: 137 sqm
+157,Lot 25 9 Esme Court,"Sold $165,000 in Apr 2016", , , , 
+158,25 272-280 Barwarre Road 'Barwarre Estate Stage 7',"Sold $165,000 in Apr 2016", , , ,Land size: 386 sqm
+159,"Lot 25, 232-270 Esme Court","Sold $165,000 in Apr 2016", , , ,Land size: 386 sqm
+160,6 St Cuthberts Court,"Sold $340,000 in Apr 2016","Last Sold $100,000 in Aug 2005",Rent $330pw in Jul 2015,House: 3  2  4 ,Land size: 374 sqm | Building size: 120 sqm
+161,26B MACFARLANE Street,"Sold $179,500 in Apr 2016", ,Rent $425pw in Nov 2018, ,Land size: 407 sqm
+162,6 Krisanway Drive,"Sold $446,000 in Mar 2016", , ,House: 4  2  2 ,Land size: 580 sqm | Building size: 168 sqm
+163,16 MORETTI Court,"Sold $171,500 in Mar 2016", ,Rent $400pw in Apr 2018, ,Land size: 301 sqm
+164,24 Basford Court,"Sold $429,000 in Mar 2016", , ,House: 4  2  2 , 
+165,440 Barwon Heads Road,"Sold $912,000 in 19 Mar 2016(Auction)", , , , 
+166,17 MORETTI Court,"Sold $171,500 in Feb 2016", ,Rent $410pw in Dec 2019, ,Land size: 301 sqm
+167,125 Barwarre Road,"Sold $422,000 in Feb 2016","Last Sold $141,000 in Mar 2009",Rent $500pw in Jul 2015,House: 4  2  3 ,Land size: 471 sqm
+168,11 Grove Road,"Sold $377,000 in Feb 2016","Last Sold $347,500 in Feb 2010", ,House: 3  1  2 ,Land size: 450 sqm | Building size: 120 sqm
+169,1-2 Speranza Court,"Sold $342,500 in Feb 2016", ,Rent $350pw in Jan 2016,House: 3  2  2 ,Land size: 381 sqm
+170,11 Werner Avenue,"Sold $440,000 in Feb 2016","Last Sold $150,500 in Mar 2009", ,House: 4  2  2 ,Land size: 534 sqm | Building size: 183 sqm
+171,5 MORETTI Court,"Sold $184,000 in Feb 2016", ,Rent $420pw in Sep 2016,House: 4  2  2 ,Land size: 470 sqm
+172,39 Werner Avenue,"Sold $445,000 in Feb 2016","Last Sold $148,500 in Oct 2009", ,House: 4  2  2 ,Land size: 534 sqm | Building size: 201 sqm
+173,14-15 MORETTI Court,"Sold $176,500 in Jan 2016", ,Rent $370pw in Sep 2017,House: 4  2  2 ,Land size: 374 sqm
+174,3/70-72 Marshalltown Road,"Sold $285,000 in Jan 2016","Last Sold $90,500 in Jun 2000", , ,Land size: 229 sqm
+175,Lot 3 Stage 2Macfarlane Street,"Sold $174,000 in Jan 2016", , , ,Land size: 548 sqm
+176,4 MORETTI Court,"Sold $175,000 in Jan 2016", , ,House: 2  1  1 ,Land size: 410 sqm
+177,9 ALLEGRO Court,"Sold $169,000 in Jan 2016", ,Rent $400pw in Dec 2017,House: 2  1  ,Land size: 319 sqm
+178,19 MORETTI Court,"Sold $171,000 in Jan 2016", , , ,Land size: 347 sqm
+179,12 MORETTI Court,"Sold $175,000 in Jan 2016", ,Rent $440pw in Sep 2019,House: 4  2  2 ,Land size: 362 sqm
+180,L315 Moretti Court,"Sold $166,500 in Jan 2016", , , ,Land size: 364 sqm
+181,L309 Moretti Court,"Sold $172,250 in Jan 2016", , , ,Land size: 410 sqm
+182,L307 Moretti Court,"Sold $171,000 in Jan 2016", , , ,Land size: 380 sqm
+183,L316 Moretti Court,"Sold $172,250 in Jan 2016", , , ,Land size: 363 sqm
+184,32 MacFarlane Street,"Sold $346,000 in Dec 2015","Last Sold $145,000 in Apr 2010",Rent $400pw in Jan 2019,House: 3  1  1 ,Land size: 358 sqm | Building size: 114 sqm
+185,18 MORETTI Court,"Sold $171,500 in Dec 2015", ,Rent $395pw in Sep 2016,House: 4  2  2 ,Land size: 316 sqm
+186,20 MORETTI Court,"Sold $171,000 in Dec 2015", , , ,Land size: 380 sqm
+187,8 MORETTI Court,"Sold $175,000 in Dec 2015", ,Rent $410pw in May 2019,House: 4  2  2 ,Land size: 372 sqm
+188,39 Marshalltown Road,"Sold $315,000 in Dec 2015","Last Sold $135,000 in Jul 2003",Rent $360pw in Mar 2016,House: 3  1  2 ,Land size: 641 sqm | Building size: 123 sqm
+189,7 Moretti Court,"Sold $173,500 in Dec 2015", ,Rent $390pw in Dec 2017,House: 4  2  2 ,Land size: 304 sqm
+190,Lot 10 232-270 Barwon Heads Road,"Sold $172,500 in Dec 2015", , , , 
+191,Lot 10,"Sold $172,500 in Dec 2015", , , ,Land size: 542 sqm
+192,10 232-270 Barwon Heads Road,"Sold $172,500 in Dec 2015", , , ,Land size: 542 sqm
+193,2/76 Marshalltown Road,"Sold $303,000 in Dec 2015", , , ,Land size: 205 sqm | Building size: 106 sqm
+194,16 Reedy Link,"Sold $379,000 in Nov 2015","Last Sold $305,000 in Sep 2009", ,House: 3  1  2 ,Land size: 467 sqm | Building size: 117 sqm
+195,25 Basford Court,"Sold $384,000 in Nov 2015","Last Sold $143,000 in Jun 2014", ,House: 3  2  1 ,Land size: 404 sqm | Building size: 114 sqm
+196,1-3 Grove Road,"Sold $420,000 in Nov 2015", , ,House: 3  2  2 ,Land size: 624 sqm
+197,21 Carlina Court,"Sold $380,000 in Nov 2015","Last Sold $175,000 in Jan 2011",Rent $380pw in Jan 2016,House: 3  2  2 ,Land size: 451 sqm
+198,2-4 St Cuthberts Court,"Sold $386,000 in Nov 2015", ,Rent $420pw in Oct 2018,House: 4  2  2 ,Land size: 678 sqm
+199,10 MORETTI Court,"Sold $165,000 in Nov 2015", , , ,Land size: 367 sqm
+200,3 ALLEGRO Court,"Sold $168,000 in Nov 2015", ,Rent $360pw in Mar 2018,House: 4  2  1 ,Land size: 343 sqm
+201,8/66 Station Road,"Sold $334,000 in Nov 2015","Last Sold $85,000 in Feb 2000", , ,Land size: 205 sqm
+202,2 St Cuthberts Court,"Sold $386,000 in Nov 2015","Last Sold $110,000 in Jun 2005", ,House: 4  2  2 ,Land size: 679 sqm | Building size: 164 sqm
+203,7 Tamala Avenue,"Sold $305,000 in Oct 2015","Last Sold $235,000 in Feb 2000", ,House: 3  1  1 ,Land size: 656 sqm | Building size: 121 sqm
+204,19 Grove Road,"Sold $348,500 in Oct 2015","Last Sold $130,000 in Aug 2008", ,House: 3  1  2 ,Land size: 450 sqm | Building size: 115 sqm
+205,74 Station Road,"Sold $450,000 in Oct 2015", , ,House: 3  1  1 ,"Land size: 1,318 sqm"
+206,13 St Cuthberts Court,"Sold $225,000 in Oct 2015","Last Sold $116,500 in Aug 2004", ,House: ,Land size: 741 sqm
+207,L317 Moretti Court,"Sold $175,000 in Oct 2015", , , ,Land size: 300 sqm
+208,Lot 1 Macfarlane Street,"Sold $169,000 in Oct 2015", , , ,Land size: 359 sqm
+209,Lot 2 Macfarlane Street,"Sold $169,000 in Oct 2015", , , ,Land size: 356 sqm
+210,321-329 Barwon Heads Road,"Sold $710,000 in Oct 2015", ,Rent $380pw in Jan 2016,House: 3  1  4 ,"Land size: 27,868 sqm"
+211,9-11 Orphington Crescent,"Sold $360,000 in Sep 2015", , ,House: 4  ,Land size: 301 sqm
+212,12 Leghorn Way,"Sold $360,000 in Sep 2015","Last Sold $132,500 in Jan 2012",Rent $380pw in Sep 2016,House: 3  2  4 ,Land size: 301 sqm | Building size: 116 sqm
+213,282-284 Barwon Heads Road,"Sold $545,000 in Sep 2015", , ,House: 4  2  4 ,"Land size: 2,259 sqm"
+214,15-16 Carlina Court,"Sold $375,000 in Aug 2015", ,Rent $430pw in Dec 2017,House: 4  2  2 ,Land size: 412 sqm
+215,14/272-280 Barwarre Road,"Sold $183,000 in Aug 2015", , , , 
+216,13 Oriondo Way,"Sold $372,000 in Aug 2015","Last Sold $167,000 in Jun 2011",Rent $370pw in Nov 2014,House: 3  2  2 ,Land size: 359 sqm | Building size: 152 sqm
+217,38 232-270 Barwon Heads Road,"Sold $149,000 in Aug 2015", , , ,Land size: 381 sqm
+218,Lot 38 232-270 Barwon Heads Road,"Sold $149,000 in Aug 2015", , , ,Land size: 381 sqm
+219,Lot 38,"Sold $149,000 in Aug 2015", , , ,Land size: 381 sqm
+220,28 Station Road,"Sold $410,000 in Aug 2015","Last Sold $187,000 in Nov 2012", ,House: 4  3  2 ,Land size: 632 sqm
+221,193-197 Barwarre Road,"Sold $405,000 in Jul 2015","Last Sold $325,000 in May 2008", ,House: 4  2  4 ,"Land size: 1,029 sqm"
+222,10 ESME Court,"Sold $172,000 in Jul 2015", ,Rent $400pw in Jan 2018,House: 4  2  2 ,Land size: 369 sqm
+223,Lot 9 Barwarre Road,"Sold $183,000 in Jul 2015", , , ,Land size: 663 sqm
+224,14 272-280 Barwarre Road 'Barwarre Estate Stage 7',"Sold $183,000 in Jul 2015", , , ,Land size: 526 sqm
+225,Lot 14 232-270 Barwon Heads Road,"Sold $183,000 in Jul 2015", , , ,Land size: 526 sqm
+226,Lot 14,"Sold $183,000 in Jul 2015", , , ,Land size: 526 sqm
+227,14 Tamala Avenue,"Sold $381,000 in Jul 2015","Last Sold $375,000 in Mar 2013", ,House: 5  2  2 ,Land size: 678 sqm | Building size: 180 sqm
+228,17 Marvins Place,"Sold $401,000 in Jul 2015","Last Sold $150,000 in Mar 2009", ,House: 3  2  2 ,Land size: 512 sqm
+229,1 Drews Road,"Sold $325,500 in 14 Jul 2015(Auction)","Last Sold $110,000 in Aug 2000",Rent $350pw in Aug 2017,House: 3  1  2 ,Land size: 701 sqm
+230,346 Barwon Heads Road,"Sold $325,000 in 11 Jul 2015(Auction)","Last Sold $103,000 in Oct 1994",Rent $390pw in Nov 2019,House: 3  1  3 ,Land size: 922 sqm | Building size: 120 sqm
+231,9/66 Station Road,"Sold $334,000 in Jul 2015","Last Sold $85,000 in Feb 2000", , ,Land size: 205 sqm
+232,36 232-270 Barwon Heads Road,"Sold $170,000 in Jul 2015", , , ,Land size: 432 sqm
+233,Lot 36,"Sold $170,000 in Jul 2015", , , ,Land size: 432 sqm
+234,Lot 36 232-270 Barwon Heads Road,"Sold $170,000 in Jul 2015", , , ,Land size: 432 sqm
+235,20 Basford Court,"Sold $393,000 in Jun 2015","Last Sold $160,000 in May 2012", ,House: 3  2  2 ,Land size: 500 sqm | Building size: 155 sqm
+236,232 Barwon Heads Road,"Sold $165,000 in Jun 2015", , , ,"Land size: 42,692 sqm"
+237,30/232 Barwon Heads Road,"Sold $165,000 in Jun 2015", , , , 
+238,Lot 30 232-270 Barwon Heads Road,"Sold $165,000 in Jun 2015", , , ,Land size: 348 sqm
+239,Lot 30,"Sold $165,000 in Jun 2015", , , ,Land size: 348 sqm
+240,30 232-270 Barwon Heads Road,"Sold $165,000 in Jun 2015", , , ,Land size: 348 sqm
+241,32 232-270 Barwon Heads Road,"Sold $160,000 in Jun 2015", , , ,Land size: 348 sqm
+242,Lot 32,"Sold $160,000 in Jun 2015", , , ,Land size: 348 sqm
+243,Lot 32 232-270 Barwon Heads Road,"Sold $160,000 in Jun 2015", , , ,Land size: 348 sqm
+244,10 Krisanway Drive,"Sold $510,000 in Jun 2015","Last Sold $180,000 in Oct 2009", ,House: 3  2  2 ,Land size: 580 sqm
+245,36 Werner Avenue,"Sold $382,500 in May 2015","Last Sold $370,000 in Mar 2014",Rent $420pw in Apr 2019,House: 3  2  2 ,Land size: 485 sqm | Building size: 133 sqm
+246,17 Grove Road,"Sold $350,000 in May 2015","Last Sold $130,000 in Aug 2008", ,House: 3  1  2 ,Land size: 450 sqm
+247,13 Badminton Court,"Sold $165,000 in May 2015", , , ,Land size: 348 sqm
+248,1/8 Nikola Court,"Sold $315,000 in May 2015","Last Sold $275,000 in Jul 2010",Rent $320pw in Apr 2018, ,Land size: 252 sqm | Building size: 160 sqm
+249,L306 Moretti Court,"Sold $171,000 in Apr 2015", , , ,Land size: 349 sqm
+250,8 Basford Court,"Sold $380,000 in Apr 2015","Last Sold $155,000 in Feb 2000", ,House: 4  2  2 ,Land size: 386 sqm | Building size: 135 sqm
+251,1/8 Ardeche Lane,"Sold $316,500 in Apr 2015", , , ,Land size: 264 sqm | Building size: 111 sqm
+252,35 Badminton Court,"Sold $165,000 in Apr 2015", , , ,Land size: 341 sqm
+253,29 Badminton Court,"Sold $175,000 in Apr 2015", , , ,Land size: 451 sqm | Building size: 144 sqm
+254,15 Basford Court,"Sold $160,000 in Apr 2015", , , ,"Land size: 2,324 sqm | Building size: 109 sqm"
+255,3 Drews Road,"Sold $380,000 in Apr 2015","Last Sold $315,000 in Oct 2010", ,House: 4  2  4 ,Land size: 677 sqm | Building size: 195 sqm
+256,33-47 Badminton Court,"Sold $175,000 in Mar 2015", , , ,Land size: 452 sqm
+257,Lot 37 Badminton Court,"Sold $175,000 in Mar 2015", , , ,Land size: 452 sqm
+258,Lot 37/232-270 Badminton Court,"Sold $175,000 in Mar 2015", , , , 
+259,37 Badminton Court,"Sold $175,000 in Mar 2015", , , ,Land size: 452 sqm
+260,"Lot 37, Badminton Court","Sold $175,000 in Mar 2015", , , ,Land size: 452 sqm
+261,36 Drews Road,"Sold $364,000 in Mar 2015","Last Sold $133,000 in Jan 2012",Rent $365pw in Jul 2017,House: 3  2  2 ,Land size: 300 sqm
+262,26/232 Barwon Heads Road,"Sold $172,000 in Mar 2015", , , , 
+263,Lot 6 Macfarlane Street,"Sold $168,000 in Mar 2015", , , ,Land size: 356 sqm
+264,23 MacFarlane Street,"Sold $168,000 in Mar 2015", ,Rent $425pw in Nov 2017,House: 4  2  2 ,Land size: 353 sqm
+265,Lot 26 Esme Court,"Sold $172,000 in Mar 2015", , , , 
+266,"Lot 26, Esme Court","Sold $172,000 in Mar 2015", , , ,Land size: 370 sqm
+267,26 Barwarre Estate Stage 7,"Sold $172,000 in Mar 2015", , , ,Land size: 370 sqm
+268,15-17 Badminton Court,"Sold $165,000 in Mar 2015", ,Rent $370pw in Nov 2016,House: 3  2  2 ,Land size: 343 sqm
+269,1/4 Barwarre Road,"Sold $299,500 in Mar 2015", ,Rent $335pw in Jul 2018, ,Land size: 247 sqm | Building size: 94 sqm
+270,25 Badminton Court,"Sold $165,000 in Mar 2015", ,Rent $400pw in Mar 2019,House: 3  2  2 ,Land size: 333 sqm
+271,Lot 28 Badminton Court,"Sold $160,000 in Feb 2015", , , , 
+272,Lot 35 Badminton Court,"Sold $165,000 in Feb 2015", , , ,Land size: 341 sqm
+273,9 Badminton Court,"Sold $160,000 in Feb 2015", ,Rent $395pw in Oct 2016, ,Land size: 340 sqm
+274,28 28 Badminton Court,"Sold $160,000 in Feb 2015", , , ,Land size: 340 sqm
+275,25 MacFarlane Street,"Sold $169,000 in Feb 2015", ,Rent $380pw in May 2018,House: 4  2  2 ,Land size: 346 sqm
+276,5 Allegro Court,"Sold $169,000 in Feb 2015", ,Rent $390pw in Nov 2017,House: 4  2  2 ,Land size: 319 sqm
+277,6 Allegro Court,"Sold $159,001 in Feb 2015", ,Rent $440pw in Aug 2020,House: 4  2  2 ,Land size: 320 sqm
+278,2-6 STATION Road,"Sold $1,750,000 in Feb 2015","Last Sold $68,500 in Jan 1988", ,House: 4  1  1 ,"Land size: 1,000 sqm"
+279,63 Marshalltown Road,"Sold $465,000 in 14 Feb 2015(Auction)", , ,House: 4  2  1 ,Land size: 801 sqm
+280,5 St Cuthberts Court,"Sold $415,000 in Feb 2015","Last Sold $380,000 in Mar 2010",Rent $420pw in Nov 2014,House: 4  2  2 ,Land size: 730 sqm | Building size: 162 sqm
+281,"Lot 31, Badminton Court","Sold $165,000 in Feb 2015", , , ,Land size: 344 sqm
+282,31 Badminton Court,"Sold $165,000 in Feb 2015", , , ,Land size: 380 sqm
+283,1/66 Marshalltown Road,"Sold $300,000 in Jan 2015","Last Sold $285,000 in Nov 2010",Rent $300pw in Mar 2015, ,Land size: 197 sqm | Building size: 98 sqm
+284,11-13 Orphington Crescent,"Sold $338,000 in Jan 2015", ,Rent $385pw in Jan 2015,House: 3  2  1 , 
+285,47 Marshalltown Road,"Sold $320,000 in Jan 2015","Last Sold $275,000 in Nov 2007", ,House: 3  2  1 ,Land size: 684 sqm
+286,49 Marshalltown Road,"Sold $338,000 in Jan 2015", , ,House: 3  ,Land size: 664 sqm
+287,23 Badminton Court,"Sold $185,000 in Jan 2015", , , ,Land size: 348 sqm
+288,2/41 Barwarre Road,"Sold $415,000 in Jan 2015","Last Sold $154,000 in Jun 2010", ,House: 4  2  2 ,Land size: 438 sqm | Building size: 160 sqm
+289,26 MacFarlane Street,"Sold $169,000 in Dec 2014", ,Rent $410pw in Jul 2018,House: 4  2  2 ,Land size: 375 sqm
+290,14 Orphington Crescent,"Sold $338,000 in Dec 2014","Last Sold $150,000 in Jan 2012", ,House: 2  2  ,Land size: 300 sqm | Building size: 185 sqm
+291,11 Orpington Crescent,"Sold $338,000 in Dec 2014", , ,House: 3  2  1 ,Land size: 301 sqm | Building size: 110 sqm
+292,37 Werner Avenue,"Sold $430,000 in Dec 2014","Last Sold $145,500 in Feb 2000", ,House: 3  2  2 ,Land size: 481 sqm | Building size: 173 sqm
+293,24 MacFarlane Street,"Sold $167,000 in Dec 2014","Last Sold $154,000 in Mar 2009",Rent $395pw in Jan 2018,House: 4  2  2 ,Land size: 350 sqm
+294,31 Marvins Place,"Sold $385,000 in Nov 2014", , ,House: 4  2  2 ,Land size: 545 sqm | Building size: 545 sqm
+295,Lot 11 Basford Court,"Sold $169,000 in Nov 2014", , , ,"Land size: 2,323 sqm"
+296,15 Chambers Court,"Sold $370,000 in Nov 2014","Last Sold $315,500 in Feb 2009",Rent $400pw in Feb 2012,House: 4  2  2 ,Land size: 694 sqm | Building size: 142 sqm
+297,27 MacFarlane Street,"Sold $168,000 in Nov 2014","Last Sold $121,000 in Sep 2008",Rent $370pw in Sep 2017,House: 4  2  3 ,Land size: 365 sqm
+298,11 Esme Court,"Sold $165,000 in Nov 2014", , , ,Land size: 347 sqm
+299,11 Badminton Court,"Sold $165,000 in Nov 2014", , , ,Land size: 347 sqm

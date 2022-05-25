@@ -1,0 +1,301 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,122 Thompson Road," 442,000 ", Aug 2020,0, ,, 310 , May 2017, 647 ,,3,1,2,North Geelong
+1,51 Saywell Street," 547,000 ", Aug 2020,0," 410,000 ", Sep 2015, ,, 674 ,,3,1,3,North Geelong
+2,2/26 Kerr Street," 400,000 ", Aug 2020,0," 233,000 ", Sep 2012, ,, 338  ,  92 ,0,0,0,North Geelong
+3,11 Balfour Street," 790,000 ", Aug 2020,0," 650,000 ", Aug 2017, ,, 375  ,  261 ,0,0,0,North Geelong
+4,3 Walsgott Street," 550,000 ", Jul 2020,0," 380,000 ", Apr 2019, ,, 646  ,  153 ,4,3,5,North Geelong
+5,42 Guthrie Avenue," 630,000 ", Jul 2020,0," 81,000 ", Dec 1999, ,, 458 ,,3,1,1,North Geelong
+6,25 Edols Street," 515,000 ", 27 Jun 2020,1, ,, ,," 1,012 ",,0,0,0,North Geelong
+7,25 Dobie Court," 337,500 ", Jun 2020,0," 237,500 ", Jul 2017, ,, 320 ,,0,0,0,North Geelong
+8,29 Dobie Court," 670,000 ", Jun 2020,0," 230,000 ", Mar 2012, ,, 320 ,,4,2,2,North Geelong
+9,1/7 Saywell Street," 460,000 ", Jun 2020,0," 295,000 ", Dec 2010, ,, 300  ,  105 ,3,1,2,North Geelong
+10,64 Slevin Street," 415,000 ", May 2020,0," 275,000 ", Feb 2012, ,, 595  ,  143 ,3,1,2,North Geelong
+11,16 Giddings street," 512,000 ", May 2020,0," 386,000 ", Jul 2016, ,, 675 ,,3,1,2,North Geelong
+12,71 Osborne Avenue," 480,000 ", May 2020,0," 225,000 ", Jun 2007, ,, 646  ,  140 ,3,1,2,North Geelong
+13,21 Pattison Avenue," 326,000 ", May 2020,0, ,, ,, 505 ,,0,0,0,North Geelong
+14,11 Guthrie Avenue," 670,000 ", Apr 2020,0," 182,500 ", Nov 2001, ,, 458 ,,3,1,1,North Geelong
+15,12 Craddock Street," 610,000 ", Apr 2020,0," 246,000 ", Sep 2005, ,, 607 ,,3,1,1,North Geelong
+16,12 Stubbs Avenue," 618,000 ", Mar 2020,0," 195,000 ", Jul 2004, ,, 458  ,  112 ,3,1,1,North Geelong
+17,1/26 Kerr Street," 389,500 ", Mar 2020,0," 162,000 ", Jul 2003, ,, 338 ,,0,0,0,North Geelong
+18,59 Giddings Street," 579,000 ", 05 Mar 2020,1, ,, ,, 739 ,,4,1,3,North Geelong
+19,57 Roseneath Street," 479,000 ", Mar 2020,0," 250,000 ", Mar 2013, ,, 613  ,  193 ,4,2,2,North Geelong
+20,28 Balfour Street," 632,000 ", Feb 2020,0," 260,000 ", May 2012, ,, 375 ,,4,2,2,North Geelong
+21,25 Sargood Street," 802,000 ", Feb 2020,0," 254,000 ", Dec 2013, ,, 375 ,,0,0,0,North Geelong
+22,21 Balfour Street," 800,000 ", Feb 2020,0," 775,000 ", Jul 2017, ,, 374 ,,4,2,2,North Geelong
+23,7 Walsgott Street," 551,000 ", 15 Feb 2020,1," 207,000 ", Jun 2009, ,, 646  ,  104 ,3,1,2,North Geelong
+24,33 Stubbs Avenue," 675,000 ", Feb 2020,0," 205,000 ", Feb 2008, ,, 725 ,,3,0,0,North Geelong
+25,120 Rutledge Boulevard," 870,000 ", Feb 2020,0," 310,000 ", Jul 2013, ,, 472 ,,0,0,0,North Geelong
+26,30 Osborne Avenue," 515,000 ", Dec 2019,0, ,, 320 , Dec 2017, 646 ,,3,1,5,North Geelong
+27,11-12 McCabe Doyle Court," 772,500 ", Dec 2019,0," 240,000 ", Jul 2015, ,, 456 ,,0,0,0,North Geelong
+28,6 Osborne Avenue," 477,000 ", 07 Dec 2019,1," 245,000 ", Sep 2014, ,, 646 ,,3,1,1,North Geelong
+29,106 Giddings Street," 560,000 ", Nov 2019,0," 400,000 ", Feb 2014, ,, 267  ,  154 ,3,2,2,North Geelong
+30,47 Guthrie Avenue," 548,000 ", 09 Nov 2019,1," 333,000 ", Apr 2015, ,, 459 ,,2,1,1,North Geelong
+31,43 Wurrook Circuit," 452,500 ", Nov 2019,0," 180,500 ", Apr 2013, ,, 301 ,,3,2,2,North Geelong
+32,11 The Fairway," 630,000 ", Oct 2019,0," 355,000 ", Nov 2003, ,, 749 ,,3,2,2,North Geelong
+33,1/234 Thompson Road," 350,000 ", Oct 2019,0," 269,950 ", Nov 2008, ,, 248 ,,2,1,1,North Geelong
+34,21 Power Way," 595,000 ", Oct 2019,0," 280,000 ", May 2016, ,, 414  ,  204 ,3,2,3,North Geelong
+35,8 Dobie Court," 810,000 ", Oct 2019,0," 280,000 ", Jan 2012, ,, 448  ,  309 ,4,2,2,North Geelong
+36,9 Giddings Street," 485,000 ", 05 Oct 2019,1," 319,000 ", Mar 2013, ,, 645  ,  148 ,3,1,1,North Geelong
+37,35 Edols Street," 327,000 ", 07 Sep 2019,1, ,, ,, 765 ,,2,1,3,North Geelong
+38,2/10 The Fairway," 350,000 ", Sep 2019,0," 269,000 ", Aug 2010, ,, 223  ,  84 ,2,1,1,North Geelong
+39,c/1 Walsgott Street," 490,000 ", Aug 2019,0, ,, ,, ,,3,2,2,North Geelong
+40,32 Coxon Parade," 472,000 ", Aug 2019,0," 317,000 ", Sep 2015, ,, 572 ,,3,1,2,North Geelong
+41,12 Walsgott Street," 443,000 ", 20 Jul 2019,1," 245,000 ", Aug 2014, ,, 646 ,,2,1,1,North Geelong
+42,1/116 Thompson Road," 320,000 ", Jul 2019,0," 220,000 ", Jul 2015, ,, 294 ,,0,0,0,North Geelong
+43,100 Rutledge Boulevard," 760,000 ", Jul 2019,0," 234,000 ", Nov 2011, ,, 357  ,  241 ,4,2,2,North Geelong
+44,8 Guthrie Avenue," 773,000 ", 06 Jul 2019,1," 520,000 ", Sep 2011, ,, 458  ,  186 ,3,1,1,North Geelong
+45,38 Stubbs Avenue," 495,000 ", 29 Jun 2019,1," 252,000 ", Jun 2013, ,, 487  ,  95 ,3,1,2,North Geelong
+46,18 Jobbins Street," 430,000 ", Jun 2019,0, ,, 325 , Sep 2017, 299 ,,3,2,2,North Geelong
+47,97-99 Wurrook Circuit," 447,500 ", Jun 2019,0," 190,000 ", Sep 2014, ,, 322 ,,3,2,1,North Geelong
+48,2/2 Craddock Street," 415,000 ", May 2019,0," 80,000 ", Jul 2013, ,, 218 ,,2,2,1,North Geelong
+49,16 Balfour Street," 378,000 ", May 2019,0," 277,000 ", Jan 2012, ,, 405 ,,0,0,0,North Geelong
+50,27 Dobie Court," 290,000 ", May 2019,0," 230,000 ", Sep 2011, ,, 320 ,,0,0,0,North Geelong
+51,126 Thompson Road," 450,000 ", May 2019,0," 76,000 ", Feb 2000, ,, 642 ,,3,2,1,North Geelong
+52,6 Jobbins Street," 416,000 ", Apr 2019,0," 170,000 ", Jun 2013, ,, 255  ,  110 ,3,2,2,North Geelong
+53,48 Roseneath Street," 560,000 ", 30 Mar 2019,1," 240,000 ", Nov 2010, ,, 802 ,,2,1,1,North Geelong
+54,95 Wurrook Circuit," 445,000 ", Mar 2019,0," 191,000 ", Feb 2014, ,, 326 ,,3,2,1,North Geelong
+55,7 Wurrook Circuit," 505,000 ", Mar 2019,0," 204,000 ", Jul 2012, ,, 387 ,,3,2,2,North Geelong
+56,9 Dobie Court," 586,000 ", Mar 2019,0," 215,000 ", Mar 2014, ,, 352  ,  194 ,3,2,4,North Geelong
+57,12 Jobbins Street," 425,000 ", Mar 2019,0," 170,000 ", Jan 2013, ,, 255  ,  116 ,3,2,2,North Geelong
+58,1/9 Osborne Avenue," 445,000 ", Mar 2019,0," 130,000 ", Oct 2010, ,, 284  ,  155 ,0,0,0,North Geelong
+59,7 cooma court," 540,000 ", Mar 2019,0," 318,000 ", Jun 2011, ,, 796 ,,3,1,2,North Geelong
+60,1/4 Kerr Street," 450,000 ", Feb 2019,0, ,, 400 , Feb 2019, 523 ,,3,2,0,North Geelong
+61,2/116 Thompson Road," 377,500 ", Feb 2019,0, ,, 310 , Nov 2018, 214 ,,0,0,0,North Geelong
+62,11 Giddings Street," 442,000 ", Jan 2019,0," 262,500 ", Mar 2011, ,, 645  ,  100 ,2,1,6,North Geelong
+63,3 Cooma Court," 529,500 ", Jan 2019,0, ,, ,, 650 ,,3,1,2,North Geelong
+64,165 Victoria Street," 460,000 ", Jan 2019,0, ,, 365 , Apr 2019, 813 ,,3,1,3,North Geelong
+65,58 Slevin Street," 495,000 ", Jan 2019,0," 100,000 ", Jun 2001, ,, 604 ,,3,2,4,North Geelong
+66,52 Saywell Street," 510,000 ", Dec 2018,0," 307,000 ", Dec 2012, ,, 467  ,  99 ,3,1,2,North Geelong
+67,3/14 Osborne Avenue," 215,000 ", Nov 2018,0," 150,000 ", Jul 2009, ,," 1,291 ",,0,0,0,North Geelong
+68,22 Wurrook Circuit," 685,000 ", Nov 2018,0," 214,000 ", May 2012, ,, 406 ,,4,2,3,North Geelong
+69,159 Victoria Street," 455,000 ", Oct 2018,0," 220,000 ", Aug 2004, ,, 817 ,,4,1,1,North Geelong
+70,9 St David Street," 720,000 ", 27 Oct 2018,1," 440,000 ", Dec 2007, ,, 613 ,,3,1,4,North Geelong
+71,29 Coxon Parade," 502,000 ", 20 Oct 2018,1," 180,000 ", Sep 2002, ,, 658 ,,3,1,3,North Geelong
+72,63 Wurrook Circuit," 558,000 ", Oct 2018,0," 245,000 ", Jul 2013, ,, 471 ,,3,2,5,North Geelong
+73,49 Roseneath Street," 345,000 ", Oct 2018,0, ,, ,, 603 ,,3,1,0,North Geelong
+74,167 Thompson Road," 482,000 ", Sep 2018,0, ,, ,, ,,0,0,0,North Geelong
+75,173 Victoria Street," 470,000 ", Sep 2018,0," 68,000 ", Oct 1992, ,, 802 ,,4,1,4,North Geelong
+76,1 Giddings Street," 320,000 ", Aug 2018,0, ,, 335 , Nov 2019, 307 ,,3,1,1,North Geelong
+77,15 Victoria Street," 655,000 ", 11 Aug 2018,1," 351,000 ", Feb 2000, ,, 367 ,,2,1,1,North Geelong
+78,61 Giddings Street," 526,000 ", 04 Aug 2018,1," 315,000 ", Jun 2015, ,, 648 ,,3,1,3,North Geelong
+79,15 Dobie Court," 626,000 ", Jul 2018,0," 215,000 ", Oct 2011, ,, 352  ,  210 ,4,2,2,North Geelong
+80,56 Walsgott Street," 466,000 ", 14 Jul 2018,1," 105,000 ", Aug 2002, ,, 710  ,  119 ,3,1,1,North Geelong
+81,26 Coxon Parade," 482,000 ", Jul 2018,0," 80,000 ", Feb 2000, ,, 639 ,,3,1,5,North Geelong
+82,7 Mccabe Doyle Court," 740,000 ", Jul 2018,0," 328,000 ", Apr 2014, ,, 486 ,,3,2,4,North Geelong
+83,60 Walsgott Street," 536,000 ", 30 Jun 2018,1," 360,000 ", Jun 2016, ,, 735  ,  130 ,3,1,5,North Geelong
+84,8 Wurrook Circuit," 470,000 ", Jun 2018,0, ,, ,, 299 ,,3,2,1,North Geelong
+85,19 Edols Street," 335,000 ", Jun 2018,0," 240,000 ", Nov 2015, ,, 666 ,,2,1,1,North Geelong
+86,40 Craddock Street," 570,000 ", Jun 2018,0," 317,000 ", Mar 2014, ,, 608  ,  132 ,3,1,3,North Geelong
+87,24 Edols Street," 514,000 ", 06 Jun 2018,1," 100,000 ", Oct 1993, ,," 1,312  ",  220 ,0,0,0,North Geelong
+88,2 Birch Street," 537,000 ", May 2018,0, ,, 350 , Sep 2018, 548 ,,3,1,1,North Geelong
+89,30 Walsgott Street," 530,000 ", 05 May 2018,1," 426,000 ", Apr 2017, ,, 640 ,,3,1,5,North Geelong
+90,1-5 (Lot 54) Muir Place," 343,500 ", May 2018,0, ,, ,,Land for Life. On the southern tip of the Geelong Golf Course Estate sits this generous allotment of 610  with solid timber fencing and the perfect position to stroll down to cosmopolitan...more,,0,0,0,North Geelong
+91,54 Guthrie Street," 520,000 ", Apr 2018,0, ,, ,, ,,0,0,0,North Geelong
+92,54 Guthrie Avenue," 520,000 ", Apr 2018,0," 76,000 ", Jul 2000, ,, 488  ,  109 ,0,0,0,North Geelong
+93,3 Guthrie Avenue," 805,000 ", Apr 2018,0," 350,000 ", Feb 2016, ,, 455  ,  135 ,4,2,2,North Geelong
+94,19 Saywell Street," 615,000 ", 21 Apr 2018,1, ,, ,, 563 ,,3,1,2,North Geelong
+95,12 Dobbie Court," 800,000 ", Apr 2018,0, ,, ,, ,,0,0,0,North Geelong
+96,34A Thompson Road," 421,000 ", Apr 2018,0," 350,000 ", Dec 2016, ,, 171 ,,3,2,1,North Geelong
+97,12 Dobie Court," 800,000 ", Apr 2018,0," 265,000 ", Jan 2012, ,, 427  ,  217 ,4,2,2,North Geelong
+98,26 Balfour Street," 320,000 ", Apr 2018,0," 271,000 ", Sep 2012, ,, 395 ,,0,0,0,North Geelong
+99,1/59 Osborne Avenue," 490,000 ", Apr 2018,0, ,, 430 , Jul 2019, ,,3,2,2,North Geelong
+100,8 Pattison Avenue," 354,000 ", Mar 2018,0, ,, ,, 440 ,,2,1,1,North Geelong
+101,9 Balfour Street," 290,000 ", Mar 2018,0," 205,000 ", Oct 2011, ,, 382 ,,0,0,0,North Geelong
+102,42 Saywell Street," 587,000 ", Mar 2018,0," 95,000 ", Feb 1999, ,, 672 ,,3,1,1,North Geelong
+103,174 Thompson Road," 430,000 ", 17 Mar 2018,1, ,, ,, 648 ,,3,1,5,North Geelong
+104,11 Sargood Street," 780,000 ", Mar 2018,0," 254,000 ", Jul 2013, ,, 375  ,  268 ,4,2,2,North Geelong
+105,33 Edols Street," 380,000 ", Mar 2018,0, ,, 310 , Apr 2018, 593 ,,3,1,2,North Geelong
+106,117 Wurrook Circuit," 446,500 ", Feb 2018,0," 184,000 ", Nov 2012, ,, 315 ,,3,2,1,North Geelong
+107,14 Stubbs Avenue," 520,000 ", Feb 2018,0," 128,500 ", May 2002, ,, 460 ,,2,1,2,North Geelong
+108,72 Slevin Street," 400,000 ", Feb 2018,0, ,, ,, 603 ,,2,1,6,North Geelong
+109,20 Sargood Street," 555,000 ", Feb 2018,0," 210,000 ", Sep 2014, ,, 375  ,  160 ,4,2,2,North Geelong
+110,2/4 Kerr Street," 427,500 ", Jan 2018,0," 102,000 ", May 2012, ,, 385  ,  116 ,0,0,0,North Geelong
+111,2 Wurrook Circuit," 620,000 ", Jan 2018,0," 190,000 ", Nov 2012, ,, 376  ,  205 ,4,3,2,North Geelong
+112,14 Wurrook Circuit," 521,000 ", Dec 2017,0," 227,000 ", Sep 2012, ,, 399  ,  164 ,0,0,0,North Geelong
+113,6 Saywell Street," 522,000 ", 16 Dec 2017,1, ,, ,, 677 ,,3,1,1,North Geelong
+114,20 Osbourne Avenue," 455,500 ", Dec 2017,0, ,, ,, ,,0,0,0,North Geelong
+115,7 Sargood Street," 430,000 ", Dec 2017,0," 220,000 ", Sep 2015, ,, 378  ,  102 ,3,2,1,North Geelong
+116,20 Osborne Avenue," 455,500 ", 02 Dec 2017,1, ,, 295 , Jan 2018, 646 ,,3,1,5,North Geelong
+117,43 Giddings Street," 480,000 ", 02 Dec 2017,1," 122,800 ", Mar 2002, ,, 646 ,,3,1,2,North Geelong
+118,63 Walsgott Street," 332,000 ", 02 Dec 2017,1," 221,000 ", Aug 2007, ,, 414 ,,3,1,2,North Geelong
+119,45 Saywell Street," 548,000 ", 18 Nov 2017,1," 330,000 ", Nov 2015, ,, 679  ,  97 ,3,1,5,North Geelong
+120,35 Rodney Road," 463,000 ", Nov 2017,0," 350,000 ", Apr 2004, ,," 1,230  ",  350 ,0,0,0,North Geelong
+121,1/14 Walsh Grove," 445,000 ", Oct 2017,0," 140,000 ", Sep 2013, ,, 381  ,  133 ,3,2,2,North Geelong
+122,9 Mccabe Doyle Court," 710,000 ", Oct 2017,0," 316,000 ", Apr 2014, ,, 468 ,,3,2,2,North Geelong
+123,18 Osborne Avenue," 415,000 ", Oct 2017,0," 63,050 ", May 1994, ,, 646 ,,2,1,1,North Geelong
+124,15 Walsh Grove," 329,000 ", 28 Oct 2017,1," 238,000 ", Mar 2008, ,, 191 ,,2,1,1,North Geelong
+125,2/57 Giddings Street," 420,000 ", Oct 2017,0," 295,000 ", Jul 2007, ,, 398 ,,0,0,0,North Geelong
+126,12 Giddings Street," 451,000 ", Oct 2017,0," 78,000 ", Dec 1991, ,, 650 ,,2,1,2,North Geelong
+127,42 Osborne Avenue," 395,000 ", 14 Oct 2017,1, ,, 340 , Feb 2019, 646 ,,3,1,1,North Geelong
+128,3 Jobbins Street," 420,000 ", Oct 2017,0," 177,000 ", Oct 2012, ,, 300 ,,3,2,1,North Geelong
+129,10 Guthrie Avenue," 621,000 ", 14 Oct 2017,1," 427,250 ", Feb 2012, ,, 457  ,  140 ,4,1,1,North Geelong
+130,176 Thompson Road," 455,000 ", 23 Sep 2017,1," 54,500 ", Oct 1984, ,, 644 ,,3,1,1,North Geelong
+131,10 Kerr Street," 490,000 ", Sep 2017,0," 63,000 ", Dec 1985, ,, 752 ,,3,1,2,North Geelong
+132,11 Enmore Street," 400,000 ", Sep 2017,0, ,, 270 , Dec 2013, 735 ,,3,1,1,North Geelong
+133,23 Pattison Avenue," 320,000 ", Sep 2017,0," 262,500 ", Nov 2014, ,, 611 ,,2,1,2,North Geelong
+134,7 Osborne Avenue," 435,000 ", 09 Sep 2017,1, ,, 280 , Oct 2018, 646 ,,3,1,1,North Geelong
+135,5/68-72 Osborne Avenue," 175,000 ", Aug 2017,0," 69,500 ", Jun 2002, ,, 83 ,,0,0,0,North Geelong
+136,28 Walsgott Street," 365,000 ", Aug 2017,0," 150,000 ", Sep 2003, ,, 449 ,,2,1,1,North Geelong
+137,5 (Lot 10) McCabe Doyle Court," 360,000 ", Aug 2017,0, ,, ,, ,,0,0,0,North Geelong
+138,8 Sargood Street," 542,500 ", Aug 2017,0, ,, ,, 392 ,,4,2,2,North Geelong
+139,2 Walsgott Street," 335,000 ", Jul 2017,0," 260,000 ", Sep 2009, ,, 437 ,,3,1,2,North Geelong
+140,53 Stubbs Avenue," 466,000 ", 22 Jul 2017,1," 185,000 ", Jan 2006, ,, 485 ,,3,1,2,North Geelong
+141,13 Dobie Court," 624,000 ", Jul 2017,0," 215,000 ", Oct 2011, ,, 352  ,  167 ,0,0,0,North Geelong
+142,5 Sargood Street," 250,000 ", Jul 2017,0, ,, ,, 375 ,,3,2,2,North Geelong
+143,27 Giddings Street," 435,500 ", 08 Jul 2017,1, ,, 320 , May 2019, 641 ,,2,1,2,North Geelong
+144,7 Rutledge Boulevard," 720,000 ", Jul 2017,0," 240,000 ", Sep 2015, ,, 431 ,,4,2,4,North Geelong
+145,115 Rutledge Boulevard," 255,000 ", Jul 2017,0, ,, ,, 478 ,,0,0,0,North Geelong
+146,2/44 Craddock Street," 318,500 ", Jun 2017,0, ,, 295 , Dec 2015, 210 ,,0,0,0,North Geelong
+147,Lot 74 Rutledge Boulevard," 317,000 ", Jun 2017,0, ,, ,, ,,0,0,0,North Geelong
+148,Lot 53 Rutledge Boulevard," 260,000 ", Jun 2017,0, ,, ,, ,,0,0,0,North Geelong
+149,36 Swinburne Street," 618,000 ", 17 Jun 2017,1," 379,000 ", May 2007, ,, 392 ,,3,2,1,North Geelong
+150,119 Wurrook Circuit," 410,000 ", Jun 2017,0," 184,000 ", Nov 2012, ,, 315 ,,3,2,1,North Geelong
+151,29 Saywell Street," 705,000 ", 10 Jun 2017,1," 95,000 ", Oct 1999, ,, 597  ,  164 ,4,1,3,North Geelong
+152,40 Rutledge Boulevard," 225,000 ", Jun 2017,0, ,, ,, 343 ,,0,0,0,North Geelong
+153,9 Jobbins Street," 423,000 ", Jun 2017,0," 174,000 ", Nov 2012, ,, 300 ,,3,2,1,North Geelong
+154,7 Helen Street," 2,240,000 ", 03 Jun 2017,1," 95,000 ", Nov 1979, ,, 670  ,  410 ,4,3,2,North Geelong
+155,29 Craddock Street," 510,000 ", May 2017,0," 50,000 ", Apr 1992, ,, 116 ,,4,2,2,North Geelong
+156,28 Kendra Street," 280,000 ", May 2017,0, ,, ,, 242 ,,2,1,1,North Geelong
+157,18 Giddings Street," 410,000 ", 20 May 2017,1, ,, 320 , May 2019, 650 ,,2,1,1,North Geelong
+158,114 Rutledge Boulevard," 317,000 ", May 2017,0," 295,000 ", Jan 2015, ,, 472 ,,0,0,0,North Geelong
+159,38 Slevin Street," 355,000 ", May 2017,0," 78,000 ", Mar 2000, ,, 608 ,,3,1,3,North Geelong
+160,29 Slevin Street," 295,000 ", May 2017,0," 99,000 ", Mar 2003, ,, 618 ,,2,1,4,North Geelong
+161,34 Giddings Street," 315,000 ", May 2017,0," 150,000 ", Jun 2006, ,, 403  ,  130 ,3,1,1,North Geelong
+162,Lot/34 Rutledge Boulevard," 260,000 ", May 2017,0, ,, ,, ,,0,0,0,North Geelong
+163,24 Osborne Avenue," 355,000 ", 29 Apr 2017,1," 275,000 ", May 2012, ,, 646  ,  90 ,3,1,1,North Geelong
+164,40 Walsgott Street," 426,000 ", Apr 2017,0, ,, 320 , Jul 2018, 646 ,,3,1,2,North Geelong
+165,1/170 Thompson Road," 181,500 ", Apr 2017,0," 73,500 ", Apr 2002, ,, 106 ,,0,0,0,North Geelong
+166,Lot 27 Power Way," 240,000 ", Apr 2017,0, ,, ,, ,,0,0,0,North Geelong
+167,57 Osborne Avenue," 386,200 ", Apr 2017,0, ,, 310 , Jul 2017, 710 ,,2,1,2,North Geelong
+168,Lot 199 Rutledge Boulevard," 225,000 ", Apr 2017,0, ,, ,, ,,0,0,0,North Geelong
+169,Lot 58 Muir Place," 230,000 ", Apr 2017,0, ,, ,, ,,0,0,0,North Geelong
+170,17 Rutledge Boulevard," 215,000 ", Apr 2017,0, ,, 580 , Oct 2019, 432 ,,4,2,4,North Geelong
+171,Lot 34 Rutledge Boulevard," 260,000 ", Apr 2017,0, ,, ,, ,,0,0,0,North Geelong
+172,85 Rutledge Boulevard," 260,000 ", Apr 2017,0, ,, 650 , Aug 2020, 513 ,,0,0,0,North Geelong
+173,32 Thompson Road," 125,000 ", Mar 2017,0," 110,000 ", Mar 2014, ,, 300 ,,0,0,0,North Geelong
+174,85 Giddings Street," 422,000 ", Mar 2017,0," 63,000 ", Jul 1986, ,, 674 ,,3,2,2,North Geelong
+175,1/29 Craddock Street," 510,000 ", 25 Mar 2017,1, ,, 240 , Jan 2017, 528 ,,4,2,2,North Geelong
+176,28 Osborne Avenue," 340,000 ", 25 Mar 2017,1," 331,500 ", Aug 2014, ,, 307 ,,3,1,1,North Geelong
+177,Lot 200 Rutledge Boulevard," 229,000 ", Mar 2017,0, ,, ,, ,,0,0,0,North Geelong
+178,12 Baden Powell Drive," 325,000 ", Mar 2017,0, ,, ,, 745 ,,0,0,0,North Geelong
+179,2/41 Osborne Avenue," 308,000 ", Mar 2017,0, ,, 270 , Mar 2014, 210 ,,0,0,0,North Geelong
+180,15 Giddings Street," 336,000 ", 04 Mar 2017,1, ,, 290 , May 2017, 645 ,,2,1,3,North Geelong
+181,5 Magill Place," 300,000 ", Mar 2017,0, ,, ,, 448 ,,0,0,0,North Geelong
+182,9 Wurrook Circuit," 487,500 ", Mar 2017,0," 204,000 ", Sep 2012, ,, 387  ,  167 ,0,0,0,North Geelong
+183,2/156 Victoria Street," 300,000 ", Mar 2017,0," 286,000 ", Mar 2014, ,, 198 ,,0,0,0,North Geelong
+184,Lot 60 Rutledge Boulevard-Golf Links Estate," 250,000 ", Feb 2017,0, ,, ,, ,,0,0,0,North Geelong
+185,66 Roseneath Street," 301,500 ", Feb 2017,0," 62,500 ", Nov 1994, ,, 609 ,,4,2,1,North Geelong
+186,46a Stubbs Avenue," 130,000 ", Feb 2017,0, ,, 350 , Jul 2019, 189 ,,0,0,0,North Geelong
+187,4 Walsgott Street," 335,000 ", Feb 2017,0," 255,000 ", Dec 2009, ,, 645 ,,5,1,1,North Geelong
+188,35-37 Walsgott Street," 370,000 ", Feb 2017,0," 110,000 ", May 1989, ,, 646 ,,3,1,2,North Geelong
+189,35 Craddock Street," 385,000 ", Feb 2017,0," 349,000 ", Apr 2013, ,, 623  ,  107 ,3,1,1,North Geelong
+190,49 Wurrook Circuit," 450,000 ", Feb 2017,0," 182,000 ", Oct 2013, ,, 299 ,,3,2,1,North Geelong
+191,18 Coxon Parade," 405,000 ", Feb 2017,0," 280,000 ", Feb 2012, ,, 612  ,  104 ,3,1,1,North Geelong
+192,6 McCabe Doyle Court," 280,000 ", Feb 2017,0, ,, ,, 468 ,,0,0,0,North Geelong
+193,22 Rutledge Boulevard," 310,000 ", Feb 2017,0, ,, ,, 512 ,,0,0,0,North Geelong
+194,27 Sargood Street," 235,988 ", Jan 2017,0, ,, ,, 401 ,,0,0,0,North Geelong
+195,87 Kildare Street," 318,000 ", Jan 2017,0," 282,000 ", May 2013, ,, 347 ,,3,1,1,North Geelong
+196,2 Palmer Street," 300,000 ", Jan 2017,0," 235,000 ", Jun 2014, ,, 711 ,,0,0,0,North Geelong
+197,408-410 Thompson Road," 583,000 ", Jan 2017,0," 209,000 ", Jan 2002, ,, 930 ,,0,0,0,North Geelong
+198,25 Balfour Street," 645,000 ", Jan 2017,0," 260,000 ", Aug 2013, ,, 375  ,  204 ,4,2,2,North Geelong
+199,2 Edols Place," 285,000 ", Jan 2017,0," 77,000 ", Nov 1997, ,, 200 ,,0,0,0,North Geelong
+200,27 Craddock Street," 361,000 ", Dec 2016,0," 152,000 ", Jan 2007, ,, 532 ,,2,1,0,North Geelong
+201,7 Cowie Street," 935,000 ", 21 Dec 2016,1, ,," 65,000 ", May 2013," 1,371  ",  870 ,0,0,0,North Geelong
+202,33B Osborne Avenue," 308,000 ", 10 Dec 2016,1, ,, 320 , Jan 2017, 274 ,,3,1,2,North Geelong
+203,1 Ballarat Road," 1,500,000 ", Dec 2016,0," 246,000 ", May 2014, ,," 4,093  ",  129 ,0,0,0,North Geelong
+204,39 Wurrook Circuit," 416,000 ", Dec 2016,0," 184,000 ", Mar 2013, ,, 303  ,  130 ,3,2,2,North Geelong
+205,44 Rutledge Boulevard," 185,000 ", Nov 2016,0, ,, 470 , Jul 2017, 352 ,,4,2,1,North Geelong
+206,91 Rutledge Boulevard," 260,000 ", Nov 2016,0, ,, 575 , Oct 2019, 441 ,,4,2,2,North Geelong
+207,34b Thompson Road," 350,000 ", Nov 2016,0, ,, 370 , May 2015, 171 ,,2,2,1,North Geelong
+208,102 Thompson Road," 375,000 ", Nov 2016,0," 170,000 ", Feb 2000, ,, 642  ,  141 ,4,1,5,North Geelong
+209,10 Giddings Street," 315,000 ", 19 Nov 2016,1, ,, 360 , Mar 2019, 400 ,,3,1,1,North Geelong
+210,24 Craddock Street," 650,000 ", 05 Nov 2016,1," 172,000 ", Aug 2002, ,, 637  ,  203 ,4,2,2,North Geelong
+211,21 Jobbins Street," 405,000 ", Nov 2016,0," 177,000 ", Jun 2013, ,, 300  ,  137 ,4,2,1,North Geelong
+212,Lot 40 Geelong Golf Club Estate," 255,000 ", Nov 2016,0, ,, ,, 425 ,,0,0,0,North Geelong
+213,157 Victoria Street," 423,000 ", 22 Oct 2016,1, ,, ,, 374  ,  152 ,3,1,2,North Geelong
+214,49 Stubbs Avenue," 406,000 ", 22 Oct 2016,1, ,, ,, 457 ,,2,1,5,North Geelong
+215,10 Baxter Road," 858,000 ", Oct 2016,0," 350,000 ", Feb 2000, ,," 1,942  ",  1340 ,0,0,0,North Geelong
+216,248 Thompson Road," 704,000 ", Oct 2016,0," 100,000 ", Jun 1995, ,," 1,449  ",  330 ,0,0,0,North Geelong
+217,69 Slevin Street," 265,000 ", Oct 2016,0, ,, 300 , Oct 2018, 623 ,,2,1,5,North Geelong
+218,2/14 Osborne Avenue," 175,000 ", Sep 2016,0," 172,500 ", Mar 2013, ,," 1,291 ",,0,0,0,North Geelong
+219,2/4 Backwell Street," 400,000 ", Sep 2016,0," 360,000 ", Mar 2011, ,," 1,681 ",,0,0,0,North Geelong
+220,30 Coxon Parade," 365,000 ", Sep 2016,0," 290,000 ", Oct 2012, ,, 608  ,  84 ,3,1,1,North Geelong
+221,10 Wurrook Circuit," 390,000 ", Sep 2016,0," 167,000 ", May 2013, ,, 299  ,  121 ,3,2,1,North Geelong
+222,54 Giddings Street," 277,000 ", Sep 2016,0," 185,000 ", Jun 2007, ,, 650  ,  108 ,2,1,1,North Geelong
+223,52 Walsgott Street," 407,500 ", Sep 2016,0," 323,000 ", Jul 2011, ,, 641 ,,6,2,2,North Geelong
+224,40 Giddings Street," 340,000 ", Sep 2016,0, ,, ,, 650 ,,3,1,1,North Geelong
+225,25 Giddings Street," 252,000 ", Sep 2016,0, ,, 270 , Dec 2018, 350 ,,3,1,1,North Geelong
+226,56 Roseneath Street," 275,000 ", Sep 2016,0, ,, 430 , Nov 2018, 636 ,,3,1,2,North Geelong
+227,16-18 Separation Street," 500,000 ", Sep 2016,0," 300,000 ", Nov 2007, ,, 938 ,,0,0,0,North Geelong
+228,30 Rutledge Boulevard," 305,000 ", Sep 2016,0, ,, ,, 512 ,,3,2,2,North Geelong
+229,60 Osborne Avenue," 282,500 ", Aug 2016,0, ,, 300 , Nov 2016, 727 ,,3,1,0,North Geelong
+230,22 Walsgott Street," 462,800 ", Aug 2016,0, ,, 175 , Nov 2009, 646 ,,4,2,3,North Geelong
+231,27 Osborne Avenue," 375,000 ", Aug 2016,0," 345,000 ", Mar 2014, ,, 641 ,,4,1,2,North Geelong
+232,96/56 RUTLEDGE Boulevard," 215,000 ", Aug 2016,0, ,, ,, 384 ,,0,0,0,North Geelong
+233,120 Thompson Road," 276,000 ", Aug 2016,0," 210,000 ", Nov 2008, ,, 647  ,  116 ,2,1,3,North Geelong
+234,370 Thompson Road," 407,000 ", Aug 2016,0," 110,000 ", Apr 1994, ,, 645  ,  400 ,0,0,0,North Geelong
+235,38 Saywell Street," 441,000 ", 13 Aug 2016,1, ,, 320 , Mar 2018, 670 ,,3,1,3,North Geelong
+236,4 Lillian Street," 315,000 ", Aug 2016,0," 295,000 ", May 2012, ,, 506  ,  221 ,1,1,4,North Geelong
+237,110 Thompson Road," 310,000 ", Aug 2016,0," 225,000 ", Aug 2008, ,, 646  ,  110 ,3,1,1,North Geelong
+238,42 Giddings Street," 315,000 ", Jul 2016,0, ,, ,, 650 ,,3,1,1,North Geelong
+239,162/24 RUTLEDGE Boulevard," 279,000 ", Jul 2016,0, ,, ,, 512 ,,0,0,0,North Geelong
+240,44 Giddings Street," 285,000 ", Jul 2016,0," 275,000 ", Apr 2011, ,, 650  ,  88 ,2,1,1,North Geelong
+241,31-35 Saunders Street," 555,000 ", Jul 2016,0," 385,000 ", Jun 2015, ,," 2,482 ",,0,0,0,North Geelong
+242,12 Saywell Street," 330,000 ", Jul 2016,0," 73,000 ", Oct 1997, ,, 649  ,  109 ,2,1,2,North Geelong
+243,Lot 201 Geelong Golf Club Estate," 240,001 ", Jun 2016,0, ,, ,, 432 ,,0,0,0,North Geelong
+244,384 Thompson Road," 190,000 ", Jun 2016,0," 112,000 ", Jun 2003, ,, 273 ,,0,0,0,North Geelong
+245,Lot 196 Rutledge Boulevard-Golf Links Estate," 230,000 ", Jun 2016,0, ,, ,, ,,0,0,0,North Geelong
+246,38 Cowie Street," 575,300 ", Jun 2016,0," 510,000 ", Feb 2000, ,, 807 ,,0,0,0,North Geelong
+247,86 Walsgott Street," 335,000 ", Jun 2016,0, ,, ,, 646  ,  130 ,3,1,1,North Geelong
+248,80 Kildare Street," 315,000 ", Jun 2016,0," 250,000 ", Apr 2007, ,, 613  ,  480 ,0,0,0,North Geelong
+249,30 Roseneath Street," 530,000 ", Jun 2016,0," 450,000 ", Jul 2011, ,, 611  ,  260 ,2,1,6,North Geelong
+250,10 Stubbs Avenue," 175,000 ", Jun 2016,0," 160,000 ", Mar 2006, ,, 456  ,  153 ,3,0,0,North Geelong
+251,23 RUTLEDGE Boulevard," 230,000 ", May 2016,0, ,, ,, 432 ,,0,0,0,North Geelong
+252,60 Edols Street," 530,000 ", May 2016,0, ,, ,, 763 ,,0,0,0,North Geelong
+253,102 Kildare Street," 495,000 ", May 2016,0," 160,000 ", Apr 2008, ,, 613 ,,0,0,0,North Geelong
+254,49 Walsgott Street," 303,000 ", May 2016,0, ,, 190 , Oct 2014, 645 ,,3,1,1,North Geelong
+255,7/120 Victoria Street," 1,815,000 ", May 2016,0," 775,000 ", Jun 1988, ,," 3,123 ",,0,0,0,North Geelong
+256,12 Ryeland Court," 522,500 ", May 2016,0," 121,000 ", Jun 2014, ,, 637 ,,0,0,0,North Geelong
+257,30 Guthrie Avenue," 418,000 ", May 2016,0," 355,000 ", Apr 2009, ,, 458  ,  109 ,3,1,1,North Geelong
+258,2/68-72 Osborne Avenue," 172,500 ", May 2016,0," 140,000 ", Feb 2010, ,, 98 ,,0,0,0,North Geelong
+259,2/68 Osborne Avenue," 172,500 ", May 2016,0," 140,000 ", Mar 2010, ,, 98 ,,1,1,1,North Geelong
+260,2 Muir Place," 344,000 ", May 2016,0, ,, ,, 511 ,,0,0,0,North Geelong
+261,57 Slevin Street," 270,000 ", May 2016,0," 230,000 ", Jun 2007, ,, 571  ,  120 ,3,1,4,North Geelong
+262,81 Wurrook Circuit," 185,000 ", Apr 2016,0, ,, 460 , Jul 2019, 324  ,  149 ,4,2,1,North Geelong
+263,32 Roseneath Street," 315,000 ", Apr 2016,0," 180,000 ", Apr 2005, ,, 628  ,  103 ,2,1,1,North Geelong
+264,3 Cadman Terrace," 620,000 ", Apr 2016,0, ,, ,," 2,480  ",  550 ,0,0,0,North Geelong
+265,46B STUBBS Avenue," 360,000 ", Apr 2016,0, ,, ,, 303 ,,2,1,2,North Geelong
+266,6 Dobie Court," 270,000 ", Apr 2016,0, ,, ,, 448 ,,0,0,0,North Geelong
+267,Lot 103 Geelong Golf Club Estate," 229,750 ", Apr 2016,0, ,, ,, 352 ,,0,0,0,North Geelong
+268,26 RUTLEDGE Boulevard," 270,000 ", Apr 2016,0, ,, ,, 511 ,,0,0,0,North Geelong
+269,91 Walsgott Street," 360,000 ", Apr 2016,0," 218,000 ", May 2009, ,, 646 ,,3,1,2,North Geelong
+270,46 Stubbs Avenue," 360,000 ", Apr 2016,0," 245,000 ", Mar 2011, ,, 500  ,  109 ,3,1,1,North Geelong
+271,94 Rutledge Boulevard," 300,000 ", Mar 2016,0, ,, ,, 474 ,,0,0,0,North Geelong
+272,20 Naughton Avenue," 280,000 ", Mar 2016,0," 70,000 ", Jul 1993, ,, 613 ,,0,0,0,North Geelong
+273,2/4 The Fairway," 100,000 ", Mar 2016,0," 88,000 ", Apr 1996, ,, 236  ,  84 ,0,0,0,North Geelong
+274,Lot 161 Geelong Golf Club Estate," 270,000 ", Mar 2016,0, ,, ,, 512 ,,0,0,0,North Geelong
+275,65 Walsgott Street," 300,000 ", 12 Mar 2016,1," 68,000 ", Apr 2000, ,, 710  ,  130 ,3,1,1,North Geelong
+276,20 Saunders Street," 380,000 ", Mar 2016,0," 372,372 ", Jun 2006, ,," 2,820 ",,0,0,0,North Geelong
+277,20 Craddock Street," 337,000 ", 05 Mar 2016,1, ,, ,, 608 ,,4,1,2,North Geelong
+278,79 Osbourne Avenue," 305,000 ", 27 Feb 2016,1, ,, ,, ,,0,0,0,North Geelong
+279,79 Osborne Avenue," 305,000 ", Feb 2016,0," 118,000 ", Jul 2000, ,, 646 ,,3,1,2,North Geelong
+280,42 Rutledge Boulevard," 227,500 ", Feb 2016,0, ,, 490 , Nov 2018, 352  ,  205 ,4,2,2,North Geelong
+281,31 Balfour Street," 235,700 ", Feb 2016,0, ,, ,, 421 ,,0,0,0,North Geelong
+282,10 Hepner Place," 375,000 ", Feb 2016,0, ,, ,," 1,444  ",  670 ,0,0,0,North Geelong
+283,69 Giddings Street," 300,000 ", 06 Feb 2016,1, ,, ,, 655  ,  114 ,3,1,1,North Geelong
+284,Lot 146 Geelong Golf Course Estate," 270,000 ", Jan 2016,0, ,, ,, ,,0,0,0,North Geelong
+285,36 Rutledge Boulevard," 190,000 ", Jan 2016,0, ,, ,, 380  ,  238 ,0,0,0,North Geelong
+286,11 Cowie Street," 750,000 ", Jan 2016,0," 541,200 ", Jan 2011, ,, 624  ,  410 ,0,0,0,North Geelong
+287,54 Edols Street," 2,350,000 ", Dec 2015,0," 155,000 ", Dec 2000, ,, 993 ,,4,3,3,North Geelong
+288,13-15 Separation Street," 450,000 ", Dec 2015,0," 80,000 ", Feb 1996, ,, 468 ,,0,0,0,North Geelong
+289,37 Wurrook Circuit," 417,500 ", Dec 2015,0," 200,000 ", May 2013, ,, 379 ,,4,2,2,North Geelong
+290,15 Osborne Avenue," 260,000 ", Dec 2015,0," 60,000 ", Aug 1995, ,, 646  ,  93 ,2,1,1,North Geelong
+291,13 Separation Street," 450,000 ", Dec 2015,0," 80,000 ", Feb 2000, ,, 934 ,,0,0,0,North Geelong
+292,30 Slevin Street," 256,000 ", 05 Dec 2015,1, ,, 265 , Sep 2016, 597  ,  122 ,3,3,1,North Geelong
+293,155 Victoria Street," 390,000 ", Dec 2015,0," 275,250 ", Apr 2008, ,, 437 ,,4,2,2,North Geelong
+294,79 Kildare Street," 255,000 ", Dec 2015,0," 120,000 ", Jun 2007, ,, 613  ,  141 ,3,1,2,North Geelong
+295,41 Slevin Street," 260,000 ", Nov 2015,0," 180,000 ", Oct 2005, ,, 605 ,,2,1,2,North Geelong
+296,222/37 Wurrook Circuit," 417,500 ", Nov 2015,0, ,, ,, 378 ,,0,0,0,North Geelong
+297,56 Edols Street," 850,000 ", Nov 2015,0," 275,000 ", Jun 2013, ,, 993 ,,0,0,0,North Geelong
+298,112 Rutledge Boulevard," 240,000 ", Nov 2015,0, ,, ,, 472 ,,0,0,0,North Geelong
+299,10 Ryeland Court," 540,000 ", Nov 2015,0," 148,502 ", Apr 2014, ,, 789 ,,0,0,0,North Geelong

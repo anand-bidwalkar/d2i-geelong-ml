@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,28 Sladen Street,"Sold $497,000 in Aug 2020","Last Sold $113,500 in Jan 2001", ,House: 3  1  2 ,Land size: 635 sqm | Building size: 120 sqm
+1,20B Marlo Street,"Sold $535,000 in Aug 2020", , ,Townhouse: 2  2  2 ,Land size: 300 sqm
+2,43 Hamlyn Avenue,"Sold $540,000 in Aug 2020","Last Sold $515,000 in Nov 2018", ,House: 3  1  ,Land size: 362 sqm | Building size: 113 sqm
+3,120 Sladen Street,"Sold $577,500 in Aug 2020","Last Sold $414,000 in Aug 2015", ,House: 3  1  1 ,Land size: 602 sqm | Building size: 120 sqm
+4,26 Highview Parade,"Sold $525,000 in Aug 2020","Last Sold $125,000 in Apr 2008", ,House: 3  1  2 ,Land size: 636 sqm
+5,2/64 Sladen Street,"Sold $482,000 in Aug 2020","Last Sold $469,000 in Sep 2018", , ,Land size: 357 sqm | Building size: 130 sqm
+6,1 Heather Street,"Sold $454,000 in 24 Jul 2020(Auction)","Last Sold $88,000 in Mar 2000", ,House: 3  1  1 ,Land size: 581 sqm
+7,4 Sladen Street,"Sold $480,000 in Jul 2020","Last Sold $244,000 in Sep 2009", ,House: 3  1  1 ,Land size: 635 sqm
+8,12b Logan Street,"Sold $798,000 in Jul 2020", , ,House: 3  2  2 , 
+9,272 Church Street,"Sold $502,500 in Jul 2020", , , ,Land size: 705 sqm
+10,14 Griffen Street,"Sold $883,000 in Jul 2020","Last Sold $340,000 in Aug 2014", ,House: 1  1  2 ,Land size: 767 sqm | Building size: 81 sqm
+11,24 Griffen Street,"Sold $565,000 in Jul 2020", , ,House: ,Land size: 766 sqm
+12,26 Waymouth Street,"Sold $480,000 in Jul 2020", , , ,Land size: 669 sqm
+13,2/45 Sladen Street,"Sold $505,000 in Jul 2020","Last Sold $358,000 in Mar 2015", ,Townhouse: 3  2  2 ,Land size: 182 sqm
+14,8 Lantana Avenue,"Sold $800,000 in Jul 2020", , ,House: ,"Land size: 1,223 sqm"
+15,14 Fairlie Street,"Sold $409,000 in Jul 2020","Last Sold $185,000 in Dec 2005", ,House: 2  1  1 ,Land size: 378 sqm
+16,9 Little Avenue,"Sold $685,000 in Jun 2020","Last Sold $319,000 in Oct 2011", ,House: 3  1  2 ,Land size: 561 sqm
+17,1/9 Quamby Avenue,"Sold $432,000 in Jun 2020", , ,House: 2  1  1 , 
+18,3 Glenfine Avenue,"Sold $485,000 in Jun 2020","Last Sold $352,500 in Oct 2017", ,House: 2  1  1 ,Land size: 224 sqm | Building size: 95 sqm
+19,15 Langibanool Avenue,"Sold $579,000 in Jun 2020","Last Sold $330,000 in Feb 2011", ,House: 4  1  4 ,Land size: 731 sqm | Building size: 18 sqm
+20,134 Church Street,"Sold $745,000 in Jun 2020", , ,House: 4  3  2 ,Land size: 650 sqm
+21,31 Vines Road,"Sold $576,000 in 13 Jun 2020(Auction)","Last Sold $325,500 in Jan 2014", ,House: 3  1  2 ,Land size: 680 sqm | Building size: 106 sqm
+22,1/4 Arthur Street,"Sold $737,000 in Jun 2020", , ,House: ,Land size: 643 sqm
+23,23 Mackie Close,"Sold $510,000 in Jun 2020","Last Sold $281,000 in Oct 2008", , ,Land size: 346 sqm
+24,1/39 Tahara Street,"Sold $480,000 in Jun 2020", , ,House: 3  1  2 ,Land size: 340 sqm
+25,3 Clova Avenue,"Sold $725,000 in May 2020","Last Sold $400,000 in Oct 2005", ,House: 4  2  2 ,Land size: 700 sqm | Building size: 224 sqm
+26,37a Willana Avenue,"Sold $545,000 in May 2020", , ,Townhouse: 3  2  2 ,Land size: 275 sqm
+27,24B Heather Street,"Sold $666,000 in 02 May 2020(Auction)", , ,Townhouse: ,Land size: 459 sqm
+28,6 Kirriemuir Street,"Sold $700,000 in Apr 2020", , ,House: 4  ,Land size: 701 sqm
+29,7 Forfar Road,"Sold $465,000 in Apr 2020", , , ,Land size: 701 sqm
+30,3/110 Vines Road,"Sold $421,000 in Apr 2020", , , ,Land size: 159 sqm
+31,4 Montgomery Avenue,"Sold $503,000 in Apr 2020","Last Sold $416,000 in Mar 2017(Auction)", ,House: 2  1  1 ,Land size: 598 sqm
+32,1/18 June Avenue,"Sold $421,000 in Apr 2020", ,Rent $360pw in Apr 2020,Townhouse: 3  1  2 ,Land size: 360 sqm
+33,17 Sycamore Street,"Sold $440,000 in Apr 2020", ,Rent $350pw in Jul 2020,House: 3  1  2 ,Land size: 623 sqm
+34,4 Waymouth Street,"Sold $540,000 in Mar 2020", , ,House: ,Land size: 701 sqm
+35,7 Nalangil Avenue,"Sold $550,000 in Mar 2020","Last Sold $60,000 in Feb 1979", ,House: 4  3  3 ,Land size: 553 sqm
+36,45 Tahara Street,"Sold $711,000 in 21 Mar 2020(Auction)","Last Sold $76,500 in Feb 2000", ,House: 4  2  2 ,Land size: 674 sqm | Building size: 165 sqm
+37,1 Sycamore Street,"Sold $560,000 in Mar 2020","Last Sold $500,000 in Apr 2018", ,Townhouse: 3  2  2 ,Land size: 305 sqm
+38,24 Glenfine Avenue,"Sold $744,000 in 14 Mar 2020(Auction)","Last Sold $490,000 in Sep 2016", ,House: 3  1  1 ,Land size: 817 sqm | Building size: 178 sqm
+39,2/16 Glenfine Avenue,"Sold $480,000 in Mar 2020", , ,Townhouse: , 
+40,24 Gladstone Street,"Sold $556,000 in 29 Feb 2020(Auction)", , ,House: ,Land size: 690 sqm
+41,18-19 Mackie Close,"Sold $870,000 in Feb 2020", , , ,Land size: 808 sqm
+42,2/87 Tahara Street,"Sold $428,000 in 29 Feb 2020(Auction)","Last Sold $316,000 in Dec 2017", , ,Land size: 241 sqm
+43,26 Rowe Street,"Sold $670,000 in 29 Feb 2020(Auction)","Last Sold $400,000 in Sep 2009", ,House: 3  2  2 ,Land size: 634 sqm
+44,27 Highview Parade,"Sold $624,000 in Feb 2020","Last Sold $261,000 in May 2009", ,House: 3  2  2 ,Land size: 635 sqm | Building size: 137 sqm
+45,13 Belcher Street,"Sold $562,000 in Feb 2020", , ,House: 5  2  1 ,Land size: 764 sqm
+46,19 Mackie Close,"Sold $870,000 in Feb 2020", , ,House: 5  2  7 , 
+47,26 Toyne Avenue,"Sold $596,000 in 22 Feb 2020(Auction)", , ,House: ,Land size: 728 sqm
+48,2/160 Church Street,"Sold $415,000 in Feb 2020","Last Sold $272,000 in Nov 2012", , ,Land size: 156 sqm
+49,160 Ballarat Road,"Sold $570,000 in Feb 2020","Last Sold $107,000 in Sep 1988", ,House: ,Land size: 725 sqm
+50,6 Robb Avenue,"Sold $520,000 in Feb 2020","Last Sold $347,500 in Jun 2012", ,House: 3  1  1 ,Land size: 650 sqm | Building size: 117 sqm
+51,5 Chaucer Street,"Sold $757,500 in Feb 2020","Last Sold $271,000 in Aug 2014", ,House: 2  1  5 ,Land size: 587 sqm
+52,11 Sheridan Street,"Sold $567,500 in 08 Feb 2020(Auction)", , ,House: ,Land size: 811 sqm
+53,60 Vines Road,"Sold $610,000 in 08 Feb 2020(Auction)","Last Sold $225,000 in Jun 2014", ,House: 3  1  1 ,Land size: 685 sqm | Building size: 103 sqm
+54,33 Glengate Street,"Sold $420,000 in Jan 2020","Last Sold $327,000 in Nov 2009", ,House: 2  1  2 ,Land size: 152 sqm
+55,3 Quamby Avenue,"Sold $460,000 in Jan 2020","Last Sold $123,000 in Jun 2002", ,House: 2  1  2 ,Land size: 664 sqm | Building size: 110 sqm
+56,37 Sycamore Street,"Sold $525,000 in Jan 2020","Last Sold $480,000 in Mar 2018", ,House: 3  1  1 ,Land size: 624 sqm
+57,7-9 Hillbank Close,"Sold $760,000 in Jan 2020","Last Sold $660,000 in Jan 2015", ,House: 3  2  2 ,"Land size: 1,048 sqm"
+58,2a Belcher Street,"Sold $495,000 in Jan 2020", ,Rent $350pw in Oct 2015,Townhouse: 2  1  1 ,Land size: 230 sqm
+59,2/7 Thrums Court,"Sold $475,000 in Dec 2019", , ,Townhouse: 2  2  1 ,Land size: 337 sqm
+60,14 Lantana Avenue,"Sold $250,222 in Dec 2019","Last Sold $168,000 in Dec 2015", , ,Land size: 193 sqm
+61,41 Sycamore Street,"Sold $470,000 in Dec 2019","Last Sold $249,000 in Dec 2002", ,House: ,Land size: 335 sqm
+62,10 Ebden Street,"Sold $475,000 in Dec 2019","Last Sold $410,000 in Dec 2017(Auction)", ,House: 3  1  1 ,Land size: 551 sqm
+63,6/1 Kinnordy Court,"Sold $230,000 in Dec 2019","Last Sold $142,000 in Apr 2008", ,House: 1  1  2 ,Land size: 108 sqm | Building size: 46 sqm
+64,15 Arthur Street,"Sold $535,000 in 07 Dec 2019(Auction)", , ,House: ,Land size: 674 sqm
+65,29 June Avenue,"Sold $564,000 in 07 Dec 2019(Auction)","Last Sold $193,000 in Feb 2009", ,House: 3  1  1 ,Land size: 462 sqm | Building size: 146 sqm
+66,130 Ballarat Road,"Sold $420,000 in Dec 2019","Last Sold $225,000 in Nov 2013", ,House: 2  1  1 ,Land size: 549 sqm
+67,170 Ballarat Road,"Sold $600,000 in Nov 2019","Last Sold $345,000 in Aug 2013", ,House: 3  1  2 ,Land size: 664 sqm
+68,8 Glenview Place,"Sold $760,000 in Nov 2019","Last Sold $280,000 in May 2012", , ,Land size: 424 sqm | Building size: 282 sqm
+69,12 Kendall Close,"Sold $505,000 in Nov 2019","Last Sold $239,000 in Sep 2007", ,House: 3  1  ,Land size: 399 sqm
+70,1 Shannon Avenue,"Sold $505,000 in Nov 2019","Last Sold $290,000 in Aug 2010", ,House: 3  1  2 ,Land size: 423 sqm | Building size: 140 sqm
+71,21 Stoddart Street,"Sold $550,500 in 16 Nov 2019(Auction)", , ,House: 3  1  3 ,Land size: 794 sqm
+72,14 Calvert Street,"Sold $700,000 in 16 Nov 2019(Auction)","Last Sold $315,002 in Feb 2000", ,House: 5  1  ,Land size: 809 sqm
+73,25A June Avenue,"Sold $535,000 in 09 Nov 2019(Auction)", , ,House: 3  2  2 ,Land size: 323 sqm
+74,7/38-40 Pride Avenue,"Sold $280,000 in Nov 2019", , , ,"Land size: 1,905 sqm"
+75,40 Drysdale Avenue,"Sold $580,000 in Nov 2019","Last Sold $395,000 in May 2011(Auction)", ,House: 3  1  2 ,Land size: 623 sqm | Building size: 120 sqm
+76,17 MacArthur Avenue,"Sold $520,000 in Oct 2019","Last Sold $300,000 in Apr 2014", ,House: 3  1  5 ,Land size: 650 sqm | Building size: 151 sqm
+77,3 Robb Avenue,"Sold $420,000 in 26 Oct 2019(Auction)", , ,House: 3  1  5 ,Land size: 651 sqm
+78,1/48 Vines Road,"Sold $518,000 in Oct 2019", ,Rent $395pw in Dec 2018,Townhouse: 3  2  4 ,Land size: 349 sqm
+79,3 Shannon Avenue,"Sold $631,000 in 26 Oct 2019(Auction)","Last Sold $355,000 in May 2009", ,House: 4  1  5 ,Land size: 676 sqm
+80,16 Little Avenue,"Sold $515,000 in 19 Oct 2019(Auction)", , , ,Land size: 548 sqm
+81,2/21 Toyne Avenue,"Sold $523,500 in Oct 2019", ,Rent $450pw in Nov 2019, ,Land size: 234 sqm
+82,17 Vines Road,"Sold $502,000 in Oct 2019","Last Sold $457,000 in Apr 2018(Auction)", ,House: 2  1  3 ,Land size: 661 sqm
+83,3/13 Griffen Street,"Sold $560,000 in Oct 2019","Last Sold $370,000 in May 2009", ,Townhouse: 3  2  2 ,Land size: 232 sqm
+84,7/38 Pride Avenue,"Sold $280,000 in Oct 2019","Last Sold $239,000 in Jul 2010(Auction)", , ,"Land size: 1,905 sqm"
+85,82 Sladen Street,"Sold $586,500 in Oct 2019", , ,House: 3  1  2 ,Land size: 746 sqm
+86,121 Vines Road,"Sold $495,000 in Oct 2019","Last Sold $490,000 in Nov 2017", ,House: 3  1  1 ,Land size: 246 sqm | Building size: 108 sqm
+87,13C Bayview Parade,"Sold $465,000 in Oct 2019","Last Sold $420,000 in Apr 2014", ,House: 3  2  1 ,Land size: 860 sqm
+88,2 Chisholm Court,"Sold $650,000 in Sep 2019", , ,House: 4  2  2 ,Land size: 785 sqm
+89,19 Sheridan Street,"Sold $525,000 in Sep 2019","Last Sold $110,000 in Jul 1994", ,House: 4  1  3 ,Land size: 764 sqm
+90,2/28 Willana Avenue,"Sold $527,500 in Sep 2019", ,Rent $400pw in Oct 2017,Townhouse: 3  2  2 ,Land size: 199 sqm
+91,302 Church Street,"Sold $505,000 in Sep 2019","Last Sold $265,000 in Oct 2007", ,House: 3  2  2 ,Land size: 731 sqm
+92,31 Parkland Drive,"Sold $765,000 in Sep 2019","Last Sold $53,500 in Jan 1998", ,House: 4  2  2 ,Land size: 782 sqm | Building size: 235 sqm
+93,14 Sladen Street,"Sold $570,000 in 24 Aug 2019(Auction)","Last Sold $229,000 in Apr 2008", ,House: 3  1  2 ,Land size: 636 sqm | Building size: 95 sqm
+94,4/168 Church Street,"Sold $371,000 in Aug 2019","Last Sold $175,000 in Feb 2000", , ,Land size: 107 sqm
+95,1/25 Willana Avenue,"Sold $475,000 in Aug 2019","Last Sold $307,000 in May 2011", ,House: 3  1  2 ,Land size: 289 sqm
+96,3/112 Vines Road,"Sold $420,000 in Aug 2019", ,Rent $360pw in Aug 2018, ,Land size: 163 sqm
+97,74 Ballarat Road,"Sold $467,500 in Aug 2019","Last Sold $285,000 in Jan 2014", ,House: 3  1  2 ,Land size: 632 sqm
+98,4 Taliska Avenue,"Sold $560,000 in Aug 2019", ,Rent $440pw in Sep 2019,House: 3  2  2 ,Land size: 382 sqm
+99,37 Drysdale Avenue,"Sold $660,000 in 10 Aug 2019(Auction)","Last Sold $325,000 in Jun 2012", ,House: 1  1  2 ,Land size: 613 sqm | Building size: 144 sqm
+100,7/3 Kinnordy Court,"Sold $210,000 in Aug 2019","Last Sold $157,500 in Aug 2015", , ,Land size: 578 sqm
+101,2/12 Sheridan Street,"Sold $415,000 in Aug 2019","Last Sold $345,000 in Apr 2017", ,Townhouse: 2  1  1 ,Land size: 219 sqm | Building size: 106 sqm
+102,2/42 Glenfine Avenue,"Sold $535,000 in Aug 2019", , ,House: 3  2  2 ,Land size: 201 sqm
+103,7 Lily Street,"Sold $600,000 in 26 Jul 2019(Auction)","Last Sold $550,000 in Feb 2018", ,House: 2  1  3 ,Land size: 608 sqm
+104,294 Church Street,"Sold $436,000 in Jul 2019","Last Sold $70,000 in Jan 1995", ,House: 3  1  2 ,Land size: 422 sqm
+105,310 Church Street,"Sold $550,000 in Jul 2019","Last Sold $320,000 in Apr 2014", ,House: 4  1  2 ,Land size: 731 sqm | Building size: 161 sqm
+106,21 Glengate Street,"Sold $635,000 in Jul 2019","Last Sold $380,000 in Feb 2016", ,House: 4  2  2 ,Land size: 361 sqm
+107,27 Calvert Street,"Sold $460,000 in 20 Jul 2019(Auction)", , ,House: 2  1  1 ,Land size: 790 sqm
+108,4/34 Weeroona Avenue,"Sold $407,000 in Jul 2019","Last Sold $363,000 in Jul 2011", , ,Land size: 221 sqm
+109,2/29 Waiora Avenue,"Sold $525,000 in Jul 2019", ,Rent $420pw in May 2019,House: 3  2  3 ,Land size: 305 sqm
+110,24a Pride Avenue,"Sold $520,000 in Jul 2019", , ,House: 3  2  3 ,Land size: 284 sqm
+111,10 Rowe Street,"Sold $605,000 in Jul 2019","Last Sold $370,000 in Jun 2013", ,House: 3  2  2 ,Land size: 639 sqm | Building size: 175 sqm
+112,1 Edgecombe Street,"Sold $642,000 in 29 Jun 2019(Auction)","Last Sold $158,000 in Sep 1999", ,House: 4  2  2 ,Land size: 249 sqm
+113,7 Montgomery Avenue,"Sold $525,000 in Jun 2019","Last Sold $327,000 in Oct 2013", ,House: 3  1  2 ,Land size: 643 sqm
+114,51 Hamlyn Avenue,"Sold $495,000 in Jun 2019", , ,House: 3  1  2 ,Land size: 611 sqm
+115,25 Bayview Parade,"Sold $580,000 in Jun 2019","Last Sold $375,000 in Jan 2016", ,House: 3  1  2 ,Land size: 674 sqm
+116,75 Calvert Street,"Sold $457,000 in 15 Jun 2019(Auction)","Last Sold $306,000 in Oct 2015(Auction)", ,House: 3  1  4 ,Land size: 552 sqm | Building size: 118 sqm
+117,5 Downie Crescent,"Sold $495,000 in Jun 2019","Last Sold $242,000 in Feb 2009", ,House: 3  2  2 ,Land size: 697 sqm
+118,7 Moulamein Court,"Sold $538,000 in Jun 2019","Last Sold $395,000 in Jun 2013", ,House: 2  2  5 ,Land size: 681 sqm | Building size: 165 sqm
+119,107 Sladen Street,"Sold $450,000 in Jun 2019", ,Rent $350pw in Jun 2019,House: 3  1  1 ,Land size: 587 sqm
+120,136a Vines Road,"Sold $515,000 in Jun 2019","Last Sold $392,500 in Mar 2014", ,Townhouse: 3  2  1 ,Land size: 347 sqm | Building size: 138 sqm
+121,16 Willana Avenue,"Sold $485,000 in Jun 2019","Last Sold $310,000 in Sep 2012(Auction)", ,House: 3  1  2 ,Land size: 650 sqm | Building size: 107 sqm
+122,17 Gladstone Street,"Sold $600,000 in Jun 2019","Last Sold $325,000 in Oct 2007", ,House: 3  2  1 ,Land size: 715 sqm | Building size: 181 sqm
+123,334 Church Street,"Sold $950,000 in May 2019", , ,House: 3  1  2 ,"Land size: 1,493 sqm"
+124,38 Quamby Avenue,"Sold $486,200 in May 2019","Last Sold $300,000 in Oct 2007", ,House: 3  2  2 ,Land size: 312 sqm | Building size: 150 sqm
+125,11 Edgecombe Street,"Sold $600,000 in 25 May 2019(Auction)","Last Sold $388,000 in Aug 2014", ,House: 3  1  4 ,Land size: 664 sqm | Building size: 139 sqm
+126,15 Highview Parade,"Sold $440,000 in May 2019","Last Sold $280,000 in Jul 2012(Auction)", ,House: 3  1  1 ,Land size: 635 sqm | Building size: 101 sqm
+127,9 Sheridan Street,"Sold $450,000 in 18 May 2019(Auction)", , ,House: 2  1  1 ,Land size: 811 sqm
+128,18 Sladen Street,"Sold $450,000 in May 2019","Last Sold $347,200 in Feb 2016", ,House: 5  2  2 ,Land size: 635 sqm
+129,25 Wilks Street,"Sold $675,000 in May 2019","Last Sold $51,000 in May 1994", ,House: 4  3  2 ,Land size: 690 sqm
+130,1/12 Sheridan Street,"Sold $490,000 in May 2019","Last Sold $359,900 in Mar 2011", ,House: 3  2  2 ,Land size: 365 sqm
+131,32 Highview Parade,"Sold $600,000 in May 2019","Last Sold $270,000 in Nov 2008", ,House: 4  2  2 ,Land size: 636 sqm
+132,2/38-40 Pride Avenue,"Sold $230,000 in May 2019","Last Sold $161,000 in Feb 2013", , ,Land size: 100 sqm | Building size: 75 sqm
+133,124 Church Street,"Sold $950,000 in Apr 2019","Last Sold $327,000 in Apr 2015(Auction)", ,House: 3  2  3 ,Land size: 465 sqm
+134,2/1 Marathon Avenue,"Sold $445,000 in Apr 2019","Last Sold $315,000 in Apr 2010", ,House: 2  1  1 ,Land size: 353 sqm
+135,1/176 Church Street,"Sold $465,000 in Apr 2019","Last Sold $328,000 in May 2017", ,House: 2  1  1 ,Land size: 354 sqm
+136,22 Heather Street,"Sold $510,000 in Apr 2019","Last Sold $417,000 in Jul 2017", ,House: 2  1  1 ,Land size: 595 sqm
+137,1 Little Avenue,"Sold $585,000 in Apr 2019","Last Sold $227,002 in Jan 2007", ,House: 3  1  2 ,Land size: 668 sqm
+138,2/14 Belcher Street,"Sold $485,000 in Apr 2019", , ,Townhouse: 3  2  2 ,Land size: 195 sqm
+139,1/32 Marlo Street,"Sold $415,000 in Mar 2019","Last Sold $355,000 in Nov 2017", , ,Land size: 188 sqm
+140,312 Church Street,"Sold $570,000 in Mar 2019","Last Sold $340,000 in Mar 2017", ,House: 3  1  1 ,Land size: 503 sqm
+141,23 June Avenue,"Sold $600,000 in 09 Mar 2019(Auction)","Last Sold $290,000 in Dec 2009", ,House: 3  1  2 ,Land size: 750 sqm
+142,26 Heather Street,"Sold $540,000 in Mar 2019","Last Sold $280,000 in Mar 2009", ,House: 3  1  2 ,Land size: 642 sqm | Building size: 96 sqm
+143,3 Little Avenue,"Sold $573,000 in 02 Mar 2019(Auction)","Last Sold $370,000 in Mar 2012", ,House: 3  1  2 ,Land size: 668 sqm
+144,1 Moulamein Court,"Sold $530,000 in Mar 2019","Last Sold $300,000 in Sep 2008", ,House: 4  2  4 ,Land size: 587 sqm
+145,10 Weeroona Avenue,"Sold $620,000 in 23 Feb 2019(Auction)","Last Sold $70,500 in Jan 1994", ,House: 4  2  1 ,Land size: 731 sqm
+146,9 Belcher Street,"Sold $497,500 in Feb 2019","Last Sold $89,000 in Aug 1991", ,House: 3  1  7 ,Land size: 764 sqm | Building size: 96 sqm
+147,2/5 Mary Street,"Sold $625,000 in Feb 2019","Last Sold $452,500 in May 2012", ,Townhouse: 3  2  2 ,Land size: 233 sqm
+148,35 Tahara Street,"Sold $570,000 in 20 Feb 2019(Auction)", , ,House: 4  2  4 ,Land size: 700 sqm
+149,4 Woorayl Street,"Sold $673,000 in 09 Feb 2019(Auction)","Last Sold $60,500 in Jun 1987", ,House: 2  1  1 ,Land size: 843 sqm
+150,16 Acacia Street,"Sold $515,000 in Feb 2019", , ,House: 3  1  2 ,Land size: 707 sqm
+151,4/41 Sladen Street,"Sold $292,000 in Feb 2019","Last Sold $212,000 in Feb 2011", , ,Land size: 273 sqm | Building size: 70 sqm
+152,1 Macarthur Avenue,"Sold $500,000 in Jan 2019","Last Sold $80,000 in May 1989", ,House: 3  1  3 ,Land size: 659 sqm
+153,5 Heather Street,"Sold $445,000 in Jan 2019","Last Sold $92,000 in Feb 2000", ,House: 1  1  1 ,Land size: 650 sqm
+154,1/34 Glenfine Avenue,"Sold $488,000 in Jan 2019","Last Sold $420,000 in Jan 2012", ,House: 3  2  2 ,Land size: 358 sqm
+155,20 Strathire Gardens,"Sold $535,000 in Jan 2019", , ,House: 4  2  5 ,Land size: 610 sqm
+156,15 Gladstone Street,"Sold $640,000 in Jan 2019", , ,House: 3  1  3 ,"Land size: 1,177 sqm"
+157,26 Parkland Drive,"Sold $449,000 in Jan 2019","Last Sold $136,000 in Feb 2000", ,House: 2  1  2 ,Land size: 360 sqm
+158,27 Beulah Street,"Sold $530,000 in Jan 2019","Last Sold $365,000 in Feb 2012", ,House: 3  1  2 ,Land size: 707 sqm
+159,3 Sheridan Street,"Sold $900,000 in Jan 2019","Last Sold $386,000 in Mar 2013", ,House: 4  2  2 ,"Land size: 1,008 sqm | Building size: 138 sqm"
+160,2/34 Glenfine Avenue,"Sold $477,500 in Dec 2018","Last Sold $420,000 in Apr 2011", ,Townhouse: 3  2  2 ,Land size: 337 sqm | Building size: 147 sqm
+161,12 Ballarat Road,"Sold $437,500 in Dec 2018","Last Sold $85,000 in Jan 2000", ,House: 2  1  2 ,Land size: 511 sqm | Building size: 118 sqm
+162,20 Logan Street,"Sold $660,000 in Dec 2018", , ,House: 3  1  2 ,"Land size: 1,012 sqm"
+163,1/156 Church Street,"Sold $500,000 in Dec 2018","Last Sold $340,000 in Feb 2008", , ,Land size: 366 sqm
+164,98 Ballarat Road,"Sold $370,000 in Dec 2018", , ,House: 3  1  1 ,Land size: 811 sqm
+165,2/6 Calvert Street,"Sold $530,000 in Dec 2018", ,Rent $360pw in Oct 2014,House: 3  2  1 ,Land size: 434 sqm
+166,256 Church Street,"Sold $565,000 in 08 Dec 2018(Auction)","Last Sold $276,000 in May 2009", ,House: 2  1  1 ,Land size: 809 sqm | Building size: 168 sqm
+167,47 Hamlyn Avenue,"Sold $556,250 in Dec 2018","Last Sold $280,000 in Aug 2012", ,House: 3  1  1 ,Land size: 610 sqm | Building size: 128 sqm
+168,15 Marathon Avenue,"Sold $530,000 in Dec 2018","Last Sold $165,000 in Sep 2001", ,House: 4  2  2 ,Land size: 634 sqm
+169,65 Lily Street,"Sold $420,000 in Dec 2018","Last Sold $160,000 in Oct 2001", ,Townhouse: 2  1  1 ,Land size: 248 sqm
+170,6 Woorayl Street,"Sold $380,000 in Nov 2018","Last Sold $317,500 in Apr 2010", ,House: 2  1  1 ,Land size: 235 sqm | Building size: 90 sqm
+171,1 Kalimna Street,"Sold $810,000 in Nov 2018", , ,House: 3  1  2 ,"Land size: 1,172 sqm"
+172,1A Weeroona Avenue,"Sold $515,000 in Nov 2018", , ,House: 3  2  1 ,Land size: 333 sqm
+173,7 Kendall Close,"Sold $423,000 in 24 Nov 2018(Auction)","Last Sold $210,000 in Aug 2002", ,Townhouse: 2  1  1 ,Land size: 271 sqm
+174,2a Dunmow Crescent,"Sold $408,000 in Nov 2018","Last Sold $275,000 in Apr 2014", ,House: 2  1  1 ,Land size: 320 sqm | Building size: 86 sqm
+175,1/2 Glengate Street,"Sold $405,000 in Nov 2018","Last Sold $265,000 in Aug 2006", , ,Land size: 239 sqm
+176,2 Little Avenue,"Sold $520,000 in 22 Nov 2018(Auction)","Last Sold $160,000 in Dec 2013", ,House: 3  1  2 ,Land size: 553 sqm | Building size: 100 sqm
+177,1/2 Glengate Strete,"Sold $405,000 in Nov 2018", , , , 
+178,6 Macarthur Avenue,"Sold $565,000 in 17 Nov 2018(Auction)","Last Sold $345,100 in Oct 2010", ,House: 3  1  2 ,Land size: 588 sqm
+179,3/34 Logan Street,"Sold $415,000 in Nov 2018", ,Rent $315pw in May 2014, ,Land size: 240 sqm
+180,2 Marathon Avenue,"Sold $565,000 in 14 Nov 2018(Auction)","Last Sold $268,000 in Feb 2004", ,House: 3  1  2 ,Land size: 591 sqm | Building size: 147 sqm
+181,18 MacArthur Avenue,"Sold $557,000 in 10 Nov 2018(Auction)", , ,House: 3  1  2 ,Land size: 624 sqm
+182,40 Beulah Street,"Sold $535,000 in Nov 2018", , ,House: 3  1  1 ,Land size: 609 sqm
+183,7 Weeroona Avenue,"Sold $560,000 in Nov 2018", , ,House: 3  1  2 ,Land size: 730 sqm
+184,80 Calvert Street,"Sold $600,000 in 31 Oct 2018(Auction)","Last Sold $86,000 in May 1997", ,House: 3  2  1 ,Land size: 763 sqm
+185,2/14 Mary Street,"Sold $575,000 in Oct 2018","Last Sold $400,000 in Mar 2010", ,House: 3  2  1 ,Land size: 253 sqm
+186,4 Tahara Street,"Sold $555,000 in Oct 2018","Last Sold $380,000 in Jun 2016(Auction)", ,House: 3  2  3 ,Land size: 693 sqm
+187,104 Tahara Street,"Sold $620,000 in 27 Oct 2018(Auction)", , ,House: 3  2  2 ,Land size: 697 sqm
+188,61 Drysdale Avenue,"Sold $620,000 in Oct 2018","Last Sold $89,999 in Apr 1996", ,House: 3  2  3 ,Land size: 674 sqm
+189,3/19 Stoddart Street,"Sold $380,000 in Oct 2018","Last Sold $130,000 in Sep 2001", , ,Land size: 252 sqm
+190,2/37 Logan Street,"Sold $405,000 in Oct 2018","Last Sold $385,000 in Feb 2000", ,Townhouse: 2  1  1 ,"Land size: 1,015 sqm"
+191,5 Edgecombe Street,"Sold $606,000 in 20 Oct 2018(Auction)","Last Sold $395,000 in Mar 2015", ,House: 3  1  1 ,Land size: 809 sqm | Building size: 121 sqm
+192,21A Vines Road,"Sold $550,000 in Oct 2018", , , ,Land size: 355 sqm
+193,14 Wilks Street,"Sold $500,000 in Oct 2018","Last Sold $270,000 in Mar 2014", ,House: 3  2  2 ,Land size: 569 sqm
+194,21 Drysdale Avenue,"Sold $495,000 in Oct 2018","Last Sold $276,000 in Dec 2011", ,House: 3  1  2 ,Land size: 613 sqm | Building size: 112 sqm
+195,21B Vines Road,"Sold $545,000 in Sep 2018", , , ,Land size: 303 sqm
+196,1/64 Sladen Street,"Sold $483,123 in Sep 2018","Last Sold $365,000 in Mar 2013", ,House: 3  1  2 ,Land size: 516 sqm | Building size: 137 sqm
+197,8 Gladstone Street,"Sold $540,000 in Sep 2018", , ,House: 3  1  4 ,Land size: 709 sqm
+198,2/22 Vines Road,"Sold $392,500 in Sep 2018","Last Sold $335,000 in Jul 2009", ,Townhouse: 2  1  1 ,Land size: 152 sqm | Building size: 96 sqm
+199,45 Chaucer Street,"Sold $535,000 in 15 Sep 2018(Auction)", , ,House: 3  1  2 ,Land size: 551 sqm
+200,2/110 Church Street,"Sold $385,000 in Sep 2018","Last Sold $250,000 in Dec 2014", , ,Land size: 265 sqm | Building size: 92 sqm
+201,31 Glengate Street,"Sold $425,000 in Sep 2018","Last Sold $130,000 in Jan 2000", ,Townhouse: 2  1  1 ,Land size: 229 sqm
+202,12 Highview Parade,"Sold $525,000 in 01 Sep 2018(Auction)", , ,House: 3  1  6 ,Land size: 658 sqm
+203,6 Dunwinnie Court,"Sold $765,000 in 01 Sep 2018(Auction)", , ,House: 3  2  2 ,Land size: 885 sqm
+204,3 Foxhow Court,"Sold $547,000 in 01 Sep 2018(Auction)","Last Sold $306,000 in Feb 2010", ,House: 3  1  1 ,Land size: 559 sqm
+205,28 Alkoomi Avenue,"Sold $750,000 in 01 Sep 2018(Auction)","Last Sold $560,000 in Nov 2013", ,House: 4  3  7 ,Land size: 764 sqm | Building size: 250 sqm
+206,2/17 Griffen Street,"Sold $360,000 in Aug 2018","Last Sold $310,000 in Sep 2011(Auction)", , ,Land size: 195 sqm
+207,8 Pride Avenue,"Sold $455,000 in Aug 2018","Last Sold $233,000 in Oct 2002", ,House: 2  1  1 ,Land size: 390 sqm | Building size: 124 sqm
+208,2/3 Kinnordy Court,"Sold $240,000 in Aug 2018","Last Sold $174,000 in Nov 2015", , ,Land size: 578 sqm
+209,2/24 Glenfine Avenue,"Sold $505,000 in Aug 2018", , , , 
+210,3/34 Glenfine Avenue,"Sold $505,000 in Aug 2018","Last Sold $420,000 in Mar 2011", ,Townhouse: 3  2  2 ,Land size: 331 sqm
+211,22 Shannon Avenue,"Sold $500,000 in 11 Aug 2018(Auction)","Last Sold $263,000 in Jul 2008", ,House: 3  1  1 ,Land size: 598 sqm
+212,280 Church Street,"Sold $490,000 in Aug 2018","Last Sold $385,000 in Jun 2012", ,House: 3  2  2 ,Land size: 366 sqm
+213,29 Willana Avenue,"Sold $501,000 in 03 Aug 2018(Auction)","Last Sold $280,000 in Jul 2012", ,House: 2  1  5 ,Land size: 650 sqm | Building size: 87 sqm
+214,74 Vines Road,"Sold $551,500 in Aug 2018","Last Sold $450,000 in Apr 2017", ,House: 3  1  6 ,Land size: 766 sqm
+215,4/15 Sheridan Street,"Sold $430,000 in Aug 2018", ,Rent $385pw in Oct 2019, ,Land size: 162 sqm
+216,2/39 Tahara Street,"Sold $520,000 in Jul 2018", , , ,Land size: 259 sqm
+217,3/45 Logan Street,"Sold $645,000 in Jul 2018", , ,Townhouse: 3  2  2 ,Land size: 279 sqm
+218,2/17 Toyne Avenue,"Sold $555,000 in Jul 2018", , ,Townhouse: 3  2  2 ,Land size: 251 sqm
+219,23 Logan Street,"Sold $475,000 in 21 Jul 2018(Auction)","Last Sold $315,000 in Oct 2013", ,House: 2  1  1 ,Land size: 435 sqm | Building size: 110 sqm
+220,1/35 Logan Street,"Sold $568,000 in Jul 2018", , , ,Land size: 308 sqm
+221,3/50 Sladen Street,"Sold $394,000 in Jul 2018","Last Sold $250,000 in Feb 2009", ,Townhouse: 2  1  2 ,Land size: 244 sqm
+222,13 Tahara Street,"Sold $650,000 in Jul 2018", , ,House: 3  2  2 ,Land size: 699 sqm
+223,22 Bayview Parade,"Sold $545,000 in Jul 2018","Last Sold $430,000 in Dec 2016(Auction)", ,House: 3  1  2 ,Land size: 674 sqm
+224,39 Heather Street,"Sold $688,000 in Jul 2018","Last Sold $251,000 in Jun 2003", ,House: 4  2  2 ,Land size: 650 sqm | Building size: 190 sqm
+225,38 Sladen Street,"Sold $500,000 in Jul 2018","Last Sold $371,000 in Dec 2016", ,House: 3  1  3 ,Land size: 664 sqm
+226,13 Katoomba Court,"Sold $655,000 in 03 Jul 2018(Auction)","Last Sold $430,000 in Nov 2014", ,House: 4  2  2 ,Land size: 767 sqm
+227,9 Marathon Avenue,"Sold $631,000 in Jul 2018","Last Sold $340,000 in May 2013", ,House: 3  2  1 ,Land size: 639 sqm | Building size: 173 sqm
+228,8B Sladen Street,"Sold $625,000 in Jun 2018", , ,House: 3  2  1 ,Land size: 317 sqm
+229,25 Tahara Street,"Sold $590,000 in Jun 2018", , ,House: 3  2  2 ,Land size: 699 sqm
+230,146 Ballarat Road,"Sold $400,000 in Jun 2018","Last Sold $240,000 in Sep 2011", ,House: 3  1  1 ,Land size: 491 sqm | Building size: 105 sqm
+231,336 Church Street,"Sold $590,000 in Jun 2018", , ,House: 3  2  2 ,Land size: 703 sqm
+232,1/90 Vines Road,"Sold $442,000 in Jun 2018", , ,Townhouse: 2  1  1 ,Land size: 240 sqm
+233,37b Lily Street,"Sold $625,000 in Jun 2018", , ,Townhouse: 3  2  2 ,Land size: 331 sqm
+234,19 Shannon Avenue,"Sold $765,000 in Jun 2018", , ,House: 3  2  2 ,Land size: 255 sqm
+235,2/15 Griffen Street,"Sold $407,000 in Jun 2018","Last Sold $278,000 in Dec 2015", , ,Land size: 202 sqm
+236,2/7 Fassifern Court,"Sold $237,000 in Jun 2018","Last Sold $209,900 in Jun 2016", , ,Land size: 81 sqm
+237,12 Forfar Road,"Sold $674,000 in 16 Jun 2018(Auction)","Last Sold $92,000 in Dec 1985", ,House: 3  1  1 ,"Land size: 1,000 sqm"
+238,2/10 Marlo Street,"Sold $425,000 in Jun 2018", ,Rent $330pw in Apr 2017, ,Land size: 198 sqm
+239,1/4 Willana Avenue,"Sold $381,000 in Jun 2018","Last Sold $282,000 in Nov 2013", ,House: 3  1  1 ,Land size: 327 sqm
+240,29 Toyne Avenue,"Sold $747,000 in Jun 2018","Last Sold $430,000 in Nov 2013", ,House: 4  2  5 ,"Land size: 1,012 sqm | Building size: 128 sqm"
+241,33 Rowe Street,"Sold $660,000 in Jun 2018","Last Sold $50,000 in Jun 1989", ,House: 4  2  2 ,Land size: 726 sqm
+242,26 Vines Road,"Sold $500,000 in Jun 2018","Last Sold $197,500 in Aug 2004", ,House: 3  1  1 ,Land size: 731 sqm
+243,12&3/352 Church Street,"Sold $695,000 in May 2018", , , , 
+244,21 Kalimna Street,"Sold $560,000 in 26 May 2018(Auction)", , ,House: 3  1  3 ,Land size: 650 sqm
+245,1 Arthur Street,"Sold $635,000 in May 2018", ,Rent $400pw in Jan 2017,House: 4  2  5 ,Land size: 674 sqm
+246,8 Tahara Street,"Sold $561,000 in May 2018","Last Sold $56,000 in Dec 1983", ,House: 3  1  1 ,Land size: 689 sqm
+247,1/14 Belcher Street,"Sold $510,000 in May 2018", ,Rent $450pw in Jul 2018,Townhouse: 3  2  2 ,Land size: 234 sqm
+248,2/34 Logan Street,"Sold $426,500 in May 2018", ,Rent $335pw in May 2016,House: 2  1  1 ,Land size: 213 sqm
+249,9 Downie Crescent,"Sold $642,000 in May 2018", , ,House: 5  3  2 ,Land size: 696 sqm
+250,11 Gwynne Street,"Sold $441,600 in May 2018", ,Rent $310pw in Apr 2017,House: 3  1  2 ,Land size: 437 sqm
+251,16 Glenfine Avenue,"Sold $525,000 in 12 May 2018(Auction)", , ,House: 3  1  1 ,Land size: 821 sqm
+252,86 Vines Road,"Sold $484,000 in May 2018", ,Rent $280pw in Jul 2019,House: 2  1  1 ,Land size: 650 sqm
+253,75 Sladen Street,"Sold $587,500 in May 2018","Last Sold $173,000 in Nov 2002", ,House: 4  1  1 ,Land size: 772 sqm
+254,21 Heather Street,"Sold $476,000 in May 2018","Last Sold $65,000 in Mar 1997", ,House: 3  1  2 ,Land size: 580 sqm
+255,3/2 Sheridan Street,"Sold $640,000 in May 2018","Last Sold $490,000 in Feb 2015", ,Townhouse: 3  2  2 ,Land size: 228 sqm
+256,14 Macarthur Avenue,"Sold $551,000 in May 2018","Last Sold $385,000 in Mar 2015", ,House: 3  1  2 ,Land size: 628 sqm | Building size: 136 sqm
+257,34 Lily Street,"Sold $517,000 in May 2018","Last Sold $305,000 in Sep 2010(Auction)", ,House: 3  1  2 ,Land size: 767 sqm
+258,9 Lily Street,"Sold $545,000 in Apr 2018","Last Sold $222,500 in Oct 2004", ,House: 3  1  1 ,Land size: 609 sqm
+259,6 Stoddart Street,"Sold $465,000 in Apr 2018","Last Sold $53,500 in Mar 1995", ,House: 3  1  1 ,Land size: 869 sqm
+260,35 Sheridan Street,"Sold $420,000 in Apr 2018","Last Sold $297,000 in Feb 2010", ,Townhouse: 2  1  2 ,Land size: 294 sqm
+261,21 Gladstone Street,"Sold $435,000 in 21 Apr 2018(Auction)","Last Sold $285,000 in May 2014", ,House: 3  1  1 ,Land size: 391 sqm | Building size: 95 sqm
+262,8a Sladen Street,"Sold $590,000 in Apr 2018", , , ,Land size: 317 sqm
+263,3 Lomandra Avenue,"Sold $880,000 in Apr 2018","Last Sold $181,000 in Oct 2003", ,House: 4  2  2 ,Land size: 525 sqm | Building size: 329 sqm
+264,14 Kirriemuir Street,"Sold $640,000 in Apr 2018","Last Sold $230,000 in Apr 2006", ,House: 2  1  4 ,Land size: 815 sqm
+265,9 Langinabool Avenue,"Sold $598,500 in Apr 2018", , , , 
+266,24 Katoomba Court,"Sold $548,000 in 14 Apr 2018(Auction)", , ,House: 4  1  2 ,Land size: 723 sqm
+267,9 Langibanool Avenue,"Sold $598,500 in Apr 2018", , ,House: 3  1  1 ,Land size: 731 sqm
+268,25 Glengate Street,"Sold $645,000 in Apr 2018","Last Sold $128,000 in Feb 2000", ,House: 4  2  5 ,Land size: 784 sqm | Building size: 212 sqm
+269,4 Wilks Street,"Sold $595,000 in Apr 2018", ,Rent $410pw in Apr 2013,House: 4  2  2 ,Land size: 695 sqm
+270,24 Sycamore Street,"Sold $607,000 in Apr 2018", , ,House: 3  1  1 ,Land size: 580 sqm
+271,112 Sladen Street,"Sold $497,000 in Apr 2018","Last Sold $137,500 in Jan 1996", ,House: 2  1  1 ,Land size: 597 sqm
+272,23 Heather Street,"Sold $450,000 in Apr 2018","Last Sold $185,000 in Jun 2007", ,House: 2  1  1 ,Land size: 581 sqm
+273,2 Alderley Court,"Sold $675,501 in Apr 2018","Last Sold $52,500 in Jan 1994", ,House: 4  2  2 ,Land size: 684 sqm
+274,7 Rix Street,"Sold $614,000 in Mar 2018", , , , 
+275,86 Calvert Street,"Sold $547,500 in 24 Mar 2018(Auction)", , ,House: 4  1  4 ,Land size: 811 sqm
+276,1/15 Sheridan Street,"Sold $510,000 in Mar 2018", , ,Townhouse: 3  ,Land size: 235 sqm
+277,30 Tahara Street,"Sold $521,000 in 24 Mar 2018(Auction)","Last Sold $251,000 in May 2009", ,House: 3  1  2 ,Land size: 693 sqm | Building size: 134 sqm
+278,18 Hamlyn Avenue,"Sold $563,000 in Mar 2018","Last Sold $97,000 in Jan 1996", ,House: 3  1  2 ,Land size: 636 sqm
+279,8 Macarthur Avenue,"Sold $608,000 in Mar 2018","Last Sold $349,000 in Oct 2014", ,House: 3  1  1 ,Land size: 611 sqm
+280,3/40 Tahara Street,"Sold $200,000 in Mar 2018","Last Sold $165,000 in Nov 2011", , ,Land size: 109 sqm
+281,13 Willana Avenue,"Sold $499,000 in Mar 2018", ,Rent $395pw in May 2018,House: 3  1  2 ,Land size: 650 sqm
+282,29 Glenfine Avenue,"Sold $390,000 in Mar 2018","Last Sold $210,000 in Mar 2007", ,House: 3  1  1 ,Land size: 300 sqm
+283,23 Sheridan Street,"Sold $515,000 in Mar 2018", ,Rent $330pw in Jun 2018,House: 3  1  2 ,Land size: 763 sqm
+284,15 Robb Avenue,"Sold $450,000 in Mar 2018","Last Sold $58,000 in Aug 1999", ,House: 3  1  1 ,Land size: 650 sqm
+285,10 Waymouth Street,"Sold $540,000 in Mar 2018", ,Rent $300pw in Jun 2018,House: 3  1  1 ,Land size: 693 sqm
+286,136a Church Street,"Sold $608,000 in Mar 2018","Last Sold $60,000 in Dec 2013", ,House: 3  1  1 ,Land size: 340 sqm
+287,98 Sladen Street,"Sold $576,000 in Mar 2018","Last Sold $332,500 in Jul 2015", ,House: 3  1  1 ,Land size: 602 sqm
+288,6 Weeroona Avenue,"Sold $615,000 in Mar 2018", , ,House: 3  1  2 ,Land size: 731 sqm
+289,19 Heather Street,"Sold $567,000 in Mar 2018","Last Sold $299,000 in Mar 2013(Auction)", ,House: 3  1  2 ,Land size: 650 sqm | Building size: 83 sqm
+290,34 Sheridan Street,"Sold $563,000 in Mar 2018", ,Rent $480pw in Nov 2019,House: 4  1  2 ,Land size: 769 sqm
+291,3/45 Sladen Street,"Sold $468,000 in Mar 2018","Last Sold $350,000 in Mar 2015", , ,Land size: 170 sqm
+292,5/88 Ballarat Road,"Sold $187,500 in Feb 2018","Last Sold $150,000 in Aug 2009", ,House: 1  1  1 , 
+293,27 Heather Street,"Sold $455,200 in Feb 2018","Last Sold $300,000 in Oct 2015", ,House: 3  1  1 ,Land size: 580 sqm | Building size: 84 sqm
+294,7 Murray Street,"Sold $576,000 in Feb 2018","Last Sold $389,000 in Aug 2015(Auction)", ,House: 3  1  2 ,Land size: 650 sqm
+295,4 Karkalla Court,"Sold $811,000 in Feb 2018","Last Sold $179,000 in Oct 2003", ,House: 5  2  2 ,Land size: 679 sqm
+296,15 Tahara Street,"Sold $535,500 in Feb 2018","Last Sold $118,000 in Jul 1995", ,House: 3  1  2 ,Land size: 699 sqm
+297,5/38-40 Pride Avenue,"Sold $264,000 in Feb 2018","Last Sold $219,000 in Feb 2016", , ,"Land size: 1,905 sqm"
+298,32 Lily Street,"Sold $530,000 in Feb 2018", ,Rent $350pw in Apr 2018,House: 3  2  3 ,Land size: 772 sqm
+299,3/4-6 Quamby Avenue,"Sold $300,000 in Feb 2018","Last Sold $230,000 in Jun 2012", , ,Land size: 228 sqm

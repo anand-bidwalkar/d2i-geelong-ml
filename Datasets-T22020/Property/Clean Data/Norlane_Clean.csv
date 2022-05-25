@@ -1,0 +1,301 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,82 Rose Avenue," 251,500 ", Sep 2020,0," 146,000 ", Nov 2008, ,, 660  ,  89 ,3,1,3,Norlane
+1,36 Peacock Avenue," 319,000 ", Aug 2020,0, ,, ,, 609 ,,0,0,0,Norlane
+2,12 Peacock Avenue," 547,000 ", Aug 2020,0," 296,000 ", Sep 2009, ,, 592 ,,4,2,4,Norlane
+3,18 Gull Street," 435,000 ", Aug 2020,0," 230,000 ", Jun 2011, ,, 557  ,  131 ,4,2,3,Norlane
+4,119 Cox Road," 265,000 ", Aug 2020,0," 190,000 ", Oct 2014, ,, 616 ,,3,1,1,Norlane
+5,7 Dove Street," 475,000 ", Aug 2020,0, ,, ,, 558 ,,4,2,2,Norlane
+6,126 Princes Highway," 470,000 ", Aug 2020,0, ,, ,, 930 ,,0,0,0,Norlane
+7,13 Cortina Close," 390,000 ", Aug 2020,0," 225,000 ", Dec 2012, ,, 538  ,  95 ,3,1,1,Norlane
+8,11 Bellbird Avenue," 290,000 ", Aug 2020,0," 152,000 ", Jun 2009, ,, 557 ,,3,1,1,Norlane
+9,9 Bingara Avenue," 376,000 ", Aug 2020,0," 251,200 ", Nov 2012, ,, 628  ,  145 ,3,2,2,Norlane
+10,22 Moran Place," 395,000 ", Aug 2020,0," 210,250 ", Aug 2007, ,, 575 ,,3,1,1,Norlane
+11,2/33 Camellia Crescent," 345,000 ", Aug 2020,0, ,, 260 , Aug 2016, 179 ,,2,2,1,Norlane
+12,3 Taroonga Court," 370,000 ", Aug 2020,0," 205,000 ", Jan 2015, ,, 753 ,,3,1,1,Norlane
+13,145 Sparks Road," 373,500 ", Aug 2020,0," 119,000 ", Jul 2007, ,, 650 ,,3,1,1,Norlane
+14,32 Brooks Street," 395,000 ", Aug 2020,0," 227,000 ", Oct 2016, ,, 577  ,  85 ,3,1,2,Norlane
+15,12 Tennyson Street," 317,000 ", Jul 2020,0, ,, 250 , May 2018, 612 ,,3,1,3,Norlane
+16,4 Peacock Avenue," 455,000 ", Jul 2020,0," 318,000 ", Apr 2010, ,, 778  ,  139 ,0,0,0,Norlane
+17,12 Camfield Road," 451,799 ", Jul 2020,0," 302,500 ", Feb 2016, ,, 550  ,  139 ,4,1,1,Norlane
+18,38 Donnelly Avenue," 276,000 ", Jul 2020,0," 67,000 ", Apr 1989, ,, 646 ,,1,1,2,Norlane
+19,1 Tulip Street," 410,000 ", Jul 2020,0," 63,000 ", Mar 1994, ,, 635 ,,0,0,0,Norlane
+20,40 Olympic Avenue," 371,000 ", Jul 2020,0, ,, ,, 566 ,,4,1,2,Norlane
+21,2 Maynooth Drive," 355,000 ", Jul 2020,0," 182,000 ", Sep 2007, ,, 628 ,,3,1,2,Norlane
+22,58 Rose Avenue," 385,000 ", Jul 2020,0," 221,000 ", Jan 2016, ,, 725  ,  92 ,2,1,2,Norlane
+23,169 Sparks Road," 385,000 ", Jul 2020,0," 255,000 ", Feb 2017, ,, 604  ,  101 ,3,1,2,Norlane
+24,4 Akma Court," 392,500 ", Jul 2020,0, ,, ,, 638 ,,2,1,1,Norlane
+25,51 Station Street," 385,000 ", Jun 2020,0," 239,000 ", Feb 2014, ,, 811  ,  99 ,3,1,3,Norlane
+26,24 Hinton Close," 385,000 ", Jun 2020,0," 250,000 ", Mar 2013, ,, 592  ,  116 ,3,1,3,Norlane
+27,1/28 Warrawee Avenue," 290,000 ", Jun 2020,0," 230,000 ", Mar 2019, ,, 396 ,,2,1,1,Norlane
+28,80 Olympic Avenue," 381,000 ", Jun 2020,0," 130,000 ", Jan 2015, ,, 655  ,  121 ,3,1,1,Norlane
+29,9 Page Street," 420,000 ", Jun 2020,0," 210,000 ", Jan 2006, ,, 581 ,,3,1,3,Norlane
+30,165 Sparks Road," 225,000 ", Jun 2020,0," 62,000 ", May 2001, ,, 650 ,,0,0,0,Norlane
+31,23 Warrawee Avenue," 306,000 ", 16 Jun 2020,1," 200,000 ", May 2012, ,, 634 ,,2,1,1,Norlane
+32,15 Lumeah Street," 290,000 ", Jun 2020,0," 198,000 ", Sep 2011, ,, 666 ,,3,1,4,Norlane
+33,11 Kalinga Street," 372,000 ", Jun 2020,0," 370,000 ", Feb 2018, ,, 653 ,,3,1,1,Norlane
+34,35 Waitara Grove," 308,000 ", Jun 2020,0, ,, ,, 641 ,,3,1,2,Norlane
+35,16 Zinnia Street," 330,000 ", May 2020,0, ,, ,, 758 ,,3,1,2,Norlane
+36,26 Donnelly Avenue," 408,000 ", May 2020,0," 77,500 ", Apr 1991, ,, 650 ,,1,0,0,Norlane
+37,95 Donnybrook Road," 425,000 ", Apr 2020,0," 247,000 ", Sep 2006, ,, 616 ,,4,2,0,Norlane
+38,1 Coleman Court," 371,000 ", Apr 2020,0," 203,000 ", Oct 2008, ,, 592 ,,3,1,1,Norlane
+39,1/33 Camellia Crescent," 239,000 ", Mar 2020,0, ,, 240 , Oct 2016, 243 ,,2,1,1,Norlane
+40,3/10 Corrin Court," 335,000 ", Mar 2020,0," 205,000 ", Jun 2012, ,, 219  ,  121 ,0,0,0,Norlane
+41,45 Eagle Parade," 340,000 ", Mar 2020,0," 216,000 ", Jan 2015, ,, 557  ,  123 ,3,1,6,Norlane
+42,26B Tallis Street," 377,000 ", Mar 2020,0, ,, ,, 190 ,,0,0,0,Norlane
+43,4 Holdsworth Court," 500,000 ", Mar 2020,0," 76,000 ", Sep 1995, ,, 697 ,,3,2,2,Norlane
+44,28 Dunloe Avenue," 436,000 ", Mar 2020,0, ,, ,, 655 ,,0,0,0,Norlane
+45,3/19 Olympic Avenue," 255,000 ", Mar 2020,0," 136,000 ", May 2015, ,, 98 ,,0,0,0,Norlane
+46,16 Tennyson Street," 370,000 ", Mar 2020,0," 232,000 ", Feb 2016, ,, 613  ,  111 ,3,2,1,Norlane
+47,113 Princes Highway," 380,000 ", Mar 2020,0," 153,000 ", Apr 2009, ,, 557 ,,3,2,1,Norlane
+48,32 Bellbird Avenue," 339,600 ", Mar 2020,0," 210,000 ", Sep 2013, ,, 557  ,  112 ,2,1,2,Norlane
+49,54 Peacock Avenue," 450,000 ", Mar 2020,0," 155,000 ", Apr 2003, ,, 617 ,,3,2,2,Norlane
+50,9 Wirraway Crescent," 485,000 ", Feb 2020,0, ,, ,, 576 ,,3,2,3,Norlane
+51,48 Wendover Avenue," 363,000 ", Feb 2020,0," 130,000 ", Feb 2000, ,, 650 ,,3,1,1,Norlane
+52,12 Cortina Close," 415,000 ", Feb 2020,0," 275,000 ", Feb 2015, ,, 545  ,  128 ,3,1,4,Norlane
+53,76 Bellbird Avenue," 480,000 ", Feb 2020,0," 96,000 ", Nov 2013, ,, 557  ,  132 ,0,0,0,Norlane
+54,6/16-18 Wirraway Crescent," 508,000 ", Feb 2020,0," 355,000 ", Jan 2014, ,, 324 ,,0,0,0,Norlane
+55,18 Barcelona Street," 360,000 ", Feb 2020,0," 215,000 ", Oct 2009, ,, 592 ,,3,1,2,Norlane
+56,20 Lowan Avenue," 370,000 ", Feb 2020,0," 170,000 ", Nov 2010, ,, 479  ,  150 ,3,1,1,Norlane
+57,13 Waitara Grove," 395,000 ", Feb 2020,0," 352,500 ", Mar 2018, ,, 640 ,,3,1,6,Norlane
+58,2/16-18 Wirraway Crescent," 385,000 ", Feb 2020,0," 295,000 ", Nov 2011, ,, 279 ,,3,2,2,Norlane
+59,15 Moran Place," 365,000 ", Feb 2020,0," 156,500 ", Jul 2003, ,, 312 ,,0,0,0,Norlane
+60,86 The Boulevard," 345,000 ", Feb 2020,0, ,, ,, 639 ,,0,0,0,Norlane
+61,3/61 ST GEORGES Road," 300,000 ", Feb 2020,0, ,, 225 , May 2015, 150 ,,0,0,0,Norlane
+62,12 Yooringa Avenue," 310,000 ", Feb 2020,0," 110,005 ", Nov 2004, ,, 674 ,,3,1,1,Norlane
+63,1/99 Station Street," 315,000 ", Feb 2020,0," 189,000 ", Jan 2013, ,, 287 ,,3,1,1,Norlane
+64,21 Cox Road," 285,000 ", Feb 2020,0, ,, ,, 569 ,,2,1,2,Norlane
+65,19 Eagle Parade," 310,000 ", Feb 2020,0," 185,000 ", Jun 2011, ,, 608  ,  93 ,3,1,2,Norlane
+66,60 Olympic Avenue," 350,000 ", Jan 2020,0," 180,000 ", Nov 2014, ,, 657 ,,3,1,1,Norlane
+67,10 Zinnia Street," 350,000 ", Jan 2020,0," 167,000 ", Nov 2015, ,, 729 ,,3,1,0,Norlane
+68,11 Karrin Court," 327,000 ", Jan 2020,0," 248,000 ", Mar 2016, ,, 670  ,  670 ,3,1,2,Norlane
+69,73 St Georges Road," 302,000 ", Jan 2020,0," 188,500 ", Jun 2014, ,, 516 ,,3,1,1,Norlane
+70,3 Tulip Street," 397,000 ", Jan 2020,0," 237,500 ", Jul 2015, ,, 635 ,,3,1,2,Norlane
+71,17 Croatia Place," 475,000 ", Dec 2019,0," 432,500 ", Mar 2018, ,, 437 ,,3,2,2,Norlane
+72,12 Zinnia Street," 360,000 ", Dec 2019,0, ,, ,, 729 ,,0,0,0,Norlane
+73,4 Denver Street," 310,000 ", Dec 2019,0, ,, ,, 663 ,,0,0,0,Norlane
+74,32A Princes Highway," 375,000 ", Dec 2019,0," 56,560 ", Nov 2015, ,, 265 ,,0,0,0,Norlane
+75,4 Falcon Street," 392,000 ", Dec 2019,0," 200,000 ", Feb 2017, ,, 556 ,,0,0,0,Norlane
+76,53 Donnelly Avenue," 365,000 ", Dec 2019,0," 251,500 ", Oct 2016, ,, 650  ,  82 ,2,1,2,Norlane
+77,11 Station Street," 477,500 ", Dec 2019,0," 352,000 ", Aug 2017, ,, 260 ,,4,1,3,Norlane
+78,38A Alkira Avenue," 330,000 ", Dec 2019,0," 225,000 ", Jan 2016, ,, 254 ,,2,1,1,Norlane
+79,62 Bellbird Avenue," 272,500 ", 14 Dec 2019,1, ,, ,, 558 ,,0,0,0,Norlane
+80,21 Swallow Crescent," 295,000 ", 14 Dec 2019,1, ,, ,, 558 ,,3,1,1,Norlane
+81,5 Pettitt Crescent," 408,000 ", Dec 2019,0," 51,500 ", Jul 2000, ,, 479 ,,2,1,2,Norlane
+82,78 Rose Avenue," 370,000 ", Dec 2019,0," 186,000 ", May 2013, ,, 726 ,,2,1,2,Norlane
+83,13A Tallis Street," 380,000 ", Dec 2019,0, ,, ,, 725 ,,0,0,0,Norlane
+84,4 Bellnore Drive," 415,000 ", 10 Dec 2019,1," 90,000 ", Aug 2000, ,, 689  ,  175 ,3,1,0,Norlane
+85,166 Sparks Road," 350,000 ", Dec 2019,0, ,, ,, 689 ,,0,0,0,Norlane
+86,3 Kestrel Court," 400,000 ", Dec 2019,0," 366,000 ", Jan 2018, ,, 688 ,,3,2,2,Norlane
+87,515 Thompson Road," 310,000 ", 07 Dec 2019,1, ,, ,, 737 ,,0,0,0,Norlane
+88,65 Camellia Crescent," 375,000 ", 07 Dec 2019,1, ,, 240 , Oct 2013, 641 ,,2,1,1,Norlane
+89,51 Princes Highway," 432,000 ", Dec 2019,0," 137,000 ", Apr 2009, ,, 405 ,,3,2,3,Norlane
+90,113 Cox Road," 310,000 ", 03 Dec 2019,1, ,, ,, 610 ,,0,0,0,Norlane
+91,14 Yooringa Avenue," 390,000 ", Dec 2019,0," 150,000 ", Mar 2006, ,, 662 ,,3,1,2,Norlane
+92,1B Lowan Avenue," 258,000 ", Dec 2019,0, ,, ,, 277 ,,0,0,0,Norlane
+93,2 Korumburra Close," 350,000 ", Nov 2019,0," 157,500 ", Feb 2000, ,, 592  ,  112 ,3,1,2,Norlane
+94,587 Thompson Road," 370,000 ", Nov 2019,0," 302,000 ", Aug 2017, ,, 660  ,  103 ,3,1,1,Norlane
+95,106 The Boulevard," 370,000 ", Nov 2019,0," 176,000 ", Jul 2013, ,, 769 ,,3,1,2,Norlane
+96,26D Tallis Street," 342,000 ", Nov 2019,0, ,, ,, 332 ,,2,1,1,Norlane
+97,536 Thompson Road," 290,000 ", Nov 2019,0," 174,000 ", Feb 2015, ,, 604  ,  88 ,3,1,1,Norlane
+98,3A Wisteria Grove," 360,000 ", Nov 2019,0, ,, ,, 231 ,,0,0,0,Norlane
+99,81 Station Street," 367,000 ", Nov 2019,0," 218,000 ", Jan 2015, ,, 711  ,  99 ,3,1,3,Norlane
+100,16 Stradbroke Street," 393,500 ", Nov 2019,0," 220,000 ", Jun 2015, ,, 701 ,,3,1,2,Norlane
+101,52 Alkira Avenue," 255,000 ", Nov 2019,0," 122,000 ", Sep 2002, ,, 638 ,,3,2,2,Norlane
+102,38 Princes Highway," 310,000 ", Nov 2019,0, ,, ,, 693 ,,2,1,1,Norlane
+103,14 Arunga Avenue," 350,000 ", Oct 2019,0," 51,000 ", Jul 1999, ,, 715 ,,3,0,0,Norlane
+104,8 Wellwood Avenue," 380,000 ", Oct 2019,0," 291,000 ", Jan 2017, ,, 592  ,  114 ,4,1,4,Norlane
+105,47 Peacock Avenue," 445,000 ", Oct 2019,0," 310,000 ", Aug 2016, ,, 540  ,  133 ,3,2,2,Norlane
+106,41 Cox Road," 350,000 ", Oct 2019,0," 80,000 ", Sep 2010, ,, 569 ,,4,1,2,Norlane
+107,21 Plume Street," 360,000 ", 22 Oct 2019,1," 50,800 ", May 1988, ,, 780 ,,3,1,1,Norlane
+108,38 Plume Street," 220,000 ", Oct 2019,0," 151,000 ", Feb 2015, ,, 452  ,  75 ,2,1,1,Norlane
+109,40 Plume Street," 220,000 ", Oct 2019,0," 151,000 ", Feb 2015, ,, 451  ,  77 ,4,1,0,Norlane
+110,21 Eagle Parade," 340,000 ", Oct 2019,0, ,, 250 , Nov 2019, 609 ,,3,1,3,Norlane
+111,49 Bellnore Drive," 465,000 ", Oct 2019,0," 356,000 ", Jul 2012, ,, 742 ,,4,2,6,Norlane
+112,1/11 Camellia Crescent," 260,000 ", Oct 2019,0, ,, 260 , Sep 2019, 299 ,,0,0,0,Norlane
+113,1/108 Princes Highway," 260,000 ", Oct 2019,0, ,, 265 , Jan 2019, 276 ,,2,1,1,Norlane
+114,3/2 Alkira Avenue," 345,000 ", Oct 2019,0, ,, 380 , Jun 2020, ,,3,2,1,Norlane
+115,40 Swallow Crescent," 290,000 ", 10 Oct 2019,1, ,, ,, 792 ,,2,1,0,Norlane
+116,A/24 Warrawee Avenue," 335,000 ", Oct 2019,0, ,, ,, ,,0,0,0,Norlane
+117,1/1 Cobargo Court," 257,000 ", Oct 2019,0, ,, ,, 331 ,,2,1,1,Norlane
+118,45 Gerbera Avenue," 295,000 ", Oct 2019,0," 200,000 ", Jun 2015, ,, 613  ,  72 ,2,1,0,Norlane
+119,5 Nowra Court," 350,000 ", Oct 2019,0," 200,000 ", Nov 2013, ,, 682  ,  80 ,3,1,2,Norlane
+120,131 Station Street," 358,800 ", Oct 2019,0, ,, ,, 880 ,,2,1,4,Norlane
+121,1/2 Alkira Avenue," 353,000 ", Oct 2019,0, ,, ,, ,,3,2,2,Norlane
+122,33 Yooringa Avenue," 235,000 ", Oct 2019,0," 186,000 ", Jul 2012, ,, 339  ,  72 ,2,1,2,Norlane
+123,19 Peacock Avenue," 395,000 ", Sep 2019,0," 157,500 ", Mar 2003, ,, 618 ,,3,1,5,Norlane
+124,11 Ibis Court," 400,000 ", Sep 2019,0," 177,000 ", Jul 2010, ,, 565  ,  79 ,2,1,7,Norlane
+125,2/2 Alkira Avenue," 335,000 ", Sep 2019,0, ,, ,, ,,3,2,2,Norlane
+126,52 Rose Avenue," 315,000 ", 21 Sep 2019,1," 50,000 ", Jul 2000, ,, 726 ,,2,1,1,Norlane
+127,4 Korumburra Close," 435,000 ", Sep 2019,0, ,, ,, 592 ,,4,2,2,Norlane
+128,13 Swallow Crescent," 355,000 ", Sep 2019,0," 181,500 ", Sep 2014, ,, 557  ,  72 ,2,1,2,Norlane
+129,4 Swallow Crescent," 275,000 ", Sep 2019,0," 148,500 ", Oct 2009, ,, 557 ,,2,1,2,Norlane
+130,8 Maynooth Drive," 370,000 ", Sep 2019,0, ,, 320 , Sep 2019, 565 ,,3,1,1,Norlane
+131,47 Gerbera Avenue," 300,000 ", Sep 2019,0," 206,000 ", Jun 2014, ,, 613  ,  94 ,3,1,0,Norlane
+132,35 Donnelly Avenue," 375,000 ", 07 Sep 2019,1, ,, 275 , Nov 2019, 646 ,,2,1,2,Norlane
+133,3 Warrawee Avenue," 330,000 ", Sep 2019,0," 140,000 ", Apr 2004, ,, 640 ,,3,1,5,Norlane
+134,3 Carnation Court," 427,000 ", 31 Aug 2019,1, ,, ,," 1,246 ",,2,1,4,Norlane
+135,26 Camellia Crescent," 360,000 ", Aug 2019,0," 145,000 ", Jul 2005, ,, 747 ,,3,1,2,Norlane
+136,37 Gardenia Grove," 320,650 ", Aug 2019,0," 203,000 ", Jun 2012, ,, 650 ,,3,1,2,Norlane
+137,545 Thompson Road," 310,000 ", Aug 2019,0, ,, ,, 680 ,,2,1,2,Norlane
+138,53 Olympic Avenue," 315,000 ", Aug 2019,0, ,, ,, 696 ,,3,1,2,Norlane
+139,12 Ulladulla Street," 305,000 ", Aug 2019,0, ,, ,, 642 ,,2,1,2,Norlane
+140,1 Wirraway Crescent," 496,000 ", Aug 2019,0," 330,000 ", Sep 2012, ,, 531 ,,3,2,4,Norlane
+141,72 Bellbird Avenue," 299,000 ", Aug 2019,0," 181,000 ", Mar 2014, ,, 660 ,,3,1,2,Norlane
+142,2/51 Camellia Crescent," 281,500 ", Aug 2019,0, ,, 270 , Dec 2016, 112 ,,0,0,0,Norlane
+143,29 Dunloe Avenue," 415,000 ", Aug 2019,0," 250,000 ", Sep 2016, ,, 655  ,  130 ,4,1,1,Norlane
+144,133 Sparks Road," 310,000 ", Aug 2019,0, ,, ,, 651 ,,3,1,1,Norlane
+145,64 Tennyson Street," 339,000 ", Aug 2019,0," 231,000 ", May 2016, ,, 650  ,  120 ,3,1,2,Norlane
+146,6/27 Hinton Close," 225,000 ", Aug 2019,0," 224,000 ", Sep 2010, ,, 162  ,  65 ,0,0,0,Norlane
+147,32 Tallis Street," 383,500 ", Aug 2019,0," 350,000 ", Jan 2018, ,, 770 ,,3,1,2,Norlane
+148,50 Iona Street," 247,000 ", Aug 2019,0," 127,000 ", Mar 2004, ,, 458 ,,3,1,1,Norlane
+149,178 Sparks Road," 387,500 ", Jul 2019,0," 220,000 ", Mar 2016, ,, 763  ,  91 ,3,1,2,Norlane
+150,6 Jay Street," 293,000 ", Jul 2019,0," 183,000 ", Dec 2015, ,, 557  ,  74 ,2,1,6,Norlane
+151,13 Wellwood Avenue," 440,000 ", Jul 2019,0," 411,000 ", May 2018, ,, 592 ,,3,2,3,Norlane
+152,1/26 Stradbroke Street," 330,000 ", Jul 2019,0," 275,000 ", Dec 2016, ,, 247 ,,2,1,1,Norlane
+153,11 Moa Street," 285,000 ", Jul 2019,0," 137,000 ", Apr 2006, ,, 577  ,  120 ,3,1,2,Norlane
+154,7 Elmore Street," 348,000 ", Jul 2019,0, ,, ,, 611 ,,2,1,2,Norlane
+155,42 Swallow Crescent," 315,000 ", Jun 2019,0," 260,000 ", Sep 2017, ,, 653 ,,2,1,1,Norlane
+156,14 Jamina Court," 392,000 ", Jun 2019,0," 185,000 ", Sep 2003, ,, 629 ,,3,1,5,Norlane
+157,19 Dunloe Avenue," 400,000 ", Jun 2019,0," 266,000 ", May 2013, ,, 655  ,  112 ,3,2,6,Norlane
+158,8 Curlew Crescent," 310,000 ", Jun 2019,0," 192,000 ", Nov 2011, ,, 558 ,,3,1,1,Norlane
+159,40 Dunloe Avenue," 396,500 ", Jun 2019,0, ,, 335 , Sep 2016, 545 ,,3,1,2,Norlane
+160,10 Alkira Avenue," 280,000 ", Jun 2019,0," 180,000 ", Sep 2011, ,, 676 ,,2,1,1,Norlane
+161,79 The Boulevard," 340,000 ", Jun 2019,0," 159,000 ", May 2008, ,, 549 ,,3,1,1,Norlane
+162,5 Corrin Court," 475,000 ", Jun 2019,0, ,, 420 , Jul 2019, 697 ,,4,2,4,Norlane
+163,5/84 Donnybrook Road," 352,000 ", Jun 2019,0," 215,000 ", Jan 2009, ,, 194  ,  90 ,0,0,0,Norlane
+164,3 Takoma Court," 420,000 ", Jun 2019,0," 325,000 ", Jun 2013, ,," 1,039  ",  264 ,4,2,3,Norlane
+165,24 Curlew Crescent," 332,000 ", Jun 2019,0," 174,000 ", Jan 2013, ,, 641 ,,2,1,1,Norlane
+166,4 Takoma Court," 290,000 ", Jun 2019,0, ,, 290 , Sep 2019, 712 ,,3,1,4,Norlane
+167,20 Camellia Crescent," 360,200 ", Jun 2019,0," 350,000 ", May 2018, ,, 747 ,,3,1,1,Norlane
+168,5 Wren Street," 250,000 ", Jun 2019,0, ,, ,, 556 ,,3,1,0,Norlane
+169,18 Waitara Grove," 300,000 ", Jun 2019,0," 211,000 ", Oct 2011, ,, 640  ,  96 ,3,1,3,Norlane
+170,54 Tallis Street," 370,000 ", Jun 2019,0," 300,000 ", Feb 2017, ,, 745  ,  74 ,2,1,1,Norlane
+171,74 Eagle Parade," 340,000 ", Jun 2019,0, ,, 240 , Sep 2019, 785 ,,2,1,3,Norlane
+172,31 Swallow Crescent," 270,000 ", Jun 2019,0," 50,500 ", Jun 1998, ,, 597 ,,2,1,0,Norlane
+173,549 Thompson Road," 385,000 ", Jun 2019,0," 210,000 ", Mar 2015, ,, 588 ,,3,1,4,Norlane
+174,3 Spruhan Avenue," 330,000 ", Jun 2019,0," 138,000 ", Dec 2004, ,, 697 ,,2,1,4,Norlane
+175,2/32 Spruhan Avenue," 340,000 ", Jun 2019,0," 255,000 ", Apr 2013, ,, 300  ,  113 ,0,0,0,Norlane
+176,58 Dunloe Avenue," 385,000 ", Jun 2019,0," 247,000 ", May 2013, ,, 655  ,  150 ,3,1,1,Norlane
+177,9 Spruhan Avenue," 345,000 ", Jun 2019,0, ,, ,, 696 ,,3,1,1,Norlane
+178,3 Nowra Court," 320,000 ", May 2019,0," 142,500 ", Mar 2005, ,, 807  ,  85 ,3,1,8,Norlane
+179,3 Tennyson Street," 336,000 ", May 2019,0," 221,000 ", Jun 2011, ,, 650  ,  99 ,3,1,5,Norlane
+180,44 Princes Highway," 320,000 ", May 2019,0," 54,500 ", Mar 2001, ,, 636 ,,2,1,2,Norlane
+181,6 Takoma Court," 350,000 ", May 2019,0," 160,000 ", Jun 2008, ,," 1,039  ",  82 ,2,1,2,Norlane
+182,31 Wendover Avenue," 255,000 ", May 2019,0," 178,000 ", Jul 2014, ,, 650  ,  99 ,3,1,1,Norlane
+183,6 Portland Street," 300,000 ", May 2019,0," 160,000 ", May 2009, ,, 598 ,,2,1,4,Norlane
+184,1 Kalinga Street," 341,000 ", May 2019,0, ,, 340 , Jun 2019, 650 ,,4,1,2,Norlane
+185,10 Kentucky Avenue," 430,000 ", May 2019,0, ,, ,, 581 ,,3,1,3,Norlane
+186,70 Princes Highway," 330,000 ", May 2019,0," 215,500 ", Feb 2011, ,, 638  ,  152 ,4,1,0,Norlane
+187,25 Bellbird Avenue," 275,000 ", May 2019,0, ,, 310 , Jul 2019, 558 ,,3,1,1,Norlane
+188,70 Rose Avenue," 295,000 ", May 2019,0, ,, ,, 729 ,,3,1,1,Norlane
+189,127 Princes Highway," 331,000 ", May 2019,0," 72,500 ", Dec 2002, ,, 539 ,,3,1,4,Norlane
+190,52B Donnelly Avenue," 355,000 ", Apr 2019,0, ,, 310 , Nov 2017, 369 ,,3,2,1,Norlane
+191,87 Station Street," 340,000 ", Apr 2019,0, ,, 270 , Jul 2019, 777 ,,3,1,2,Norlane
+192,46 Robin Avenue," 317,000 ", Apr 2019,0," 247,000 ", Oct 2017, ,, 695 ,,3,1,2,Norlane
+193,1/35 Bellnore Drive," 325,000 ", Apr 2019,0," 241,600 ", Feb 2010, ,, 272 ,,2,1,1,Norlane
+194,6 Wisteria Grove," 330,000 ", Apr 2019,0, ,, ,, 651 ,,3,1,3,Norlane
+195,71 Station Street," 360,000 ", Apr 2019,0," 280,000 ", Nov 2016, ,, 873 ,,0,0,0,Norlane
+196,74 Rose Avenue," 455,000 ", Apr 2019,0," 411,500 ", Oct 2017, ,, 720  ,  103 ,3,2,1,Norlane
+197,53 St Georges Road," 361,000 ", 23 Mar 2019,1," 130,000 ", Sep 2004, ,, 864 ,,3,1,2,Norlane
+198,30 Wisteria Grove," 325,000 ", Mar 2019,0, ,, 260 , May 2019, 651 ,,2,1,2,Norlane
+199,17 Moa Street," 415,000 ", Mar 2019,0," 101,020 ", Aug 2013, ,, 577  ,  137 ,3,2,2,Norlane
+200,2/62 Olympic Avenue," 405,000 ", Mar 2019,0," 307,000 ", Mar 2012, ,, 278  ,  120 ,0,0,0,Norlane
+201,1 Dardell Court," 405,000 ", Mar 2019,0," 217,000 ", Oct 2008, ,, 650 ,,3,1,3,Norlane
+202,3 Coleman Court," 397,500 ", Mar 2019,0," 250,000 ", Dec 2016, ,, 592 ,,4,1,6,Norlane
+203,2/59 St Georges Road," 285,000 ", Mar 2019,0, ,, 250 , Feb 2019, 151 ,,0,0,0,Norlane
+204,5A Shannahan Drive," 391,500 ", Mar 2019,0, ,, 320 , Mar 2018, ,,0,0,0,Norlane
+205,52 Iona Street," 355,000 ", Mar 2019,0," 283,000 ", Dec 2017, ,, 221  ,  101 ,2,1,2,Norlane
+206,20 Dove Street," 327,000 ", Mar 2019,0, ,, ,, 682 ,,4,1,0,Norlane
+207,59 Gerbera Avenue," 387,000 ", Feb 2019,0," 135,000 ", Jul 2004, ,, 613 ,,3,2,1,Norlane
+208,1 Reserve Road," 365,000 ", Feb 2019,0," 180,000 ", Nov 2008, ,, 580  ,  105 ,3,1,3,Norlane
+209,3A Waverley Street," 375,000 ", Feb 2019,0, ,, 330 , Mar 2017, 413 ,,3,2,2,Norlane
+210,8 Thrush Street," 260,000 ", Feb 2019,0," 169,000 ", Apr 2013, ,, 558 ,,2,1,2,Norlane
+211,121 Cox Road," 340,000 ", Feb 2019,0," 262,000 ", Feb 2016, ,, 611  ,  108 ,3,1,3,Norlane
+212,2/104 Robin Avenue," 480,000 ", Feb 2019,0," 76,000 ", Mar 2014, ,, 312 ,,4,3,2,Norlane
+213,85 Waitara Grove," 322,500 ", Feb 2019,0," 160,000 ", May 2010, ,, 603  ,  98 ,2,1,5,Norlane
+214,20 Tennyson Street," 330,000 ", Feb 2019,0," 250,000 ", Nov 2016, ,, 613 ,,3,1,2,Norlane
+215,68 Alkira Avenue," 358,000 ", Feb 2019,0," 135,000 ", May 2007, ,, 640 ,,2,1,2,Norlane
+216,1/89 Rose Avenue," 300,000 ", Feb 2019,0," 220,000 ", May 2013, ,, 280  ,  110 ,2,1,1,Norlane
+217,93 Plume Street," 405,000 ", Feb 2019,0," 177,000 ", Jan 2005, ,, 781  ,  101 ,3,1,4,Norlane
+218,51 Wendover Avenue," 493,000 ", Feb 2019,0," 218,000 ", May 2010, ,, 650  ,  270 ,6,3,0,Norlane
+219,1 Ulladulla Street," 335,000 ", Feb 2019,0, ,, 310 , Jun 2019, 664 ,,2,1,1,Norlane
+220,20 & 22 Lowan Avenue," 360,000 ", Feb 2019,0, ,, ,, ,,7,3,3,Norlane
+221,2/68 The Boulevard," 310,000 ", Feb 2019,0, ,, 270 , Aug 2018, 133 ,,0,0,0,Norlane
+222,18 Wellwood Avenue," 340,000 ", Feb 2019,0, ,, 270 , Feb 2013, 301 ,,2,1,2,Norlane
+223,46B Waitara Grove," 342,000 ", Feb 2019,0," 57,600 ", Jan 2014, ,, 240 ,,0,0,0,Norlane
+224,1/51 Camelia Crescent," 270,000 ", Feb 2019,0, ,, ,, ,,0,0,0,Norlane
+225,22 Forster Street," 375,000 ", Feb 2019,0," 55,000 ", May 1989, ,, 832 ,,3,1,2,Norlane
+226,3/73-75 SPARKS Road," 279,500 ", Jan 2019,0," 79,900 ", May 1995, ,, 215 ,,0,0,0,Norlane
+227,141 Sparks Road," 396,000 ", Jan 2019,0," 135,000 ", Nov 2003, ,, 646  ,  88 ,3,1,4,Norlane
+228,7 Stonehaven Court," 416,000 ", Jan 2019,0, ,, ,, ,,0,0,0,Norlane
+229,106A Plume Street," 350,000 ", Jan 2019,0," 63,125 ", Jul 2014, ,, 306 ,,2,2,1,Norlane
+230,7 Stonehaven Road," 416,000 ", Jan 2019,0," 210,000 ", Jul 2006, ,, 595 ,,3,1,4,Norlane
+231,33 Bellnore Drive," 516,000 ", Jan 2019,0," 295,000 ", Dec 2008, ,, 661  ,  223 ,4,2,4,Norlane
+232,7 Tallis Street," 370,000 ", Jan 2019,0," 225,000 ", Dec 2013, ,, 711  ,  77 ,2,1,1,Norlane
+233,1/59 Olympic Avenue," 320,000 ", Jan 2019,0, ,, 330 , Feb 2019, 288 ,,0,0,0,Norlane
+234,85 Rose Avenue," 280,000 ", Jan 2019,0," 127,500 ", Jan 2006, ,, 658 ,,2,1,1,Norlane
+235,2 Kookaburra Court," 300,000 ", Jan 2019,0," 205,500 ", Feb 2017, ,, 574  ,  73 ,2,1,1,Norlane
+236,18 Bingara Avenue," 400,000 ", Jan 2019,0," 340,000 ", Aug 2017, ,, 650 ,,3,2,3,Norlane
+237,65 Princess Highway," 325,000 ", Jan 2019,0, ,, ,, ,,0,0,0,Norlane
+238,65 Princes Highway," 325,000 ", Jan 2019,0, ,, 335 , Aug 2019, 727 ,,3,1,3,Norlane
+239,2/59 Olympic Avenue," 400,000 ", Jan 2019,0, ,, 360 , Feb 2019, 260 ,,0,0,0,Norlane
+240,174 Sparks Road," 390,000 ", Jan 2019,0," 164,000 ", Sep 2006, ,, 719 ,,4,1,2,Norlane
+241,1/9 Rosewell Court," 300,000 ", Jan 2019,0," 230,000 ", Aug 2011, ,, 369 ,,0,0,0,Norlane
+242,25A Gerbera Avenue," 395,000 ", Dec 2018,0, ,, ,, 237 ,,0,0,0,Norlane
+243,2B Iona Street," 310,000 ", Dec 2018,0," 57,570 ", Apr 2015, ,, 229  ,  75 ,2,2,1,Norlane
+244,66 Alkira Avenue," 310,000 ", Dec 2018,0," 170,000 ", Mar 2015, ,, 640  ,  93 ,3,1,1,Norlane
+245,148 Sparks Road," 338,000 ", Dec 2018,0," 205,000 ", Jul 2010, ,, 687 ,,2,1,6,Norlane
+246,21 Wirraway Crescent," 481,000 ", Dec 2018,0," 295,000 ", Mar 2008, ,, 573  ,  145 ,4,2,3,Norlane
+247,7 Haven Court," 427,500 ", Dec 2018,0," 192,000 ", Aug 2008, ,, 769 ,,3,1,2,Norlane
+248,12 Forster Street," 342,500 ", 15 Dec 2018,1," 137,500 ", Sep 2006, ,, 878 ,,3,1,4,Norlane
+249,93 The Boulevard," 315,000 ", Dec 2018,0, ,, ,, 609 ,,3,1,0,Norlane
+250,93 Waitara Grove," 325,000 ", Dec 2018,0," 140,000 ", Aug 2006, ,, 604 ,,3,1,0,Norlane
+251,3/59 St Georges Road," 290,000 ", Dec 2018,0, ,, 240 , Oct 2017, 156 ,,0,0,0,Norlane
+252,138 Princes Highway," 300,000 ", Dec 2018,0," 127,000 ", Sep 2009, ,, 336 ,,2,1,2,Norlane
+253,11 Camellia Crescent," 122,500 ", Dec 2018,0, ,, ,, 76  ,  104 ,0,0,0,Norlane
+254,59 Eagle Parade," 285,000 ", Dec 2018,0," 93,000 ", May 2003, ,, 565 ,,2,1,3,Norlane
+255,76 Forster Street," 370,000 ", Dec 2018,0," 213,000 ", Jan 2016, ,, 699  ,  86 ,3,1,1,Norlane
+256,59 Station Street," 400,000 ", Dec 2018,0," 147,000 ", Jun 2007, ,, 338 ,,2,1,2,Norlane
+257,49 Gerbera Avenue," 350,000 ", Nov 2018,0," 248,000 ", Feb 2017, ,, 613 ,,2,1,1,Norlane
+258,42 Peacock Avenue," 370,000 ", Nov 2018,0, ,, 370 , May 2019, 610 ,,3,1,5,Norlane
+259,35 Swallow Crescent," 327,000 ", Nov 2018,0," 163,000 ", May 2008, ,, 638 ,,3,1,3,Norlane
+260,9b Wisteria Grove," 375,000 ", Nov 2018,0," 302,500 ", Jun 2017, ,, 325  ,  117 ,3,1,1,Norlane
+261,9 Waitara Grove," 330,000 ", Nov 2018,0, ,, ,, 641 ,,2,1,1,Norlane
+262,12 Orchid Street," 345,000 ", Nov 2018,0," 250,000 ", May 2017, ,, 589 ,,2,1,0,Norlane
+263,1/68 The Boulevard," 285,000 ", Nov 2018,0, ,, 235 , Jan 2018, 272 ,,2,1,1,Norlane
+264,66 The Boulevard," 430,000 ", Nov 2018,0," 245,000 ", Sep 2011, ,, 674  ,  120 ,3,1,3,Norlane
+265,1A Yooringa Avenue," 450,000 ", Nov 2018,0," 382,000 ", Jul 2016, ,, 587  ,  222 ,4,2,2,Norlane
+266,18 Donnybrook Road," 398,000 ", Nov 2018,0," 295,000 ", Dec 2016, ,, 612 ,,3,1,1,Norlane
+267,56 Yooringa Avenue," 400,000 ", Nov 2018,0," 53,000 ", Oct 1999, ,, 686 ,,2,1,1,Norlane
+268,6 Reserve Road," 435,000 ", Nov 2018,0, ,, 380 , Oct 2019, 268 ,,3,2,2,Norlane
+269,25 Robin Avenue," 375,000 ", Nov 2018,0," 171,000 ", Aug 2008, ,, 557 ,,3,1,3,Norlane
+270,11 Spruhan Avenue," 360,000 ", Nov 2018,0," 265,000 ", Jan 2017, ,, 697 ,,2,1,1,Norlane
+271,5A Robin Avenue," 385,000 ", Nov 2018,0, ,, ,, 280 ,,0,0,0,Norlane
+272,38a Pettitt Crescent," 330,000 ", Oct 2018,0," 57,570 ", Aug 2014, ,, 251 ,,2,2,1,Norlane
+273,4 Iris Street," 360,500 ", Oct 2018,0," 102,000 ", Dec 2001, ,, 545  ,  129 ,4,2,2,Norlane
+274,6 Emu Court," 347,000 ", 27 Oct 2018,1," 167,000 ", Feb 2011, ,, 695  ,  100 ,3,1,1,Norlane
+275,22 Wendover Avenue," 310,000 ", Oct 2018,0," 188,000 ", Dec 2015, ,, 650  ,  87 ,3,1,1,Norlane
+276,27 Spruhan Avenue," 425,000 ", Oct 2018,0," 251,000 ", Feb 2016, ,, 832 ,,4,2,7,Norlane
+277,129 Cox Road," 347,000 ", Oct 2018,0," 60,000 ", Nov 1999, ,, 616 ,,3,1,0,Norlane
+278,2 Forster Street," 388,000 ", Oct 2018,0," 205,000 ", Apr 2007, ,, 416  ,  171 ,4,2,1,Norlane
+279,13 Bingara Avenue," 343,500 ", Oct 2018,0," 199,000 ", Nov 2012, ,, 628 ,,3,1,1,Norlane
+280,29 Spruhan Avenue," 425,000 ", Oct 2018,0," 245,000 ", Feb 2016, ,, 832  ,  11 ,3,1,2,Norlane
+281,6/84 Donnybrook Road," 305,000 ", Oct 2018,0," 216,000 ", Feb 2000, ,, 186  ,  93 ,0,0,0,Norlane
+282,20 Rose Avenue," 295,000 ", Oct 2018,0," 155,000 ", Feb 2014, ,, 411 ,,2,1,1,Norlane
+283,2/5 Haven Court," 280,000 ", Oct 2018,0," 122,000 ", Dec 2011, ,, 634 ,,0,0,0,Norlane
+284,5 Coleman Court," 356,000 ", Oct 2018,0," 239,950 ", Feb 2010, ,, 592 ,,4,2,2,Norlane
+285,12 Bosbury Street," 440,000 ", Oct 2018,0," 64,000 ", Dec 1984, ,, 572 ,,3,2,6,Norlane
+286,48 Rose Avenue," 400,000 ", Oct 2018,0," 134,000 ", Mar 2006, ,, 726  ,  91 ,2,1,2,Norlane
+287,1/1 Salvia Street," 340,000 ", Oct 2018,0, ,, 300 , Oct 2018, 389 ,,2,1,2,Norlane
+288,6 Wren Street," 345,000 ", Oct 2018,0," 270,000 ", Jun 2017, ,, 558 ,,2,1,3,Norlane
+289,32B Princes Highway," 415,000 ", Sep 2018,0," 62,620 ", Oct 2015, ,, 354 ,,3,1,1,Norlane
+290,2A Ulladulla Street," 340,000 ", Sep 2018,0," 63,200 ", Sep 2016, ,, 281 ,,2,1,1,Norlane
+291,26 Sparks Road," 305,000 ", Sep 2018,0, ,, ,, 558 ,,3,1,0,Norlane
+292,2/88 Princes Highway," 360,500 ", Sep 2018,0, ,, 270 , Apr 2016, 243 ,,3,1,1,Norlane
+293,2 Shannahan Drive," 490,000 ", Sep 2018,0," 325,000 ", Oct 2014, ,, 643 ,,3,2,2,Norlane
+294,92 The Boulevard," 285,000 ", 22 Sep 2018,1, ,, ,, 632 ,,2,1,2,Norlane
+295,22 Spruhan Avenue," 355,000 ", Sep 2018,0," 196,500 ", May 2016, ,, 650  ,  72 ,2,1,2,Norlane
+296,7 Warrawee Avenue," 355,000 ", Sep 2018,0," 131,000 ", May 2004, ,, 640  ,  91 ,2,1,2,Norlane
+297,4 Adriatic Court," 515,000 ", Sep 2018,0," 139,000 ", Jul 1999, ,, 696 ,,1,3,2,Norlane
+298,56 Rose Avenue," 415,000 ", Sep 2018,0, ,, ,, 717 ,,2,1,0,Norlane
+299,45 North Shore Road," 405,000 ", Sep 2018,0," 62,000 ", Feb 2000, ,, 72  ,  114 ,4,2,1,Norlane

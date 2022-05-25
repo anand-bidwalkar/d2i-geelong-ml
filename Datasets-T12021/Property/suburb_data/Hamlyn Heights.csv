@@ -1,0 +1,771 @@
+Address,Sell Price,Sell Date,Last Sell Price,Last Sell Date,Auction,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Car,Suburb,Suburb_Code
+1/14 Waiora Avenue,"510,000",Mar 2021,"292,500",Mar 2015,,300,Apr 2014,650,101,,,,Hamlyn Heights,13
+10 Bayview Parade,"840,000",Mar 2021,"320,000",Nov 2006,,,,674,,3,1,1,Hamlyn Heights,13
+22 Highview Parade,"675,553",Mar 2021,,,,,,,,3,1,3,Hamlyn Heights,13
+2/14 Mary Street,"702,500",Mar 2021,"575,000",Oct 2018,,385,Jan 2015,253,,3,2,1,Hamlyn Heights,13
+75 Sladen Street,"620,000",Mar 2021,"587,500",May 2018,,370,Jul 2018,772,,4,1,1,Hamlyn Heights,13
+18b Calvert Street,"620,000",Mar 2021,"319,000",Apr 2013,,330,Dec 2016,414,,3,1,3,Hamlyn Heights,13
+7 Sladen Street,"800,000",Mar 2021,"52,000",Jul 1998,,,,635,,4,2,2,Hamlyn Heights,13
+18a Calvert Street,"657,000",Mar 2021,"420,000",Jan 2015,,,,415,,,,,Hamlyn Heights,13
+18 Heather Street,"680,000",Feb 2021,"116,000",Feb 2000,,,,735,,3,,,Hamlyn Heights,13
+350 Church Street,"733,000",Feb 2021,"345,000",Aug 2013,,,,736,136,3,1,2,Hamlyn Heights,13
+7 Robb Avenue,"560,000",Feb 2021,,,,,,650,,,,,Hamlyn Heights,13
+9 Teak Street,"540,000",Feb 2021,,,,,,649,,3,1,1,Hamlyn Heights,13
+2/12 Alkoomi Avenue,"525,000",Feb 2021,"370,000",Feb 2000,,320,Nov 2009,228,131,,,,Hamlyn Heights,13
+1b Sheridan Street,"619,000",Feb 2021,,,,,,236,,,,,Hamlyn Heights,13
+19 Parkland Drive,"740,000",Feb 2021,"370,000",Jan 2010,,,,744,195,4,2,2,Hamlyn Heights,13
+7 Langibanool Avenue,"650,000",Feb 2021,,,,,,731,,,,,Hamlyn Heights,13
+11 Downie Crescent,"785,000",Feb 2021,"130,190",Nov 1999,,,,692,,3,,,Hamlyn Heights,13
+36 Pride Avenue,"755,000",Feb 2021,"282,500",Nov 2007,,210,Sep 2006,950,145,4,1,2,Hamlyn Heights,13
+51 Glengate Street,"844,000",Feb 2021,"405,000",Sep 2007,,,,680,,3,2,2,Hamlyn Heights,13
+2A Hamlyn Avenue,"513,000",Feb 2021,"301,000",Mar 2015,,,,269,,2,1,1,Hamlyn Heights,13
+1/160 Church Street,"440,000",Feb 2021,"275,000",Apr 2016,,260,Feb 2014,205,,,,,Hamlyn Heights,13
+1 Logan Street,"640,000",Jan 2021,"407,500",Nov 2010,,330,Sep 2019,692,166,4,2,1,Hamlyn Heights,13
+3/2 Fassifern Court,"325,000",Jan 2021,"248,000",Jan 2012,1.0,285,Jun 2018,75,,,,,Hamlyn Heights,13
+1 Olea Court,"745,000",Jan 2021,"190,000",Oct 2003,,,,660,,,,,Hamlyn Heights,13
+9 Royal Crescent,"305,000",Jan 2021,,,,,,,,,,,Hamlyn Heights,13
+80 Calvert Street,"881,000",Jan 2021,"600,000",Oct 2018,1.0,,,763,,3,2,1,Hamlyn Heights,13
+21 Lily Street,"832,000",Jan 2021,"515,000",Mar 2015,1.0,,,717,256,5,3,2,Hamlyn Heights,13
+51 Hamlyn Avenue,"660,000",Jan 2021,"495,000",Jun 2019,,,,611,,3,1,2,Hamlyn Heights,13
+1/7 Ebden Street,"625,000",Jan 2021,"412,000",Nov 2010,,450,Mar 2019,288,179,,,,Hamlyn Heights,13
+1/36 Kalimna Street,"530,000",Jan 2021,,,,,,294,,3,1,1,Hamlyn Heights,13
+5 Gwynne Street,"475,000",Jan 2021,,,,,,318,,2,1,,Hamlyn Heights,13
+1 Woorayl Street,"603,000",Dec 2020,"279,000",Jul 2009,,,,163,,3,2,2,Hamlyn Heights,13
+68A Vines Road,"485,000",Dec 2020,,,,,,317,,,,,Hamlyn Heights,13
+39 Forfar Road,"520,000",Dec 2020,"355,000",Nov 2017,1.0,,,623,,,,,Hamlyn Heights,13
+13 Drysdale Avenue,"492,500",Dec 2020,"267,000",May 2006,,395,Jan 2021,239,,2,1,1,Hamlyn Heights,13
+49 Logan Street,"807,500",Dec 2020,,,,,,"1,011",,2,1,1,Hamlyn Heights,13
+112 Sladen Street,"700,000",Dec 2020,"497,000",Apr 2018,,525,Jan 2021,597,,2,1,1,Hamlyn Heights,13
+61 Hamlyn Avenue,"425,000",Dec 2020,,,,,,609,,,,,Hamlyn Heights,13
+116 Ballarat Road,"517,000",Dec 2020,"222,000",Jan 2012,,320,May 2018,509,,3,1,3,Hamlyn Heights,13
+1-4/72 Sladen Street,"795,000",Dec 2020,,,,,,,,,,,Hamlyn Heights,13
+30 Devon Street,"635,000",Dec 2020,"384,000",Sep 2010,,350,Nov 2015,712,,3,1,2,Hamlyn Heights,13
+34 Sladen Street,"557,000",Dec 2020,"347,000",Nov 2015,,350,Jan 2016,710,,3,2,4,Hamlyn Heights,13
+79 Drysdale Avenue,"525,000",Dec 2020,"300,000",Feb 2000,,310,Apr 2013,674,138,3,1,1,Hamlyn Heights,13
+24 Quamby Avenue,"500,000",Dec 2020,"225,000",Oct 2007,,340,Sep 2019,349,,2,1,1,Hamlyn Heights,13
+1/15 Sheridan Street,"540,000",Dec 2020,"510,000",Mar 2018,,,,235,,,,,Hamlyn Heights,13
+2/14 Belcher Street,"514,000",Dec 2020,"485,000",Apr 2019,,,,195,,,,,Hamlyn Heights,13
+19 Sladen Street,"618,000",Dec 2020,"225,000",Aug 2004,,300,Sep 2011,635,,3,1,1,Hamlyn Heights,13
+45 Lily Street,"680,000",Nov 2020,"84,500",Nov 2000,,,,749,147,3,1,6,Hamlyn Heights,13
+17 Forfar Road,"615,000",Nov 2020,,,,,,664,,,,,Hamlyn Heights,13
+15 Highview Parade,"600,000",Nov 2020,"440,000",May 2019,,300,Jun 2017,635,101,3,1,1,Hamlyn Heights,13
+1/15 Shannon Avenue,"530,000",Nov 2020,"267,000",Aug 2008,,250,Sep 2004,254,,,,,Hamlyn Heights,13
+37 Glengate Street,"450,000",Nov 2020,"280,000",Sep 2009,,,,146,,2,1,1,Hamlyn Heights,13
+17 Synnott Street,"585,000",Nov 2020,"440,000",Feb 2017,,335,Oct 2019,794,,3,1,1,Hamlyn Heights,13
+28 Sheridan Street,"640,000",Nov 2020,,,,300,Jul 2015,886,,3,1,1,Hamlyn Heights,13
+48 Logan Street,"785,000",Nov 2020,,,,350,Dec 2020,"1,012",,2,1,2,Hamlyn Heights,13
+35 Glengate Street,"465,000",Nov 2020,"325,000",Jul 2014,,340,Jul 2014,378,101,2,1,2,Hamlyn Heights,13
+2/34 Weeroona Avenue,"557,500",Nov 2020,"415,000",May 2012,,360,Sep 2016,267,137,,,,Hamlyn Heights,13
+12a Logan Street,"602,000",Nov 2020,,,,,,,,,,,Hamlyn Heights,13
+18 Pride Avenue,"912,500",Nov 2020,"244,000",Sep 2002,,,,688,,4,2,2,Hamlyn Heights,13
+28 Drysdale Avenue,"650,000",Nov 2020,"360,000",Sep 2013,,,,623,,4,2,2,Hamlyn Heights,13
+6 Willana Avenue,"600,000",Nov 2020,"306,000",Apr 2012,,400,Mar 2019,650,,4,2,1,Hamlyn Heights,13
+8 Taliska Avenue,"580,000",Nov 2020,,,,430,Oct 2019,423,,,,,Hamlyn Heights,13
+7 Sheridan Street,"701,000",Nov 2020,"430,500",Apr 2015,,330,Mar 2017,"1,008",,3,1,1,Hamlyn Heights,13
+100 Calvert Street,"460,000",Nov 2020,"324,000",Dec 2010,,380,Dec 2020,313,96,3,1,1,Hamlyn Heights,13
+31 Chaucer Street,"410,000",Nov 2020,"360,000",May 2014,,,,542,,3,1,4,Hamlyn Heights,13
+2/90 Vines Road,"553,000",Oct 2020,,,,,,276,,,,,Hamlyn Heights,13
+11 Kirriemuir Street,"632,000",Oct 2020,"52,000",Sep 1983,,450,Feb 2021,688,,3,2,2,Hamlyn Heights,13
+2/2 Glengate Street,"430,000",Oct 2020,"320,000",May 2016,,300,Dec 2013,272,,2,1,1,Hamlyn Heights,13
+21 Mossgiel Court,"805,000",Oct 2020,"332,500",Mar 2003,,,,663,,4,3,3,Hamlyn Heights,13
+9 Sycamore Street,"490,000",Oct 2020,"227,000",May 2008,,260,May 2011,585,,3,1,1,Hamlyn Heights,13
+91 Tahara Street,"665,000",Oct 2020,"163,000",Mar 1995,,,,600,,4,3,3,Hamlyn Heights,13
+18 Marlo Street,"512,000",Oct 2020,,,,,,649,,3,1,1,Hamlyn Heights,13
+3/35 Logan Street,"611,500",Oct 2020,,,,,,193,,,,,Hamlyn Heights,13
+5 Drysdale Avenue,"473,000",Oct 2020,"71,000",Dec 1988,,,,256,,3,1,2,Hamlyn Heights,13
+1/29 Waiora Avenue,"523,500",Oct 2020,,,,390,Apr 2019,261,,,,,Hamlyn Heights,13
+29 Highview Parade,"525,000",Oct 2020,"342,000",Feb 2010,,370,Jul 2011,274,116,,,,Hamlyn Heights,13
+5/1 Kinnordy Court,"220,000",Oct 2020,"137,000",Oct 2015,,190,Dec 2018,62,,,,,Hamlyn Heights,13
+27A Hamlyn Avenue,"550,000",Oct 2020,"460,000",Jun 2017,,,,319,,,,,Hamlyn Heights,13
+2 Synnott Street,"720,000",Oct 2020,"385,000",Jun 2011,,,,843,,3,2,1,Hamlyn Heights,13
+2/1 Kalimna Street,"530,000",Oct 2020,,,,,,,,,,,Hamlyn Heights,13
+15 Carey Street,"660,000",Oct 2020,,,,,,950,,3,1,4,Hamlyn Heights,13
+3/67 Sladen Street,"250,000",Sep 2020,"155,000",Sep 2014,,,,98,,,,,Hamlyn Heights,13
+3/16 Glenfine Avenue,"550,000",Sep 2020,,,,,,,,,,,Hamlyn Heights,13
+1/4 Belcher Street,"455,000",Sep 2020,"297,000",May 2014,,,,356,130,3,1,1,Hamlyn Heights,13
+1/28 Stoddart Street,"600,000",Sep 2020,"422,000",Jan 2014,,380,Aug 2012,382,145,,,,Hamlyn Heights,13
+1A Marlo Street,"515,000",Sep 2020,"170,000",Jan 2005,,,,387,,3,1,,Hamlyn Heights,13
+2/82 Vines Road,"575,000",Sep 2020,,,,,,236,,,,,Hamlyn Heights,13
+25B June Avenue,"550,000",Sep 2020,"400,000",Sep 2016,,,,408,,,,,Hamlyn Heights,13
+1 Sladen Street,"520,000",Sep 2020,"319,000",Jun 2013,1.0,300,Jan 2015,635,,3,1,1,Hamlyn Heights,13
+104 Ballarat Road,"454,000",Sep 2020,"269,000",Nov 2010,,,,480,101,2,1,5,Hamlyn Heights,13
+16 Arthur Street,"1,225,000",Sep 2020,"295,000",Jul 2008,,240,Jul 2007,850,230,3,1,1,Hamlyn Heights,13
+23 Weeroona Avenue,"550,000",Sep 2020,"370,000",Jun 2004,,,,732,,5,2,2,Hamlyn Heights,13
+14-15 Keith Place,"757,500",Sep 2020,"530,000",Jun 2014,,,,794,,4,2,2,Hamlyn Heights,13
+92 Tahara Street,"526,200",Sep 2020,"125,000",Feb 2000,,,,576,,3,,,Hamlyn Heights,13
+3/11 Toyne Avenue,"570,000",Sep 2020,"491,000",Aug 2016,,,,240,133,3,2,2,Hamlyn Heights,13
+28 Sladen Street,"497,000",Aug 2020,"113,500",Jan 2001,,330,Jan 2016,635,120,3,1,2,Hamlyn Heights,13
+20B Marlo Street,"535,000",Aug 2020,,,,,,300,,,,,Hamlyn Heights,13
+3/15 Sheridan Street,"487,000",Aug 2020,,,,,,120,,,,,Hamlyn Heights,13
+43 Hamlyn Avenue,"540,000",Aug 2020,"515,000",Nov 2018,,370,Mar 2018,362,113,3,1,,Hamlyn Heights,13
+143 Vines Road,"510,000",Aug 2020,"285,000",Sep 2010,,,,728,120,3,1,2,Hamlyn Heights,13
+120 Sladen Street,"577,500",Aug 2020,"414,000",Aug 2015,,290,Apr 2014,602,120,3,1,1,Hamlyn Heights,13
+26 Highview Parade,"525,000",Aug 2020,"125,000",Apr 2008,,,,636,,3,1,2,Hamlyn Heights,13
+17 Bayview Parade,"495,000",Aug 2020,"435,000",Jan 2019,,,,674,,2,1,1,Hamlyn Heights,13
+2/64 Sladen Street,"482,000",Aug 2020,"469,000",Sep 2018,,350,Jun 2016,357,130,,,,Hamlyn Heights,13
+4 Sycamore Street,"430,000",Jul 2020,"285,000",Oct 2012,,,,583,95,2,1,1,Hamlyn Heights,13
+1 Heather Street,"454,000",24 Jul 2020,"88,000",Mar 2000,1.0,,,581,,3,1,1,Hamlyn Heights,13
+4 Sladen Street,"480,000",Jul 2020,"244,000",Sep 2009,,260,Apr 2013,635,,3,1,1,Hamlyn Heights,13
+27 June Avenue,"661,000",Jul 2020,"392,500",Aug 2013,,,,731,136,4,1,3,Hamlyn Heights,13
+34 Pride Avenue,"505,000",Jul 2020,"217,000",Dec 2004,,,,475,,3,1,2,Hamlyn Heights,13
+12b Logan Street,"798,000",Jul 2020,,,,,,,,3,2,2,Hamlyn Heights,13
+272 Church Street,"502,500",Jul 2020,,,,,,705,,,,,Hamlyn Heights,13
+14 Griffen Street,"883,000",Jul 2020,"340,000",Aug 2014,,240,Mar 2013,767,81,1,1,2,Hamlyn Heights,13
+4 Murray Street,"615,000",Jul 2020,"350,000",Dec 2015,1.0,,,650,,3,1,1,Hamlyn Heights,13
+24 Griffen Street,"565,000",Jul 2020,,,,,,766,,,,,Hamlyn Heights,13
+52 Vines Road,"693,000",Jul 2020,,,,,,"1,012",,,,,Hamlyn Heights,13
+26 Waymouth Street,"480,000",Jul 2020,,,,,,669,,,,,Hamlyn Heights,13
+2/45 Sladen Street,"505,000",Jul 2020,"358,000",Mar 2015,,,,182,,,,,Hamlyn Heights,13
+8 Lantana Avenue,"800,000",Jul 2020,,,,,,"1,223",,,,,Hamlyn Heights,13
+14 Fairlie Street,"409,000",Jul 2020,"185,000",Dec 2005,,,,378,,2,1,1,Hamlyn Heights,13
+22 Mackie Close,"565,000",Jun 2020,,,,,,331,,3,2,2,Hamlyn Heights,13
+47 Wilks Street,"735,000",Jun 2020,,,,,,701,,,,,Hamlyn Heights,13
+38 Quamby Avenue,"555,000",Jun 2020,"486,200",May 2019,,,,312,150,3,2,2,Hamlyn Heights,13
+9 Little Avenue,"685,000",Jun 2020,"319,000",Oct 2011,,,,561,,3,1,2,Hamlyn Heights,13
+1/9 Quamby Avenue,"432,000",Jun 2020,,,,,,450,,2,1,1,Hamlyn Heights,13
+32 Beulah Street,"565,000",Jun 2020,"350,000",Feb 2011,,310,Dec 2009,585,165,3,1,2,Hamlyn Heights,13
+3 Glenfine Avenue,"485,000",Jun 2020,"352,500",Oct 2017,,290,Mar 2014,224,95,2,1,1,Hamlyn Heights,13
+15 Langibanool Avenue,"579,000",Jun 2020,"330,000",Feb 2011,,,,731,18,4,1,4,Hamlyn Heights,13
+6 Heritage Drive,"1,000,100",Jun 2020,,,,,,553,,5,3,2,Hamlyn Heights,13
+134 Church Street,"745,000",Jun 2020,,,,,,650,,4,3,2,Hamlyn Heights,13
+31 Vines Road,"576,000",13 Jun 2020,"325,500",Jan 2014,1.0,320,Nov 2012,680,106,3,1,2,Hamlyn Heights,13
+1/4 Arthur Street,"737,000",Jun 2020,,,,,,643,,,,,Hamlyn Heights,13
+31 Rowe Street,"665,000",Jun 2020,"540,000",Dec 2014,,,,717,,4,3,5,Hamlyn Heights,13
+23 Mackie Close,"510,000",Jun 2020,"281,000",Oct 2008,,,,346,,,,,Hamlyn Heights,13
+1/39 Tahara Street,"480,000",Jun 2020,,,,,,340,,3,1,2,Hamlyn Heights,13
+3 Clova Avenue,"725,000",May 2020,"400,000",Oct 2005,,395,Apr 2007,700,224,4,2,2,Hamlyn Heights,13
+7 Wilks Street,"785,000",May 2020,"440,000",Apr 2011,,,,638,,3,2,2,Hamlyn Heights,13
+37a Willana Avenue,"545,000",May 2020,,,,,,275,,,,,Hamlyn Heights,13
+24 Tahara Street,"600,000",May 2020,"149,500",Jul 2001,,,,693,,3,,,Hamlyn Heights,13
+24B Heather Street,"666,000",02 May 2020,,,1.0,,,459,,,,,Hamlyn Heights,13
+26 Weeroona Avenue,"484,000",May 2020,"300,000",Sep 2012,,280,Mar 2014,731,,2,1,,Hamlyn Heights,13
+2/10 Beulah Street,"570,000",May 2020,"365,000",Mar 2009,,430,Aug 2020,216,166,,,,Hamlyn Heights,13
+6 Kirriemuir Street,"700,000",Apr 2020,,,,,,701,,4,,,Hamlyn Heights,13
+7 Forfar Road,"465,000",Apr 2020,,,,,,701,,,,,Hamlyn Heights,13
+20 Pride Avenue,"800,000",Apr 2020,,,,,,"1,140",,3,1,1,Hamlyn Heights,13
+3/110 Vines Road,"421,000",Apr 2020,,,,,,159,,,,,Hamlyn Heights,13
+4 Montgomery Avenue,"503,000",Apr 2020,"416,000",Mar 2017,1.0,340,Jan 2019,598,,2,1,1,Hamlyn Heights,13
+1/18 June Avenue,"421,000",Apr 2020,,,,360,Apr 2020,360,,,,,Hamlyn Heights,13
+17 Sycamore Street,"440,000",Apr 2020,,,,350,Jul 2020,623,,3,1,2,Hamlyn Heights,13
+4 Waymouth Street,"540,000",Mar 2020,,,,,,701,,,,,Hamlyn Heights,13
+7 Nalangil Avenue,"550,000",Mar 2020,"60,000",Feb 1979,,,,553,,4,3,3,Hamlyn Heights,13
+45 Tahara Street,"711,000",21 Mar 2020,"76,500",Feb 2000,1.0,480,May 2018,674,165,4,2,2,Hamlyn Heights,13
+1 Sycamore Street,"560,000",Mar 2020,"500,000",Apr 2018,,345,Feb 2015,305,,,,,Hamlyn Heights,13
+24 Glenfine Avenue,"744,000",14 Mar 2020,"490,000",Sep 2016,1.0,420,Aug 2017,817,178,3,1,1,Hamlyn Heights,13
+2/16 Glenfine Avenue,"480,000",Mar 2020,,,,,,,,,,,Hamlyn Heights,13
+2/3 Vines Road,"428,000",Mar 2020,"94,200",Sep 1989,,,,213,,,,,Hamlyn Heights,13
+37 Tahara Street,"750,000",Mar 2020,"122,000",Sep 1992,,,,812,227,4,2,2,Hamlyn Heights,13
+24 Gladstone Street,"556,000",29 Feb 2020,,,1.0,,,690,,,,,Hamlyn Heights,13
+18-19 Mackie Close,"870,000",Feb 2020,,,,,,808,,,,,Hamlyn Heights,13
+2/87 Tahara Street,"428,000",29 Feb 2020,"316,000",Dec 2017,1.0,,,241,,,,,Hamlyn Heights,13
+26 Rowe Street,"670,000",29 Feb 2020,"400,000",Sep 2009,1.0,,,634,,3,2,2,Hamlyn Heights,13
+27 Highview Parade,"624,000",Feb 2020,"261,000",May 2009,,430,Feb 2021,635,137,3,2,2,Hamlyn Heights,13
+13 Belcher Street,"562,000",Feb 2020,,,,,,764,,5,2,1,Hamlyn Heights,13
+19 Mackie Close,"870,000",Feb 2020,,,,,,805,,5,2,7,Hamlyn Heights,13
+26 Toyne Avenue,"596,000",22 Feb 2020,,,1.0,,,728,,,,,Hamlyn Heights,13
+2/160 Church Street,"415,000",Feb 2020,"272,000",Nov 2012,,295,Jun 2018,156,,,,,Hamlyn Heights,13
+160 Ballarat Road,"570,000",Feb 2020,"107,000",Sep 1988,,,,725,,,,,Hamlyn Heights,13
+6 Robb Avenue,"520,000",Feb 2020,"347,500",Jun 2012,,360,Aug 2017,650,117,3,1,1,Hamlyn Heights,13
+10 Clova Avenue,"990,000",Feb 2020,"535,000",Aug 2008,,,,"1,100",,4,3,4,Hamlyn Heights,13
+6 Clova Avenue,"785,000",Feb 2020,,,,,,702,,4,2,2,Hamlyn Heights,13
+5 Chaucer Street,"757,500",Feb 2020,"271,000",Aug 2014,,550,Feb 2020,587,,2,1,5,Hamlyn Heights,13
+11 Sheridan Street,"567,500",08 Feb 2020,,,1.0,,,811,,,,,Hamlyn Heights,13
+60 Vines Road,"610,000",08 Feb 2020,"225,000",Jun 2014,1.0,330,Mar 2011,685,103,3,1,1,Hamlyn Heights,13
+33 Glengate Street,"420,000",Jan 2020,"327,000",Nov 2009,,300,Nov 2014,152,,2,1,2,Hamlyn Heights,13
+3 Quamby Avenue,"460,000",Jan 2020,"123,000",Jun 2002,,255,Jun 2013,664,110,2,1,2,Hamlyn Heights,13
+37 Sycamore Street,"525,000",Jan 2020,"480,000",Mar 2018,,340,May 2018,624,,3,1,1,Hamlyn Heights,13
+7-9 Hillbank Close,"760,000",Jan 2020,"660,000",Jan 2015,,,,"1,048",,3,2,2,Hamlyn Heights,13
+2a Belcher Street,"495,000",Jan 2020,,,,350,Oct 2015,230,,,,,Hamlyn Heights,13
+53 Tahara Street,"469,000",Jan 2020,"325,000",Oct 2012,,,,674,129,3,1,2,Hamlyn Heights,13
+2/7 Thrums Court,"475,000",Dec 2019,,,,,,337,,,,,Hamlyn Heights,13
+14 Lantana Avenue,"250,222",Dec 2019,"168,000",Dec 2015,,,,193,,,,,Hamlyn Heights,13
+41 Sycamore Street,"470,000",Dec 2019,"249,000",Dec 2002,,,,335,,,,,Hamlyn Heights,13
+10 Ebden Street,"475,000",Dec 2019,"410,000",Dec 2017,1.0,,,551,,3,1,1,Hamlyn Heights,13
+6/1 Kinnordy Court,"230,000",Dec 2019,"142,000",Apr 2008,,210,Oct 2011,108,46,1,1,2,Hamlyn Heights,13
+15 Arthur Street,"535,000",07 Dec 2019,,,1.0,,,674,,,,,Hamlyn Heights,13
+29 June Avenue,"564,000",07 Dec 2019,"193,000",Feb 2009,1.0,190,Aug 2006,462,146,3,1,1,Hamlyn Heights,13
+130 Ballarat Road,"420,000",Dec 2019,"225,000",Nov 2013,,,,549,,2,1,1,Hamlyn Heights,13
+170 Ballarat Road,"600,000",Nov 2019,"345,000",Aug 2013,,450,Jan 2019,664,,3,1,2,Hamlyn Heights,13
+8 Glenview Place,"760,000",Nov 2019,"280,000",May 2012,,,,424,282,,,,Hamlyn Heights,13
+12 Kendall Close,"505,000",Nov 2019,"239,000",Sep 2007,,,,399,,3,1,,Hamlyn Heights,13
+1 Shannon Avenue,"505,000",Nov 2019,"290,000",Aug 2010,,320,Sep 2011,423,140,3,1,2,Hamlyn Heights,13
+17 Lily Street,"475,000",Nov 2019,"462,500",Dec 2017,,,,714,,2,1,,Hamlyn Heights,13
+21 Stoddart Street,"550,500",16 Nov 2019,,,1.0,,,794,,3,1,3,Hamlyn Heights,13
+14 Calvert Street,"700,000",16 Nov 2019,"315,002",Feb 2000,1.0,,,809,,5,1,,Hamlyn Heights,13
+42 Vines Road,"700,000",Nov 2019,"265,000",Dec 2004,,295,Aug 2018,"1,012",120,3,2,2,Hamlyn Heights,13
+25A June Avenue,"535,000",09 Nov 2019,,,1.0,,,323,,3,2,2,Hamlyn Heights,13
+7/38-40 Pride Avenue,"280,000",Nov 2019,,,,,,"1,905",,,,,Hamlyn Heights,13
+40 Drysdale Avenue,"580,000",Nov 2019,"395,000",May 2011,1.0,,,623,120,3,1,2,Hamlyn Heights,13
+5 Moulamein Court,"737,500",Oct 2019,"455,111",Feb 2017,,,,778,,3,2,3,Hamlyn Heights,13
+17 MacArthur Avenue,"520,000",Oct 2019,"300,000",Apr 2014,,335,Jul 2015,650,151,3,1,5,Hamlyn Heights,13
+3 Robb Avenue,"420,000",26 Oct 2019,,,1.0,,,651,,3,1,5,Hamlyn Heights,13
+1/48 Vines Road,"518,000",Oct 2019,,,,395,Dec 2018,349,,,,,Hamlyn Heights,13
+3 Shannon Avenue,"631,000",26 Oct 2019,"355,000",May 2009,1.0,190,May 2005,676,,4,1,5,Hamlyn Heights,13
+16 Little Avenue,"515,000",19 Oct 2019,,,1.0,,,548,,,,,Hamlyn Heights,13
+2/21 Toyne Avenue,"523,500",Oct 2019,,,,450,Nov 2019,234,,,,,Hamlyn Heights,13
+17 Vines Road,"502,000",Oct 2019,"457,000",Apr 2018,1.0,285,Jun 2018,661,,2,1,3,Hamlyn Heights,13
+3/13 Griffen Street,"560,000",Oct 2019,"370,000",May 2009,,,,232,,,,,Hamlyn Heights,13
+7/38 Pride Avenue,"280,000",Oct 2019,"239,000",Jul 2010,1.0,250,May 2020,"1,905",,,,,Hamlyn Heights,13
+82 Sladen Street,"586,500",Oct 2019,,,,,,746,,3,1,2,Hamlyn Heights,13
+121 Vines Road,"495,000",Oct 2019,"490,000",Nov 2017,,440,Sep 2018,246,108,3,1,1,Hamlyn Heights,13
+13C Bayview Parade,"465,000",Oct 2019,"420,000",Apr 2014,,,,860,,3,2,1,Hamlyn Heights,13
+8 Shannon Avenue,"555,000",Sep 2019,"362,000",Jan 2016,,,,502,,3,1,1,Hamlyn Heights,13
+1/109 Sladen Street,"445,000",Sep 2019,"260,000",Nov 2003,,260,Mar 2010,274,,,,,Hamlyn Heights,13
+2 Chisholm Court,"650,000",Sep 2019,,,,,,785,,4,2,2,Hamlyn Heights,13
+19 Sheridan Street,"525,000",Sep 2019,"110,000",Jul 1994,,,,764,,4,1,3,Hamlyn Heights,13
+2/28 Willana Avenue,"527,500",Sep 2019,,,,400,Oct 2017,199,,,,,Hamlyn Heights,13
+3/156 Church Street,"456,000",Sep 2019,,,,380,Jan 2018,243,,,,,Hamlyn Heights,13
+302 Church Street,"505,000",Sep 2019,"265,000",Oct 2007,,360,Jan 2018,731,,3,2,2,Hamlyn Heights,13
+31 Parkland Drive,"765,000",Sep 2019,"53,500",Jan 1998,,,,782,235,4,2,2,Hamlyn Heights,13
+14 Sladen Street,"570,000",24 Aug 2019,"229,000",Apr 2008,1.0,,,636,95,3,1,2,Hamlyn Heights,13
+4/168 Church Street,"371,000",Aug 2019,"175,000",Feb 2000,,,,107,,,,,Hamlyn Heights,13
+1/25 Willana Avenue,"475,000",Aug 2019,"307,000",May 2011,,,,289,,3,1,2,Hamlyn Heights,13
+3/112 Vines Road,"420,000",Aug 2019,,,,360,Aug 2018,163,,,,,Hamlyn Heights,13
+74 Ballarat Road,"467,500",Aug 2019,"285,000",Jan 2014,,430,Oct 2020,632,,3,1,2,Hamlyn Heights,13
+4 Taliska Avenue,"560,000",Aug 2019,,,,440,Sep 2019,382,,3,2,2,Hamlyn Heights,13
+37 Drysdale Avenue,"660,000",10 Aug 2019,"325,000",Jun 2012,1.0,,,613,144,1,1,2,Hamlyn Heights,13
+7/3 Kinnordy Court,"210,000",Aug 2019,"157,500",Aug 2015,,220,May 2018,578,,,,,Hamlyn Heights,13
+2/12 Sheridan Street,"415,000",Aug 2019,"345,000",Apr 2017,,325,Oct 2017,219,106,,,,Hamlyn Heights,13
+44 Katoomba Court,"595,000",Aug 2019,"380,000",Feb 2010,,400,Mar 2010,730,,4,2,4,Hamlyn Heights,13
+2/42 Glenfine Avenue,"535,000",Aug 2019,,,,,,201,,3,2,2,Hamlyn Heights,13
+7 Lily Street,"600,000",26 Jul 2019,"550,000",Feb 2018,1.0,,,608,,2,1,3,Hamlyn Heights,13
+294 Church Street,"436,000",Jul 2019,"70,000",Jan 1995,,,,422,,3,1,2,Hamlyn Heights,13
+310 Church Street,"550,000",Jul 2019,"320,000",Apr 2014,,340,Jun 2014,731,161,4,1,2,Hamlyn Heights,13
+21 Glengate Street,"635,000",Jul 2019,"380,000",Feb 2016,,400,Oct 2017,361,,4,2,2,Hamlyn Heights,13
+27 Calvert Street,"460,000",20 Jul 2019,,,1.0,,,790,,2,1,1,Hamlyn Heights,13
+4/34 Weeroona Avenue,"407,000",Jul 2019,"363,000",Jul 2011,,325,Jan 2017,221,,,,,Hamlyn Heights,13
+2/29 Waiora Avenue,"525,000",Jul 2019,,,,420,May 2019,305,,3,2,3,Hamlyn Heights,13
+24a Pride Avenue,"520,000",Jul 2019,,,,,,284,,3,2,3,Hamlyn Heights,13
+10 Rowe Street,"605,000",Jul 2019,"370,000",Jun 2013,,380,Nov 2014,639,175,3,2,2,Hamlyn Heights,13
+1 Edgecombe Street,"642,000",29 Jun 2019,"158,000",Sep 1999,1.0,,,249,,4,2,2,Hamlyn Heights,13
+7 Montgomery Avenue,"525,000",Jun 2019,"327,000",Oct 2013,,335,May 2016,643,,3,1,2,Hamlyn Heights,13
+25 Bayview Parade,"580,000",Jun 2019,"375,000",Jan 2016,,285,Jan 2014,674,,3,1,2,Hamlyn Heights,13
+3/15 Griffen Street,"407,000",Jun 2019,"335,000",Nov 2016,,340,Feb 2018,292,,,,,Hamlyn Heights,13
+75 Calvert Street,"457,000",15 Jun 2019,"306,000",Oct 2015,1.0,350,Jun 2017,552,118,3,1,4,Hamlyn Heights,13
+5 Downie Crescent,"495,000",Jun 2019,"242,000",Feb 2009,,400,Sep 2019,697,,3,2,2,Hamlyn Heights,13
+7 Moulamein Court,"538,000",Jun 2019,"395,000",Jun 2013,,,,681,165,2,2,5,Hamlyn Heights,13
+107 Sladen Street,"450,000",Jun 2019,,,,350,Jun 2019,587,,3,1,1,Hamlyn Heights,13
+136a Vines Road,"515,000",Jun 2019,"392,500",Mar 2014,,415,Jun 2019,347,138,,,,Hamlyn Heights,13
+16 Willana Avenue,"485,000",Jun 2019,"310,000",Sep 2012,1.0,350,Sep 2019,650,107,3,1,2,Hamlyn Heights,13
+17 Gladstone Street,"600,000",Jun 2019,"325,000",Oct 2007,,,,715,181,3,2,1,Hamlyn Heights,13
+334 Church Street,"950,000",May 2019,,,,,,"1,493",,3,1,2,Hamlyn Heights,13
+11 Edgecombe Street,"600,000",25 May 2019,"388,000",Aug 2014,1.0,370,Feb 2017,664,139,3,1,4,Hamlyn Heights,13
+13 Toyne Avenue,"685,000",May 2019,,,,,,"1,012",,4,2,4,Hamlyn Heights,13
+9 Sheridan Street,"450,000",18 May 2019,,,1.0,,,811,,2,1,1,Hamlyn Heights,13
+18 Sladen Street,"450,000",May 2019,"347,200",Feb 2016,,450,Jun 2019,635,,5,2,2,Hamlyn Heights,13
+25 Wilks Street,"675,000",May 2019,"51,000",May 1994,,,,690,,4,3,2,Hamlyn Heights,13
+1/12 Sheridan Street,"490,000",May 2019,"359,900",Mar 2011,,390,Mar 2018,365,,3,2,2,Hamlyn Heights,13
+32 Highview Parade,"600,000",May 2019,"270,000",Nov 2008,,,,636,,4,2,2,Hamlyn Heights,13
+11 Karkalla Court,"935,000",May 2019,"246,000",Sep 2012,,,,612,,3,2,2,Hamlyn Heights,13
+2/38-40 Pride Avenue,"230,000",May 2019,"161,000",Feb 2013,,200,Aug 2017,100,75,,,,Hamlyn Heights,13
+124 Church Street,"950,000",Apr 2019,"327,000",Apr 2015,1.0,,,465,,3,2,3,Hamlyn Heights,13
+2/1 Marathon Avenue,"445,000",Apr 2019,"315,000",Apr 2010,,,,353,,2,1,1,Hamlyn Heights,13
+1/176 Church Street,"465,000",Apr 2019,"328,000",May 2017,,,,354,,2,1,1,Hamlyn Heights,13
+22 Heather Street,"510,000",Apr 2019,"417,000",Jul 2017,,,,595,,2,1,1,Hamlyn Heights,13
+11 Pride Avenue,"717,000",Apr 2019,"335,000",Nov 2008,,,,784,,1,1,1,Hamlyn Heights,13
+1 Little Avenue,"585,000",Apr 2019,"227,002",Jan 2007,,400,May 2019,668,,3,1,2,Hamlyn Heights,13
+1/32 Marlo Street,"415,000",Mar 2019,"355,000",Nov 2017,,350,May 2019,188,,,,,Hamlyn Heights,13
+312 Church Street,"570,000",Mar 2019,"340,000",Mar 2017,,470,Apr 2019,503,,3,1,1,Hamlyn Heights,13
+23 June Avenue,"600,000",09 Mar 2019,"290,000",Dec 2009,1.0,340,Jul 2015,750,,3,1,2,Hamlyn Heights,13
+26 Heather Street,"540,000",Mar 2019,"280,000",Mar 2009,,420,Apr 2019,642,96,3,1,2,Hamlyn Heights,13
+3 Little Avenue,"573,000",02 Mar 2019,"370,000",Mar 2012,1.0,,,668,,3,1,2,Hamlyn Heights,13
+1 Moulamein Court,"530,000",Mar 2019,"300,000",Sep 2008,,340,Oct 2007,587,,4,2,4,Hamlyn Heights,13
+10 Weeroona Avenue,"620,000",23 Feb 2019,"70,500",Jan 1994,1.0,,,731,,4,2,1,Hamlyn Heights,13
+9 Belcher Street,"497,500",Feb 2019,"89,000",Aug 1991,,350,Apr 2019,764,96,3,1,7,Hamlyn Heights,13
+2/5 Mary Street,"625,000",Feb 2019,"452,500",May 2012,,480,Apr 2019,233,,,,,Hamlyn Heights,13
+35 Tahara Street,"570,000",20 Feb 2019,,,1.0,,,700,,4,2,4,Hamlyn Heights,13
+4 Woorayl Street,"673,000",09 Feb 2019,"60,500",Jun 1987,1.0,,,843,,2,1,1,Hamlyn Heights,13
+16 Acacia Street,"515,000",Feb 2019,,,,,,707,,3,1,2,Hamlyn Heights,13
+4/41 Sladen Street,"292,000",Feb 2019,"212,000",Feb 2011,,250,Feb 2018,273,70,,,,Hamlyn Heights,13
+3 Griffen Street,"680,000",Feb 2019,,,,,,"1,009",,3,1,5,Hamlyn Heights,13
+1 Macarthur Avenue,"500,000",Jan 2019,"80,000",May 1989,,255,Mar 2017,659,,3,1,3,Hamlyn Heights,13
+5 Heather Street,"445,000",Jan 2019,"92,000",Feb 2000,,,,650,,1,1,1,Hamlyn Heights,13
+1/34 Glenfine Avenue,"488,000",Jan 2019,"420,000",Jan 2012,,400,May 2019,358,,3,2,2,Hamlyn Heights,13
+20 Strathire Gardens,"535,000",Jan 2019,,,,,,610,,4,2,5,Hamlyn Heights,13
+15 Gladstone Street,"640,000",Jan 2019,,,,,,"1,177",,3,1,3,Hamlyn Heights,13
+26 Parkland Drive,"449,000",Jan 2019,"136,000",Feb 2000,,,,360,,2,1,2,Hamlyn Heights,13
+27 Beulah Street,"530,000",Jan 2019,"365,000",Feb 2012,,,,707,,3,1,2,Hamlyn Heights,13
+3 Sheridan Street,"900,000",Jan 2019,"386,000",Mar 2013,,,,"1,008",138,4,2,2,Hamlyn Heights,13
+2/34 Glenfine Avenue,"477,500",Dec 2018,"420,000",Apr 2011,,395,Jan 2019,337,147,,,,Hamlyn Heights,13
+12 Ballarat Road,"437,500",Dec 2018,"85,000",Jan 2000,,,,511,118,2,1,2,Hamlyn Heights,13
+20 Logan Street,"660,000",Dec 2018,,,,,,"1,012",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13
+1/156 Church Street,"500,000",Dec 2018,"340,000",Feb 2008,,,,366,,,,,Hamlyn Heights,13
+98 Ballarat Road,"370,000",Dec 2018,,,,,,811,,3,1,1,Hamlyn Heights,13
+2/6 Calvert Street,"530,000",Dec 2018,,,,360,Oct 2014,434,,3,2,1,Hamlyn Heights,13
+27 Willana Avenue,"455,000",Dec 2018,"315,000",May 2015,,300,Feb 2019,650,,2,1,1,Hamlyn Heights,13
+256 Church Street,"565,000",08 Dec 2018,"276,000",May 2009,1.0,350,Aug 2020,809,168,2,1,1,Hamlyn Heights,13
+47 Hamlyn Avenue,"556,250",Dec 2018,"280,000",Aug 2012,,290,Oct 2012,610,128,3,1,1,Hamlyn Heights,13
+15 Marathon Avenue,"530,000",Dec 2018,"165,000",Sep 2001,,,,634,,4,2,2,Hamlyn Heights,13
+65 Lily Street,"420,000",Dec 2018,"160,000",Oct 2001,,360,Jan 2019,248,,,,,Hamlyn Heights,13
+6 Woorayl Street,"380,000",Nov 2018,"317,500",Apr 2010,,280,Jun 2015,235,90,2,1,1,Hamlyn Heights,13
+1 Kalimna Street,"810,000",Nov 2018,,,,,,"1,172",,3,1,2,Hamlyn Heights,13

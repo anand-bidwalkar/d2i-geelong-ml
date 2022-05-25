@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,4/56 Hennessy Avenue,"Sold $290,000 in Aug 2020", , , , 
+1,4/16 Stafford Street,"Sold $250,000 in Aug 2020","Last Sold $166,500 in Nov 2009", , ,Land size: 68 sqm
+2,3 Karoomba Avenue,"Sold $562,000 in Aug 2020","Last Sold $87,500 in Apr 1995", ,House: 3  1  4 ,Land size: 771 sqm
+3,9 Bonview Avenue,"Sold $760,000 in Aug 2020","Last Sold $416,000 in Nov 2013", ,House: 4  2  3 ,Land size: 725 sqm | Building size: 178 sqm
+4,3/19 Wirksworth Street,"Sold $240,000 in Aug 2020", ,Rent $180pw in May 2016, ,Land size: 560 sqm
+5,6 Panorama Road,"Sold $600,000 in Aug 2020","Last Sold $60,500 in May 1987", ,House: 3  1  1 ,Land size: 580 sqm
+6,28 Cole Street,"Sold $530,000 in Aug 2020","Last Sold $342,500 in Jun 2012", ,House: 3  2  2 ,Land size: 305 sqm
+7,19 Karoomba Avenue,"Sold $764,000 in Jul 2020","Last Sold $640,000 in Jun 2017(Auction)", ,House: 3  1  1 ,Land size: 877 sqm
+8,21 Ashbourne Street,"Sold $631,000 in 04 Jul 2020(Auction)", , ,House: ,Land size: 729 sqm
+9,40 Hennessy Avenue,"Sold $587,000 in Jun 2020","Last Sold $105,000 in Sep 1998", ,House: 3  1  1 ,Land size: 604 sqm
+10,2 Muxworthy Avenue,"Sold $530,000 in Jun 2020","Last Sold $310,000 in May 2012(Auction)", ,House: 3  1  1 ,Land size: 286 sqm
+11,3/36 Heytesbury Street,"Sold $721,500 in Jun 2020", , , ,Land size: 212 sqm
+12,5 Bakewell Street,"Sold $715,000 in Jun 2020", , ,House: 3  1  1 ,Land size: 609 sqm
+13,136 McCurdy Road,"Sold $340,000 in Jun 2020","Last Sold $310,000 in Apr 2018", , ,Land size: 618 sqm
+14,48 Maurice Street,"Sold $565,000 in May 2020","Last Sold $556,400 in Oct 2018", ,House: 3  1  4 ,Land size: 675 sqm
+15,12 Edinburgh Avenue,"Sold $645,000 in May 2020","Last Sold $525,000 in Jan 2010", ,House: 3  ,Land size: 581 sqm
+16,7 Muxworthy Avenue,"Sold $780,000 in May 2020","Last Sold $238,000 in Jan 2007", ,House: 4  1  2 ,Land size: 511 sqm | Building size: 140 sqm
+17,57 Itkeston Street,"Sold $651,000 in May 2020","Last Sold $255,000 in Dec 2006", ,House: 3  1  2 ,Land size: 532 sqm | Building size: 128 sqm
+18,35 Maurice Street,"Sold $515,000 in May 2020","Last Sold $268,000 in Jun 2010", ,House: 2  1  2 ,Land size: 664 sqm
+19,3/26 Fraser Street,"Sold $275,000 in May 2020","Last Sold $157,000 in Aug 2015", , ,Land size: 76 sqm
+20,41 Rix Street,"Sold $580,000 in Apr 2020","Last Sold $420,000 in Mar 2016", ,House: 4  1  2 ,Land size: 437 sqm | Building size: 150 sqm
+21,5 Marlborough Street,"Sold $580,000 in Apr 2020","Last Sold $428,100 in Jan 2016", ,House: 3  2  2 ,Land size: 466 sqm
+22,13 Derby Road,"Sold $465,000 in 21 Mar 2020(Auction)", , ,House: ,Land size: 618 sqm
+23,1 Norwood Street,"Sold $650,000 in Mar 2020","Last Sold $306,000 in Mar 2010", ,House: 3  1  4 ,Land size: 556 sqm | Building size: 110 sqm
+24,1/376 Autumn Street,"Sold $419,000 in 14 Mar 2020(Auction)","Last Sold $169,000 in Nov 2008", , ,Land size: 98 sqm
+25,4/20 Heytesbury Street,"Sold $265,000 in Mar 2020", , , ,Land size: 768 sqm
+26,3/81 Heytesbury Street,"Sold $269,000 in Feb 2020","Last Sold $195,000 in May 2012", , ,Land size: 80 sqm
+27,52 Itkeston Street,"Sold $525,000 in 22 Feb 2020(Auction)", , ,House: ,Land size: 608 sqm
+28,19 Ashbourne Street,"Sold $640,000 in 22 Feb 2020(Auction)", , ,House: ,Land size: 731 sqm
+29,43 Rix Street,"Sold $645,000 in 25 Jan 2020(Auction)","Last Sold $397,000 in Feb 2018(Auction)", ,House: 2  1  1 ,Land size: 432 sqm
+30,2/126 McCurdy Road,"Sold $490,000 in Jan 2020", , ,Townhouse: 3  1  1 ,Land size: 261 sqm
+31,4 Azilemot Avenue,"Sold $475,000 in Jan 2020","Last Sold $390,000 in Nov 2015(Auction)", ,House: 3  1  6 ,Land size: 429 sqm | Building size: 98 sqm
+32,26 Castleton Road,"Sold $605,000 in Jan 2020","Last Sold $96,500 in Aug 1992", ,House: ,Land size: 697 sqm
+33,1/42 Itkeston Street,"Sold $500,000 in Jan 2020", ,Rent $400pw in Aug 2019,House: 3  1  1 ,Land size: 345 sqm
+34,251 Church Street,"Sold $520,000 in Jan 2020","Last Sold $143,000 in Sep 2001", ,House: 3  1  2 ,Land size: 579 sqm
+35,13 Maurice Street,"Sold $505,000 in Dec 2019","Last Sold $290,000 in Dec 2012", , ,Land size: 678 sqm | Building size: 90 sqm
+36,71 Graylea Avenue,"Sold $410,000 in Dec 2019", , , ,Land size: 614 sqm
+37,15 Staverly Road,"Sold $495,000 in 14 Dec 2019(Auction)", , ,House: ,Land size: 538 sqm
+38,316 Autumn Street,"Sold $700,000 in 14 Dec 2019(Auction)", , ,House: ,Land size: 713 sqm
+39,36 Maurice Street,"Sold $723,000 in Dec 2019","Last Sold $218,000 in May 2006", ,House: 3  1  1 ,Land size: 664 sqm | Building size: 185 sqm
+40,130 Mccurdy Road,"Sold $440,000 in Dec 2019","Last Sold $300,000 in Feb 2016", ,House: 3  1  1 ,Land size: 622 sqm
+41,33 McCurdy Road,"Sold $590,000 in Nov 2019","Last Sold $485,000 in May 2016", ,House: 3  2  2 ,Land size: 25 sqm
+42,5 Ashbourne Street,"Sold $400,000 in Nov 2019","Last Sold $155,000 in Nov 2003", ,House: 3  1  1 ,Land size: 672 sqm
+43,21 Bakewell Street,"Sold $520,000 in Nov 2019","Last Sold $109,000 in Sep 1998", ,House: 3  1  2 ,Land size: 731 sqm
+44,7 Ashbourne Street,"Sold $445,000 in Nov 2019", , ,House: 3  1  1 ,Land size: 671 sqm
+45,6/368 Autumn Street,"Sold $291,290 in 21 Nov 2019(Auction)","Last Sold $180,000 in Feb 2000", , ,Land size: 84 sqm
+46,8/368-372 Autumn Street,"Sold $290,000 in Nov 2019","Last Sold $242,000 in Jul 2016", , ,Land size: 81 sqm
+47,64 Graylea Avenue,"Sold $636,000 in 16 Nov 2019(Auction)","Last Sold $385,000 in Oct 2015", ,House: 4  2  1 ,Land size: 581 sqm
+48,4 Perry Court,"Sold $602,500 in 06 Nov 2019(Auction)","Last Sold $82,000 in Apr 1997", ,House: 3  1  2 ,Land size: 713 sqm
+49,7 Derby Road,"Sold $530,000 in Nov 2019","Last Sold $360,000 in Sep 2010", ,House: 3  2  2 ,Land size: 530 sqm
+50,2/40 Maurice Street,"Sold $520,000 in Oct 2019", , ,Townhouse: 3  2  2 ,Land size: 204 sqm
+51,22 Panorama Road,"Sold $560,000 in Oct 2019","Last Sold $350,000 in Dec 2014(Auction)", ,House: 3  1  1 ,Land size: 656 sqm
+52,2/15 Maurice Street,"Sold $680,000 in Oct 2019", , ,House: 3  2  2 ,Land size: 179 sqm
+53,2/39 Graylea Avenue,"Sold $295,000 in Oct 2019","Last Sold $210,000 in May 2013", ,House: 2  1  1 ,Land size: 178 sqm
+54,8 Muxworthy Avenue,"Sold $585,000 in Oct 2019", , ,House: ,Land size: 514 sqm
+55,145 Minerva Road,"Sold $612,500 in Oct 2019","Last Sold $288,000 in Mar 2013(Auction)", ,House: 3  1  1 ,Land size: 393 sqm | Building size: 123 sqm
+56,19 Maurice Street,"Sold $510,000 in Oct 2019","Last Sold $170,000 in Oct 2003", ,House: 3  1  1 ,Land size: 660 sqm | Building size: 130 sqm
+57,6/14-16 Hennessy Avenue,"Sold $255,000 in Sep 2019","Last Sold $190,000 in Sep 2012", , ,Land size: 110 sqm
+58,7 Beckley Street,"Sold $555,000 in 21 Sep 2019(Auction)","Last Sold $352,500 in Mar 2013", ,House: 3  1  2 ,Land size: 589 sqm
+59,24 Matlock Street,"Sold $510,000 in Sep 2019","Last Sold $340,000 in Sep 2014", ,House: 4  2  1 ,Land size: 483 sqm | Building size: 174 sqm
+60,14 Dundas Street,"Sold $380,000 in Aug 2019","Last Sold $69,950 in Mar 2000", ,House: 3  1  1 ,Land size: 530 sqm
+61,360 Autumn Street,"Sold $750,000 in Aug 2019","Last Sold $155,000 in Aug 1994", ,House: 4  2  2 ,"Land size: 1,348 sqm | Building size: 250 sqm"
+62,54 Heytesbury Street,"Sold $441,000 in Aug 2019", , ,House: 3  1  2 ,Land size: 523 sqm
+63,5/16 Stafford Street,"Sold $240,000 in Aug 2019","Last Sold $170,000 in May 2010", , ,Land size: 68 sqm | Building size: 68 sqm
+64,70 McCurdy Road,"Sold $370,000 in Jul 2019", , , , 
+65,13 Great Britain Street,"Sold $540,000 in Jul 2019","Last Sold $295,000 in Nov 2011", ,House: 3  1  1 ,Land size: 601 sqm | Building size: 94 sqm
+66,2 Grace Court,"Sold $593,222 in Jul 2019","Last Sold $54,000 in Feb 2000", ,House: 5  3  8 ,Land size: 807 sqm | Building size: 164 sqm
+67,7 Finchaven Street,"Sold $315,000 in Jul 2019","Last Sold $295,000 in Jul 2009", ,House: 3  1  1 ,Land size: 373 sqm
+68,118 McCurdy Road,"Sold $595,000 in Jul 2019", , ,House: 3  2  3 ,Land size: 617 sqm
+69,72 McCurdy Road,"Sold $430,000 in Jul 2019", , ,House: 3  1  1 , 
+70,5 Cole Street,"Sold $485,000 in Jul 2019","Last Sold $453,000 in Apr 2017(Auction)", ,House: 3  1  1 ,Land size: 352 sqm
+71,1/30 Matlock Street,"Sold $290,000 in Jul 2019","Last Sold $245,000 in Aug 2016", , ,Land size: 77 sqm
+72,34 Heytesbury Street,"Sold $520,000 in Jul 2019", , ,House: 4  2  1 ,Land size: 787 sqm
+73,46 Heytesbury Street,"Sold $415,000 in Jun 2019","Last Sold $307,000 in Apr 2014", ,House: 2  1  1 ,Land size: 453 sqm | Building size: 84 sqm
+74,35 Finchaven Street,"Sold $570,000 in May 2019", , ,House: 3  1  3 ,Land size: 686 sqm
+75,1c Colville Court,"Sold $495,000 in May 2019", ,Rent $400pw in Jun 2019,House: 4  1  1 ,Land size: 559 sqm
+76,23 Ashbourne Street,"Sold $600,000 in May 2019","Last Sold $370,000 in Aug 2014", ,House: 3  1  1 ,Land size: 731 sqm | Building size: 101 sqm
+77,1 Panorama Road,"Sold $570,000 in May 2019", ,Rent $370pw in Jul 2018,House: 2  1  1 ,Land size: 613 sqm
+78,17 Castleton Road,"Sold $665,000 in 04 May 2019(Auction)","Last Sold $115,000 in Feb 2000", ,House: 3  2  2 ,Land size: 606 sqm
+79,3 Heytesbury Street,"Sold $565,000 in May 2019", ,Rent $500pw in May 2019,House: 6  2  1 ,Land size: 578 sqm
+80,1/11 Douglass Street,"Sold $282,000 in Apr 2019","Last Sold $157,000 in Dec 2007", , ,Land size: 67 sqm
+81,23 Castleton Road,"Sold $515,000 in Apr 2019","Last Sold $125,000 in Jul 2001", ,House: 4  2  1 ,Land size: 606 sqm | Building size: 190 sqm
+82,87 Heytesbury Street,"Sold $502,500 in Apr 2019", , ,House: 3  1  1 ,Land size: 561 sqm
+83,3 Stewart Street,"Sold $570,000 in Apr 2019","Last Sold $75,000 in Nov 1994", ,House: 3  1  1 ,Land size: 454 sqm | Building size: 105 sqm
+84,4/26 Fraser Street,"Sold $237,500 in Apr 2019","Last Sold $127,000 in Jul 2008", , ,Land size: 97 sqm
+85,1/368 Autumn Street,"Sold $298,000 in Apr 2019","Last Sold $242,000 in Jun 2016", , ,Land size: 82 sqm
+86,299 Church Street,"Sold $618,000 in Apr 2019","Last Sold $405,000 in Jun 2015", ,House: 3  2  2 ,Land size: 664 sqm | Building size: 140 sqm
+87,15 Derby Road,"Sold $455,000 in 06 Apr 2019(Auction)", , ,House: 3  1  2 ,Land size: 601 sqm
+88,15 Itkeston Street,"Sold $510,000 in Apr 2019","Last Sold $381,000 in Oct 2013", ,House: 3  1  1 ,Land size: 518 sqm | Building size: 120 sqm
+89,1/36 Heytesbury Street,"Sold $660,000 in Mar 2019", , , ,Land size: 297 sqm
+90,16 Panorama Road,"Sold $677,000 in 23 Mar 2019(Auction)","Last Sold $364,000 in Dec 2009", ,House: 3  1  1 ,Land size: 580 sqm | Building size: 168 sqm
+91,17 Wirksworth Street,"Sold $540,000 in 22 Mar 2019(Auction)","Last Sold $369,000 in Nov 2015(Auction)", ,House: 3  1  2 ,Land size: 539 sqm | Building size: 107 sqm
+92,34-36 Ashbourne Street,"Sold $520,000 in Mar 2019","Last Sold $340,000 in Oct 2013(Auction)", ,House: 3  1  2 ,Land size: 620 sqm
+93,2/15 Buxton Road,"Sold $225,000 in Mar 2019","Last Sold $200,000 in Oct 2017", , ,Land size: 65 sqm
+94,31 Bakewell Street,"Sold $608,000 in 16 Mar 2019(Auction)","Last Sold $210,000 in Jan 2005", ,House: 2  2  1 ,Land size: 555 sqm | Building size: 112 sqm
+95,94 McCurdy Road,"Sold $535,000 in Mar 2019", , ,House: 3  1  1 ,Land size: 735 sqm
+96,15 Karoomba Avenue,"Sold $558,500 in Mar 2019", , ,House: 4  1  2 ,Land size: 876 sqm
+97,16 Edinburgh Avenue,"Sold $400,000 in 09 Feb 2019(Auction)", , , ,Land size: 572 sqm
+98,6 Bonview Avenue,"Sold $540,000 in Feb 2019", ,Rent $420pw in Feb 2019,House: 3  2  8 ,Land size: 721 sqm
+99,6/18 Bakewell Street,"Sold $190,000 in Feb 2019","Last Sold $110,000 in Aug 2016", , ,"Land size: 1,007 sqm"
+100,15 Roscommon Place,"Sold $608,000 in Jan 2019","Last Sold $325,000 in May 2013", ,House: 3  1  2 ,Land size: 442 sqm | Building size: 104 sqm
+101,17 Turkeith Avenue,"Sold $540,000 in Dec 2018","Last Sold $465,000 in Dec 2017", ,House: 4  1  4 ,Land size: 580 sqm | Building size: 123 sqm
+102,27 Maurice Street,"Sold $590,000 in 08 Dec 2018(Auction)","Last Sold $400,000 in Aug 2015(Auction)", ,House: 3  1  3 ,Land size: 664 sqm | Building size: 133 sqm
+103,1/40 Maurice Street,"Sold $530,000 in Dec 2018", , ,House: 3  2  2 ,Land size: 302 sqm
+104,394 Autumn Street,"Sold $675,000 in Dec 2018", , ,House: 3  2  3 ,"Land size: 1,059 sqm"
+105,21 Rix Street,"Sold $645,000 in Dec 2018","Last Sold $390,000 in Mar 2013", ,House: 3  2  4 ,Land size: 663 sqm
+106,2/376 Autumn Street,"Sold $319,500 in Dec 2018","Last Sold $205,000 in Apr 2016", , ,Land size: 85 sqm
+107,19 Fraser Street,"Sold $880,000 in 01 Dec 2018(Auction)","Last Sold $270,000 in May 2006", ,House: 3  3  2 ,Land size: 983 sqm
+108,84 Mccurdy Road,"Sold $560,000 in Nov 2018","Last Sold $415,000 in Jun 2016", ,House: 3  2  2 ,Land size: 604 sqm
+109,2 Trevor Court,"Sold $571,000 in Nov 2018","Last Sold $360,000 in Dec 2009", ,House: 3  1  2 ,Land size: 481 sqm
+110,19 Derby Road,"Sold $480,000 in Nov 2018", ,Rent $400pw in Feb 2019,House: 4  1  2 ,Land size: 555 sqm
+111,2/35-37 Fraser Street,"Sold $280,000 in Nov 2018","Last Sold $230,000 in Aug 2017", ,House: 2  1  1 ,Land size: 87 sqm
+112,19 Norwood Street,"Sold $750,000 in Nov 2018","Last Sold $351,000 in Sep 2011", ,House: 3  3  2 ,Land size: 835 sqm | Building size: 126 sqm
+113,6/10-12 Norwood Street,"Sold $245,000 in Nov 2018","Last Sold $143,500 in Nov 2006", , ,Land size: 91 sqm
+114,296 Autumn Street,"Sold $512,500 in Nov 2018","Last Sold $83,500 in Aug 1994", ,House: 2  1  1 ,Land size: 456 sqm
+115,1/35-37 Fraser Street,"Sold $285,000 in Nov 2018","Last Sold $190,000 in Dec 2012", , ,Land size: 88 sqm
+116,295 Church Street,"Sold $520,000 in Nov 2018", , ,House: 3  1  2 ,Land size: 663 sqm
+117,42 Ashbourne Street,"Sold $550,000 in 27 Oct 2018(Auction)", , ,House: 4  2  1 ,Land size: 832 sqm
+118,121 Minerva Road,"Sold $661,000 in 27 Oct 2018(Auction)","Last Sold $270,000 in Feb 2000", ,House: 3  2  2 ,Land size: 591 sqm | Building size: 151 sqm
+119,40 Fraser Street,"Sold $585,000 in Oct 2018","Last Sold $135,000 in Mar 2002", ,House: 3  2  2 ,Land size: 478 sqm
+120,58 Heytesbury Street,"Sold $503,000 in Oct 2018","Last Sold $405,000 in Jul 2017", ,House: 3  1  2 ,Land size: 516 sqm | Building size: 100 sqm
+121,8 Stewart Street,"Sold $610,000 in Oct 2018","Last Sold $307,000 in Aug 2007", ,House: 3  1  ,Land size: 523 sqm | Building size: 140 sqm
+122,2/364 Autumn Street,"Sold $365,000 in Oct 2018","Last Sold $224,000 in Aug 2007", , ,Land size: 181 sqm | Building size: 90 sqm
+123,27 Kedleston Road,"Sold $590,000 in Oct 2018","Last Sold $400,000 in Mar 2013", ,House: 3  1  2 ,Land size: 552 sqm | Building size: 131 sqm
+124,2/56 Hennessy Avenue,"Sold $238,500 in Oct 2018", ,Rent $230pw in Oct 2018, , 
+125,1 Stafford Street,"Sold $425,000 in Sep 2018","Last Sold $300,000 in Nov 2013(Auction)", ,House: 3  1  2 ,Land size: 470 sqm | Building size: 108 sqm
+126,3 Azilemot Avenue,"Sold $561,000 in 15 Sep 2018(Auction)","Last Sold $395,000 in Jun 2011", ,House: 4  2  2 ,Land size: 599 sqm
+127,4 Ashbourne Street,"Sold $510,000 in Sep 2018","Last Sold $416,000 in Dec 2015", ,Townhouse: 3  3  1 ,Land size: 182 sqm
+128,1/1 Rix Street,"Sold $441,000 in 08 Sep 2018(Auction)","Last Sold $255,000 in Nov 2008", , ,Land size: 223 sqm
+129,4/368 Autumn Street,"Sold $335,000 in Sep 2018","Last Sold $73,500 in Jul 1998", , ,Land size: 84 sqm
+130,22 Kedleston Road,"Sold $557,000 in Sep 2018","Last Sold $345,000 in Sep 2014", ,House: 4  2  2 ,Land size: 573 sqm
+131,15 Everett Close,"Sold $506,000 in 18 Aug 2018(Auction)","Last Sold $108,000 in Jan 2000", ,House: 3  1  2 ,Land size: 542 sqm
+132,2/40 Heytesbury Street,"Sold $405,000 in Aug 2018","Last Sold $357,500 in Feb 2016", , ,Land size: 203 sqm | Building size: 105 sqm
+133,3 Beckley Street,"Sold $504,000 in 11 Aug 2018(Auction)","Last Sold $273,000 in May 2012", ,House: 3  1  1 ,Land size: 429 sqm | Building size: 118 sqm
+134,2 Colville Court,"Sold $610,000 in 28 Jul 2018(Auction)","Last Sold $395,000 in Apr 2015", ,House: 4  3  2 ,Land size: 561 sqm | Building size: 244 sqm
+135,134 Mccurdy Road,"Sold $419,000 in Jul 2018","Last Sold $300,000 in Jul 2010", ,House: 3  1  2 ,Land size: 217 sqm
+136,273 Church Street,"Sold $560,000 in 21 Jul 2018(Auction)","Last Sold $330,000 in Apr 2015(Auction)", ,House: 3  1  4 ,Land size: 677 sqm
+137,5/7 Stafford Street,"Sold $415,000 in 21 Jul 2018(Auction)","Last Sold $245,000 in Mar 2009", , ,Land size: 151 sqm | Building size: 70 sqm
+138,23 Hennessy Avenue,"Sold $555,000 in 21 Jul 2018(Auction)","Last Sold $302,000 in Jul 2012", ,House: 3  2  2 ,Land size: 604 sqm
+139,10 Marlborough Street,"Sold $550,000 in Jul 2018","Last Sold $330,000 in Jan 2011", ,House: 3  1  2 ,Land size: 600 sqm | Building size: 131 sqm
+140,3/26 Wirksworth Street,"Sold $215,500 in Jul 2018","Last Sold $159,000 in Apr 2010", ,House: 1  1  1 ,Land size: 84 sqm | Building size: 53 sqm
+141,263 Church Street,"Sold $410,500 in Jul 2018","Last Sold $290,000 in May 2011", ,House: 2  1  1 ,Land size: 682 sqm
+142,2/134 McCurdy Road,"Sold $495,000 in Jun 2018", ,Rent $375pw in Sep 2017,House: 3  2  2 ,Land size: 166 sqm
+143,10/9 Finchaven Street,"Sold $220,000 in Jun 2018","Last Sold $155,000 in May 2013", ,House: 2  1  1 ,Land size: 756 sqm | Building size: 60 sqm
+144,17 Norwood Street,"Sold $682,000 in Jun 2018","Last Sold $385,000 in May 2012", ,House: 3  1  3 ,Land size: 835 sqm
+145,17 Panorama Road,"Sold $587,000 in Jun 2018","Last Sold $85,000 in Dec 1997", ,House: 3  1  3 ,Land size: 614 sqm
+146,4/9 Finchaven street,"Sold $200,000 in Jun 2018","Last Sold $180,000 in Jul 2010", , ,Land size: 756 sqm | Building size: 60 sqm
+147,9 Joyce Parade,"Sold $617,000 in Jun 2018","Last Sold $410,000 in Aug 2016", ,House: 3  1  2 ,"Land size: 1,020 sqm | Building size: 111 sqm"
+148,5 Harvey Avenue,"Sold $565,000 in Jun 2018","Last Sold $375,000 in Oct 2014(Auction)", ,House: 3  1  2 ,Land size: 746 sqm
+149,39 Norwood Street,"Sold $526,000 in Jun 2018", ,Rent $380pw in Aug 2018,House: 3  1  3 ,Land size: 504 sqm
+150,47 Rix Street,"Sold $525,000 in Jun 2018","Last Sold $100,000 in Aug 2016", ,House: 3  1  3 ,Land size: 686 sqm
+151,17A Ashbourne Street,"Sold $468,000 in Jun 2018", , ,House: 2  1  1 ,Land size: 252 sqm
+152,27 Staverly Road,"Sold $475,000 in Jun 2018", , ,House: 3  1  ,Land size: 552 sqm
+153,42 Fraser Street,"Sold $479,000 in Jun 2018","Last Sold $330,000 in May 2016", ,House: 3  1  3 ,Land size: 478 sqm | Building size: 78 sqm
+154,49 Finchaven Street,"Sold $583,500 in Jun 2018","Last Sold $270,000 in Jun 2011", ,House: 3  1  2 ,Land size: 786 sqm | Building size: 130 sqm
+155,2/27 Rix Street,"Sold $250,000 in May 2018","Last Sold $210,000 in Apr 2015", , ,Land size: 80 sqm
+156,3 McCurdy Road,"Sold $525,000 in May 2018","Last Sold $383,000 in Sep 2016(Auction)", ,House: 3  1  3 ,Land size: 847 sqm
+157,12 Fraser Street,"Sold $707,500 in May 2018","Last Sold $540,000 in Nov 2013", ,House: 3  2  2 ,Land size: 767 sqm | Building size: 206 sqm
+158,10 Fraser Street,"Sold $466,000 in May 2018","Last Sold $370,000 in Oct 2016", ,House: ,Land size: 767 sqm
+159,4 Knight Avenue,"Sold $626,500 in May 2018","Last Sold $54,000 in Oct 1987", ,House: 3  1  2 ,Land size: 714 sqm | Building size: 110 sqm
+160,2/10 Bonview Avenue,"Sold $314,000 in May 2018","Last Sold $59,000 in Mar 1988", , ,Land size: 180 sqm
+161,338 Autumn Street,"Sold $468,000 in May 2018", , ,House: 3  1  1 ,Land size: 632 sqm
+162,27 Knight Avenue,"Sold $420,000 in May 2018", , , ,Land size: 651 sqm
+163,7/35-37 Fraser Street,"Sold $295,000 in May 2018","Last Sold $165,000 in Oct 2016", , ,Land size: 79 sqm
+164,29 Derby Road,"Sold $625,000 in May 2018","Last Sold $415,000 in Dec 2016", ,House: 3  1  2 ,Land size: 710 sqm
+165,309 Church Street,"Sold $492,500 in May 2018","Last Sold $275,000 in Aug 2013", ,House: 2  1  1 ,Land size: 299 sqm
+166,25 Hunt Road,"Sold $390,000 in May 2018", , , ,Land size: 912 sqm
+167,9 Norwood Street,"Sold $539,000 in 05 May 2018(Auction)", , ,House: 3  1  3 ,Land size: 492 sqm
+168,Lot 208/355 Church Street,"Sold $392,777 in May 2018", , , , 
+169,37 Douglass Street,"Sold $550,000 in May 2018","Last Sold $357,000 in Feb 2014", ,House: 3  1  2 ,Land size: 578 sqm | Building size: 125 sqm
+170,6 Castleton Road,"Sold $573,500 in Apr 2018","Last Sold $235,000 in Jun 2006", ,House: 3  1  2 ,Land size: 697 sqm
+171,8/6-8 Stafford Street,"Sold $240,000 in Apr 2018","Last Sold $187,000 in Feb 2010", , ,Land size: 82 sqm
+172,4/157 Minerva Road,"Sold $225,000 in Apr 2018", , , , 
+173,17 Hennessy Avenue,"Sold $230,000 in Apr 2018", , , ,Land size: 255 sqm
+174,6 Matlock Street,"Sold $550,000 in 14 Apr 2018(Auction)","Last Sold $307,000 in Dec 2010", ,House: 3  1  1 ,Land size: 609 sqm
+175,3/15 Buxton Road,"Sold $215,000 in Apr 2018","Last Sold $132,000 in Oct 2006", , ,Land size: 66 sqm
+176,2/25 Bakewell Street,"Sold $215,000 in Apr 2018","Last Sold $177,000 in Aug 2011", , ,Land size: 70 sqm
+177,7/9 Finchaven Street,"Sold $220,000 in Apr 2018","Last Sold $201,000 in Nov 2011", ,House: 2  1  ,Land size: 756 sqm | Building size: 56 sqm
+178,1 Heytesbury Street,"Sold $800,000 in Apr 2018","Last Sold $144,000 in Nov 2001", ,House: 1  1  1 ,Land size: 581 sqm
+179,6 Perry Court,"Sold $580,000 in Apr 2018","Last Sold $237,000 in Apr 2006", ,House: 2  1  1 ,Land size: 611 sqm
+180,7 Rix Street,"Sold $614,000 in Mar 2018", , ,House: 3  1  2 ,Land size: 671 sqm
+181,39 Kedleston Road,"Sold $521,500 in Mar 2018","Last Sold $147,000 in Aug 2001", ,House: 1  1  1 ,Land size: 586 sqm
+182,9/6 Stafford Street,"Sold $235,000 in Mar 2018","Last Sold $190,500 in Mar 2010", , ,Land size: 81 sqm
+183,40 Douglass Street,"Sold $627,500 in Mar 2018","Last Sold $236,500 in Nov 2005", ,House: 3  2  3 ,Land size: 539 sqm
+184,Lot 1 136 McCurdy Road,"Sold $260,000 in Mar 2018", , , , 
+185,Lot 1 136 MCurdy Road,"Sold $260,000 in Mar 2018", , , , 
+186,14 Matlock Street,"Sold $540,000 in Mar 2018","Last Sold $220,000 in Oct 2011", ,House: 3  1  2 ,Land size: 609 sqm | Building size: 163 sqm
+187,64 Heytesbury Street,"Sold $510,000 in Mar 2018","Last Sold $287,000 in Jun 2012", ,House: 2  1  1 ,Land size: 546 sqm | Building size: 104 sqm
+188,6/8 Heytesbury Street,"Sold $212,500 in Mar 2018","Last Sold $192,000 in Jul 2014", ,House: 1  1  1 ,Land size: 910 sqm | Building size: 51 sqm
+189,3/11 Bakewell Street,"Sold $307,500 in Mar 2018","Last Sold $143,000 in Feb 2005", , ,Land size: 63 sqm | Building size: 60 sqm
+190,1/31 Ashbourne Street,"Sold $430,000 in Mar 2018","Last Sold $320,000 in Jun 2014", , ,Land size: 326 sqm | Building size: 94 sqm
+191,15a Maurice Street,"Sold $581,000 in Mar 2018", , ,House: 3  1  1 , 
+192,Lot 216 Alira Way,"Sold $260,000 in Mar 2018", , , , 
+193,16 Maurice Street,"Sold $551,500 in Mar 2018", ,Rent $330pw in Dec 2018,House: 3  1  1 ,Land size: 678 sqm
+194,18 Panorama Road,"Sold $579,000 in Mar 2018","Last Sold $189,000 in Apr 2003", ,House: 3  1  2 ,Land size: 580 sqm
+195,9 Dundas Street,"Sold $416,000 in Mar 2018", ,Rent $380pw in Aug 2018,House: 3  1  ,Land size: 483 sqm
+196,1a Ashbourne Street,"Sold $635,000 in Feb 2018", , ,House: 3  2  2 , 
+197,17 Bakewell Street,"Sold $511,000 in Feb 2018","Last Sold $89,500 in Oct 1988", ,House: 3  1  1 ,Land size: 609 sqm
+198,12 Bakewell Street,"Sold $510,000 in Feb 2018","Last Sold $420,000 in Feb 2016", ,House: 2  1  2 ,Land size: 701 sqm | Building size: 159 sqm
+199,2 Panorama Road,"Sold $775,000 in Feb 2018","Last Sold $75,000 in Aug 1989", , ,Land size: 580 sqm
+200,3/35-37 Fraser Street,"Sold $210,000 in Feb 2018","Last Sold $55,000 in Jan 2002", , ,Land size: 94 sqm
+201,20 Maurice Street,"Sold $511,000 in Feb 2018","Last Sold $315,000 in Oct 2014", ,House: 3  1  2 ,Land size: 420 sqm
+202,Lot 205 Monier Way,"Sold $279,000 in Feb 2018", , , , 
+203,3/35 Fraser Street,"Sold $210,000 in Feb 2018","Last Sold $55,000 in Jan 2002", , ,Land size: 94 sqm
+204,3 Cole Street,"Sold $541,000 in 10 Feb 2018(Auction)","Last Sold $90,000 in Feb 2000", ,House: 3  1  1 ,Land size: 595 sqm
+205,6/2-4 Murphy Avenue,"Sold $275,000 in Jan 2018","Last Sold $225,000 in May 2014", ,House: 2  1  1 ,Land size: 70 sqm
+206,2A Azilemot Avenue,"Sold $482,500 in Jan 2018", ,Rent $420pw in Oct 2017,Townhouse: 4  2  2 ,Land size: 299 sqm
+207,16 McCurdy Road,"Sold $545,000 in Jan 2018", , ,House: 3  2  4 ,Land size: 604 sqm
+208,1/67 Heytesbury street,"Sold $210,000 in Jan 2018", ,Rent $210pw in Jun 2016, ,Land size: 67 sqm
+209,6/2-4 Murphy Street,"Sold $275,000 in Jan 2018", , , , 
+210,26 Ashbourne Street,"Sold $570,000 in 23 Dec 2017(Auction)", , , , 
+211,3/10-12 Norwood Street,"Sold $205,000 in Dec 2017","Last Sold $150,000 in Feb 2009", , ,Land size: 72 sqm
+212,3/40 Heytesbury Street,"Sold $370,000 in Dec 2017","Last Sold $327,500 in Jul 2012", ,House: 2  1  1 ,Land size: 211 sqm | Building size: 100 sqm
+213,26-28 Ashbourne Street,"Sold $570,000 in 19 Dec 2017(Auction)","Last Sold $367,000 in Feb 2016(Auction)", ,House: 3  1  2 ,Land size: 534 sqm | Building size: 125 sqm
+214,6/29 Knight Avenue,"Sold $230,000 in Dec 2017","Last Sold $200,000 in Apr 2013", , ,Land size: 105 sqm
+215,54 Maurice Street,"Sold $580,000 in Dec 2017","Last Sold $142,500 in May 2001", ,House: 3  1  3 ,Land size: 677 sqm
+216,15 Rix Street,"Sold $560,000 in Dec 2017","Last Sold $230,000 in Jul 2005", ,House: 4  2  2 ,Land size: 674 sqm
+217,2/6 Itkeston Street,"Sold $215,000 in Dec 2017","Last Sold $170,000 in Oct 2010", , ,Land size: 46 sqm
+218,30 Castleton Road,"Sold $630,000 in Dec 2017","Last Sold $385,000 in Sep 2010", ,House: 3  1  3 ,Land size: 697 sqm | Building size: 119 sqm
+219,2/6-8 Stafford Street,"Sold $230,000 in Dec 2017","Last Sold $179,000 in Mar 2010", , ,Land size: 78 sqm
+220,2/73 McCurdy Road,"Sold $364,000 in Dec 2017","Last Sold $307,000 in Oct 2016", , ,Land size: 210 sqm
+221,2/368 Autumn Street,"Sold $260,000 in Dec 2017","Last Sold $187,500 in May 2011", , ,Land size: 84 sqm
+222,117 Minerva Road,"Sold $630,000 in 09 Dec 2017(Auction)", , ,House: 2  1  2 ,Land size: 660 sqm
+223,11 Wirksworth Street,"Sold $565,000 in 09 Dec 2017(Auction)","Last Sold $195,000 in Dec 2002", ,House: 4  1  2 ,Land size: 534 sqm
+224,21B Maurice Street,"Sold $462,000 in Dec 2017", , ,Townhouse: 3  2  2 ,Land size: 307 sqm
+225,66 McCurdy Road,"Sold $430,000 in Dec 2017","Last Sold $343,000 in Jul 2014", ,House: 3  1  2 ,Land size: 383 sqm
+226,6/6-8 Stafford Street,"Sold $335,000 in Nov 2017","Last Sold $300,000 in Feb 2015", , ,Land size: 164 sqm
+227,2A Staverly Road,"Sold $1,200,000 in 25 Nov 2017(Auction)","Last Sold $417,500 in Feb 2003", , ,Land size: 84 sqm
+228,297B Church Street,"Sold $455,000 in Nov 2017", ,Rent $380pw in Jan 2018,House: 3  2  1 ,Land size: 311 sqm
+229,1/65 Mccurdy Road,"Sold $327,500 in Nov 2017","Last Sold $205,000 in Apr 2004", , ,Land size: 252 sqm | Building size: 70 sqm
+230,14 Finchaven Street,"Sold $545,000 in 18 Nov 2017(Auction)", ,Rent $295pw in Nov 2012,House: 3  1  2 ,Land size: 557 sqm
+231,8 Mccurdy Road,"Sold $440,000 in 18 Nov 2017(Auction)","Last Sold $97,390 in Apr 2000", ,House: 3  1  2 ,Land size: 616 sqm
+232,20 Stafford Street,"Sold $620,000 in 14 Nov 2017(Auction)","Last Sold $405,000 in Jul 2012", ,House: 4  1  4 ,Land size: 684 sqm | Building size: 176 sqm
+233,10 Harvey Avenue,"Sold $492,500 in 11 Nov 2017(Auction)", , ,House: 3  1  2 ,Land size: 616 sqm
+234,55 McCurdy Road,"Sold $460,000 in 11 Nov 2017(Auction)","Last Sold $277,000 in Apr 2013", ,House: 3  1  2 ,Land size: 520 sqm | Building size: 150 sqm
+235,15 Dundas Street,"Sold $430,000 in Nov 2017","Last Sold $270,000 in Mar 2015", ,House: 2  1  1 ,Land size: 483 sqm | Building size: 90 sqm
+236,380 Autumn Street,"Sold $422,500 in Nov 2017", ,Rent $385pw in Jan 2018,House: 4  1  3 ,Land size: 492 sqm
+237,2/1 Rix Street,"Sold $390,000 in Nov 2017","Last Sold $255,000 in Nov 2008", ,Townhouse: 2  1  1 ,Land size: 212 sqm | Building size: 87 sqm
+238,61 Minerva Road,"Sold $501,000 in 28 Oct 2017(Auction)","Last Sold $220,000 in Sep 2005", ,House: 2  1  1 ,Land size: 502 sqm | Building size: 95 sqm
+239,65 Minerva Road,"Sold $450,000 in Oct 2017","Last Sold $310,000 in Oct 2012(Auction)", ,House: 3  1  ,Land size: 455 sqm
+240,12B Knight Avenue,"Sold $485,000 in Oct 2017", , ,Townhouse: 3  2  1 ,Land size: 390 sqm
+241,1/10 Matlock Street,"Sold $300,300 in Oct 2017","Last Sold $231,002 in Mar 2011", ,House: 2  1  1 ,Land size: 288 sqm | Building size: 105 sqm
+242,61 Itkeston Street,"Sold $498,000 in Oct 2017", , ,House: 3  1  1 ,Land size: 532 sqm
+243,25 Maurice Street,"Sold $565,000 in 23 Oct 2017(Auction)","Last Sold $51,000 in Oct 1985", ,House: 4  1  1 ,Land size: 664 sqm | Building size: 172 sqm
+244,53 Kedleston Road,"Sold $711,000 in 17 Oct 2017(Auction)","Last Sold $371,000 in Oct 2010(Auction)", ,House: 4  2  3 ,Land size: 745 sqm | Building size: 190 sqm
+245,15 Kedleston Road,"Sold $490,000 in Oct 2017","Last Sold $85,000 in Aug 1995", ,House: 3  1  1 ,Land size: 528 sqm
+246,5 Itkeston Street,"Sold $452,000 in 14 Oct 2017(Auction)", ,Rent $320pw in Nov 2017,House: 3  1  2 ,Land size: 604 sqm
+247,3 Glenfine Avenue,"Sold $352,500 in Oct 2017", , , , 
+248,20 Panorama Road,"Sold $615,000 in Oct 2017","Last Sold $130,000 in Mar 2001", ,House: 3  1  1 ,Land size: 580 sqm
+249,21 Minerva Road,"Sold $220,000 in Sep 2017","Last Sold $60,000 in Mar 1997", ,House: 3  1  4 ,Land size: 59 sqm | Building size: 63 sqm
+250,4/7 Stafford Street,"Sold $355,000 in Sep 2017","Last Sold $293,000 in May 2015", , ,Land size: 125 sqm | Building size: 75 sqm
+251,39 Finchaven Street,"Sold $515,000 in 23 Sep 2017(Auction)", , ,House: 2  1  1 ,Land size: 685 sqm
+252,19 Bakewell Street,"Sold $541,108 in Sep 2017", ,Rent $390pw in Nov 2019,House: 3  1  1 ,Land size: 720 sqm
+253,2/2 Bakewell Street,"Sold $182,500 in Sep 2017","Last Sold $160,500 in Jun 2011", ,House: 1  1  1 ,Land size: 48 sqm
+254,4 Matlock Street,"Sold $497,500 in Sep 2017","Last Sold $321,000 in Feb 2013", ,House: 4  2  1 ,Land size: 609 sqm | Building size: 133 sqm
+255,Lot 327 Monier Way,"Sold $224,000 in Sep 2017", , , , 
+256,13 Panorama Road,"Sold $610,000 in 09 Sep 2017(Auction)", ,Rent $350pw in Oct 2017,House: 3  1  2 ,Land size: 609 sqm
+257,12 Ingrid Court,"Sold $604,000 in 09 Sep 2017(Auction)","Last Sold $299,000 in Aug 2002", ,House: 3  2  2 ,Land size: 640 sqm | Building size: 230 sqm
+258,19 Kedleston Road,"Sold $558,000 in Sep 2017","Last Sold $285,650 in Jun 2012", ,House: 3  1  1 ,Land size: 592 sqm
+259,1/35 Fraser Street,"Sold $227,500 in Sep 2017","Last Sold $190,000 in Feb 2013", , ,Land size: 88 sqm
+260,2/10 Bakewell Street,"Sold $452,000 in 02 Sep 2017(Auction)", ,Rent $435pw in Nov 2019,House: 3  2  2 ,Land size: 267 sqm
+261,1/10 Bakewell Street,"Sold $420,000 in 02 Sep 2017(Auction)", , ,House: 3  1  1 ,Land size: 322 sqm
+262,5/7 Fraser Street,"Sold $425,000 in 02 Sep 2017(Auction)","Last Sold $345,000 in Feb 2000", , ,Land size: 242 sqm | Building size: 112 sqm
+263,3 Lean Avenue,"Sold $430,000 in Aug 2017","Last Sold $190,500 in Jul 2006", ,House: 3  1  4 ,Land size: 460 sqm | Building size: 93 sqm
+264,5/7-9 Fraser Street,"Sold $425,000 in 29 Aug 2017(Auction)","Last Sold $345,000 in Feb 2012", , ,Land size: 242 sqm
+265,Lot 230 Zenith Circuit,"Sold $239,000 in Aug 2017", , , , 
+266,15 Wirksworth Street,"Sold $540,000 in 24 Aug 2017(Auction)","Last Sold $231,000 in Jan 2004", ,House: 3  1  1 ,Land size: 539 sqm
+267,Lot 229 Zenith Circuit,"Sold $239,000 in Aug 2017", , , , 
+268,4 Muxworthy Avenue,"Sold $525,000 in Aug 2017", , ,House: 3  1  1 ,Land size: 526 sqm
+269,3 Dundas Street,"Sold $400,000 in 12 Aug 2017(Auction)","Last Sold $226,000 in Jan 2010", ,House: 3  1  1 ,Land size: 464 sqm
+270,12 Hilltop Street,"Sold $456,000 in 12 Aug 2017(Auction)","Last Sold $315,000 in Nov 2012", ,House: 2  1  1 ,Land size: 637 sqm | Building size: 106 sqm
+271,32 Graylea Avenue,"Sold $538,000 in Aug 2017", , ,House: 3  1  2 ,Land size: 580 sqm
+272,32 Buxton Road,"Sold $532,000 in 22 Jul 2017(Auction)", , ,House: 3  1  2 ,Land size: 607 sqm
+273,3 Derby Road,"Sold $535,000 in Jul 2017","Last Sold $102,000 in Oct 1992", ,House: 3  2  2 ,Land size: 556 sqm
+274,32 Maurice Street,"Sold $621,000 in 15 Jul 2017(Auction)","Last Sold $310,000 in Nov 2009", ,House: 3  2  6 ,Land size: 664 sqm
+275,36 Heytesbury Street,"Sold $535,000 in Jul 2017","Last Sold $375,000 in Apr 2011(Auction)", ,House: 4  1  3 ,Land size: 903 sqm
+276,40 Itkeston Street,"Sold $430,000 in Jul 2017","Last Sold $230,000 in Jun 2006", ,House: 3  ,Land size: 731 sqm
+277,80 Mccurdy Road,"Sold $530,000 in 08 Jul 2017(Auction)","Last Sold $121,800 in Mar 1998", ,House: 3  1  2 ,Land size: 604 sqm
+278,111 Minerva Road,"Sold $531,000 in 08 Jul 2017(Auction)","Last Sold $252,500 in Jun 2004", ,House: 2  1  ,Land size: 809 sqm
+279,34 Mccurdy Road,"Sold $490,000 in Jul 2017","Last Sold $318,000 in Dec 2014", ,House: 3  1  2 ,Land size: 604 sqm
+280,5/10-12 Norwood Street,"Sold $265,000 in Jul 2017","Last Sold $155,000 in Jul 2003", , ,Land size: 102 sqm
+281,1/267 Church Street,"Sold $515,000 in 01 Jul 2017(Auction)","Last Sold $140,000 in Dec 2009", ,House: 3  2  2 ,Land size: 293 sqm
+282,92 Heytesbury Street,"Sold $447,500 in 24 Jun 2017(Auction)","Last Sold $230,000 in May 2005", ,House: 3  1  1 ,Land size: 624 sqm
+283,9 Staverly Road,"Sold $372,000 in 17 Jun 2017(Auction)","Last Sold $325,000 in Apr 2015", ,House: 3  1  2 ,Land size: 464 sqm | Building size: 121 sqm
+284,2/327 Church Street,"Sold $350,000 in May 2017","Last Sold $307,000 in Oct 2009", ,House: 2  1  1 ,Land size: 237 sqm
+285,6 Hilltop Street,"Sold $587,500 in 27 May 2017(Auction)","Last Sold $219,000 in Feb 2000", ,House: 2  1  2 ,Land size: 633 sqm
+286,7 Staverly Road,"Sold $465,000 in May 2017","Last Sold $320,000 in Feb 2010", ,House: 3  1  1 ,Land size: 785 sqm | Building size: 100 sqm
+287,402 Autumn Street,"Sold $382,750 in May 2017","Last Sold $292,000 in Jul 2011", ,House: 2  1  1 ,Land size: 311 sqm | Building size: 114 sqm
+288,294a Autumn Street,"Sold $600,000 in May 2017","Last Sold $160,000 in Sep 2012", , ,Land size: 221 sqm
+289,2 Oak Street,"Sold $310,000 in May 2017","Last Sold $88,050 in Jul 1996", ,House: 3  1  1 ,Land size: 344 sqm
+290,3/2 Everett Close,"Sold $215,000 in May 2017","Last Sold $175,000 in Nov 2009", , ,Land size: 49 sqm
+291,8/10-12 Norwood Street,"Sold $250,000 in May 2017","Last Sold $192,000 in Jul 2012", , ,Land size: 101 sqm
+292,57b Maurice Street,"Sold $500,000 in Apr 2017","Last Sold $80,000 in Feb 2015", ,Townhouse: 3  2  2 ,Land size: 294 sqm
+293,9 Rankin Road,"Sold $757,000 in Apr 2017","Last Sold $220,000 in Aug 2012", , ,Land size: 390 sqm
+294,2/8 Heytesbury Street,"Sold $215,000 in Apr 2017","Last Sold $191,000 in Mar 2015", , ,Land size: 908 sqm
+295,1/8 Heytesbury Street,"Sold $210,000 in Apr 2017","Last Sold $165,000 in Sep 2014", , ,Land size: 908 sqm | Building size: 51 sqm
+296,2/11 Bakewell Street,"Sold $265,000 in Apr 2017","Last Sold $62,000 in Apr 1997", , ,Land size: 83 sqm
+297,294/B Autumn Street,"Sold $510,000 in 08 Apr 2017(Auction)", , ,House: 3  1  1 ,Land size: 470 sqm
+298,294B Autumn Street,"Sold $510,000 in 08 Apr 2017(Auction)", ,Rent $360pw in Oct 2012,House: 3  1  1 ,Land size: 470 sqm
+299,33 Itkeston Street,"Sold $437,000 in 08 Apr 2017(Auction)", ,Rent $370pw in Dec 2018,House: 3  1  2 ,Land size: 670 sqm

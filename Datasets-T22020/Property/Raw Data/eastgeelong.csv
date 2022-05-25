@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,21 McNeill Avenue,"Sold $510,000 in Aug 2020", , ,House: 3  2  2 ,Land size: 703 sqm
+1,5 Boyne Avenue,"Sold $745,000 in Aug 2020","Last Sold $315,350 in Sep 2008", ,House: 2  1  1 ,Land size: 434 sqm | Building size: 129 sqm
+2,23 Loch Street,"Sold $685,000 in Aug 2020","Last Sold $540,000 in Oct 2017(Auction)", ,House: 3  2  2 ,Land size: 337 sqm
+3,4 Bendle Street,"Sold $740,000 in Aug 2020","Last Sold $255,000 in Dec 2006", ,House: 3  1  1 ,Land size: 672 sqm | Building size: 131 sqm
+4,7/22-24 Walter Street,"Sold $365,000 in Jul 2020", ,Rent $280pw in Mar 2017, ,Land size: 159 sqm
+5,8 Thear Street,"Sold $790,000 in Jul 2020","Last Sold $77,500 in Oct 1993", ,House: 3  2  2 ,Land size: 563 sqm
+6,13 Powell Street,"Sold $680,000 in 27 Jun 2020(Auction)", , ,House: ,Land size: 694 sqm
+7,191 Verner Street,"Sold $665,000 in Jun 2020","Last Sold $439,000 in Feb 2016", ,House: 2  1  1 ,Land size: 337 sqm
+8,6 Tully Street,"Sold $760,000 in 23 May 2020(Auction)","Last Sold $340,000 in Oct 2007", ,House: 3  1  2 ,Land size: 322 sqm
+9,335 Myers Street,"Sold $831,000 in May 2020","Last Sold $407,500 in Jun 2007", ,House: 3  1  2 ,Land size: 475 sqm
+10,31 St Albans Road,"Sold $472,000 in May 2020","Last Sold $349,000 in Feb 2017", ,Townhouse: 2  1  1 ,Land size: 56 sqm
+11,3/346 Myers Street,"Sold $385,000 in Apr 2020","Last Sold $184,500 in Jan 2006", , ,Land size: 120 sqm
+12,2/229 Verner Street,"Sold $500,000 in Apr 2020", ,Rent $340pw in Oct 2015,Townhouse: 4  1  1 , 
+13,24 Loch Street,"Sold $910,000 in Mar 2020","Last Sold $147,500 in Feb 2000", ,House: 3  2  2 ,Land size: 399 sqm | Building size: 134 sqm
+14,3 Limeburners Road,"Sold $1,020,000 in 28 Mar 2020(Auction)","Last Sold $344,500 in Jun 2008", ,House: 2  1  2 ,Land size: 726 sqm
+15,3 Helen Street,"Sold $465,000 in 09 Mar 2020(Auction)","Last Sold $238,000 in Jan 2013", ,House: 2  1  2 ,Land size: 355 sqm | Building size: 77 sqm
+16,5 Connor Street,"Sold $896,000 in Mar 2020","Last Sold $500,000 in Mar 2010", ,House: 3  2  2 ,Land size: 432 sqm | Building size: 140 sqm
+17,3 Connor Street,"Sold $1,051,520 in 29 Feb 2020(Auction)", , ,House: 3  ,Land size: 864 sqm
+18,486 Ryrie Street,"Sold $880,000 in Feb 2020","Last Sold $425,000 in Mar 2008", ,House: 3  2  2 ,Land size: 473 sqm
+19,16 Paterson Street,"Sold $630,000 in Feb 2020", , ,House: 3  2  4 ,Land size: 586 sqm
+20,7 Lindon Street,"Sold $500,000 in Feb 2020", ,Rent $295pw in Mar 2015,House: 2  1  3 ,Land size: 291 sqm
+21,4/346 Myers Street,"Sold $395,000 in Jan 2020","Last Sold $290,000 in Dec 2016", , ,Land size: 185 sqm
+22,12 Orchard Street,"Sold $710,000 in Jan 2020","Last Sold $61,000 in Jan 1985", ,House: 4  3  3 ,Land size: 394 sqm
+23,268 Mckillop Street,"Sold $977,000 in Dec 2019","Last Sold $798,000 in Oct 2017(Auction)", ,House: 4  3  4 ,Land size: 565 sqm
+24,85 Normanby Street,"Sold $491,598 in Dec 2019","Last Sold $352,000 in Mar 2017", ,Townhouse: 2  1  1 ,Land size: 69 sqm
+25,407 Myers Street,"Sold $595,000 in Dec 2019","Last Sold $260,000 in Nov 2008", ,House: 3  1  1 ,Land size: 730 sqm
+26,30 Humble Street,"Sold $640,000 in Dec 2019","Last Sold $422,000 in Sep 2010", ,Townhouse: 2  2  1 ,Land size: 292 sqm
+27,8 Loftus Street,"Sold $520,000 in Nov 2019","Last Sold $166,250 in Mar 2014", , ,Land size: 556 sqm | Building size: 120 sqm
+28,14 Philpott Street,"Sold $1,148,000 in 23 Nov 2019(Auction)","Last Sold $625,000 in Aug 2013(Auction)", ,House: 3  2  4 ,Land size: 566 sqm
+29,5 Kernot Street,"Sold $625,000 in 23 Nov 2019(Auction)","Last Sold $390,000 in Apr 2010", ,House: 3  1  2 ,Land size: 314 sqm
+30,10 Thear Street,"Sold $1,020,000 in 16 Nov 2019(Auction)","Last Sold $613,000 in Apr 2017(Auction)", ,House: 2  1  2 ,Land size: 563 sqm
+31,73 Normanby Street,"Sold $788,000 in 16 Nov 2019(Auction)","Last Sold $560,000 in Oct 2014", ,House: 3  1  2 ,Land size: 453 sqm | Building size: 129 sqm
+32,3 Orchard Street,"Sold $445,000 in Nov 2019", , ,House: 2  1  ,Land size: 331 sqm
+33,12 Meakin Street,"Sold $1,020,000 in Nov 2019","Last Sold $477,500 in Jun 2004", ,House: 3  2  2 ,Land size: 150 sqm
+34,4/6 Chapman Crescent,"Sold $435,500 in Oct 2019", ,Rent $385pw in Nov 2019,Townhouse: 2  2  1 ,Land size: 207 sqm
+35,185 McKillop Street,"Sold $770,000 in 26 Oct 2019(Auction)","Last Sold $379,000 in Aug 2007", ,House: 3  1  2 ,Land size: 435 sqm | Building size: 168 sqm
+36,223 McKillop Street,"Sold $535,000 in Oct 2019", , ,House: ,Land size: 482 sqm
+37,5 Philpott Street,"Sold $965,000 in 19 Oct 2019(Auction)","Last Sold $300,000 in Apr 2004", ,House: 4  2  1 ,Land size: 563 sqm
+38,313 McKillop Street,"Sold $445,000 in Oct 2019", , ,House: ,Land size: 585 sqm
+39,6/450 Ryrie Street,"Sold $310,000 in Oct 2019","Last Sold $54,500 in Jan 1996", ,House: 2  1  1 ,Land size: 66 sqm
+40,406 Myers Street,"Sold $725,000 in Sep 2019","Last Sold $135,000 in Nov 1997", ,House: 4  2  3 ,Land size: 692 sqm
+41,25 Martin Street,"Sold $660,000 in Sep 2019","Last Sold $345,000 in Dec 2012", ,House: 2  1  4 ,Land size: 663 sqm
+42,1A Normanby Street,"Sold $590,000 in 21 Sep 2019(Auction)", , ,Townhouse: 2  1  1 ,Land size: 153 sqm
+43,38 Richmond Street,"Sold $520,000 in 14 Sep 2019(Auction)", ,Rent $350pw in Nov 2019,House: 3  1  1 ,Land size: 341 sqm
+44,36 St Albans Road,"Sold $710,000 in 14 Sep 2019(Auction)","Last Sold $505,000 in Nov 2016(Auction)", ,House: 3  1  1 ,Land size: 351 sqm | Building size: 116 sqm
+45,5 Orchard Street,"Sold $970,000 in Sep 2019","Last Sold $753,000 in Apr 2015", , ,Land size: 364 sqm | Building size: 239 sqm
+46,248 Kilgour Street,"Sold $560,000 in Aug 2019","Last Sold $366,000 in Sep 2009", ,House: 3  2  1 ,Land size: 216 sqm
+47,6B McNeill Avenue,"Sold $490,000 in Aug 2019","Last Sold $375,000 in May 2015", ,House: 3  2  2 ,Land size: 369 sqm
+48,28a McNeill Avenue,"Sold $401,000 in Aug 2019","Last Sold $280,000 in Dec 2014", ,House: 3  1  ,Land size: 352 sqm
+49,7 St Albans Road,"Sold $975,000 in 17 Aug 2019(Auction)","Last Sold $217,000 in Feb 2009", ,House: 3  2  1 ,Land size: 491 sqm
+50,3/45 Ormond Road,"Sold $408,000 in Aug 2019","Last Sold $210,000 in Dec 2012(Auction)", ,House: 2  1  1 ,Land size: 183 sqm
+51,305 Myers Street,"Sold $820,000 in Jul 2019","Last Sold $515,000 in Nov 2010", ,House: 3  2  2 ,Land size: 352 sqm | Building size: 215 sqm
+52,2/391 Myers Street,"Sold $691,000 in Jun 2019","Last Sold $600,000 in Sep 2016", ,Townhouse: 3  2  2 ,Land size: 350 sqm
+53,13 Orchard Street,"Sold $910,000 in Jun 2019","Last Sold $808,000 in Mar 2017", ,House: 4  2  2 ,Land size: 152 sqm
+54,36 Humble Street,"Sold $460,000 in Jun 2019", , ,House: 3  1  2 ,Land size: 501 sqm
+55,41 St Albans Road,"Sold $650,000 in Jun 2019","Last Sold $228,000 in Jun 2014", ,House: 3  2  1 ,Land size: 387 sqm | Building size: 139 sqm
+56,416 Myers Street,"Sold $525,000 in May 2019","Last Sold $377,000 in Jun 2015", ,House: 2  1  1 ,Land size: 601 sqm | Building size: 125 sqm
+57,218 McKillop Street,"Sold $820,000 in May 2019", , ,House: 4  2  1 ,Land size: 11 sqm
+58,12 Bendle Court,"Sold $575,000 in May 2019", , ,House: 3  1  2 ,Land size: 997 sqm
+59,8 St Albans Road,"Sold $850,000 in May 2019","Last Sold $270,000 in Feb 2000", ,House: 4  2  2 ,Land size: 429 sqm
+60,11 Tully Street,"Sold $695,000 in 04 May 2019(Auction)","Last Sold $205,000 in Jan 2005", ,House: 3  1  2 ,Land size: 334 sqm | Building size: 108 sqm
+61,50 Grey Street,"Sold $560,000 in 27 Apr 2019(Auction)","Last Sold $418,000 in May 2016(Auction)", ,House: 3  1  1 ,Land size: 337 sqm
+62,203 Mckillop Street,"Sold $830,000 in 27 Apr 2019(Auction)","Last Sold $242,500 in Aug 2003", ,House: 4  2  2 ,Land size: 444 sqm
+63,109 Carr Street,"Sold $517,500 in Apr 2019","Last Sold $370,000 in Dec 2010(Auction)", ,House: 3  2  2 ,Land size: 576 sqm
+64,40 Mcdonald Street,"Sold $505,000 in 13 Apr 2019(Auction)","Last Sold $212,000 in Sep 2003", ,House: 2  1  ,Land size: 379 sqm
+65,281 Mckillop Street,"Sold $770,000 in Apr 2019","Last Sold $348,000 in Feb 2009", ,House: 4  2  4 ,Land size: 713 sqm
+66,27 Richmond Street,"Sold $655,000 in 30 Mar 2019(Auction)","Last Sold $387,000 in Apr 2015", ,House: 3  1  ,Land size: 333 sqm
+67,1/31 Normanby Street,"Sold $290,000 in Mar 2019","Last Sold $207,000 in Mar 2013", ,House: 1  1  1 ,Land size: 78 sqm
+68,8/12 Boyne Avenue,"Sold $360,000 in 23 Mar 2019(Auction)","Last Sold $227,000 in Jul 2010", ,House: 2  1  1 ,Land size: 88 sqm
+69,39 Anderson Street,"Sold $275,000 in Mar 2019", , ,Townhouse: 3  2  1 ,Land size: 153 sqm
+70,37 Anderson Street,"Sold $300,000 in Mar 2019", , , ,Land size: 206 sqm
+71,8 Darling Street,"Sold $565,000 in Mar 2019","Last Sold $345,250 in Dec 2012", ,House: 2  1  1 ,Land size: 139 sqm
+72,197 McKillop Street,"Sold $530,000 in 16 Mar 2019(Auction)", , ,House: 5  1  2 ,Land size: 575 sqm
+73,48 Anderson Street,"Sold $515,000 in 16 Mar 2019(Auction)", , ,House: 2  1  2 ,Land size: 419 sqm
+74,13 Tully Street,"Sold $430,000 in 16 Mar 2019(Auction)","Last Sold $59,000 in Mar 1986", ,House: 3  1  1 ,Land size: 334 sqm
+75,4/3-5 Lomond Terrace,"Sold $630,000 in Mar 2019", , ,Townhouse: 2  2  2 ,Land size: 337 sqm
+76,2/209 Verner Street,"Sold $415,000 in Mar 2019","Last Sold $282,000 in May 2010", , ,Land size: 173 sqm
+77,110 Ormond Road,"Sold $460,000 in Mar 2019","Last Sold $188,000 in Apr 2007", ,House: 3  1  1 ,Land size: 651 sqm
+78,38 Anderson Street,"Sold $720,000 in Mar 2019","Last Sold $380,000 in May 2009", ,House: 3  2  1 ,Land size: 419 sqm | Building size: 156 sqm
+79,50 Anderson Street,"Sold $615,000 in Feb 2019","Last Sold $440,000 in May 2015(Auction)", ,House: 2  1  ,Land size: 419 sqm | Building size: 86 sqm
+80,514 Ryrie Street,"Sold $465,000 in Feb 2019", , ,House: 3  1  3 ,Land size: 735 sqm
+81,213 Verner Street,"Sold $527,500 in Jan 2019", , ,House: 3  1  1 ,Land size: 71 sqm
+82,54 St Albans Road,"Sold $440,000 in Jan 2019","Last Sold $67,000 in Mar 1997", ,House: 3  1  1 ,Land size: 570 sqm
+83,2 Powell Street,"Sold $750,000 in Dec 2018","Last Sold $110,000 in Jul 2006", ,House: 3  2  1 ,Land size: 465 sqm
+84,35 Loch Street,"Sold $515,000 in Dec 2018","Last Sold $83,000 in May 1993", ,House: 3  1  1 ,Land size: 419 sqm
+85,32 Walter Street,"Sold $730,000 in Dec 2018","Last Sold $570,000 in Feb 2016", ,House: 4  2  4 ,Land size: 660 sqm
+86,33 Martin Street,"Sold $508,000 in Dec 2018","Last Sold $353,500 in Apr 2014", ,House: 3  1  2 ,Land size: 661 sqm
+87,2 Mcintyre Street,"Sold $526,000 in 08 Dec 2018(Auction)","Last Sold $61,500 in Jun 1991", ,House: 2  1  1 ,Land size: 557 sqm
+88,12 McDonald Street,"Sold $565,000 in Dec 2018","Last Sold $315,000 in Nov 2009", ,House: 3  1  1 ,Land size: 300 sqm
+89,4 Alfred Street,"Sold $675,000 in Dec 2018","Last Sold $430,000 in Nov 2014", ,House: 3  1  1 ,Land size: 372 sqm | Building size: 109 sqm
+90,205 McKillop Street,"Sold $695,000 in Nov 2018","Last Sold $565,000 in Sep 2014(Auction)", ,House: 4  2  2 ,Land size: 407 sqm | Building size: 140 sqm
+91,43 St Albans Road,"Sold $395,000 in Nov 2018", , ,House: 3  1  2 ,Land size: 406 sqm
+92,2 Mann Street,"Sold $543,000 in Nov 2018","Last Sold $371,000 in Mar 2015", ,House: 3  1  ,Land size: 347 sqm | Building size: 109 sqm
+93,6 Loftus Street,"Sold $530,000 in Nov 2018", , ,House: 3  2  1 ,Land size: 363 sqm
+94,1/209 Verner Street,"Sold $420,000 in Nov 2018","Last Sold $220,000 in Oct 2005", ,Townhouse: 2  1  1 ,Land size: 187 sqm | Building size: 75 sqm
+95,27 Loch Street,"Sold $700,000 in 15 Nov 2018(Auction)","Last Sold $280,000 in Mar 2009", ,House: 2  2  1 ,Land size: 337 sqm
+96,5 Campbell Street,"Sold $600,000 in Nov 2018","Last Sold $304,500 in May 2009", ,House: 3  2  1 ,Land size: 480 sqm | Building size: 480 sqm
+97,336 Myers Street,"Sold $1,375,000 in Nov 2018", , ,House: 4  3  3 ,Land size: 486 sqm
+98,83 Normanby Street,"Sold $472,000 in 27 Oct 2018(Auction)","Last Sold $131,500 in Dec 2001", ,Townhouse: 2  1  1 ,Land size: 66 sqm | Building size: 108 sqm
+99,3 Walter Street,"Sold $516,000 in 27 Oct 2018(Auction)","Last Sold $292,000 in Jul 2010", ,House: 2  1  2 ,Land size: 94 sqm
+100,58 Anderson Street,"Sold $638,000 in 20 Oct 2018(Auction)","Last Sold $245,000 in Jul 2005", ,House: 2  1  ,Land size: 409 sqm
+101,18 Kernot Street,"Sold $585,000 in 20 Oct 2018(Auction)","Last Sold $301,000 in Mar 2008", ,House: 2  1  1 ,Land size: 352 sqm
+102,133 Garden Street,"Sold $455,000 in 13 Oct 2018(Auction)","Last Sold $87,800 in Jan 1992", ,House: 2  1  1 ,Land size: 307 sqm
+103,45 St Albans Road,"Sold $550,000 in Oct 2018","Last Sold $360,000 in Nov 2011", ,House: 4  1  1 ,Land size: 371 sqm
+104,434 Ryrie Street,"Sold $935,000 in Oct 2018","Last Sold $119,000 in May 1989", ,House: 4  2  3 ,Land size: 545 sqm | Building size: 200 sqm
+105,12 Anderson Street,"Sold $450,000 in 06 Oct 2018(Auction)","Last Sold $255,000 in Aug 2010", ,House: 2  1  1 ,Land size: 225 sqm
+106,20 Loftus Street,"Sold $637,000 in 03 Oct 2018(Auction)","Last Sold $365,000 in Jun 2011", ,House: 3  2  1 ,Land size: 185 sqm | Building size: 120 sqm
+107,13 Ensby Street,"Sold $450,000 in Sep 2018", , ,House: 3  1  5 ,Land size: 619 sqm
+108,25 Richmond Street,"Sold $842,500 in 22 Sep 2018(Auction)","Last Sold $576,000 in Mar 2017(Auction)", ,House: 3  2  1 ,Land size: 387 sqm
+109,177 Garden Street,"Sold $637,000 in 22 Sep 2018(Auction)","Last Sold $380,000 in Nov 2011(Auction)", ,House: 3  1  1 ,Land size: 375 sqm | Building size: 110 sqm
+110,10 Paterson Street,"Sold $586,000 in Sep 2018", , ,House: 2  1  2 ,Land size: 560 sqm
+111,232 McKillop Street,"Sold $790,000 in 15 Sep 2018(Auction)","Last Sold $607,000 in Oct 2015", ,House: 4  2  3 ,Land size: 441 sqm | Building size: 207 sqm
+112,1/54 Ormond Road,"Sold $370,000 in Sep 2018","Last Sold $108,000 in Feb 1998", , ,Land size: 293 sqm
+113,6 Denman Street,"Sold $752,000 in Sep 2018", , ,House: 2  1  1 ,Land size: 701 sqm
+114,2/20 Ormond Road,"Sold $335,000 in Sep 2018","Last Sold $182,000 in Jan 2006", , ,Land size: 157 sqm
+115,38 Humble Street,"Sold $670,000 in 08 Sep 2018(Auction)","Last Sold $416,000 in Jul 2010", ,House: 3  1  3 ,Land size: 502 sqm
+116,15 Connor Street,"Sold $865,000 in 01 Sep 2018(Auction)","Last Sold $133,800 in Oct 1988", ,House: 4  2  2 ,Land size: 117 sqm | Building size: 160 sqm
+117,54 Ormond Road,"Sold $370,000 in Sep 2018","Last Sold $108,000 in Feb 2000", ,House: 2  1  1 ,Land size: 293 sqm
+118,14 Humble Street,"Sold $1,310,000 in Aug 2018","Last Sold $890,000 in Nov 2014", ,House: 4  2  2 ,Land size: 683 sqm | Building size: 261 sqm
+119,9 & 9a Humble Street,"Sold $906,000 in Aug 2018", , ,House: 4  2  1 , 
+120,9A Humble Street,"Sold $906,000 in 25 Aug 2018(Auction)", ,Rent $360pw in Jan 2019,House: 4  2  1 ,Land size: 329 sqm
+121,9 Humble Street,"Sold $906,000 in 25 Aug 2018(Auction)", ,Rent $420pw in Dec 2019,House: 4  2  1 ,Land size: 329 sqm
+122,21 Darling Street,"Sold $616,000 in 25 Aug 2018(Auction)", ,Rent $440pw in Dec 2018,House: 3  1  2 ,Land size: 347 sqm
+123,5/56 St Albans Road,"Sold $390,000 in Aug 2018","Last Sold $325,000 in Mar 2015", ,House: 2  1  1 ,Land size: 84 sqm | Building size: 85 sqm
+124,9 Loftus Street,"Sold $540,000 in Aug 2018","Last Sold $236,000 in Jan 2009", ,House: 3  1  ,Land size: 538 sqm
+125,78 Ormond Road,"Sold $490,000 in Aug 2018","Last Sold $410,000 in Dec 2014", ,House: 3  1  5 ,Land size: 674 sqm
+126,39 McDonald Street,"Sold $730,000 in 10 Aug 2018(Auction)","Last Sold $439,000 in Dec 2013", ,House: 3  2  2 ,Land size: 414 sqm | Building size: 123 sqm
+127,10 Lindon Street,"Sold $930,000 in Aug 2018","Last Sold $121,000 in Jul 1998", ,House: 4  2  2 ,Land size: 674 sqm
+128,20 Gurr Street,"Sold $940,000 in Jul 2018","Last Sold $610,000 in Dec 2010(Auction)", ,House: 4  2  3 ,Land size: 226 sqm
+129,7 Birdsey Street,"Sold $535,000 in Jul 2018", , ,House: 3  1  6 , 
+130,5/9 Thear Street,"Sold $397,500 in Jul 2018","Last Sold $325,000 in May 2014", , ,Land size: 168 sqm | Building size: 83 sqm
+131,2/9 Godfrey Street,"Sold $492,000 in Jul 2018", , ,Townhouse: 3  2  2 ,Land size: 298 sqm
+132,77 Normanby Street,"Sold $724,000 in Jun 2018","Last Sold $300,000 in Mar 2009", ,House: 3  1  1 ,Land size: 452 sqm | Building size: 121 sqm
+133,4/450 Ryrie Street,"Sold $238,000 in Jun 2018", , , ,Land size: 49 sqm
+134,236 Kilgour Street,"Sold $350,000 in Jun 2018", , ,Townhouse: 3  2  2 ,Land size: 181 sqm
+135,3 Godfrey Street,"Sold $470,000 in Jun 2018","Last Sold $293,000 in Jul 2015", ,House: 2  1  1 ,Land size: 633 sqm | Building size: 138 sqm
+136,238 Kilgour Street,"Sold $1,160,000 in Jun 2018","Last Sold $460,000 in Aug 2014", ,House: 3  1  1 ,Land size: 415 sqm
+137,24 Lomond Terrace,"Sold $500,000 in Jun 2018", , ,House: 3  2  2 ,Land size: 172 sqm
+138,5 Limeburners Road,"Sold $675,000 in May 2018","Last Sold $180,000 in Dec 1993", ,House: 4  2  1 ,Land size: 441 sqm | Building size: 200 sqm
+139,269 McKillop Street,"Sold $701,000 in May 2018", ,Rent $450pw in Nov 2018,House: 4  1  2 ,Land size: 723 sqm
+140,396 Ryrie Street,"Sold $755,000 in May 2018","Last Sold $520,000 in Apr 2017(Auction)", ,House: 3  1  3 ,Land size: 405 sqm | Building size: 130 sqm
+141,45 Grey Street,"Sold $580,000 in May 2018","Last Sold $72,000 in Nov 1994", ,House: 3  1  1 ,Land size: 506 sqm
+142,24 Grey Street,"Sold $780,000 in May 2018","Last Sold $300,000 in May 2013", ,House: 3  2  ,Land size: 337 sqm
+143,319 McKillop Street,"Sold $456,000 in May 2018", , ,House: 3  2  2 ,Land size: 585 sqm
+144,3 St Albans Road,"Sold $706,000 in May 2018","Last Sold $620,000 in Dec 2016(Auction)", ,House: 4  1  2 ,Land size: 491 sqm | Building size: 146 sqm
+145,20 Orchard Street,"Sold $671,500 in May 2018","Last Sold $72,000 in Nov 1987", ,House: 3  1  2 ,Land size: 338 sqm
+146,19 Darling Street,"Sold $630,000 in May 2018","Last Sold $178,002 in Jul 2007", ,House: 4  1  ,Land size: 345 sqm | Building size: 139 sqm
+147,2 Normanby Street,"Sold $1,034,999 in May 2018", , ,House: 4  2  2 ,Land size: 434 sqm
+148,11A Frederick Street,"Sold $380,000 in Apr 2018", , , ,Land size: 332 sqm
+149,11B Frederick Street,"Sold $380,000 in Apr 2018", , ,House: 4  2  1 ,Land size: 276 sqm
+150,20 Boyne Avenue,"Sold $580,000 in Apr 2018", , ,House: 3  1  2 ,Land size: 538 sqm
+151,137 Garden Street,"Sold $545,000 in 14 Apr 2018(Auction)","Last Sold $190,000 in Aug 2001", ,House: 2  1  1 ,Land size: 323 sqm
+152,38A Gurr Street,"Sold $576,500 in Apr 2018","Last Sold $161,000 in Jan 2000", ,House: 2  1  1 ,Land size: 281 sqm
+153,128 Verner Street,"Sold $500,000 in Mar 2018", , ,House: 2  1  1 , 
+154,29 McDonald Street,"Sold $680,000 in Mar 2018", , ,House: 3  2  3 ,Land size: 414 sqm
+155,241 McKillop Street,"Sold $710,000 in Mar 2018","Last Sold $470,000 in Dec 2015(Auction)", ,House: 3  2  1 ,Land size: 479 sqm
+156,297 Myers Street,"Sold $605,000 in Mar 2018", ,Rent $320pw in Feb 2015,House: 4  1  1 ,Land size: 337 sqm
+157,17 Brown Street,"Sold $972,500 in Mar 2018","Last Sold $220,000 in Jan 2001", ,House: 3  3  2 ,Land size: 683 sqm | Building size: 198 sqm
+158,4/11-13 Meakin Street,"Sold $547,000 in Mar 2018","Last Sold $429,000 in Mar 2016", , ,Land size: 226 sqm
+159,17 Connor Street,"Sold $540,000 in Mar 2018","Last Sold $127,000 in Sep 1993", ,House: 3  1  1 ,Land size: 215 sqm | Building size: 125 sqm
+160,1 424 Ryrie Street,"Sold $373,000 in Mar 2018", , ,House: 2  1  1 , 
+161,15 McDonald Street,"Sold $700,000 in Mar 2018","Last Sold $470,000 in Mar 2014(Auction)", ,House: 3  1  2 ,Land size: 413 sqm
+162,14 Bendle Street,"Sold $515,000 in 10 Mar 2018(Auction)", , ,House: 3  1  1 ,Land size: 669 sqm
+163,5 Darling Street,"Sold $785,000 in Mar 2018", ,Rent $600pw in Jul 2018,House: 2  2  1 ,Land size: 515 sqm
+164,14 Bendle Court,"Sold $515,000 in Mar 2018", ,Rent $420pw in Sep 2019,House: 4  2  2 ,Land size: 669 sqm
+165,224B Verner Street,"Sold $785,000 in Mar 2018","Last Sold $625,000 in Apr 2016", ,House: 4  2  2 ,Land size: 411 sqm
+166,4 Mann Street,"Sold $610,000 in Mar 2018","Last Sold $385,000 in Oct 2014(Auction)", ,House: 3  2  1 ,Land size: 378 sqm | Building size: 123 sqm
+167,2/102 St Albans Road,"Sold $349,000 in Feb 2018", , ,House: 3  2  1 , 
+168,42 Humble Street,"Sold $685,000 in 24 Feb 2018(Auction)","Last Sold $535,000 in Nov 2010", ,House: 3  2  2 ,Land size: 614 sqm | Building size: 180 sqm
+169,23 Breakwater Road,"Sold $345,000 in Feb 2018","Last Sold $235,000 in Feb 2000", ,House: 3  1  1 , 
+170,54 Grey Street,"Sold $485,000 in Feb 2018","Last Sold $53,000 in May 1985", ,House: 2  1  1 ,Land size: 337 sqm
+171,111 Carr Street,"Sold $651,000 in Feb 2018","Last Sold $69,000 in Apr 1998", ,House: 3  2  1 ,Land size: 589 sqm | Building size: 114 sqm
+172,41 McDonald Street,"Sold $560,000 in Feb 2018","Last Sold $270,000 in Oct 2013", ,House: 2  1  2 ,Land size: 415 sqm | Building size: 86 sqm
+173,7 Orchard Street,"Sold $550,000 in 03 Feb 2018(Auction)", , ,House: 2  1  1 ,Land size: 367 sqm
+174,23 Grey Street,"Sold $550,000 in Jan 2018", ,Rent $400pw in Jan 2020,House: 3  1  1 ,Land size: 336 sqm
+175,1/25 Breakwater Road,"Sold $365,000 in Jan 2018", , ,Townhouse: 2  1  1 , 
+176,23 Richmond Crescent,"Sold $535,000 in Jan 2018", ,Rent $285pw in Oct 2010,House: 3  1  1 , 
+177,2/69 Normanby Street,"Sold $325,000 in Jan 2018","Last Sold $195,002 in Sep 2009", ,House: 2  1  1 ,Land size: 80 sqm
+178,5 Glen Avenue,"Sold $655,000 in Jan 2018","Last Sold $505,000 in Dec 2010(Auction)", ,House: 3  1  1 ,Land size: 277 sqm
+179,290 McKillop Street,"Sold $750,000 in Jan 2018","Last Sold $520,000 in Oct 2012", ,House: 3  1  2 ,Land size: 556 sqm
+180,1/106 St Albans Road,"Sold $420,000 in Dec 2017", ,Rent $360pw in Oct 2014,Townhouse: 3  2  2 , 
+181,32 Humble Street,"Sold $610,000 in Dec 2017","Last Sold $165,000 in Apr 2004", ,House: 3  1  2 ,Land size: 501 sqm | Building size: 150 sqm
+182,1B Boyne Avenue,"Sold $430,000 in Dec 2017", ,Rent $330pw in Feb 2020,House: 2  1  1 ,Land size: 299 sqm
+183,3 Mann Street,"Sold $440,000 in Dec 2017","Last Sold $190,000 in Jan 2006", ,House: 3  1  2 ,Land size: 495 sqm | Building size: 83 sqm
+184,488 Ryrie Street,"Sold $526,000 in Dec 2017", ,Rent $400pw in Jan 2018,House: 3  1  2 ,Land size: 473 sqm
+185,4 Tully Street,"Sold $662,000 in 02 Dec 2017(Auction)", ,Rent $420pw in Apr 2017,Townhouse: 3  2  1 ,Land size: 321 sqm
+186,50 Richmond Street,"Sold $534,000 in 02 Dec 2017(Auction)", ,Rent $280pw in Oct 2015,House: 2  1  1 ,Land size: 164 sqm
+187,226 Verner Street,"Sold $654,000 in 02 Dec 2017(Auction)","Last Sold $315,000 in Jan 2006", ,House: 3  1  2 ,Land size: 411 sqm | Building size: 127 sqm
+188,7 Brown Street,"Sold $951,000 in 02 Dec 2017(Auction)","Last Sold $100,000 in Jan 1991", ,House: 4  1  ,Land size: 669 sqm
+189,12 Thorne Street,"Sold $790,000 in 02 Dec 2017(Auction)","Last Sold $387,000 in Jun 2010", ,House: 4  2  1 ,Land size: 357 sqm
+190,317 McKillop Street,"Sold $445,000 in 28 Nov 2017(Auction)","Last Sold $305,000 in Sep 2010", ,House: 3  1  1 ,Land size: 585 sqm | Building size: 99 sqm
+191,117 Carr Street,"Sold $450,000 in Nov 2017","Last Sold $312,500 in Feb 2014", ,House: 3  1  1 ,Land size: 532 sqm | Building size: 105 sqm
+192,8/22 Walter Street,"Sold $306,000 in Nov 2017","Last Sold $239,950 in Oct 2007", , ,Land size: 145 sqm
+193,57 St Albans Road,"Sold $755,000 in 18 Nov 2017(Auction)", , ,House: 3  1  2 ,Land size: 627 sqm
+194,20 Grey Street,"Sold $696,000 in 18 Nov 2017(Auction)","Last Sold $350,000 in Jan 2006", ,House: 3  1  ,Land size: 337 sqm
+195,31 McDonald Street,"Sold $795,000 in Nov 2017","Last Sold $443,000 in Jul 2008", ,House: 4  2  1 ,Land size: 414 sqm | Building size: 307 sqm
+196,6 Thear Street,"Sold $620,000 in 18 Nov 2017(Auction)","Last Sold $470,000 in May 2014(Auction)", ,House: 5  2  2 ,Land size: 563 sqm
+197,8/22-24 Walter Street,"Sold $306,000 in Nov 2017","Last Sold $239,950 in Oct 2007", , ,Land size: 145 sqm
+198,12 Gurr Street,"Sold $891,000 in 16 Nov 2017(Auction)","Last Sold $93,000 in Sep 1990", ,House: 4  2  3 ,Land size: 355 sqm
+199,10 Frederick Street,"Sold $877,000 in Nov 2017","Last Sold $426,000 in Apr 2014(Auction)", ,House: 3  1  2 ,Land size: 491 sqm | Building size: 138 sqm
+200,40 Grey Street,"Sold $720,000 in 13 Nov 2017(Auction)","Last Sold $510,000 in May 2014", ,House: 3  1  1 ,Land size: 337 sqm | Building size: 250 sqm
+201,17 Orchard Street,"Sold $623,000 in Nov 2017", , ,House: 3  1  1 ,Land size: 443 sqm
+202,16 Loch Street,"Sold $510,000 in Nov 2017","Last Sold $293,500 in Feb 2009", ,House: 2  1  ,Land size: 236 sqm
+203,217 Kilgour Street,"Sold $756,000 in 11 Nov 2017(Auction)","Last Sold $477,000 in Nov 2011", ,House: 4  1  1 ,Land size: 542 sqm | Building size: 154 sqm
+204,3/436 Ryrie Street,"Sold $345,000 in 11 Nov 2017(Auction)","Last Sold $320,000 in Oct 2011", , ,Land size: 224 sqm | Building size: 69 sqm
+205,24 St Albans Road,"Sold $527,500 in Nov 2017", ,Rent $385pw in Jun 2019,House: 3  1  2 ,Land size: 622 sqm
+206,438 Ryrie Street,"Sold $703,000 in 04 Nov 2017(Auction)", , ,House: 5  2  1 ,Land size: 242 sqm
+207,23 Martin Street,"Sold $540,000 in 28 Oct 2017(Auction)","Last Sold $307,000 in Oct 2011", ,House: 3  1  1 ,Land size: 683 sqm | Building size: 105 sqm
+208,3/28 Breakwater Road,"Sold $260,000 in Oct 2017", ,Rent $290pw in Jun 2020, , 
+209,48 Humble Street,"Sold $640,000 in Oct 2017","Last Sold $255,000 in Aug 2008", ,House: 3  1  3 ,Land size: 547 sqm | Building size: 100 sqm
+210,42 Grey Street,"Sold $550,000 in 14 Oct 2017(Auction)","Last Sold $235,000 in Sep 2002", ,House: 3  1  1 ,Land size: 337 sqm | Building size: 96 sqm
+211,264 Kilgour Street,"Sold $895,000 in Oct 2017","Last Sold $262,000 in Jan 2006", ,House: 3  1  ,Land size: 324 sqm
+212,7 Mcdonald Street,"Sold $585,000 in Oct 2017","Last Sold $225,000 in Apr 2002", ,House: 3  1  ,Land size: 414 sqm
+213,18 Brown Street,"Sold $675,500 in 07 Oct 2017(Auction)", , ,House: 3  1  2 ,Land size: 603 sqm
+214,4 Grey Street,"Sold $653,000 in 07 Oct 2017(Auction)","Last Sold $360,000 in Nov 2006", ,House: 3  2  ,Land size: 337 sqm | Building size: 135 sqm
+215,3 Loch Street,"Sold $622,000 in 07 Oct 2017(Auction)","Last Sold $385,000 in Dec 2009", ,House: 3  2  1 ,Land size: 337 sqm
+216,3 Anderson Street,"Sold $745,000 in 07 Oct 2017(Auction)","Last Sold $300,000 in Dec 2003", ,House: 4  2  2 ,Land size: 688 sqm
+217,147 Garden Street,"Sold $676,000 in 07 Oct 2017(Auction)","Last Sold $153,000 in May 2000", ,House: 3  1  4 ,Land size: 490 sqm
+218,6 Gurr Street,"Sold $735,000 in 23 Sep 2017(Auction)","Last Sold $375,000 in Sep 2005", , ,Land size: 60 sqm
+219,27 Loftus Street,"Sold $659,000 in 16 Sep 2017(Auction)","Last Sold $446,000 in Aug 2012(Auction)", ,House: 3  2  2 ,Land size: 354 sqm | Building size: 125 sqm
+220,16 Bendle Street,"Sold $520,000 in Sep 2017", ,Rent $290pw in Dec 2017,House: 3  1  3 ,Land size: 971 sqm
+221,16 Bendle Court,"Sold $520,000 in 09 Sep 2017(Auction)", , ,House: 3  1  3 ,Land size: 971 sqm
+222,17 McDonald Street,"Sold $673,000 in Sep 2017","Last Sold $408,000 in Jun 2011", ,House: 3  1  2 ,Land size: 414 sqm | Building size: 122 sqm
+223,250 Kilgour Street,"Sold $434,000 in 09 Sep 2017(Auction)","Last Sold $267,500 in Oct 2009", ,House: 2  1  1 ,Land size: 119 sqm
+224,7 McNeill Avenue,"Sold $450,137 in Sep 2017","Last Sold $270,000 in Jul 2013", ,House: 3  1  1 ,Land size: 650 sqm
+225,3 Kernot Street,"Sold $475,000 in 02 Sep 2017(Auction)","Last Sold $340,000 in Jul 2014", ,House: 2  1  ,Land size: 110 sqm
+226,22 Bendle Street,"Sold $580,000 in 26 Aug 2017(Auction)","Last Sold $329,000 in Jul 2011", ,House: 3  2  2 ,Land size: 709 sqm | Building size: 154 sqm
+227,14 Campbell Street,"Sold $505,000 in Aug 2017","Last Sold $195,000 in Jan 2005", ,House: 1  1  3 ,Land size: 523 sqm | Building size: 88 sqm
+228,474 Ryrie Street,"Sold $660,000 in 19 Aug 2017(Auction)","Last Sold $540,000 in May 2011", ,House: 3  2  3 ,Land size: 746 sqm
+229,16 Orchard Street,"Sold $710,000 in 05 Aug 2017(Auction)", , ,House: 3  1  1 ,Land size: 231 sqm
+230,2 Richardson Street,"Sold $407,000 in 05 Aug 2017(Auction)","Last Sold $310,000 in Nov 2011", ,House: 2  2  1 ,Land size: 333 sqm
+231,1/9 Godfrey Street,"Sold $315,100 in Jul 2017", ,Rent $330pw in Jan 2019,House: 3  1  ,Land size: 268 sqm
+232,32 Denman Street,"Sold $645,000 in 22 Jul 2017(Auction)", ,Rent $350pw in Dec 2017,House: 4  2  1 ,Land size: 288 sqm
+233,5 Grey Street,"Sold $660,000 in 22 Jul 2017(Auction)","Last Sold $320,000 in Feb 2000", ,House: 3  2  1 ,Land size: 337 sqm | Building size: 142 sqm
+234,7 Tully Street,"Sold $658,000 in Jul 2017","Last Sold $110,000 in Dec 1999", ,House: 3  1  5 ,Land size: 213 sqm | Building size: 138 sqm
+235,284 McKillop Street,"Sold $800,000 in Jul 2017","Last Sold $591,500 in Jul 2012", ,House: 4  2  2 ,Land size: 557 sqm | Building size: 195 sqm
+236,47 McDonald Street,"Sold $450,000 in Jul 2017","Last Sold $340,000 in Dec 2014(Auction)", ,House: 2  1  2 ,Land size: 414 sqm | Building size: 82 sqm
+237,2/45 Ormond Road,"Sold $300,000 in Jul 2017","Last Sold $185,000 in Sep 2004", , ,Land size: 221 sqm | Building size: 96 sqm
+238,115 Ormond Road,"Sold $604,000 in Jul 2017","Last Sold $212,000 in May 2005", ,House: 4  2  2 ,Land size: 530 sqm
+239,15 Loch Street,"Sold $675,000 in 01 Jul 2017(Auction)","Last Sold $448,000 in Nov 2013", ,House: 3  2  ,Land size: 337 sqm | Building size: 114 sqm
+240,5/28-30 Breakwater Road,"Sold $277,000 in Jun 2017","Last Sold $244,000 in Dec 2013", , , 
+241,20 Loch Street,"Sold $495,000 in Jun 2017","Last Sold $368,500 in Jun 2011", ,Townhouse: 2  1  2 ,Land size: 263 sqm | Building size: 139 sqm
+242,352 Myers Street,"Sold $610,000 in 24 Jun 2017(Auction)","Last Sold $87,000 in Sep 1990", ,House: 3  1  2 ,Land size: 177 sqm
+243,7 Walter Street,"Sold $481,000 in 24 Jun 2017(Auction)","Last Sold $365,000 in Nov 2014(Auction)", ,House: 2  1  1 ,Land size: 679 sqm | Building size: 93 sqm
+244,274 McKillop Street,"Sold $530,000 in Jun 2017", , ,House: 3  1  2 ,Land size: 557 sqm
+245,14B Carrington Street,"Sold $600,000 in Jun 2017","Last Sold $232,000 in Jun 2014", ,House: 3  2  , 
+246,2/13-15 Carruthers Court,"Sold $348,500 in Jun 2017", ,Rent $330pw in Sep 2014,House: 3  2  1 , 
+247,52 Boundary Road,"Sold $417,000 in Jun 2017", ,Rent $310pw in Oct 2017,House: 2  1  2 ,Land size: 747 sqm
+248,14 Paterson Street,"Sold $531,000 in Jun 2017", ,Rent $340pw in Aug 2017,House: 3  1  2 ,Land size: 585 sqm
+249,2/9 McNeill Avenue,"Sold $311,000 in Jun 2017", ,Rent $350pw in Apr 2019, ,Land size: 319 sqm
+250,189 Mckillop Street,"Sold $620,000 in 03 Jun 2017(Auction)","Last Sold $319,000 in Jun 2004", ,House: 4  1  2 ,Land size: 510 sqm
+251,261 Myers Street,"Sold $507,500 in Jun 2017","Last Sold $335,000 in Mar 2009", , ,Land size: 208 sqm
+252,1 Summer Street,"Sold $647,500 in 27 May 2017(Auction)","Last Sold $56,500 in Nov 1985", ,House: 3  1  1 ,Land size: 329 sqm | Building size: 120 sqm
+253,8 Richardson Street,"Sold $750,000 in 27 May 2017(Auction)","Last Sold $588,000 in Feb 2014(Auction)", ,House: 4  2  2 ,Land size: 598 sqm
+254,9 Bendle Street,"Sold $385,000 in May 2017","Last Sold $319,000 in Jul 2010", ,House: 2  1  2 ,Land size: 592 sqm
+255,418 Myers Street,"Sold $473,000 in 20 May 2017(Auction)", ,Rent $265pw in Jan 2014,House: 3  1  1 ,Land size: 604 sqm
+256,101 Garden Street,"Sold $575,000 in 20 May 2017(Auction)","Last Sold $295,000 in Dec 2012", ,House: 3  1  ,Land size: 364 sqm | Building size: 99 sqm
+257,4 Anderson Street,"Sold $592,500 in 20 May 2017(Auction)","Last Sold $385,000 in Feb 2011", ,House: 3  1  ,Land size: 337 sqm | Building size: 103 sqm
+258,303 Mckillop Street,"Sold $550,000 in May 2017","Last Sold $128,000 in Feb 2000", ,House: 2  ,Land size: 669 sqm
+259,5 Richardson Street,"Sold $580,000 in May 2017","Last Sold $273,000 in Jul 2009", ,House: 2  1  1 ,Land size: 598 sqm | Building size: 101 sqm
+260,17 Patterson Street,"Sold $498,500 in 13 May 2017(Auction)", , ,House: 2  1  2 ,Land size: 593 sqm
+261,17 Paterson Street,"Sold $498,500 in 13 May 2017(Auction)","Last Sold $191,500 in Dec 2005", ,House: 2  1  2 ,Land size: 593 sqm | Building size: 103 sqm
+262,30 Lomond Terrace,"Sold $552,000 in May 2017","Last Sold $303,000 in Jan 2010", ,House: 3  1  1 ,Land size: 345 sqm | Building size: 90 sqm
+263,3 Dawson Street,"Sold $570,000 in May 2017","Last Sold $334,500 in Mar 2012(Auction)", ,House: 3  1  ,Land size: 688 sqm
+264,11 Ensby Street,"Sold $395,000 in May 2017", ,Rent $340pw in Oct 2015,House: 3  1  1 ,Land size: 289 sqm
+265,17 Thorne Street,"Sold $515,000 in May 2017", , ,House: 2  2  1 ,Land size: 278 sqm
+266,199 Verner Street,"Sold $780,000 in 06 May 2017(Auction)","Last Sold $279,950 in Jul 2001", ,House: 4  2  1 ,Land size: 337 sqm
+267,22 Richmond Street,"Sold $504,000 in 29 Apr 2017(Auction)","Last Sold $300,000 in Sep 2009", ,House: 3  1  2 ,Land size: 341 sqm
+268,14 Loch Street,"Sold $545,000 in 29 Apr 2017(Auction)","Last Sold $335,000 in Oct 2008", ,House: 3  1  1 ,Land size: 310 sqm | Building size: 123 sqm
+269,172 Verner Street,"Sold $540,000 in 08 Apr 2017(Auction)","Last Sold $287,000 in Feb 2009", ,House: 3  1  2 ,Land size: 584 sqm | Building size: 130 sqm
+270,254 Kilgour Street,"Sold $688,000 in 08 Apr 2017(Auction)","Last Sold $380,000 in May 2012", ,House: 2  1  4 ,Land size: 368 sqm | Building size: 105 sqm
+271,1/56 St Albans Road,"Sold $383,000 in Apr 2017","Last Sold $297,500 in Apr 2006", ,Townhouse: 2  1  1 ,Land size: 214 sqm
+272,5/450 Ryrie Street,"Sold $258,000 in Mar 2017","Last Sold $200,000 in Aug 2009", , ,Land size: 66 sqm | Building size: 64 sqm
+273,15B Ensby Street,"Sold $310,000 in Mar 2017", ,Rent $300pw in May 2019,House: 2  1  1 ,Land size: 293 sqm
+274,262 Kilgour Street,"Sold $517,000 in 25 Mar 2017(Auction)","Last Sold $277,500 in Mar 2007", ,House: 3  1  1 ,Land size: 443 sqm
+275,9 Helen Street,"Sold $615,000 in 25 Mar 2017(Auction)","Last Sold $425,000 in Mar 2015", ,House: 3  2  2 ,Land size: 476 sqm
+276,1B Normanby Street,"Sold $705,000 in 18 Mar 2017(Auction)","Last Sold $415,000 in Jun 2007", ,House: 3  1  2 ,Land size: 384 sqm
+277,17b Powell Street,"Sold $427,000 in 11 Mar 2017(Auction)","Last Sold $246,000 in Dec 2006", ,House: 2  1  1 ,Land size: 293 sqm
+278,39 Loch Street,"Sold $555,000 in 04 Mar 2017(Auction)","Last Sold $270,000 in Aug 2004", ,House: 2  1  2 ,Land size: 409 sqm | Building size: 96 sqm
+279,3/489 Ryrie Street,"Sold $235,000 in Feb 2017","Last Sold $135,000 in Aug 2007", , ,Land size: 63 sqm
+280,10 Powell Street,"Sold $704,000 in 25 Feb 2017(Auction)","Last Sold $310,000 in May 2009", ,House: 4  2  2 ,Land size: 697 sqm
+281,35 Thorne Street,"Sold $930,000 in Feb 2017","Last Sold $730,000 in Mar 2009", , ,Land size: 310 sqm
+282,39A St Albans Road,"Sold $575,000 in 11 Feb 2017(Auction)","Last Sold $400,000 in May 2013", ,House: 3  1  2 ,Land size: 372 sqm | Building size: 150 sqm
+283,29 Loch Street,"Sold $570,000 in Feb 2017","Last Sold $380,000 in Jan 2007", ,House: 3  1  3 ,Land size: 419 sqm
+284,1/35 Richmond Street,"Sold $355,000 in Feb 2017","Last Sold $139,000 in May 1997", ,Townhouse: 2  1  1 ,Land size: 240 sqm
+285,2 Mcneill Avenue,"Sold $285,000 in Feb 2017","Last Sold $64,000 in Dec 1998", ,House: 3  1  2 ,Land size: 362 sqm
+286,281 Myers Street,"Sold $810,000 in Jan 2017","Last Sold $489,000 in Apr 2004", ,House: 4  2  2 ,Land size: 424 sqm | Building size: 164 sqm
+287,200 McKillop Street,"Sold $325,000 in Jan 2017", ,Rent $440pw in Oct 2019,House: 3  1  1 ,Land size: 466 sqm
+288,4/233 McKillop Street,"Sold $300,000 in Jan 2017", , , ,Land size: 94 sqm
+289,3/10 Carrington Street,"Sold $287,000 in Jan 2017","Last Sold $96,500 in Dec 1989", , , 
+290,4 Thorne Street,"Sold $897,000 in Dec 2016","Last Sold $365,000 in Mar 2013(Auction)", ,House: 4  4  2 ,Land size: 357 sqm
+291,1/16 Ormond Road,"Sold $300,000 in Dec 2016","Last Sold $170,000 in Oct 2004", , ,Land size: 121 sqm
+292,31 Darling Street,"Sold $550,000 in Dec 2016","Last Sold $395,000 in Apr 2012", ,House: 3  1  1 ,Land size: 431 sqm | Building size: 129 sqm
+293,10 Bendle Court,"Sold $390,000 in Dec 2016", ,Rent $300pw in Jun 2017,House: 2  1  , 
+294,10 Bendle Street,"Sold $390,000 in Dec 2016", ,Rent $300pw in Jun 2017,House: 2  1  1 ,Land size: 793 sqm
+295,6 Davey Street,"Sold $342,000 in 13 Dec 2016(Auction)","Last Sold $310,000 in Nov 2011", ,House: 2  1  2 ,Land size: 270 sqm | Building size: 83 sqm
+296,44 Mundy Street,"Sold $415,000 in Dec 2016", , , , 
+297,33 Richmond Street,"Sold $865,000 in Dec 2016","Last Sold $525,000 in Jun 2011", ,House: 4  2  2 ,Land size: 13 sqm | Building size: 187 sqm
+298,44 Meakin Street,"Sold $580,000 in 03 Dec 2016(Auction)","Last Sold $380,000 in Mar 2007", ,House: 3  2  2 ,Land size: 562 sqm | Building size: 150 sqm
+299,21 Anderson Street,"Sold $720,000 in 03 Dec 2016(Auction)","Last Sold $86,000 in Aug 1992", ,House: 4  2  4 ,Land size: 666 sqm

@@ -1,0 +1,721 @@
+Address,Sell Price,Sell Date,Last Sell Price,Last Sell Date,Auction,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Car,Suburb,Suburb_Code
+58 Sydney Parade,"660,000",Mar 2021,"274,500",Aug 2004,,450,Jan 2018,29,95,2,1,2,Geelong,10
+74 Little Myers Street,"955,000",Mar 2021,,,,,,401,,,,,Geelong,10
+50 Mundy Street,"545,000",Mar 2021,"92,500",Mar 2001,,200,Jun 2010,213,87,2,1,,Geelong,10
+323 Moorabool Street,"825,000",Mar 2021,"399,000",Mar 2007,,470,Apr 2018,430,152,3,1,1,Geelong,10
+404/18 Malone Street,"461,000",Mar 2021,,,,,,"2,030",,,,,Geelong,10
+189 Kilgour Street,"790,000",Mar 2021,"475,000",Sep 2013,,340,Jan 2012,487,135,3,1,4,Geelong,10
+1105/18 Malone Street,"1,017,500",Mar 2021,,,,,,"2,030",,,,,Geelong,10
+512/18 Malone Street,"1,366,000",Mar 2021,,,,,,"2,030",,,,,Geelong,10
+52 Eastern Beach Road,"1,930,000",Feb 2021,,,,,,335,,2,2,2,Geelong,10
+52-54 Eastern Beach Road,"1,930,000",Feb 2021,,,,,,10,,,,,Geelong,10
+151 Swanston Street,"701,000",Feb 2021,"581,000",Jun 2018,,335,Nov 2015,251,,2,1,1,Geelong,10
+109 Swanston Street,"778,000",Feb 2021,"285,000",Jan 2011,,,,152,,2,1,4,Geelong,10
+403 18-20 Cavendish Street,"600,000",Feb 2021,,,,,,,,,,,Geelong,10
+"403, 18-20 Cavendish Street","600,000",Feb 2021,,,,,,,,,,,Geelong,10
+7 Douglas Place,"731,000",Feb 2021,"177,000",Aug 2015,,,,320,162,3,2,1,Geelong,10
+226 Moorabool Street,"1,030,000",Feb 2021,"870,000",Apr 2017,,650,Mar 2021,235,,,,,Geelong,10
+20 Mundy Street,"840,000",Feb 2021,"180,000",Jul 2003,,,,222,,3,1,,Geelong,10
+4 Suttons Lane,"720,000",Feb 2021,"656,000",Jun 2018,,390,Sep 2012,272,,3,2,2,Geelong,10
+121 McKillop Street,"1,050,000",Feb 2021,,,,,,"1,015",,4,1,,Geelong,10
+302/110 Brougham Street,"1,460,000",Feb 2021,,,,,,,,,,,Geelong,10
+23 Maud Street,"911,000",Feb 2021,"334,000",May 2005,,,,430,,3,1,1,Geelong,10
+Level 5 705/100 Western Beach Road,"1,830,000",Feb 2021,,,,,,,,,,,Geelong,10
+"Level 5, 705/100 Western Beach Road","1,830,000",Feb 2021,,,,,,,,,,,Geelong,10
+209/6-8 Eastern Beach Road,"425,000",Jan 2021,"390,000",Oct 2010,1.0,400,Jun 2018,"2,126",72,,,,Geelong,10
+20/61 Brougham Street,"970,000",Jan 2021,"487,000",Nov 2009,,420,Jul 2009,830,183,,,,Geelong,10
+2/146 Bellerine Street,"447,000",Jan 2021,,,,,,"9,817",,,,,Geelong,10
+1/7 Carr Street,"595,000",Jan 2021,"465,000",Jul 2011,,360,Jun 2015,222,154,,,,Geelong,10
+2 Brownbill Street,"770,000",Jan 2021,"300,000",Oct 2014,,,,372,,3,1,2,Geelong,10
+4 York Street,"1,000,000",Jan 2021,"560,000",Nov 2009,,720,Sep 2018,413,177,3,2,1,Geelong,10
+402/18 Malone Street,"485,000",Jan 2021,,,,,,"2,030",,,,,Geelong,10
+19 Board Place,"865,000",Jan 2021,"815,000",Oct 2018,1.0,,,434,,3,1,,Geelong,10
+4/10 Fitzroy Street,"385,000",Jan 2021,"305,500",Sep 2014,,280,Oct 2014,"1,312",,,,,Geelong,10
+403/6-8 Eastern Beach Road,"1,500,000",Jan 2021,,,,,,"2,126",,,,,Geelong,10
+113/6-8 Eastern Beach Road,"775,000",Dec 2020,"625,000",Aug 2011,1.0,700,Aug 2017,"2,126",129,,,,Geelong,10
+901/100 Western Beach Road,"560,000",Dec 2020,"460,000",Jun 2010,,500,Jun 2020,992,,,,,Geelong,10
+144 Verner Street,"787,500",Dec 2020,"215,000",May 2002,,360,Mar 2015,474,,3,1,,Geelong,10
+7/18-20 Cavendish Street,"715,000",Dec 2020,,,,,,,,,,,Geelong,10
+203/100 Western Beach Road,"795,000",Dec 2020,"585,000",Nov 2014,,690,Mar 2013,992,,,,,Geelong,10
+6 Bean Street,"911,500",Dec 2020,"610,000",Nov 2015,,590,Jan 2021,255,153,3,2,1,Geelong,10
+1/14 Swanston Street,"1,050,000",Dec 2020,"650,000",Nov 2011,1.0,390,Jul 2009,228,,,,,Geelong,10
+204/100 Western Beach Road,"720,000",Nov 2020,"700,000",Jul 2011,,569,Nov 2018,992,,,,,Geelong,10
+1/15 Mont Albert Road,"500,000",Nov 2020,"275,000",Mar 2012,,275,Jul 2013,396,,2,1,1,Geelong,10
+10 Hays Place,"625,000",Nov 2020,"380,000",Jan 2011,,,,252,,,,,Geelong,10
+4/96 Mercer Street,"480,000",Nov 2020,"335,000",Nov 2009,,350,Aug 2009,716,73,,,,Geelong,10
+345 Ryrie Street,"945,000",Nov 2020,"565,000",Oct 2012,,480,Jan 2011,227,139,3,2,1,Geelong,10
+3/238 Malop Street,"500,000",Nov 2020,"365,000",Feb 2015,,395,Jul 2019,80,,2,1,1,Geelong,10
+2/36 McKillop Street,"745,000",Nov 2020,"577,500",Nov 2013,,585,Dec 2020,140,,3,2,2,Geelong,10
+184 Bellerine Street,"540,000",Nov 2020,"163,500",Jun 2001,,,,146,,3,1,,Geelong,10
+702/18-20 Cavendish Street,"680,000",Oct 2020,,,,,,,,,,,Geelong,10
+"Level 1, 103/8-10 Mclarty Place","455,000",Oct 2020,,,,,,,,,,,Geelong,10
+Level 1 103/8-10 Mclarty Place,"455,000",Oct 2020,,,,,,,,,,,Geelong,10
+2/2 Mercer Street,"840,000",Oct 2020,,,,,,723,,,,,Geelong,10
+115 Yarra Street,"1,175,000",Oct 2020,"180,000",Apr 2000,,,,234,,3,2,2,Geelong,10
+51A Kilgour Street,"705,000",Oct 2020,"495,600",Mar 2014,,550,Oct 2020,154,,3,2,1,Geelong,10
+1402/18-20 Cavendish Street,"820,000",Oct 2020,,,,,,,,,,,Geelong,10
+5/250 Malop Street,"825,000",Oct 2020,"749,000",Feb 2019,,,,304,,3,1,2,Geelong,10
+165 Corio Street,"735,000",Oct 2020,,,,,,148,,,,,Geelong,10
+1902/18 Cavendish Street,"1,010,000",Oct 2020,,,,,,,,,,,Geelong,10
+90 Maud Street,"750,000",Oct 2020,"55,000",Jan 1985,,,,347,,3,1,2,Geelong,10
+405/8 Gheringhap Street,"607,500",Sep 2020,"531,000",Feb 2000,,450,Apr 2017,773,86,,,,Geelong,10
+3/7 Hays Place,"665,000",Sep 2020,"527,000",Mar 2016,1.0,500,Dec 2019,533,,,,,Geelong,10
+1402/18 Cavendish Street,"820,000",Sep 2020,,,,,,,,,,,Geelong,10
+6 Mont Albert Road,"1,340,000",Sep 2020,"148,500",Feb 1988,,,,554,,3,2,2,Geelong,10
+67 Swanston Street,"735,000",Sep 2020,"345,000",Oct 2006,,720,Sep 2017,282,119,3,1,1,Geelong,10
+71 Carr Street,"540,000",Sep 2020,"494,500",Apr 2018,,320,May 2018,420,,3,1,1,Geelong,10
+4/44 Myers Street,"510,000",Sep 2020,,,,380,Jun 2019,48,,,,,Geelong,10
+31 Mundy Street,"750,000",Sep 2020,"355,000",Nov 2007,,410,Nov 2016,459,,3,1,1,Geelong,10
+193 Yarra Street,"625,000",Sep 2020,"542,000",Nov 2017,,360,Jul 2019,141,,2,1,1,Geelong,10
+9 The Esplanade,"2,375,000",29 Aug 2020,,,1.0,,,893,,,,,Geelong,10
+72 Little Ryrie Street,"823,500",Aug 2020,"632,000",Mar 2013,1.0,,,165,,,,,Geelong,10
+158 Garden Street,"1,240,000",Aug 2020,"155,000",Aug 2001,,,,667,214,3,1,1,Geelong,10
+86 Sydney Parade,"560,000",15 Aug 2020,"65,000",Mar 1996,1.0,,,319,,3,,,Geelong,10
+2/52 Mundy Street,"720,000",Aug 2020,"657,000",Jan 2016,,560,Jan 2021,410,,,,,Geelong,10
+146 Garden Street,"785,000",Aug 2020,"750,000",Mar 2018,,260,Jun 2010,337,115,3,2,1,Geelong,10
+144 Corio Street,"1,325,000",Aug 2020,"675,000",Oct 2011,1.0,700,Dec 2020,305,115,3,1,2,Geelong,10
+4/146 Bellerine Street,"600,000",Aug 2020,,,,,,"9,817",,,,,Geelong,10
+158 Kilgour Street,"855,000",25 Jul 2020,"113,000",Aug 1991,1.0,,,561,174,3,1,2,Geelong,10
+1104/18-20 Cavendish Street,"735,000",Jul 2020,,,,,,,,,,,Geelong,10
+77 Maud Street,"1,640,000",Jul 2020,"857,000",Dec 2011,1.0,,,805,,4,2,5,Geelong,10
+32 Maud Street,"882,000",Jul 2020,"550,000",Apr 2015,,440,May 2015,141,145,4,1,4,Geelong,10
+91 Swanston Street,"725,000",18 Jul 2020,"430,000",Jan 2010,1.0,460,Feb 2010,398,134,4,1,1,Geelong,10
+1904/18 Cavendish Street,"1,880,000",Jul 2020,,,,,,,,,,,Geelong,10
+404/18-20 Cavendish Street,"752,500",Jul 2020,,,,,,,,,,,Geelong,10
+10 McKillop Street,"810,000",Jul 2020,"550,000",Feb 2011,,600,Jun 2010,384,189,4,2,2,Geelong,10
+103/64-66 Eastern Beach Road,"850,000",Jul 2020,,,,,,,,,,,Geelong,10
+2/250 Myers Street,"440,000",Jul 2020,"305,000",Jul 2015,,350,Oct 2020,148,,,,,Geelong,10
+103/64 Eastern Beach Road,"850,000",Jul 2020,,,,,,,,,,,Geelong,10
+5/96 Mercer Street,"389,000",Jul 2020,"315,000",Dec 2014,,280,Oct 2011,716,,,,,Geelong,10
+9/50 Eastern Beach Road,"625,000",Jun 2020,"370,000",Apr 2009,,360,Jan 2018,"1,187",,,,,Geelong,10
+614/148 Bellerine Street,"750,000",Jun 2020,,,,,,,,,,,Geelong,10
+2-4 Maud Street,"595,000",Jun 2020,"145,000",Feb 2002,,,,290,,,,,Geelong,10
+49 Kilgour Street,"750,000",Jun 2020,"605,000",Jul 2015,,580,Oct 2017,309,,4,2,2,Geelong,10
+205/146 Bellerine Street,"540,000",Jun 2020,,,,,,87,,,,,Geelong,10
+1704/18 Cavendish Street,"675,000",Jun 2020,,,,,,,,,,,Geelong,10
+108 Swanston Street,"1,150,000",Jun 2020,"325,000",Jun 2015,,,,312,172,3,1,,Geelong,10
+163 Kilgour Street,"905,000",Jun 2020,"510,000",Oct 2012,1.0,,,468,,4,1,1,Geelong,10
+38 Sydney Avenue,"2,500,000",May 2020,"1,850,000",Dec 2011,,,,"1,172",,6,3,3,Geelong,10
+71 Fitzroy Street,"1,050,000",07 May 2020,"748,500",Oct 2014,1.0,550,Feb 2015,538,192,4,2,2,Geelong,10
+1/36 Mckillop Street,"750,000",May 2020,"290,000",Nov 1997,,,,137,,,,,Geelong,10
+1605/18 Cavendish Street,"1,010,000",Apr 2020,,,,,,,,,,,Geelong,10
+24 Western Beach Road,"1,510,000",Apr 2020,"120,500",Aug 1984,,,,483,,,,,Geelong,10
+4/15 Mundy Street,"437,500",Apr 2020,"240,000",Oct 2009,,295,Apr 2016,168,,2,1,1,Geelong,10
+351 Ryrie Street,"1,800,000",Apr 2020,"238,000",Nov 1995,,,,"1,030",,4,,,Geelong,10
+2205/2 Yarra Street,"660,000",Apr 2020,"600,000",Jan 2016,,650,May 2019,"2,737",125,,,,Geelong,10
+206 Myers Street,"2,155,000",Mar 2020,"233,500",Nov 1993,,,,919,,,,,Geelong,10
+13 Vincent Avenue,"1,235,500",Mar 2020,"730,000",Aug 2014,1.0,,,564,,3,2,4,Geelong,10
+707/53 Mercer Street,"1,600,000",Mar 2020,,,,,,,,,,,Geelong,10
+4 Smythe Place,"795,000",Mar 2020,"680,000",Jun 2016,,495,Sep 2012,126,205,3,2,2,Geelong,10
+12 Richmond Crescent,"1,016,999",Mar 2020,"316,000",Aug 2013,1.0,,,519,293,3,1,2,Geelong,10
+5 Lake Street,"990,000",Mar 2020,"680,000",Oct 2010,,500,Feb 2009,332,,3,2,1,Geelong,10
+408/146 Bellerine Street,"661,000",Feb 2020,,,,,,,,,,,Geelong,10
+4/17 The Esplanade,"550,000",Feb 2020,"183,880",Dec 2000,,,,"1,046",,,,,Geelong,10
+357 Ryrie Street,"905,000",Feb 2020,"149,500",Feb 2000,,320,Jul 2020,600,,3,2,2,Geelong,10
+5/242 Ryrie Street,"635,000",Feb 2020,"500,000",Oct 2014,,500,Nov 2020,764,121,,,,Geelong,10
+56 Sydney Parade,"615,000",22 Feb 2020,"385,000",Sep 2013,1.0,450,Mar 2020,229,,2,1,1,Geelong,10
+6 Hope Street,"690,000",Feb 2020,"385,000",Jan 2006,,300,Nov 2004,186,,3,2,2,Geelong,10
+2/3 Kilgour Court,"690,000",Feb 2020,"525,000",May 2012,,550,Dec 2018,218,,,,,Geelong,10
+203/8-10 McLarty Place,"510,000",Feb 2020,,,,410,Nov 2016,565,,,,,Geelong,10
+1/56 Kilgour Street,"805,000",Feb 2020,"675,000",Sep 2015,,700,Apr 2019,205,,3,2,2,Geelong,10
+2/4 Richmond Court,"810,000",08 Feb 2020,,,1.0,,,226,,,,,Geelong,10
+1/50 Eastern Beach Road,"616,000",08 Feb 2020,"199,000",Jul 1994,1.0,210,Feb 2010,"1,187",,,,,Geelong,10
+901/120 Brougham Street,"2,600,000",Feb 2020,"2,250,000",Aug 2010,,,,934,,,,,Geelong,10
+10/141-143 Yarra Street,"626,000",Feb 2020,,,,,,596,,,,,Geelong,10
+4 Brownbill Street,"620,000",01 Feb 2020,,,1.0,,,370,,,,,Geelong,10
+49 Mundy Street,"750,000",01 Feb 2020,"225,000",May 2001,1.0,400,Dec 2014,312,,3,1,,Geelong,10
+508/53 Mercer Street,"979,500",Jan 2020,,,,,,,,,,,Geelong,10
+5/50 Eastern Beach Road,"575,000",Jan 2020,"435,002",Oct 2011,,340,Oct 2011,"1,187",,,,,Geelong,10
+10 Carmans Lane,"915,000",Jan 2020,"181,000",Dec 2002,,,,750,,,,,Geelong,10
+49 Fitzroy Street,"491,500",Dec 2019,,,,,,406,,1,1,,Geelong,10
+230 Kilgour Street,"840,000",Dec 2019,"260,000",Jul 2009,,450,Apr 2014,367,,3,2,1,Geelong,10
+7/50 Eastern Beach Road,"471,000",Dec 2019,"143,000",Jan 1998,,330,Mar 2017,"1,187",,,,,Geelong,10
+10/203-207 Little Malop Street,"457,000",Dec 2019,"282,000",Sep 2009,,,,87,,,,,Geelong,10
+3 Storrer Street,"615,000",07 Dec 2019,"90,000",Oct 1994,1.0,,,303,100,3,1,1,Geelong,10
+9/4 Fitzroy Street,"359,000",Dec 2019,"305,000",Apr 2014,,280,Mar 2015,799,,,,,Geelong,10
+209/146-148 Bellerine Street,"442,000",Nov 2019,,,,,,,,,,,Geelong,10
+1/4-10 Benson Street,"456,380",Nov 2019,,,,,,140,,,,,Geelong,10
+3/154 Bellerine Street,"299,000",Nov 2019,"250,000",Nov 2016,,280,Sep 2015,999,,,,,Geelong,10
+10 Smythe Place,"830,000",Oct 2019,"610,000",Dec 2011,,,,128,,3,2,2,Geelong,10
+5 Little Kilgour Street,"537,000",26 Oct 2019,"81,000",Aug 1987,1.0,390,Dec 2020,307,,3,1,1,Geelong,10
+80 Keera Street,"640,000",26 Oct 2019,"373,200",Mar 2013,1.0,480,Nov 2019,696,124,3,1,4,Geelong,10
+2/2 Pevensey Street,"425,000",Oct 2019,"380,000",Apr 2014,,350,Jan 2018,740,,,,,Geelong,10
+219 Little Malop Street,"586,000",Oct 2019,,,,,,289,,2,1,,Geelong,10
+38 Henry Street,"800,000",12 Oct 2019,"241,000",Aug 2001,1.0,390,Apr 2012,424,120,3,1,1,Geelong,10
+81 McKillop Street,"740,000",12 Oct 2019,"405,000",Mar 2010,1.0,,,532,92,3,1,2,Geelong,10
+2 Richmond Street,"658,000",05 Oct 2019,"249,000",Jun 2007,1.0,295,Apr 2015,539,,3,1,1,Geelong,10
+2305/2 Yarra Street,"450,000",Sep 2019,"360,000",Apr 2010,1.0,500,Jan 2018,"2,737",,,,,Geelong,10
+2506/2 Yarra Street,"1,800,000",Sep 2019,"1,650,000",Oct 2005,,,,"2,737",,,,,Geelong,10
+304/8 Gheringhap Street,"660,000",Sep 2019,"580,000",Mar 2011,,600,Nov 2018,774,140,,,,Geelong,10
+29 Spring Street,"620,000",Sep 2019,,,,,,,,,,,Geelong,10
+1/3 Adams Place,"645,000",Aug 2019,"100,000",Dec 2000,,430,Jul 2013,166,,,,,Geelong,10
+217 Little Malop Street,"847,000",24 Aug 2019,,,1.0,460,Nov 2019,428,,2,1,2,Geelong,10
+5/15 Mundy Street,"440,000",Aug 2019,"407,000",Oct 2017,,345,Oct 2013,159,75,,,,Geelong,10
+1/11 York Street,"800,000",Aug 2019,"602,000",Mar 2014,,580,Oct 2013,527,,,,,Geelong,10
+126 Swanston Street,"532,000",17 Aug 2019,"90,000",Feb 1994,1.0,380,Nov 2019,331,,2,1,,Geelong,10
+223 Bellerine Street,"701,500",17 Aug 2019,"149,950",Nov 1999,1.0,460,Nov 2019,238,116,3,1,,Geelong,10
+8 Vincent Avenue,"1,050,000",16 Aug 2019,"624,000",Oct 2006,1.0,,,552,,3,2,2,Geelong,10
+9 Hamblings Lane,"780,000",Aug 2019,,,,640,May 2019,,,3,2,2,Geelong,10
+5/10 Fitzroy Street,"376,000",Aug 2019,"225,000",Jun 2004,,290,Jan 2019,"1,312",,,,,Geelong,10
+45 Lonsdale Street,"720,000",Aug 2019,"400,000",Dec 2014,,380,Mar 2015,466,,3,1,1,Geelong,10
+3/9 York Street,"825,000",Aug 2019,"630,000",May 2014,,550,May 2014,128,169,3,3,1,Geelong,10
+68 Fitzroy Street,"665,000",Jul 2019,"575,000",Mar 2017,,370,Mar 2019,238,,3,1,2,Geelong,10
+170 Yarra Street,"850,000",Jul 2019,"730,000",Apr 2016,,,,658,,4,3,3,Geelong,10
+2/44 Myers Street,"500,000",Jul 2019,,,,350,May 2017,48,,,,,Geelong,10
+4 Star Street,"700,000",Jul 2019,"455,000",Dec 2015,1.0,,,147,90,,,,Geelong,10
+304/100 Western Beach Road,"630,000",Jul 2019,"575,000",Feb 2000,,470,Oct 2018,992,,,,,Geelong,10
+6 Heaths Lane,"525,000",Jul 2019,"275,000",Mar 2009,,,,65,,,,,Geelong,10
+168 Yarra Street,"905,000",Jul 2019,"486,000",Jul 2005,,540,Dec 2016,665,,5,2,2,Geelong,10
+111 Swanston Street,"602,500",Jul 2019,"484,000",Aug 2015,1.0,435,Sep 2018,216,112,2,1,1,Geelong,10
+3 Kenny Place,"540,000",Jul 2019,,,,,,238,,2,1,2,Geelong,10
+14 Mckillop Street,"700,000",01 Jul 2019,"300,000",May 2008,1.0,,,593,,3,1,4,Geelong,10
+38 Bourke Crescent,"485,000",29 Jun 2019,"260,000",Nov 2007,1.0,290,Aug 2017,192,,3,1,1,Geelong,10
+46 Bourke Crescent,"722,500",22 Jun 2019,"288,000",Sep 2003,1.0,,,27,,3,2,,Geelong,10
+205/16-18 The Esplanade South,"460,000",Jun 2019,,,,,,,,,,,Geelong,10
+8/155 Verner Street,"291,000",Jun 2019,"132,000",Nov 2006,,250,Feb 2017,946,,,,,Geelong,10
+27 Faggs Place,"670,000",Jun 2019,"460,000",Jun 2013,,540,Aug 2020,154,,3,2,1,Geelong,10
+13 England Street,"1,100,000",Jun 2019,"635,000",Mar 2006,,,,120,,3,2,1,Geelong,10
+50 Swanston Street,"1,050,000",Jun 2019,"700,000",Jul 2011,,750,Jul 2020,377,,3,1,2,Geelong,10
+50 Fitzroy Street,"765,000",May 2019,"76,000",Aug 1994,,,,139,,4,1,2,Geelong,10
+19 The Esplanade South,"720,000",May 2019,,,,650,Jan 2020,,,2,1,1,Geelong,10
+205/110 Brougham Street,"1,130,000",May 2019,"830,000",Apr 2007,,850,Nov 2008,"1,233",,,,,Geelong,10
+404/100 Western Beach Road,"520,000",May 2019,"461,000",Oct 2012,,500,Jan 2020,992,,,,,Geelong,10
+204/8-10 McLarty Place,"460,000",May 2019,"450,000",Jul 2015,,470,Jun 2019,566,,,,,Geelong,10
+4/4 Mercer Street,"636,000",04 May 2019,"450,000",Jul 2010,1.0,450,Sep 2019,723,124,,,,Geelong,10
+2/3 York Street,"1,130,000",Apr 2019,"865,000",Mar 2012,,780,Feb 2019,348,,3,3,2,Geelong,10
+70 McKillop Street,"900,000",Apr 2019,"620,000",Dec 2009,1.0,,,724,,5,2,2,Geelong,10
+12B Western Beach Road,"2,380,000",13 Apr 2019,"305,000",Dec 1998,1.0,,,318,282,3,2,2,Geelong,10
+220 Myers Street,"535,000",06 Apr 2019,"350,000",Oct 2011,1.0,400,Sep 2019,180,64,2,1,1,Geelong,10
+59 Maud Street,"1,555,000",Apr 2019,"500,000",Nov 2007,,,,724,,3,1,4,Geelong,10
+6 Vincent Avenue,"855,000",Mar 2019,"437,000",May 2007,,395,Jul 2017,552,137,3,1,2,Geelong,10
+9/17a The Esplanade,"599,000",Mar 2019,,,,380,May 2019,978,,,,,Geelong,10
+3/44 Myers Street,"500,000",Mar 2019,,,,380,Mar 2019,48,,,,,Geelong,10
+21 Alexandra Avenue,"805,000",Mar 2019,,,,320,Oct 2016,460,,3,2,,Geelong,10
+8/4 Fitzroy Street,"338,600",Mar 2019,"297,000",Nov 2012,,270,Jun 2018,799,,1,1,1,Geelong,10
+701/8 Gheringhap Street,"430,000",Mar 2019,"380,000",Dec 2013,,,,776,75,,,,Geelong,10
+4 Richmond Crescent,"840,000",02 Mar 2019,"570,000",Mar 2011,1.0,550,Mar 2018,642,170,4,2,3,Geelong,10
+2 Hope Street,"680,000",Mar 2019,"80,000",Apr 1996,,430,Nov 2018,217,,3,2,2,Geelong,10
+1104/44 Ryrie Street,"685,000",Feb 2019,,,,,,99,,,,,Geelong,10
+1204/44 Ryrie Street,"735,000",Feb 2019,,,,,,103,,,,,Geelong,10
+1303/44 Ryrie Street,"785,000",Feb 2019,,,,,,103,,,,,Geelong,10
+1403/44 Ryrie Street,"895,000",Feb 2019,,,,,,103,,,,,Geelong,10
+1101/44 Ryrie Street,"1,788,950",Feb 2019,,,,,,214,,,,,Geelong,10
+1/96 Mercer Street,"445,000",Feb 2019,"355,000",Jun 2013,,370,Feb 2019,716,82,,,,Geelong,10
+101/8-10 McLarty Place,"547,500",Feb 2019,,,,,,565,,,,,Geelong,10
+2/67 Sydney Parade,"690,000",16 Feb 2019,"495,000",Feb 2011,1.0,450,Nov 2014,210,155,,,,Geelong,10
+1/17 Brownbill Street,"520,000",Feb 2019,"325,000",Jun 2008,,,,298,,,,,Geelong,10
+3/242 Ryrie Street,"850,000",Feb 2019,"195,000",Dec 2001,,,,174,,,,,Geelong,10
+18-20 Cavendish Street,"599,900",Feb 2019,,,,,,"2,032",,,,,Geelong,10
+17 England Street,"1,345,000",Feb 2019,"1,300,000",Jul 2017,1.0,900,May 2019,119,,3,2,1,Geelong,10
+14 Ryrie Street,"725,000",Feb 2019,"595,000",Jun 2014,,,,548,175,4,1,3,Geelong,10
+297A Malop (cnr Pevensey Crs) Street,"495,000",Jan 2019,,,,,,,,,,,Geelong,10
+370 Ryrie Street,"837,000",Jan 2019,"77,000",Apr 1987,,,,506,,3,1,2,Geelong,10
+15 Adams Place,"633,000",Jan 2019,"545,000",Jul 2011,,460,Oct 2017,182,141,,,,Geelong,10
+82 Fitzroy Street,"785,000",Dec 2018,"575,000",Feb 2014,1.0,400,Feb 2010,132,126,3,2,2,Geelong,10
+7/2 Pevensey Street,"395,000",Dec 2018,"232,000",May 2006,,270,Aug 2018,740,,,,,Geelong,10
+39 Alexandra Avenue,"1,050,000",Dec 2018,"1,020,000",Oct 2017,1.0,500,Jul 2019,313,,,,,Geelong,10
+198 Garden Street,"640,000",Dec 2018,"120,000",Mar 2000,,,,554,,3,1,5,Geelong,10
+7/44 Myers Street,"520,000",Dec 2018,,,,450,Feb 2019,48,,,,,Geelong,10
+16 Henry Street,"586,000",15 Dec 2018,,,1.0,,,421,,2,1,,Geelong,10
+303/64 Eastern Beach Road,"1,100,000",15 Dec 2018,,,1.0,620,Feb 2019,,,,,,Geelong,10
+303/64-66 Eastern Beach Road,"1,100,000",15 Dec 2018,,,1.0,,,,,,,,Geelong,10
+103 Swanston Street,"888,000",Dec 2018,"375,000",Jan 2005,,,,456,,3,2,1,Geelong,10
+6 Richmond Street,"722,500",15 Dec 2018,"558,000",Oct 2014,1.0,,,523,121,3,2,2,Geelong,10
+73 Swanston Street,"637,000",Dec 2018,"420,000",Nov 2012,,395,Nov 2016,427,139,3,2,2,Geelong,10
+301/120 Brougham Street,"830,000",Dec 2018,"650,000",Apr 2012,,590,Jul 2012,934,135,,,,Geelong,10
+8/73-75 Maud Street,"467,500",01 Dec 2018,"230,000",Apr 2006,1.0,300,Oct 2016,218,,,,,Geelong,10
+8/73 Maud Street,"467,500",01 Dec 2018,"230,000",Apr 2006,1.0,,,218,,,,,Geelong,10
+6/44 Myers Street,"512,500",Nov 2018,,,,450,Dec 2018,48,,,,,Geelong,10
+19 Pevensey Crescent,"1,890,000",Nov 2018,"825,000",May 2003,,850,Jan 2019,"1,124",,4,3,3,Geelong,10
+2/79 McKillop Street,"789,000",Nov 2018,"660,000",Jan 2016,,475,Apr 2009,239,211,,,,Geelong,10
+12 Western Beach Road,"1,190,000",Nov 2018,"825,000",Dec 2003,,750,Mar 2020,210,,3,2,2,Geelong,10
+5/35 Mundy Street,"430,000",Nov 2018,"215,000",Apr 2009,,280,Apr 2017,184,,,,,Geelong,10
+301/8 Gheringhap Street,"390,000",Nov 2018,"358,000",May 2011,,320,Aug 2017,774,,,,,Geelong,10
+85 Maud Street,"1,520,000",Nov 2018,"116,000",Dec 1991,,,,447,,5,2,4,Geelong,10
+72 Bellerine Street,"1,950,000",17 Nov 2018,,,1.0,,,751,,,,,Geelong,10
+125 Mckillop Street,"780,000",17 Nov 2018,"60,000",Dec 1996,1.0,,,512,,3,1,2,Geelong,10
+1-6/72 Bellerine Street,"1,950,000",17 Nov 2018,"1,510,000",Dec 2014,1.0,300,Oct 2016,,,,,,Geelong,10
+193 Kilgour Street,"907,000",17 Nov 2018,"480,000",Oct 2010,1.0,600,Jul 2019,480,165,4,2,2,Geelong,10
+112/6-8 Eastern Beach Road,"412,000",Nov 2018,,,,360,Dec 2010,,,1,1,1,Geelong,10
+2/27 Richmond Crescent,"555,000",Nov 2018,"442,500",Dec 2012,,455,Jan 2019,226,,,,,Geelong,10
+6/17 The Esplanade,"543,000",Nov 2018,"375,000",Nov 2013,,300,Oct 2013,"1,046",,,,,Geelong,10
+213 Myers Street,"520,000",Nov 2018,"362,500",Jun 2010,,410,Feb 2021,269,,2,1,1,Geelong,10
+22/61 Brougham Street,"1,400,000",Oct 2018,"725,000",Dec 1998,,,,829,174,,,,Geelong,10
+6 Davison Place,"710,000",Oct 2018,"195,000",Aug 2010,,525,Feb 2021,166,,,,,Geelong,10
+19/61 Brougham Street,"935,000",27 Oct 2018,"330,000",Sep 1996,1.0,500,Mar 2005,829,,,,,Geelong,10
+109 Maud Street,"670,000",Oct 2018,"570,000",Dec 2016,1.0,410,Nov 2018,412,,3,1,3,Geelong,10
+77 Little Myers Street,"635,000",13 Oct 2018,"84,000",Aug 1997,1.0,,,161,,3,1,1,Geelong,10
+4/50 Eastern Beach Road,"499,000",Oct 2018,"312,000",Dec 2011,,365,Jan 2017,"1,187",,,,,Geelong,10
+135 Verner Street,"990,000",Oct 2018,"521,000",Sep 2016,1.0,310,Feb 2012,542,,3,1,1,Geelong,10
+403/120 Brougham Street,"975,000",Oct 2018,"750,000",May 2013,1.0,,,934,123,,,,Geelong,10
+371 Ryrie Street,"1,637,500",Oct 2018,"1,450,000",Mar 2015,1.0,600,Jul 2015,"1,154",267,4,2,2,Geelong,10
+364 Ryrie Street,"815,000",Oct 2018,"400,000",Sep 2006,,550,Dec 2020,169,,3,1,2,Geelong,10
+13 Sydney Avenue,"1,300,000",Oct 2018,"682,500",Jun 2011,,,,574,196,3,2,2,Geelong,10
+1 Pevensey Crescent,"1,475,000",Sep 2018,"710,000",Feb 2004,,,,455,,3,2,1,Geelong,10
+703/8 Gheringhap Street,"480,000",Sep 2018,"415,000",Nov 2014,,425,Apr 2016,774,,,,,Geelong,10
+100 Swanston Street,"660,000",Sep 2018,"390,500",Nov 2012,,250,Sep 2007,324,119,3,1,1,Geelong,10
+14 Brownbill Street,"790,000",15 Sep 2018,"79,000",Sep 1988,1.0,575,Mar 2020,465,,2,2,1,Geelong,10
+172 Bellerine Street,"670,000",15 Sep 2018,"422,000",Mar 2012,1.0,450,Jan 2019,287,,3,1,2,Geelong,10
+1/140 Gheringhap Street,"600,000",Sep 2018,"432,000",Jun 2007,,,,119,,3,2,1,Geelong,10
+24 Park Street,"1,120,000",08 Sep 2018,,,1.0,320,Jul 2020,767,,4,2,2,Geelong,10
+5 Vincent Avenue,"1,260,000",Sep 2018,"1,150,000",Feb 2017,,,,562,,4,2,2,Geelong,10
+160 Gheringhap Street,"595,000",01 Sep 2018,"340,000",Dec 2009,1.0,340,Jan 2011,221,127,3,2,1,Geelong,10
+504/8 Gheringhap Street,"720,000",Aug 2018,"583,000",Apr 2014,,600,Nov 2018,774,116,3,2,1,Geelong,10
+304/8 Mclarty Place,"555,000",Aug 2018,"420,000",Nov 2014,,,,565,86,2,1,1,Geelong,10
+6/141 Yarra Street,"520,000",Aug 2018,"510,000",Aug 2012,,430,Mar 2015,323,,,,,Geelong,10
+102/64-66 Eastern Beach Road,"980,000",25 Aug 2018,"771,000",Nov 2008,1.0,495,Jan 2018,,,,,,Geelong,10
+102/64 Eastern Beach Road,"980,000",25 Aug 2018,"771,000",Nov 2008,1.0,495,Feb 2018,"2,538",,,,,Geelong,10
+6/141-143 Yarra Street,"520,000",Aug 2018,"510,000",Aug 2012,,430,Mar 2015,596,,2,2,1,Geelong,10
+5/73-75 Maud Street,"441,000",18 Aug 2018,"215,000",Mar 2007,1.0,345,Jun 2017,204,,,,,Geelong,10
+5/73 Maud Street,"441,000",18 Aug 2018,"215,000",Mar 2007,1.0,335,Jan 2018,204,,,,,Geelong,10
+1 Stringers Lane,"1,130,000",Aug 2018,"65,000",Aug 1998,,,,448,,3,2,2,Geelong,10
+136 Fitzroy Street,"681,000",Aug 2018,"450,000",Jun 2016,1.0,,,391,,3,1,1,Geelong,10
+4702/4 Yarra Street,"555,000",Aug 2018,"441,000",2009,,530,Jan 2021,"2,737",,,,,Geelong,10
+184 Garden Street,"730,000",04 Aug 2018,"546,000",Apr 2011,1.0,480,Oct 2016,359,149,3,2,1,Geelong,10
+2/11 York Street,"805,000",04 Aug 2018,"580,000",Apr 2014,1.0,,,527,,,,,Geelong,10
+404/120 Brougham Street,"920,000",Aug 2018,"830,000",Mar 2011,1.0,,,934,119,,,,Geelong,10
+402/100 Western Beach Road,"525,000",Jul 2018,,,,450,Jun 2019,992,,,,,Geelong,10
+11 FAGGS Place,"640,000",28 Jul 2018,"485,000",Dec 2015,1.0,460,Oct 2018,154,,3,2,1,Geelong,10
+601/120 Brougham Street,"1,310,000",Jun 2018,"1,000,000",Mar 2008,,300,Jun 2012,934,,,,,Geelong,10
+230 Verner Street,"720,000",Jun 2018,,,,,,,,,,,Geelong,10
+40 Bourke Crescent,"840,000",Jun 2018,"577,500",Sep 2014,,495,Jul 2018,285,,3,2,1,Geelong,10
+3/37 Francis Street,"387,000",Jun 2018,,,,,,,,,,,Geelong,10
+29 Faggs Place,"674,000",Jun 2018,"460,000",Jul 2013,,,,155,,3,2,1,Geelong,10
+16 Brownbill Street,"655,000",Jun 2018,,,,,,465,,3,1,1,Geelong,10
+42 Mundy Street,"950,000",May 2018,"198,622",Jan 2004,,,,210,133,3,2,2,Geelong,10
+3/35 Spring Street,"550,000",May 2018,,,,,,,,,,,Geelong,10
+5/154 Bellerine Street,"300,000",May 2018,"271,858",May 2014,,320,Dec 2020,999,,,,,Geelong,10
+402/8 Gheringhap Street,"350,000",May 2018,"338,000",Sep 2016,,320,Mar 2017,774,54,,,,Geelong,10
+53 Little Ryrie Street,"810,000",May 2018,,,,,,159,,,,,Geelong,10
+148 Verner Street,"900,000",May 2018,"270,000",Aug 2005,,320,Jan 2008,435,150,4,2,3,Geelong,10
+141 Verner Street,"1,240,000",May 2018,"194,000",Jun 2000,,750,Jul 2018,516,,3,2,1,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10
+410/6 Bellarine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+410/6 Bellerine Street,"660,000",May 2018,,,,,,,,,,,Geelong,10
+243 Bellerine Street,"745,000",Apr 2018,"135,000",Dec 1996,,430,Jun 2019,378,,3,2,1,Geelong,10
+305/120 Brougham Street,"890,000",Apr 2018,"729,000",Mar 2012,,575,Aug 2011,934,127,,,,Geelong,10
+17 McKillop Street,"560,000",21 Apr 2018,"425,500",Sep 2013,1.0,430,Apr 2020,217,,2,1,,Geelong,10
+26 Eastern Beach Road,"3,050,000",Apr 2018,,,,550,Jun 2014,758,,2,1,1,Geelong,10
+304/8-10 McLarty Place,"480,000",Apr 2018,"420,000",Nov 2014,,420,Feb 2020,566,,,,,Geelong,10
+48 Eastern Beach Road,"4,000,000",Apr 2018,"1,300,000",Nov 2000,,,,22,,5,3,3,Geelong,10
+128 Verner Street,"500,000",Mar 2018,,,,,,336,,,,,Geelong,10
+302/16 The Esplanade South,"490,000",Mar 2018,,,,,,,,,,,Geelong,10

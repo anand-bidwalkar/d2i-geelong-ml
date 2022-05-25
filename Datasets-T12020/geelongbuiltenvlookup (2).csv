@@ -1,0 +1,39 @@
+suburbs,suburbs name
+LUM,"Land use mix. A value between 0 and 1. 0 = no mixing, 1 = perfect mixing."
+LUMquintile,Land use mix quintile
+TrainDistThresh,Train station distance threshold. 0 =on average the closest train station is >2000 m. 1 = on average the closest train station is <= 2000 m road network distance from population weighted meshblock centroids
+TrainPres,Presence of train stations in the suburb. 0 = none. 1 = at least one 
+BusDistThresh,Bus stop distance threshold. 0 =on average the closest post office is >800 m. 1 = on average the closest bus stop is <= 800 m road network distance from population weighted meshblock centroids
+BusPres,Presence of bus stops in the suburb. 0 = none. 1 = at least one 
+AccUtDestPres,"Presence of utilitarian destinations in the suburb.Sum of ComCenPres, ShpCenPres, SpmktPres, GrnGrcrPres, POPres, LibPres, TrainPres, BusPres. An integer from 0 - 8. 0 = no destinations present. 8 = all 8 destinations present"
+AccUtDestPresquintile,Presence of utilitarian destinations quintile
+AccUtDestDist,"Distance to utilitarian destinations in the suburb. Sum of ConCenDistThresh, ShpCenDistThresh, SpmktDistThresh, GrnGrcrDistThresy, PODistThresh, LibDistThresh, TrainDistThresh, BusDistThresh. An integer from 0 -8. 0 = all destinations are distant. 8 = all destinations are close"
+AccUtDestDistquintile,Distance to utilitarian destinations quintile
+SprtLeiDens,Density of sports and leisure facilities = number of sports and leisure facilities / road length in km
+SprtLeiDensquintile,Density of sports and leisure facilities quintile
+SprtLeiDist,Distance to closest sports and leisure facility.
+SprtLeiDistquintile,Distance to closest sports and leisure facility quintile
+POSDist,Distance to closest public open space
+POSDistquintile,Distance to closest public open space quintile
+POSAreaPct,% area in public open space = area in POS / suburb area
+POSAreaPctquintile,% area in public open space quintile
+TakeawayDens,Density of takeaway shops = number of takeaway shops / road length in km
+TakeawayDensquintile,Density of  takeaway shops quintile
+TakeawayDist,Distance to closest  takeaway shop
+TakeawayDistquintile,Distance to closest  takeaway shop quintile
+HealthyFoodDensity,Density of healthy food shops (supermarkets and greengrocers) = number of healthy food shops / road length in km
+HealthyFoodDensityquintile,Density of healthy food shops quintile
+HealthyFoodDist,Distance to closest  healthy food shop
+HealthyFoodDistquintile,Distance to closest  healthy food shop quintile
+GrossDwlDens,Dwelling density = Number of dwellings / suburb area (square meters)
+GrossDwlDensquintile,Dwelling density quintile
+StrtConn,Street connectivity = number of intersections / area of the suburb (sqkm)
+StrtConnquintile,Street connectivity quintile
+ActCenDist,Distance to activity centre
+ActCenDistquintile,Distance to activity centre quintile
+TobPopDensp1000,Density of tobacco outlets = number of tobacco outlets / (2011 census population / 1000)
+TobPopDensp1000quintile,Density of tobacco outlets quintile
+TobTobVendDist,Distance to closest tobacco outlet OR vending machine
+TobTobVendDistquintile,Distance to closest tobacco outlet OR vending machine quintile
+RatioTrailsToRoads,Ratio of length of trails (off-road bicycle trails and sharead paths) to length of roads
+RatioTrailsToRoadsquintile,Ration of trails to roads quinitile

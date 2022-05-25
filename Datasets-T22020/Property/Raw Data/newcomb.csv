@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,34 Ivy Street,"Sold $541,000 in Aug 2020","Last Sold $265,000 in Sep 2008", ,House: 3  1  2 ,Land size: 557 sqm | Building size: 124 sqm
+1,17-19 Helms Street,"Sold $457,000 in Aug 2020","Last Sold $152,000 in May 1993", ,House: 4  1  1 ,"Land size: 1,436 sqm"
+2,2/3 Lindel Street,"Sold $387,500 in Aug 2020", , , , 
+3,1/3 Lindel Street,"Sold $376,000 in Aug 2020", , , , 
+4,9 Ivanhoe Court,"Sold $525,000 in Aug 2020","Last Sold $93,000 in Feb 2000", ,House: 3  2  2 ,Land size: 984 sqm
+5,17 Helms Street,"Sold $457,000 in Aug 2020", ,Rent $360pw in Feb 2014,House: 4  1  1 ,"Land size: 2,105 sqm"
+6,5/3 Lindel Street,"Sold $455,000 in Jul 2020", , , , 
+7,92 Bellarine Highway,"Sold $550,000 in Jul 2020","Last Sold $360,000 in Aug 2013", , ,Land size: 743 sqm | Building size: 150 sqm
+8,9 Cecil Court,"Sold $633,000 in 11 Jul 2020(Auction)","Last Sold $305,000 in Oct 2015", ,House: 3  1  1 ,Land size: 592 sqm
+9,14 Anthony Street,"Sold $505,000 in Jul 2020", , ,House: 3  1  1 ,Land size: 813 sqm
+10,38 Charles Street,"Sold $435,000 in Jul 2020","Last Sold $84,000 in Mar 1996", ,House: 3  1  2 ,Land size: 512 sqm
+11,39 Wilton Avenue,"Sold $420,000 in Jun 2020","Last Sold $181,000 in Jun 2006", ,House: 3  1  1 ,Land size: 396 sqm | Building size: 110 sqm
+12,1/37 Boundary Road,"Sold $430,000 in May 2020", , ,House: 3  1  2 ,Land size: 308 sqm
+13,20 Carinya Avenue,"Sold $410,000 in May 2020","Last Sold $87,700 in Aug 2000", ,House: 3  1  1 ,Land size: 686 sqm | Building size: 125 sqm
+14,1/56 Pitman Street,"Sold $322,000 in May 2020","Last Sold $277,500 in Feb 2017", ,Townhouse: 3  1  2 ,Land size: 304 sqm | Building size: 85 sqm
+15,3 Saturn Street,"Sold $355,000 in May 2020","Last Sold $175,000 in Jun 2007", ,House: 3  1  2 ,Land size: 556 sqm
+16,1/50 Wilsons Road,"Sold $340,000 in Apr 2020","Last Sold $227,000 in Aug 2011", ,House: 2  1  3 ,Land size: 317 sqm | Building size: 102 sqm
+17,8 Bain Court,"Sold $550,000 in Apr 2020","Last Sold $125,000 in Sep 1998", ,House: 4  2  2 ,"Land size: 1,102 sqm"
+18,114 Portarlington Road,"Sold $435,000 in Apr 2020", , ,House: 3  2  3 ,Land size: 535 sqm
+19,101 Helms Street,"Sold $685,000 in Apr 2020","Last Sold $60,500 in Jan 1995", , ,"Land size: 1,746 sqm"
+20,1/51-53 Helms Street,"Sold $360,000 in Apr 2020","Last Sold $281,000 in Aug 2017", , ,Land size: 162 sqm
+21,34 Pitman Street,"Sold $445,000 in Mar 2020","Last Sold $285,000 in Apr 2012", ,House: 3  1  1 ,Land size: 758 sqm | Building size: 124 sqm
+22,62 Wilton Avenue,"Sold $500,000 in Mar 2020","Last Sold $240,000 in Feb 2015(Auction)", ,House: 2  1  1 ,Land size: 655 sqm
+23,18 Wilsons Road,"Sold $430,000 in 19 Mar 2020(Auction)","Last Sold $200,000 in Dec 2007", ,House: 3  1  3 ,Land size: 664 sqm | Building size: 300 sqm
+24,7 Newland Street,"Sold $479,000 in Mar 2020", , ,House: ,Land size: 701 sqm
+25,38 Bellarine Highway,"Sold $500,000 in Mar 2020","Last Sold $290,000 in Jul 2010", ,House: 4  2  1 ,Land size: 669 sqm
+26,2 Ivanhoe Court,"Sold $555,000 in Mar 2020", ,Rent $355pw in Aug 2018,House: 3  1  1 ,Land size: 711 sqm
+27,1/4 Ivanhoe Court,"Sold $415,000 in Mar 2020", ,Rent $330pw in Jul 2018,House: 3  1  1 ,Land size: 308 sqm
+28,7 Jacaranda Court,"Sold $445,000 in Feb 2020","Last Sold $254,000 in Nov 2011", ,House: 3  1  1 ,Land size: 551 sqm
+29,34 Breadalbane Street,"Sold $515,000 in 22 Feb 2020(Auction)", , ,House: 3  ,Land size: 921 sqm
+30,8 Hinchcliff Crescent,"Sold $475,000 in Feb 2020", , ,House: 3  1  1 ,Land size: 774 sqm
+31,4 Poplar Street,"Sold $451,000 in Feb 2020", , ,House: ,Land size: 694 sqm
+32,67 Neptune Avenue,"Sold $440,000 in Feb 2020","Last Sold $268,000 in Aug 2015", , ,Land size: 563 sqm | Building size: 98 sqm
+33,2/20 Wilsons Road,"Sold $430,000 in Feb 2020", , , ,Land size: 229 sqm
+34,13 Cheltenham Road,"Sold $460,000 in Feb 2020","Last Sold $282,000 in Jul 2012", ,House: 3  1  1 ,Land size: 591 sqm
+35,1/22-24 Lindsay Street,"Sold $289,000 in Feb 2020", ,Rent $285pw in Jan 2019, ,Land size: 92 sqm
+36,1/22 Lindsay Street,"Sold $289,000 in Jan 2020","Last Sold $218,000 in Dec 2010", , ,Land size: 92 sqm
+37,1 Daphne Court,"Sold $495,000 in Jan 2020","Last Sold $407,000 in Sep 2018", ,House: 4  1  4 ,Land size: 585 sqm
+38,3 Lindsay Street,"Sold $415,000 in Jan 2020","Last Sold $310,000 in Nov 2017", ,House: 3  1  2 ,Land size: 547 sqm
+39,46 Anthony Street,"Sold $421,600 in Dec 2019","Last Sold $199,000 in Aug 2004", ,House: 3  1  1 ,Land size: 779 sqm
+40,129 Helms Street,"Sold $460,000 in Dec 2019","Last Sold $53,500 in Mar 1999", ,House: 1  1 ,Land size: 711 sqm | Building size: 103 sqm
+41,35 Lucas Street,"Sold $490,000 in Dec 2019","Last Sold $342,000 in Sep 2017", ,House: 3  1  3 ,Land size: 528 sqm
+42,2/41 Wilsons Road,"Sold $415,000 in Dec 2019","Last Sold $320,000 in Nov 2012", , ,Land size: 243 sqm
+43,27 Lucas Street also known as 53 Andrew Street,"Sold $392,000 in Dec 2019", , ,House: 3  1  2 , 
+44,2/5-7 Lindel Street,"Sold $385,000 in Dec 2019","Last Sold $300,000 in Nov 2016", , ,Land size: 267 sqm
+45,35 Mercury Crescent,"Sold $391,200 in Nov 2019", , , ,Land size: 535 sqm
+46,7 Neptune Avenue,"Sold $440,000 in Nov 2019", , ,House: 3  1  4 ,Land size: 527 sqm
+47,130 Portarlington Road,"Sold $340,000 in Nov 2019","Last Sold $75,000 in Sep 1995", ,House: 3  1  1 ,Land size: 564 sqm
+48,4 Ruth Court,"Sold $428,000 in Oct 2019","Last Sold $216,000 in Nov 2006", ,House: 3  1  3 ,Land size: 727 sqm | Building size: 110 sqm
+49,23 Watsons Road,"Sold $402,000 in Oct 2019","Last Sold $295,000 in Oct 2010", ,House: 3  1  1 ,Land size: 652 sqm
+50,3 Ivanhoe Court,"Sold $455,000 in Oct 2019","Last Sold $102,500 in May 2001", ,House: 3  1  2 ,Land size: 711 sqm
+51,26 Lancaster Avenue,"Sold $500,000 in Oct 2019","Last Sold $79,000 in Oct 2000", ,House: 3  2  4 ,Land size: 780 sqm
+52,1/11 Ivanhoe Court,"Sold $430,000 in Oct 2019", , ,House: 3  1  2 ,Land size: 400 sqm
+53,6 Pluto Court,"Sold $382,500 in Oct 2019", ,Rent $370pw in Nov 2019,House: 3  1  1 ,Land size: 619 sqm
+54,26 Wilsons Road,"Sold $382,000 in Oct 2019", , ,House: 3  1  1 ,Land size: 660 sqm
+55,105 Helms Street,"Sold $886,000 in Sep 2019", , ,House: 4  2  7 ,"Land size: 2,382 sqm"
+56,34 Watsons Road,"Sold $450,000 in Sep 2019","Last Sold $132,500 in Sep 2015", ,House: 3  1  2 ,Land size: 593 sqm
+57,4/8 Hillford Street,"Sold $208,000 in Sep 2019","Last Sold $119,000 in 2009", ,House: 1  1  1 ,Land size: 47 sqm
+58,2/49 Bellarine Highway,"Sold $457,700 in Sep 2019","Last Sold $133,000 in Oct 2017", , ,Land size: 234 sqm
+59,9/7 Helms Street,"Sold $411,000 in Sep 2019","Last Sold $269,000 in Oct 2008", , ,Land size: 367 sqm
+60,2/44 Bellarine Highway,"Sold $288,000 in Sep 2019", , , ,Land size: 149 sqm
+61,55 Watsons Road,"Sold $415,000 in Sep 2019", , ,House: 3  1  2 ,Land size: 628 sqm
+62,2 Acton Court,"Sold $482,000 in Sep 2019","Last Sold $290,000 in Oct 2013", ,House: 3  1  1 ,Land size: 894 sqm
+63,97 Boundary Road,"Sold $525,000 in Aug 2019","Last Sold $250,000 in Oct 2011", ,House: 4  2  3 ,Land size: 683 sqm | Building size: 197 sqm
+64,7 Dorward Avenue,"Sold $489,000 in 24 Aug 2019(Auction)", , ,House: 3  1  1 ,Land size: 592 sqm
+65,24 Neptune Avenue,"Sold $390,000 in Aug 2019","Last Sold $275,000 in Dec 2015", ,House: 3  1  2 ,Land size: 536 sqm | Building size: 127 sqm
+66,63 Wilton Avenue,"Sold $430,000 in Aug 2019", , ,House: 4  2  2 ,Land size: 658 sqm
+67,12 Wirth Court,"Sold $422,000 in Aug 2019","Last Sold $345,000 in Jan 2016", ,House: 3  1  1 ,Land size: 573 sqm | Building size: 122 sqm
+68,1/6 Tilly Court,"Sold $305,000 in Aug 2019","Last Sold $270,000 in Aug 2017", , ,Land size: 169 sqm
+69,4/14-16 Lindsay Street,"Sold $215,000 in Jul 2019","Last Sold $210,000 in Jul 2018", , ,Land size: 64 sqm
+70,132B Wilsons Road,"Sold $357,500 in Jul 2019", , , ,Land size: 384 sqm
+71,60 Helms Street,"Sold $465,000 in Jul 2019","Last Sold $324,000 in Dec 2010", ,House: 3  1  1 ,Land size: 822 sqm
+72,30 Wilton Avenue,"Sold $600,000 in Jun 2019","Last Sold $225,000 in May 2004", ,House: 4  2  2 ,Land size: 655 sqm | Building size: 134 sqm
+73,26 Watsons Road,"Sold $412,000 in Jun 2019", , ,House: 3  1  1 ,Land size: 591 sqm
+74,111 Boundary Road,"Sold $370,000 in Jun 2019","Last Sold $259,900 in Feb 2010", ,House: 2  2  1 ,Land size: 314 sqm | Building size: 85 sqm
+75,13 Johnston Avenue,"Sold $425,700 in Jun 2019","Last Sold $285,000 in Mar 2014", ,House: 2  2  2 ,Land size: 341 sqm
+76,65 Neptune Avenue,"Sold $390,000 in Jun 2019", ,Rent $300pw in Jan 2015,House: 3  1  2 ,Land size: 533 sqm
+77,1/8 Poplar Street,"Sold $460,000 in Jun 2019","Last Sold $295,500 in Jul 2017", ,House: 3  2  2 ,Land size: 300 sqm | Building size: 120 sqm
+78,1/41 Miller Street,"Sold $380,000 in May 2019", ,Rent $300pw in Oct 2016,House: 3  1  2 ,Land size: 296 sqm
+79,22 Gibbs Street,"Sold $375,000 in May 2019","Last Sold $186,000 in Oct 2006", ,House: 2  1  3 ,Land size: 541 sqm
+80,43 Watsons Road,"Sold $485,000 in May 2019", , ,House: 3  1  2 ,Land size: 628 sqm
+81,27 Veronica Avenue,"Sold $405,000 in May 2019","Last Sold $239,000 in Nov 2008", ,House: 3  1  4 ,Land size: 535 sqm
+82,15 Breadalbane Street,"Sold $418,500 in May 2019", ,Rent $320pw in Aug 2019,House: 4  1  1 ,Land size: 631 sqm
+83,134-136 PORTARLINGTON Road,"Sold $650,000 in May 2019","Last Sold $128,000 in Feb 1999", ,House: 4  2  2 ,"Land size: 1,447 sqm"
+84,1/20 Wilsons Road,"Sold $357,500 in May 2019", ,Rent $390pw in May 2019,House: 4  1  1 ,Land size: 275 sqm
+85,1-4/12 Hillford Street,"Sold $1,123,500 in Apr 2019", , , , 
+86,11 Charlotte Avenue,"Sold $330,000 in Apr 2019","Last Sold $265,000 in Mar 2015", ,House: 3  1  ,Land size: 383 sqm
+87,43 Anthony Street,"Sold $429,000 in Apr 2019","Last Sold $194,000 in Aug 2003", ,House: 3  1  1 ,Land size: 833 sqm
+88,48 Charles Street,"Sold $430,000 in Apr 2019", , ,House: 3  1  2 ,Land size: 587 sqm
+89,5/29-31 Boundary Road,"Sold $334,000 in Apr 2019","Last Sold $235,000 in Mar 2013", , ,Land size: 89 sqm
+90,9 Myrtle Avenue,"Sold $445,000 in Apr 2019","Last Sold $210,100 in Jun 2003", ,House: 3  1  4 ,Land size: 673 sqm
+91,5/29 Boundary Road,"Sold $334,000 in Apr 2019","Last Sold $235,000 in Mar 2013", , ,Land size: 89 sqm
+92,6/51-53 Helms Street,"Sold $350,000 in Mar 2019","Last Sold $245,000 in Oct 2012", , ,Land size: 243 sqm
+93,2 Lancaster Avenue,"Sold $350,000 in Mar 2019","Last Sold $325,000 in Nov 2014(Auction)", ,House: 3  1  1 ,Land size: 120 sqm | Building size: 118 sqm
+94,28 Glover Street,"Sold $500,000 in Mar 2019", , ,House: 3  1  5 ,Land size: 724 sqm
+95,1 Myrtle Avenue,"Sold $462,000 in Mar 2019","Last Sold $139,000 in Sep 2002", ,House: 4  2  5 ,Land size: 544 sqm
+96,118 Portarlington Road,"Sold $380,000 in Mar 2019","Last Sold $242,000 in May 2014", ,House: 3  1  ,Land size: 535 sqm
+97,16 Neptune Avenue,"Sold $385,000 in Mar 2019","Last Sold $290,000 in Apr 2017", ,House: 3  1  ,Land size: 539 sqm
+98,12A Brayshay Road,"Sold $416,000 in Mar 2019","Last Sold $337,000 in Oct 2016", ,Townhouse: 3  2  1 ,Land size: 359 sqm
+99,2/3 Saltpan Place,"Sold $357,000 in Feb 2019","Last Sold $195,000 in Jan 2005", , ,Land size: 178 sqm
+100,12 Portarlington Road,"Sold $570,000 in Feb 2019","Last Sold $240,000 in Sep 2009", ,House: 3  2  1 ,Land size: 776 sqm
+101,28 Neptune Avenue,"Sold $460,000 in 25 Feb 2019(Auction)","Last Sold $163,000 in Dec 2005", ,House: 4  2  2 ,Land size: 535 sqm
+102,14 Carinya Avenue,"Sold $366,000 in Feb 2019","Last Sold $81,000 in Feb 2000", ,House: 3  1  1 ,Land size: 621 sqm
+103,4/53 Anthony Street,"Sold $405,000 in Feb 2019","Last Sold $80,000 in Jun 2005", , ,Land size: 355 sqm
+104,12 Cecil Court,"Sold $480,000 in 09 Feb 2019(Auction)", ,Rent $370pw in Mar 2019,House: 3  1  4 ,"Land size: 1,176 sqm"
+105,7 Brayshay Road,"Sold $475,000 in Feb 2019","Last Sold $310,000 in Nov 2014", ,House: 3  1  2 ,Land size: 664 sqm | Building size: 128 sqm
+106,17 Dorward Avenue,"Sold $400,000 in Feb 2019", , ,House: 3  1  1 ,Land size: 588 sqm
+107,16 Bayfield Court,"Sold $527,000 in Feb 2019","Last Sold $89,000 in Jul 2003", ,House: 3  2  1 ,Land size: 807 sqm | Building size: 260 sqm
+108,9 Bayfield Court,"Sold $550,000 in Jan 2019","Last Sold $385,000 in May 2007", ,House: 4  2  3 ,Land size: 848 sqm
+109,48 Anthony Street,"Sold $591,000 in Jan 2019","Last Sold $369,000 in May 2016", ,House: 4  2  1 ,Land size: 777 sqm
+110,52 Anthony Street,"Sold $400,000 in Jan 2019","Last Sold $199,000 in Feb 2000", ,House: 3  1  3 ,Land size: 771 sqm | Building size: 141 sqm
+111,3 Pluto Court,"Sold $370,000 in Jan 2019", , ,House: 2  1  1 ,Land size: 558 sqm
+112,8 Helms Street,"Sold $425,000 in Jan 2019","Last Sold $120,000 in Apr 2002", ,House: 4  1  2 ,Land size: 625 sqm
+113,64 Wilton Avenue,"Sold $324,000 in Dec 2018", , , ,Land size: 654 sqm
+114,2 Cecil Court,"Sold $460,000 in Dec 2018","Last Sold $232,000 in Dec 2005", ,House: 4  1  2 ,Land size: 666 sqm | Building size: 176 sqm
+115,1/23 Glover Street,"Sold $431,000 in Dec 2018", , , ,Land size: 343 sqm
+116,2/11 Gibbs Street,"Sold $400,000 in Dec 2018","Last Sold $290,000 in Sep 2013", ,Townhouse: 2  1  1 ,Land size: 255 sqm | Building size: 96 sqm
+117,1/25 Boundary Road,"Sold $280,000 in 19 Dec 2018(Auction)","Last Sold $189,000 in Jul 2009", , ,Land size: 108 sqm | Building size: 85 sqm
+118,2 Bain Court,"Sold $450,000 in Dec 2018","Last Sold $82,000 in Jul 1989", ,House: 3  1  1 ,Land size: 739 sqm
+119,10 Dorcas Street,"Sold $347,500 in Dec 2018","Last Sold $195,000 in Dec 2014", , ,Land size: 129 sqm
+120,26 Glover Street,"Sold $500,000 in 01 Dec 2018(Auction)","Last Sold $305,000 in May 2010", ,House: 3  1  3 ,Land size: 725 sqm
+121,2/8-10 Breadalbane Street,"Sold $410,000 in Nov 2018","Last Sold $271,000 in Feb 2009", ,Townhouse: 3  1  2 ,Land size: 323 sqm
+122,1 Sally Court,"Sold $390,000 in Nov 2018","Last Sold $83,500 in Sep 2000", ,House: 3  1  2 ,Land size: 535 sqm
+123,13 Poplar Street,"Sold $521,000 in 24 Nov 2018(Auction)", ,Rent $340pw in Jan 2019,House: 3  1  4 ,Land size: 692 sqm
+124,13a Hinchcliff Crescent,"Sold $470,000 in Nov 2018", , ,Townhouse: 3  2  1 ,Land size: 363 sqm
+125,37 Wilton Avenue,"Sold $381,500 in Nov 2018","Last Sold $223,000 in Nov 2007", ,House: 3  1  2 ,Land size: 356 sqm
+126,48 Wilsons Road,"Sold $405,000 in Nov 2018", , ,House: 3  1  4 ,Land size: 672 sqm
+127,48 Willsons Road,"Sold $405,000 in Nov 2018", , , , 
+128,9 Ivy Street,"Sold $546,000 in Nov 2018","Last Sold $276,000 in Jun 2012", ,House: 3  1  4 ,Land size: 639 sqm | Building size: 115 sqm
+129,60 Wilton Avenue,"Sold $390,000 in 17 Nov 2018(Auction)", , , ,Land size: 656 sqm
+130,3 Ferry Grove,"Sold $502,500 in Nov 2018", ,Rent $375pw in Oct 2019,House: 3  1  4 ,Land size: 703 sqm
+131,7/29-31 Boundary Road,"Sold $335,000 in Nov 2018","Last Sold $188,000 in Oct 2012", ,Townhouse: 2  1  1 ,Land size: 91 sqm
+132,2 Murray Street,"Sold $410,000 in Nov 2018","Last Sold $320,000 in Jan 2017", ,House: 2  1  1 ,Land size: 365 sqm
+133,7/29 Boundary Road,"Sold $335,000 in Nov 2018","Last Sold $188,000 in Oct 2012", , ,Land size: 91 sqm
+134,124 Wilsons Road,"Sold $525,000 in 03 Nov 2018(Auction)","Last Sold $290,000 in Apr 2013", ,House: 3  1  2 ,Land size: 669 sqm | Building size: 6215 sqm
+135,2/68 Watsons Road,"Sold $361,000 in Oct 2018","Last Sold $267,000 in Oct 2013", , ,Land size: 166 sqm
+136,47 Mercury Crescent,"Sold $420,000 in Oct 2018","Last Sold $315,000 in Jul 2016", ,House: 3  1  2 ,Land size: 827 sqm | Building size: 104 sqm
+137,6 Andrew Street,"Sold $360,000 in 13 Oct 2018(Auction)","Last Sold $230,000 in Dec 2013", ,House: 3  1  3 ,Land size: 538 sqm
+138,15 Anthony Street,"Sold $465,000 in Sep 2018","Last Sold $274,000 in Dec 2010", ,House: 3  1  2 ,Land size: 776 sqm | Building size: 119 sqm
+139,2/126 Wilsons Road,"Sold $350,000 in Sep 2018","Last Sold $270,000 in Apr 2013", , ,Land size: 205 sqm
+140,1 Glover Street,"Sold $501,000 in Sep 2018","Last Sold $52,000 in Mar 1985", ,House: 3  1  2 ,Land size: 648 sqm
+141,12 Watsons Road,"Sold $551,000 in Sep 2018","Last Sold $300,000 in Dec 2013", ,House: 4  1  2 ,Land size: 604 sqm
+142,14 Portarlington Road,"Sold $596,400 in Sep 2018","Last Sold $345,000 in Feb 2008", ,House: 3  1  2 ,Land size: 819 sqm
+143,45 Andrew Street,"Sold $407,000 in Sep 2018","Last Sold $55,000 in Dec 1987", ,House: 3  1  3 ,Land size: 543 sqm
+144,26 Gibbs Street,"Sold $411,000 in Sep 2018","Last Sold $162,000 in Mar 2006", ,House: 3  1  1 ,Land size: 554 sqm
+145,18 Charlotte Avenue,"Sold $543,000 in 15 Sep 2018(Auction)","Last Sold $74,000 in Aug 2000", ,House: 2  1  1 ,Land size: 609 sqm
+146,118 Helms Street,"Sold $550,000 in 10 Sep 2018(Auction)","Last Sold $355,000 in Nov 2011", ,House: 3  2  2 ,Land size: 816 sqm | Building size: 157 sqm
+147,6 Bain Court,"Sold $505,000 in Sep 2018","Last Sold $305,000 in Apr 2011", ,House: 3  1  2 ,Land size: 721 sqm
+148,12a Cheltenham Road,"Sold $452,000 in Sep 2018","Last Sold $355,000 in Oct 2016", ,Townhouse: 3  2  1 ,Land size: 252 sqm
+149,149 Bellarine Highway,"Sold $780,000 in Sep 2018", ,Rent $300pw in Dec 2018, ,"Land size: 3,871 sqm"
+150,1a Charles Street,"Sold $435,000 in Aug 2018","Last Sold $312,500 in Apr 2013", ,Townhouse: 2  1  2 ,Land size: 267 sqm
+151,20 Charlotte Avenue,"Sold $436,000 in 18 Aug 2018(Auction)","Last Sold $185,000 in Aug 2003", ,House: 3  1  1 ,Land size: 613 sqm
+152,74 Bellarine Highway,"Sold $452,000 in 04 Aug 2018(Auction)","Last Sold $190,000 in Jun 2006", ,House: 2  1  6 ,Land size: 787 sqm
+153,2 Adzar Road,"Sold $540,000 in 01 Aug 2018(Auction)","Last Sold $212,000 in Feb 2000", ,House: 3  1  4 ,Land size: 706 sqm
+154,48 Richard Street,"Sold $473,300 in Jul 2018","Last Sold $305,000 in Jul 2011", ,House: 4  2  3 ,Land size: 640 sqm
+155,17 Brayshay Road,"Sold $525,000 in Jul 2018","Last Sold $210,000 in Dec 2005", ,House: 3  1  2 ,Land size: 664 sqm | Building size: 113 sqm
+156,9/51 Helms Street,"Sold $440,000 in Jul 2018","Last Sold $330,000 in Jan 2012", , ,Land size: 528 sqm
+157,13 Miller Street,"Sold $440,000 in 14 Jul 2018(Auction)","Last Sold $190,000 in Apr 2004", ,House: 3  1  2 ,Land size: 661 sqm
+158,22 Brayshay Road,"Sold $480,000 in Jul 2018","Last Sold $240,000 in Jul 2011", ,House: 2  1  2 ,Land size: 664 sqm
+159,47 Pitman Street,"Sold $407,500 in Jul 2018","Last Sold $257,500 in Dec 2012", ,House: 3  1  3 ,Land size: 395 sqm
+160,34 Hibiscus Crescent,"Sold $390,000 in Jul 2018","Last Sold $278,000 in Jan 2014", ,House: 4  1  1 ,Land size: 536 sqm
+161,151 Boundary Road,"Sold $441,000 in Jul 2018","Last Sold $280,000 in Dec 2011", ,House: 3  1  1 ,Land size: 596 sqm | Building size: 142 sqm
+162,10 Pitman Street,"Sold $452,000 in Jul 2018","Last Sold $72,500 in Apr 2000", ,House: 3  1  2 ,Land size: 592 sqm
+163,22 Wilton Avenue,"Sold $508,000 in 30 Jun 2018(Auction)", ,Rent $380pw in Jan 2019,House: 3  1  2 ,Land size: 654 sqm
+164,16 Charles Street,"Sold $462,500 in 30 Jun 2018(Auction)","Last Sold $82,000 in Jul 1993", ,House: 2  1  1 ,Land size: 594 sqm
+165,1/5-7 Lindel Street,"Sold $400,000 in Jun 2018","Last Sold $315,000 in Aug 2014", ,House: 3  2  2 ,Land size: 267 sqm
+166,59 Brayshay Road,"Sold $470,000 in Jun 2018", , ,House: 3  1  1 ,Land size: 669 sqm
+167,3 Baybreeze Close,"Sold $520,000 in Jun 2018","Last Sold $129,000 in Sep 2005", ,House: 3  2  2 ,Land size: 610 sqm | Building size: 174 sqm
+168,2/11 Ivanhoe Court,"Sold $345,000 in Jun 2018", , ,House: 2  1  1 ,Land size: 258 sqm
+169,9/118 Bellarine Highway,"Sold $327,000 in Jun 2018", , , , 
+170,1/55 Anthony Street,"Sold $380,000 in Jun 2018","Last Sold $280,000 in Jul 2015", , ,Land size: 365 sqm | Building size: 104 sqm
+171,131 Wilsons Road,"Sold $470,000 in Jun 2018","Last Sold $210,000 in Nov 2003", ,House: 3  2  2 ,Land size: 690 sqm
+172,12b Cheltenham Road,"Sold $455,000 in Jun 2018", , ,Townhouse: 3  2  1 ,Land size: 242 sqm
+173,63 Neptune Avenue,"Sold $420,000 in May 2018","Last Sold $275,000 in Apr 2012", ,House: 3  1  2 ,Land size: 534 sqm | Building size: 13 sqm
+174,3/68 Bellarine Highway,"Sold $315,000 in May 2018","Last Sold $275,000 in Jan 2017", , ,Land size: 194 sqm | Building size: 97 sqm
+175,19 Cheltenham Road,"Sold $417,000 in May 2018","Last Sold $280,000 in Mar 2009", , ,Land size: 309 sqm | Building size: 110 sqm
+176,12 Carinya Avenue,"Sold $455,000 in May 2018","Last Sold $265,000 in May 2016", ,House: 3  1  1 ,Land size: 586 sqm | Building size: 106 sqm
+177,31 Watsons Road,"Sold $460,000 in May 2018","Last Sold $296,000 in Oct 2013(Auction)", ,House: 3  1  2 ,Land size: 661 sqm
+178,13 Lancaster Avenue,"Sold $488,000 in May 2018","Last Sold $132,500 in Jan 2016", ,House: 2  1  1 ,Land size: 353 sqm
+179,9 Vega Court,"Sold $443,000 in May 2018","Last Sold $65,200 in Oct 1986", ,House: 3  1  2 ,Land size: 602 sqm | Building size: 100 sqm
+180,8 Cheltenham Road,"Sold $535,000 in May 2018","Last Sold $177,000 in Apr 2005", ,House: 3  1  2 ,Land size: 773 sqm | Building size: 110 sqm
+181,13 Saturn Street,"Sold $402,000 in May 2018","Last Sold $75,000 in Sep 1991", ,House: 3  1  1 ,Land size: 534 sqm
+182,5/3 Rose Court,"Sold $190,000 in May 2018","Last Sold $132,000 in Feb 2010", ,House: 1  1  1 ,Land size: 67 sqm
+183,93 Boundary Road,"Sold $495,000 in 05 May 2018(Auction)", ,Rent $500pw in May 2019,House: 3  2  1 ,Land size: 941 sqm
+184,6 Ising Street,"Sold $499,000 in May 2018","Last Sold $68,900 in Feb 1986", ,House: 4  2  2 ,Land size: 711 sqm
+185,31 Wilton Avenue,"Sold $500,000 in May 2018","Last Sold $260,000 in Feb 2012", ,House: 3  1  2 ,Land size: 656 sqm
+186,12 Banksia Court,"Sold $419,000 in May 2018","Last Sold $81,000 in Jan 2001", ,House: 3  1  1 ,Land size: 557 sqm
+187,14 Charlotte Avenue,"Sold $650,000 in May 2018","Last Sold $395,100 in Mar 2012", ,House: 4  1  2 ,Land size: 771 sqm | Building size: 179 sqm
+188,7/133 Helms Street,"Sold $315,000 in Apr 2018","Last Sold $182,500 in Jan 2008", , ,Land size: 157 sqm | Building size: 71 sqm
+189,37 Anthony Street,"Sold $526,500 in Apr 2018", ,Rent $380pw in Jun 2019,House: 3  1  2 ,Land size: 833 sqm
+190,18 Boronia Street,"Sold $506,000 in Apr 2018","Last Sold $187,000 in Sep 2006", ,House: 3  1  1 ,Land size: 585 sqm
+191,3/20 Saturn Street,"Sold $325,000 in Apr 2018","Last Sold $210,000 in Mar 2010", , ,Land size: 158 sqm
+192,7-8 Alma Court,"Sold $540,000 in Apr 2018", ,Rent $370pw in Apr 2019,House: 3  1  4 ,Land size: 939 sqm
+193,10 Andrew Street,"Sold $425,000 in Apr 2018","Last Sold $120,000 in Jun 2002", ,House: 3  2  4 ,Land size: 559 sqm | Building size: 100 sqm
+194,3/6 Tilly Court,"Sold $240,000 in Apr 2018","Last Sold $180,000 in May 2015", , ,Land size: 118 sqm
+195,2/17 Lancaster Avenue,"Sold $375,000 in Apr 2018","Last Sold $300,000 in Mar 2012", ,Townhouse: 3  2  2 ,Land size: 336 sqm
+196,40 Coppards Road,"Sold $750,000 in Mar 2018","Last Sold $475,000 in Sep 2006", ,House: 3  2  5 ,"Land size: 4,053 sqm"
+197,16 Andrew Street,"Sold $395,000 in Mar 2018", , ,House: 3  1  1 ,Land size: 610 sqm
+198,1 & 3 Lindel Street,"Sold $950,000 in Mar 2018", , ,House: 4  2  1 , 
+199,34 Portarlington Road,"Sold $463,000 in Mar 2018", ,Rent $340pw in Aug 2015,House: 3  2  3 ,Land size: 651 sqm
+200,35 Wilsons Road,"Sold $502,500 in Mar 2018","Last Sold $270,000 in Aug 2009", ,House: 3  1  2 ,Land size: 628 sqm | Building size: 115 sqm
+201,2/6 Hillford Street,"Sold $361,000 in Mar 2018","Last Sold $265,000 in Aug 2012", , ,Land size: 207 sqm
+202,16 Lucas Street,"Sold $420,000 in Mar 2018","Last Sold $256,000 in May 2014(Auction)", ,House: 3  1  3 ,Land size: 576 sqm
+203,18 Lucas Street,"Sold $425,000 in Mar 2018","Last Sold $190,000 in Mar 2013(Auction)", ,House: 3  1  1 ,Land size: 576 sqm | Building size: 101 sqm
+204,4/52-54 Wilton Avenue,"Sold $340,000 in Mar 2018","Last Sold $94,000 in Jul 1989", , ,Land size: 178 sqm
+205,1 Cassia Court,"Sold $410,000 in Mar 2018","Last Sold $250,500 in Apr 2016", ,House: 3  2  1 ,Land size: 604 sqm | Building size: 120 sqm
+206,4 Bellarine Highway,"Sold $403,000 in Mar 2018","Last Sold $215,000 in Jan 2004", ,House: 3  1  4 ,Land size: 610 sqm
+207,4 Cheltenham Road,"Sold $555,000 in Mar 2018","Last Sold $280,000 in Sep 2007", ,House: 3  1  4 ,Land size: 762 sqm | Building size: 111 sqm
+208,2/5 Charlotte Avenue,"Sold $365,000 in Feb 2018", ,Rent $330pw in Dec 2015,Townhouse: 2  1  1 ,Land size: 154 sqm
+209,40 Wilsons Road,"Sold $472,500 in Feb 2018","Last Sold $275,000 in Nov 2014", ,House: 4  1  1 ,Land size: 664 sqm
+210,33 Richard Street,"Sold $440,000 in Feb 2018","Last Sold $77,000 in Apr 2001", ,House: 3  1  1 ,Land size: 544 sqm
+211,2/30 Breadalbane Street,"Sold $371,250 in Jan 2018", ,Rent $340pw in Nov 2018,House: 3  1  1 ,Land size: 297 sqm
+212,45 Wilton Avenue,"Sold $471,000 in Jan 2018", ,Rent $330pw in Apr 2018,House: 3  1  2 ,Land size: 656 sqm
+213,2/11 Greenwood Street,"Sold $435,000 in Jan 2018", , ,Townhouse: 3  2  1 , 
+214,3/25 Boundary Road,"Sold $286,500 in Dec 2017","Last Sold $165,000 in Jul 2004", , ,Land size: 100 sqm
+215,25 Brayshay Road,"Sold $420,000 in Dec 2017","Last Sold $305,000 in Jun 2008", ,House: 4  1  1 ,Land size: 641 sqm
+216,42 Helms Street,"Sold $469,000 in 16 Dec 2017(Auction)","Last Sold $186,000 in Jan 2005", ,House: 3  1  1 ,Land size: 808 sqm
+217,3/1 Fern Street,"Sold $355,000 in 09 Dec 2017(Auction)", , , ,Land size: 5 sqm
+218,11 Andrew Street,"Sold $355,000 in 09 Dec 2017(Auction)","Last Sold $268,000 in Oct 2012", ,House: 3  1  3 ,Land size: 544 sqm
+219,7/14-16 Lindsay Street,"Sold $192,000 in Dec 2017","Last Sold $116,000 in Mar 2005", , ,Land size: 64 sqm
+220,1/30 Breadalbane Street,"Sold $321,150 in Dec 2017", ,Rent $295pw in May 2020,House: 3  1  1 ,Land size: 282 sqm
+221,24 Watsons Road,"Sold $445,000 in 06 Dec 2017(Auction)","Last Sold $310,000 in Nov 2011", ,House: 3  1  1 ,Land size: 593 sqm | Building size: 109 sqm
+222,4/2-4 Morpeth Street,"Sold $215,000 in Nov 2017", ,Rent $210pw in Feb 2017, ,Land size: 64 sqm
+223,26 Ivy Street,"Sold $357,178 in Nov 2017","Last Sold $246,000 in Sep 2011(Auction)", ,House: 3  1  2 ,Land size: 351 sqm
+224,4 Carol Court,"Sold $457,500 in Nov 2017","Last Sold $220,000 in Jun 2008", ,House: 3  1  1 ,Land size: 845 sqm | Building size: 110 sqm
+225,2/55 Anthony Street,"Sold $335,000 in Nov 2017","Last Sold $280,000 in Jan 2014", , ,Land size: 320 sqm
+226,37 Mercury Crescent,"Sold $341,000 in Nov 2017","Last Sold $235,000 in Jul 2014", ,House: 3  1  2 ,Land size: 534 sqm | Building size: 106 sqm
+227,11 Morpeth Street,"Sold $422,000 in Nov 2017","Last Sold $329,000 in May 2014", ,Townhouse: 3  2  2 ,Land size: 394 sqm
+228,4 Murray Street,"Sold $354,000 in Nov 2017", , ,House: 2  1  1 ,Land size: 351 sqm
+229,34 Miller Street,"Sold $380,000 in Nov 2017","Last Sold $275,000 in Apr 2012", ,House: 3  1  2 ,Land size: 430 sqm | Building size: 99 sqm
+230,36 Wilson Road,"Sold $426,000 in Nov 2017", , , , 
+231,36 Wilsons Road,"Sold $426,000 in 11 Nov 2017(Auction)","Last Sold $82,800 in Nov 1998", ,House: 3  1  1 ,Land size: 664 sqm
+232,5 Neptune Avenue,"Sold $385,000 in Nov 2017","Last Sold $73,000 in Nov 2000", ,House: 3  1  2 ,Land size: 534 sqm
+233,42 Wilton Avenue,"Sold $440,000 in 11 Nov 2017(Auction)","Last Sold $180,000 in Feb 2008", ,House: 2  1  ,Land size: 655 sqm | Building size: 94 sqm
+234,2 Watsons Road,"Sold $530,000 in Nov 2017","Last Sold $222,500 in Feb 2000", ,House: 5  2  2 ,Land size: 645 sqm
+235,40 Wilton Avenue,"Sold $425,000 in Nov 2017","Last Sold $116,500 in Jun 2001", ,House: 3  1  ,Land size: 655 sqm
+236,23 Boundary Road,"Sold $540,000 in 28 Oct 2017(Auction)","Last Sold $240,000 in Sep 2007", ,House: 4  2  2 ,Land size: 736 sqm
+237,6 Johnston Avenue,"Sold $385,000 in 28 Oct 2017(Auction)","Last Sold $188,500 in Dec 2008", ,House: 3  1  1 ,Land size: 606 sqm
+238,2/56 Pitman Street,"Sold $330,000 in Oct 2017", ,Rent $345pw in Sep 2016, ,Land size: 278 sqm
+239,127 Helms Street,"Sold $467,000 in 21 Oct 2017(Auction)", ,Rent $400pw in Dec 2017,House: 3  2  5 ,Land size: 679 sqm
+240,23 Lucas Street,"Sold $396,000 in 21 Oct 2017(Auction)","Last Sold $179,000 in Apr 2007", ,House: 3  1  1 ,Land size: 542 sqm
+241,32 Dorward Avenue,"Sold $455,000 in Oct 2017","Last Sold $271,000 in Jan 2012", ,House: 3  1  1 ,Land size: 566 sqm | Building size: 116 sqm
+242,3/57-59 Wilsons Road,"Sold $283,000 in Oct 2017","Last Sold $250,000 in Mar 2013", ,House: 2  1  1 ,Land size: 134 sqm
+243,10A Hillford Street,"Sold $416,000 in Oct 2017", ,Rent $360pw in May 2015,House: 3  2  1 ,Land size: 350 sqm
+244,2/48 Hibiscus Crescent,"Sold $255,000 in Oct 2017","Last Sold $172,500 in Aug 2009", , ,Land size: 107 sqm
+245,14 Helms Street,"Sold $420,000 in Oct 2017","Last Sold $184,000 in Feb 2000", ,House: 3  1  2 ,Land size: 549 sqm
+246,3 Carol Court,"Sold $430,000 in Oct 2017","Last Sold $211,000 in Sep 2009", ,House: 3  1  1 ,Land size: 833 sqm
+247,2/20 Saturn Street,"Sold $296,000 in Oct 2017", ,Rent $270pw in Dec 2015, ,Land size: 232 sqm
+248,69 Neptune Avenue,"Sold $325,000 in Sep 2017","Last Sold $192,000 in Feb 2004", ,House: 3  1  4 ,Land size: 563 sqm
+249,2/3 Rose Court,"Sold $188,000 in Sep 2017","Last Sold $140,002 in Mar 2010(Auction)", , ,Land size: 67 sqm
+250,10B Hillford Street,"Sold $416,000 in Sep 2017", ,Rent $370pw in Aug 2018,House: 3  2  1 ,Land size: 364 sqm
+251,96 Helms Street,"Sold $482,000 in Sep 2017", ,Rent $380pw in Oct 2017,House: 3  1  6 ,Land size: 822 sqm
+252,3/55 Anthony Street,"Sold $345,000 in Sep 2017","Last Sold $235,000 in Jun 2008", ,House: 3  1  1 ,Land size: 331 sqm | Building size: 100 sqm
+253,139 Boundary Road,"Sold $335,000 in Aug 2017","Last Sold $215,000 in Jun 2010", ,House: 3  1  1 ,Land size: 392 sqm | Building size: 110 sqm
+254,2/7 Saturn Street,"Sold $285,000 in Aug 2017", ,Rent $295pw in Sep 2016,Townhouse: 2  1  1 ,Land size: 131 sqm
+255,2 Pluto Court,"Sold $310,000 in Aug 2017","Last Sold $210,000 in Nov 2007", , ,Land size: 539 sqm | Building size: 98 sqm
+256,67 Wilsons Road,"Sold $385,000 in Aug 2017","Last Sold $265,000 in Nov 2015", ,House: 3  1  3 ,Land size: 623 sqm | Building size: 106 sqm
+257,10 Glover Street,"Sold $416,000 in 19 Aug 2017(Auction)","Last Sold $262,000 in Sep 2011(Auction)", ,House: 3  1  2 ,Land size: 696 sqm | Building size: 130 sqm
+258,1/94 Helms Street,"Sold $300,000 in Aug 2017", , , ,Land size: 259 sqm
+259,54 Helms Street,"Sold $424,000 in 12 Aug 2017(Auction)", , ,House: 3  1  2 ,Land size: 822 sqm
+260,3 Adzar Road,"Sold $395,000 in Aug 2017","Last Sold $267,000 in Aug 2007", ,Townhouse: 3  2  2 ,Land size: 300 sqm
+261,9 Breadalbane Street,"Sold $350,000 in Aug 2017","Last Sold $170,500 in Jul 2004", ,House: 3  1  1 ,Land size: 631 sqm
+262,24 Coppards Road,"Sold $770,000 in Aug 2017","Last Sold $490,000 in Aug 2006", ,House: 4  2  1 ,"Land size: 4,043 sqm"
+263,1/126 Wilsons Road,"Sold $319,000 in Aug 2017","Last Sold $295,000 in Mar 2013", , ,Land size: 253 sqm
+264,1/7 Johnston Avenue,"Sold $342,000 in Aug 2017", ,Rent $300pw in Jun 2013,Townhouse: 2  1  1 ,Land size: 260 sqm
+265,3 Banksia Court,"Sold $375,000 in Jul 2017", ,Rent $275pw in Nov 2014,House: 3  1  1 ,Land size: 542 sqm
+266,1/35 Ivy Street,"Sold $230,000 in Jul 2017","Last Sold $72,500 in Apr 1989", , ,Land size: 412 sqm
+267,2/34 Glover Street,"Sold $327,000 in Jul 2017","Last Sold $300,000 in Aug 2015", ,Townhouse: 3  1  1 ,Land size: 247 sqm
+268,2 Begonia Court,"Sold $380,000 in Jul 2017", ,Rent $310pw in Oct 2017,House: 3  1  1 ,Land size: 734 sqm
+269,24 Coulter Street,"Sold $720,000 in 15 Jul 2017(Auction)","Last Sold $136,500 in Jul 1995", ,House: 3  2  15 ,"Land size: 4,026 sqm"
+270,17 Bayfield Court,"Sold $350,000 in Jul 2017","Last Sold $89,000 in May 2003", ,House: 3  1  3 ,Land size: 799 sqm | Building size: 99 sqm
+271,2/13 Charlotte Avenue,"Sold $403,000 in Jul 2017", , ,House: 3  2  2 ,Land size: 409 sqm
+272,11 Greenwood Street,"Sold $294,000 in Jul 2017","Last Sold $93,000 in Dec 2001", ,House: ,Land size: 619 sqm
+273,28 Wilsons Road,"Sold $350,000 in Jul 2017","Last Sold $186,000 in Feb 2000", ,House: 3  1  1 ,Land size: 664 sqm
+274,2/28 Brayshay Road,"Sold $318,000 in Jul 2017","Last Sold $275,000 in Sep 2009", ,Townhouse: 2  1  1 ,Land size: 360 sqm | Building size: 97 sqm
+275,2 Diosma Court,"Sold $330,000 in Jun 2017","Last Sold $195,000 in Nov 2008", ,House: 4  2  2 ,Land size: 700 sqm | Building size: 170 sqm
+276,110 Wilsons Road,"Sold $268,000 in Jun 2017","Last Sold $165,000 in Apr 2002", ,House: 3  1  ,Land size: 418 sqm | Building size: 95 sqm
+277,35 Ivy Street,"Sold $235,000 in Jun 2017","Last Sold $72,500 in Jun 1994", ,House: 2  1  1 ,Land size: 110 sqm
+278,18 Andrew Street,"Sold $361,000 in Jun 2017","Last Sold $166,000 in Aug 2007", ,House: 3  1  1 ,Land size: 618 sqm
+279,45 Richard Street,"Sold $348,000 in Jun 2017","Last Sold $212,525 in Feb 2015", ,House: 3  1  3 ,Land size: 537 sqm
+280,28 Breadalbane Street,"Sold $495,000 in Jun 2017", , ,House: 3  1  6 ,Land size: 711 sqm
+281,47 Boundary Road,"Sold $562,000 in 17 Jun 2017(Auction)","Last Sold $267,500 in May 2011", ,House: 4  1  1 ,Land size: 578 sqm | Building size: 138 sqm
+282,30 Wilsons Road,"Sold $400,000 in Jun 2017","Last Sold $84,500 in Aug 1995", ,House: ,Land size: 664 sqm | Building size: 130 sqm
+283,33 Mercury Crescent,"Sold $315,000 in Jun 2017","Last Sold $171,000 in Jun 2007", ,House: 3  1  1 ,Land size: 534 sqm | Building size: 100 sqm
+284,5 Ivanhoe Court,"Sold $400,000 in 10 Jun 2017(Auction)", , ,House: 3  1  3 ,Land size: 711 sqm
+285,2B Watsons Road,"Sold $345,000 in Jun 2017", ,Rent $320pw in Jun 2017,Townhouse: 2  1  1 ,Land size: 338 sqm
+286,1/6 Charlotte Avenue,"Sold $331,000 in Jun 2017","Last Sold $275,000 in Dec 2011", ,House: 3  1  ,Land size: 445 sqm
+287,52 Neptune Avenue,"Sold $355,000 in Jun 2017","Last Sold $210,000 in Jan 2009", ,House: 3  1  2 ,Land size: 733 sqm
+288,1 68 Wilsons Road,"Sold $560,000 in May 2017", , , , 
+289,1&2/68 Wilsons Road,"Sold $560,000 in May 2017","Last Sold $490,000 in Apr 2014", , ,Land size: 670 sqm
+290,1/68 Wilsons Road,"Sold $257,600 in May 2017", ,Rent $285pw in Sep 2017, ,Land size: 669 sqm | Building size: 82 sqm
+291,47 Anthony Street,"Sold $300,000 in May 2017", ,Rent $300pw in Aug 2017,House: 3  1  ,Land size: 832 sqm
+292,42 Glover Street,"Sold $521,000 in May 2017","Last Sold $342,500 in May 2012", ,House: 4  1  2 ,"Land size: 1,364 sqm"
+293,52 Charles Street,"Sold $465,000 in May 2017","Last Sold $300,000 in Mar 2011", , ,Land size: 513 sqm
+294,35 Anthony Street,"Sold $365,000 in May 2017", ,Rent $325pw in Jul 2017,House: 3  1  3 ,Land size: 822 sqm
+295,61 Boundary Road,"Sold $309,000 in May 2017","Last Sold $225,500 in Nov 2014", ,House: 3  1  2 ,Land size: 332 sqm
+296,1/7 Saturn Street,"Sold $315,000 in May 2017", ,Rent $370pw in Nov 2019,Townhouse: 3  1  1 ,Land size: 249 sqm
+297,54 Bellarine Highway,"Sold $387,000 in May 2017","Last Sold $140,000 in Apr 2002", ,House: 3  1  1 ,"Land size: 1,339 sqm"
+298,56 Bellarine Highway,"Sold $330,000 in May 2017","Last Sold $167,000 in Sep 2008", ,House: 2  1  1 ,Land size: 669 sqm | Building size: 99 sqm
+299,56 Portarlington Road,"Sold $206,000 in May 2017", , ,House: 2  1  1 ,Land size: 318 sqm

@@ -1,0 +1,301 @@
+,address,Sell Price,Sell Date,Auction,Last Sell Price,Last Sell Date,Rent Amount PW,Rent Date,Land Size SQM,Building Size SQM,Bedrooms,Toilets,Cars,Suburb
+0,25 Burleigh Drive," 585,000 ", Aug 2020,0," 375,000 ", Aug 2013, ,, 675  ,  184 ,3,2,2,Grovedale
+1,11 Maramba Avenue," 615,000 ", Aug 2020,0," 399,000 ", Sep 2013, ,, 624 ,,4,2,1,Grovedale
+2,2 Rau Court," 595,000 ", Aug 2020,0," 540,000 ", Aug 2017, ,, 727  ,  153 ,4,2,2,Grovedale
+3,5 Barry Court," 540,000 ", Aug 2020,0," 403,000 ", Dec 2015, ,, 511  ,  180 ,3,2,2,Grovedale
+4,8 Langham Court," 480,000 ", Aug 2020,0, ,, ,, 714 ,,3,1,2,Grovedale
+5,14 Carnarvon Drive," 518,000 ", Aug 2020,0," 75,000 ", Apr 1985, ,, 577 ,,3,3,1,Grovedale
+6,135 Grove Road," 715,000 ", 01 Aug 2020,1, ,, ,," 1,324 ",,0,0,0,Grovedale
+7,62 Smith Street," 567,000 ", Jul 2020,0," 405,000 ", Oct 2014, ,, 583  ,  167 ,4,2,2,Grovedale
+8,1/9 Rubens Court," 385,000 ", Jul 2020,0, ,, ,, 259 ,,0,0,0,Grovedale
+9,2/155 Heyers Road," 495,000 ", Jul 2020,0," 370,000 ", Jan 2014, ,, 359  ,  116 ,0,0,0,Grovedale
+10,43 Greenville Drive," 520,000 ", Jul 2020,0," 415,000 ", Jun 2017, ,, 680 ,,3,1,6,Grovedale
+11,2 Elinbank Drive," 490,000 ", Jul 2020,0," 240,000 ", Dec 2008, ,, 601  ,  128 ,3,2,2,Grovedale
+12,1 Torres Court," 412,000 ", Jul 2020,0," 331,000 ", May 2016, ,, 640 ,,3,2,2,Grovedale
+13,8 Eldine Court," 525,000 ", Jul 2020,0," 310,000 ", May 2011, ,, 694 ,,3,2,2,Grovedale
+14,27 Carstairs Close," 451,000 ", Jul 2020,0," 300,000 ", Jun 2011, ,, 406  ,  100 ,3,1,1,Grovedale
+15,1/13 Matthews Street," 475,000 ", Jul 2020,0," 341,000 ", Apr 2012, ,, 317  ,  127 ,3,2,2,Grovedale
+16,1/293 Torquay Road," 350,000 ", Jul 2020,0," 265,000 ", Feb 2000, ,, 227  ,  84 ,2,1,1,Grovedale
+17,8 Binalong Court," 545,500 ", Jul 2020,0, ,, ,, 597 ,,0,0,0,Grovedale
+18,11 Coventry Court," 473,000 ", Jul 2020,0," 213,000 ", Jul 2003, ,, 822 ,,4,1,2,Grovedale
+19,27 Beringa Avenue," 510,000 ", Jul 2020,0," 336,000 ", Apr 2015, ,, 630 ,,3,2,3,Grovedale
+20,58 Gloucester Street," 470,000 ", 11 Jul 2020,1," 51,000 ", Aug 1978, ,, 737  ,  150 ,3,2,2,Grovedale
+21,2 Torres Court," 617,000 ", Jul 2020,0," 349,000 ", May 2015, ,, 676 ,,3,2,4,Grovedale
+22,17 Hollows Court," 657,500 ", Jul 2020,0," 357,000 ", Sep 2007, ,, 658  ,  222 ,4,2,2,Grovedale
+23,149 ROSSACK Drive," 291,000 ", Jul 2020,0," 180,000 ", Dec 2015, ,, 400 ,,0,0,0,Grovedale
+24,134 Burdoo Drive," 460,000 ", Jul 2020,0," 225,000 ", Mar 2007, ,, 602  ,  145 ,3,1,2,Grovedale
+25,135 Rossack Drive," 655,000 ", Jul 2020,0, ,, ,, 447 ,,0,0,0,Grovedale
+26,208 Grove Road," 637,655 ", Jul 2020,0," 64,000 ", Mar 2001, ,, 648 ,,1,0,0,Grovedale
+27,192 Barwarre Road," 510,000 ", Jul 2020,0," 110,000 ", Aug 2005, ,, 531  ,  143 ,3,2,2,Grovedale
+28,6 Lansdowne Court," 520,000 ", Jul 2020,0," 67,720 ", Jul 1984, ,, 661 ,,0,0,0,Grovedale
+29,10 Patonga Crescent," 480,000 ", Jul 2020,0," 260,000 ", Oct 2009, ,, 576 ,,3,2,2,Grovedale
+30,40 Diaz Drive," 600,000 ", Jun 2020,0," 449,000 ", Feb 2015, ,, 571  ,  168 ,4,2,2,Grovedale
+31,14 Camira Court," 600,000 ", 28 Jun 2020,1," 379,000 ", Jun 2010, ,, 698 ,,3,2,2,Grovedale
+32,68 Greenville Drive," 469,000 ", Jun 2020,0," 150,000 ", Dec 2001, ,, 605  ,  129 ,3,2,2,Grovedale
+33,30 Manet Avenue," 570,000 ", Jun 2020,0," 330,000 ", Dec 2008, ,, 665  ,  140 ,3,2,2,Grovedale
+34,1/19 Bieske Road," 356,000 ", Jun 2020,0," 139,000 ", Feb 2002, ,, 139 ,,0,0,0,Grovedale
+35,13 Bieske Road," 600,000 ", Jun 2020,0," 71,000 ", Jul 1984, ,, 665 ,,4,1,1,Grovedale
+36,103 Burdoo Drive," 465,000 ", Jun 2020,0," 320,000 ", Jul 2011, ,, 600  ,  170 ,3,2,1,Grovedale
+37,1/17 Babra Court," 410,000 ", Jun 2020,0," 300,000 ", Jul 2016, ,, 346  ,  96 ,2,1,1,Grovedale
+38,189 Heyers Road," 632,500 ", Jun 2020,0," 487,000 ", Feb 2012, ,, 708 ,,4,2,2,Grovedale
+39,11 Portsmouth Crescent," 440,000 ", Jun 2020,0," 149,000 ", Oct 2002, ,, 578  ,  108 ,3,1,1,Grovedale
+40,153 Rossack Drive," 640,000 ", Jun 2020,0, ,, ,, 400 ,,4,2,2,Grovedale
+41,2 Longueville Lane," 530,000 ", Jun 2020,0," 82,000 ", Oct 1984, ,, 654 ,,0,0,0,Grovedale
+42,13 Coolalie Court," 375,000 ", Jun 2020,0," 325,000 ", Jan 2004, ,, 674  ,  270 ,5,2,2,Grovedale
+43,7 Jackson Court," 455,000 ", Jun 2020,0," 257,000 ", Sep 2004, ,, 395  ,  135 ,3,2,2,Grovedale
+44,4 Ellett Court," 665,000 ", Jun 2020,0," 510,000 ", Jul 2015, ,, 650 ,,4,2,2,Grovedale
+45,1 Waratah Place," 442,500 ", May 2020,0," 280,000 ", Sep 2015, ,, 412 ,,3,1,0,Grovedale
+46,24 Perrett Street," 555,000 ", May 2020,0," 460,000 ", Jan 2016, ,, 763 ,,4,2,2,Grovedale
+47,2 Parkview Court," 494,000 ", May 2020,0," 330,000 ", Dec 2016, ,, 677 ,,3,1,2,Grovedale
+48,9 Jenolan Avenue," 552,000 ", May 2020,0," 345,000 ", Oct 2011, ,, 796 ,,4,2,2,Grovedale
+49,4B Corowa Court," 440,000 ", May 2020,0, ,, ,, ,,3,2,1,Grovedale
+50,2 Tathra Court," 725,000 ", May 2020,0," 361,000 ", Feb 2011, ,, 754  ,  164 ,4,2,2,Grovedale
+51,48 Burdoo Drive," 527,500 ", May 2020,0," 270,000 ", Aug 2005, ,, 618 ,,3,2,2,Grovedale
+52,202 Heyers Road," 728,000 ", May 2020,0," 156,000 ", May 2007, ,, 700  ,  227 ,0,0,0,Grovedale
+53,12 Salford Court," 527,000 ", Apr 2020,0," 480,000 ", May 2018, ,, 650 ,,4,2,3,Grovedale
+54,1/25 Heyers Road," 445,000 ", Apr 2020,0," 312,000 ", Sep 2015, ,, 312  ,  102 ,2,1,1,Grovedale
+55,1/163 Heyers Road," 375,000 ", Apr 2020,0," 215,000 ", Dec 2007, ,, 267 ,,0,0,0,Grovedale
+56,12 Michael Court," 500,000 ", Apr 2020,0," 405,000 ", May 2016, ,, 512  ,  163 ,4,2,2,Grovedale
+57,17 Birkenhead Drive," 507,000 ", Apr 2020,0," 301,000 ", Jul 2011, ,, 599  ,  132 ,3,2,1,Grovedale
+58,1/56 Moruya Drive," 460,000 ", Mar 2020,0, ,, 410 , Apr 2020, ,,0,0,0,Grovedale
+59,3 Nevett Court," 560,000 ", Mar 2020,0, ,, ,, 699 ,,3,2,2,Grovedale
+60,2/82 Church Street," 382,500 ", Mar 2020,0," 82,000 ", Jan 1992, ,, 181 ,,0,0,0,Grovedale
+61,2/1 Holbein Court," 410,000 ", Mar 2020,0," 234,900 ", Aug 2003, ,, 340 ,,0,0,0,Grovedale
+62,5 Corowa Court," 602,500 ", 25 Mar 2020,1," 320,000 ", May 2008, ,, 998 ,,4,2,1,Grovedale
+63,16 Highfield Drive," 500,000 ", Mar 2020,0, ,, ,, 589 ,,0,0,0,Grovedale
+64,133 Heyers Road," 545,000 ", Mar 2020,0," 159,000 ", Jul 1998, ,, 649 ,,4,2,2,Grovedale
+65,5 Janmar Court," 723,000 ", Mar 2020,0," 114,000 ", May 2003, ,, 658 ,,0,0,0,Grovedale
+66,17 Kana Street," 475,000 ", Mar 2020,0, ,, ,, 543 ,,0,0,0,Grovedale
+67,2/1-2 Verdal Court," 385,000 ", Mar 2020,0," 170,000 ", Oct 2002, ,, 176 ,,0,0,0,Grovedale
+68,1 Suffolk Court," 538,000 ", Mar 2020,0, ,, ,, 686 ,,0,0,0,Grovedale
+69,3 Killarney Avenue," 582,000 ", Mar 2020,0," 380,000 ", Jul 2016, ,, 500 ,,3,2,2,Grovedale
+70,2/11 Matthews Street," 479,000 ", Mar 2020,0," 320,000 ", Sep 2011, ,, 414 ,,0,0,0,Grovedale
+71,5 Timbarra Court," 630,000 ", 14 Mar 2020,1," 548,500 ", Mar 2019, ,, 729  ,  154 ,4,2,0,Grovedale
+72,24 Fontaine Street," 590,000 ", Mar 2020,0," 238,000 ", Feb 2000, ,, 730 ,,4,2,2,Grovedale
+73,6 Torres Court," 542,000 ", Mar 2020,0," 50,000 ", Jan 1985, ,, 708 ,,3,1,1,Grovedale
+74,35 Moruya Drive," 547,000 ", Mar 2020,0," 280,000 ", Jun 2008, ,, 640 ,,4,2,2,Grovedale
+75,3/142 Church Street," 435,000 ", Mar 2020,0," 275,000 ", Feb 2016, ,," 1,309 ",,0,0,0,Grovedale
+76,154 Church Street," 590,000 ", Mar 2020,0," 395,000 ", May 2012, ,, 656  ,  182 ,4,2,3,Grovedale
+77,194 Bailey Street," 565,000 ", 29 Feb 2020,1," 52,500 ", Dec 2001, ,, 665 ,,0,0,0,Grovedale
+78,34 Peter Street," 505,000 ", Feb 2020,0," 120,000 ", Mar 2000, ,, 650 ,,3,1,1,Grovedale
+79,6 Hovell Court," 650,000 ", 22 Feb 2020,1," 365,000 ", Feb 2000, ,, 987 ,,1,2,2,Grovedale
+80,80 Bickford Road," 560,000 ", Feb 2020,0," 275,000 ", Aug 2003, ,, 653 ,,0,0,0,Grovedale
+81,2/31 Moruya Drive," 420,000 ", Feb 2020,0," 285,000 ", Jan 2015, ,, 234  ,  138 ,0,0,0,Grovedale
+82,20 Felix Street," 429,000 ", Feb 2020,0," 295,000 ", Dec 2011, ,, 626 ,,3,1,2,Grovedale
+83,9 Sheringa Crescent," 555,000 ", Feb 2020,0," 450,000 ", Sep 2017, ,, 633 ,,3,2,2,Grovedale
+84,2 Langham Court," 545,000 ", Feb 2020,0," 102,000 ", Dec 1997, ,, 651 ,,1,1,1,Grovedale
+85,20 Illouera Avenue," 565,000 ", Feb 2020,0," 379,000 ", Aug 2010, ,, 708 ,,4,2,2,Grovedale
+86,21 Pethajohn Parade," 635,000 ", Feb 2020,0," 78,000 ", Nov 2001, ,, 689 ,,0,0,0,Grovedale
+87,23 Killarney Avenue," 496,000 ", Feb 2020,0," 109,000 ", Feb 2000, ,, 449 ,,0,0,0,Grovedale
+88,11 Burke Court," 525,000 ", Feb 2020,0," 280,000 ", Dec 2009, ,, 652  ,  120 ,3,2,2,Grovedale
+89,6 Erindale Court," 535,000 ", Feb 2020,0," 365,000 ", Nov 2011, ,, 851 ,,3,1,2,Grovedale
+90,67 Wingarra Drive," 702,000 ", Feb 2020,0," 189,000 ", Mar 2014, ,, 650  ,  228 ,0,0,0,Grovedale
+91,3A Jutland Court," 397,000 ", Jan 2020,0, ,, 330 , Apr 2020, 320 ,,2,1,1,Grovedale
+92,8 Raphael Court," 585,000 ", Jan 2020,0," 351,000 ", Mar 2010, ,, 921 ,,3,2,2,Grovedale
+93,13-14 Annies Lane," 560,000 ", Jan 2020,0," 420,000 ", Mar 2015, ,, 518 ,,4,2,2,Grovedale
+94,7 Wyong Court," 570,000 ", Jan 2020,0," 340,000 ", Jun 2011, ,, 682 ,,3,2,3,Grovedale
+95,7 Felix Street," 483,000 ", Jan 2020,0," 315,000 ", Sep 2014, ,, 557  ,  122 ,3,1,1,Grovedale
+96,12 Ellesby Court," 570,000 ", Jan 2020,0," 130,002 ", Jun 2006, ,, 581 ,,4,2,1,Grovedale
+97,4 Rimbool Road," 484,000 ", Jan 2020,0," 233,000 ", Nov 2006, ,, 837 ,,3,1,3,Grovedale
+98,4 Pit Street," 515,000 ", Jan 2020,0," 290,000 ", Nov 2005, ,, 357 ,,3,2,2,Grovedale
+99,1 Allambee Avenue," 522,500 ", Jan 2020,0," 296,100 ", Apr 2013, ,, 613  ,  144 ,3,1,1,Grovedale
+100,33A Hindle Street," 425,000 ", Jan 2020,0, ,, ,, ,,0,0,0,Grovedale
+101,23 Michael Court," 555,000 ", Dec 2019,0," 342,000 ", Nov 2009, ,, 566  ,  190 ,4,2,2,Grovedale
+102,58 Moruya Drive," 520,000 ", Dec 2019,0," 253,000 ", Aug 2003, ,, 761 ,,4,2,2,Grovedale
+103,15/31 Meadowvale Drive," 440,000 ", Dec 2019,0, ,, 430 , Jan 2020, 199 ,,0,0,0,Grovedale
+104,20 Edna Way," 590,000 ", Dec 2019,0," 385,000 ", Oct 2010, ,, 642 ,,3,2,2,Grovedale
+105,123 Heyers Road," 460,000 ", Dec 2019,0," 350,000 ", Feb 2015, ,, 591  ,  183 ,4,2,1,Grovedale
+106,4 Mandama Avenue," 495,000 ", Dec 2019,0," 304,000 ", Feb 2013, ,, 576  ,  127 ,3,1,2,Grovedale
+107,4/46 Killarney Avenue," 450,000 ", Dec 2019,0, ,, ,, 224 ,,0,0,0,Grovedale
+108,40 Riatta Avenue," 505,000 ", Dec 2019,0," 255,000 ", Jul 2004, ,," 1,096 ",,4,1,1,Grovedale
+109,16 Brettim Boulevard," 540,000 ", Dec 2019,0, ,, ,, 342 ,,0,0,0,Grovedale
+110,1 Hartwick Court," 582,000 ", Dec 2019,0," 290,000 ", May 2006, ,, 733 ,,3,2,2,Grovedale
+111,8/31 Meadowvale Drive," 415,000 ", Dec 2019,0, ,, 430 , Dec 2019, 202 ,,3,2,1,Grovedale
+112,23 Mulholland Crescent," 385,000 ", 14 Dec 2019,1," 263,000 ", Mar 2008, ,, 605  ,  147 ,3,2,1,Grovedale
+113,8 Allambee Avenue," 627,500 ", Dec 2019,0," 357,000 ", Sep 2008, ,, 668 ,,4,2,2,Grovedale
+114,31 Burleigh Drive," 525,000 ", Dec 2019,0," 420,000 ", Apr 2017, ,, 667  ,  149 ,3,2,2,Grovedale
+115,21 Perennial Rise," 675,000 ", Dec 2019,0," 605,000 ", Nov 2017, ,, 695 ,,3,2,3,Grovedale
+116,78 Pioneer Road," 485,000 ", Dec 2019,0," 282,500 ", Mar 2010, ,, 582 ,,3,2,1,Grovedale
+117,53 Wingarra Drive," 505,000 ", Dec 2019,0," 350,000 ", Sep 2011, ,, 671  ,  161 ,4,2,4,Grovedale
+118,5/1 Perrett Street," 290,000 ", Dec 2019,0," 230,000 ", Sep 2014, ,, 134  ,  74 ,2,1,1,Grovedale
+119,10 Petkell Parade," 775,000 ", Dec 2019,0, ,, ,, 666 ,,5,3,2,Grovedale
+120,8 Moona Court," 525,000 ", Dec 2019,0," 315,000 ", Nov 2013, ,, 653 ,,3,1,1,Grovedale
+121,30 Param Street," 545,000 ", Nov 2019,0," 231,000 ", Mar 2003, ,, 651 ,,1,0,0,Grovedale
+122,18 Griffith Street," 550,000 ", Nov 2019,0," 340,000 ", Aug 2017, ,, 733 ,,4,2,2,Grovedale
+123,90 Heyers Road," 408,000 ", Nov 2019,0," 182,500 ", Sep 2005, ,, 696 ,,2,2,1,Grovedale
+124,31 Smith Street," 610,000 ", Nov 2019,0," 383,000 ", Jul 2011, ,, 570  ,  178 ,3,2,2,Grovedale
+125,17 Mulholland Crescent," 472,500 ", Nov 2019,0," 340,000 ", Sep 2015, ,, 601  ,  102 ,3,1,2,Grovedale
+126,76 Moruya Drive," 553,000 ", Nov 2019,0," 390,000 ", Feb 2014, ,, 634  ,  182 ,3,2,2,Grovedale
+127,11 Balblair Drive," 605,000 ", Nov 2019,0," 140,000 ", Jun 2007, ,, 667 ,,4,2,2,Grovedale
+128,19 Killarney Avenue," 480,000 ", Nov 2019,0," 355,000 ", Feb 2016, ,, 421 ,,3,2,1,Grovedale
+129,38 Param Street," 580,000 ", Nov 2019,0," 195,000 ", Nov 2000, ,, 654 ,,0,0,0,Grovedale
+130,6 Kerger Court," 497,000 ", Nov 2019,0, ,, 250 , Apr 2007, 933 ,,3,1,0,Grovedale
+131,1/49 Bieske Road," 425,000 ", Nov 2019,0, ,, 380 , Nov 2019, 289 ,,3,1,2,Grovedale
+132,29 Banksia Place," 630,000 ", Nov 2019,0," 216,000 ", Nov 2001, ,, 738 ,,4,2,2,Grovedale
+133,3/197 Torquay Road," 285,000 ", Nov 2019,0," 154,000 ", Apr 2004, ,, 107  ,  71 ,0,0,0,Grovedale
+134,5 Pethajohn Parade," 665,000 ", Nov 2019,0," 325,000 ", Nov 2005, ,, 689 ,,4,2,2,Grovedale
+135,15 Pioneer Road," 470,000 ", Nov 2019,0," 315,000 ", Nov 2014, ,, 779  ,  779 ,3,1,2,Grovedale
+136,13 Dalyston Street," 520,000 ", Nov 2019,0," 126,100 ", Oct 1996, ,, 725 ,,3,2,2,Grovedale
+137,48 Greenville Drive," 508,500 ", Nov 2019,0," 350,000 ", Mar 2014, ,, 613  ,  112 ,3,1,1,Grovedale
+138,10 Timbarra Court," 568,000 ", Nov 2019,0," 347,000 ", Nov 2015, ,, 748  ,  160 ,3,1,2,Grovedale
+139,2/142 Church Street," 375,000 ", Nov 2019,0," 345,000 ", Feb 2018, ,, 184  ,  78 ,0,0,0,Grovedale
+140,2 Wesona Place," 505,000 ", 06 Nov 2019,1," 350,000 ", Feb 2011, ,, 909  ,  135 ,3,2,2,Grovedale
+141,7/199-201 Bailey Street," 380,000 ", Nov 2019,0, ,, ,, 210 ,,0,0,0,Grovedale
+142,10/26-28 Bieske Road," 367,000 ", Nov 2019,0," 285,000 ", Jul 2017, ,, 131 ,,0,0,0,Grovedale
+143,50 Greenville Drive," 440,000 ", Nov 2019,0," 280,000 ", Jan 2004, ,, 613 ,,5,2,1,Grovedale
+144,1 Abbey Court," 392,000 ", Nov 2019,0," 206,500 ", Feb 2000, ,, 400  ,  97 ,3,2,1,Grovedale
+145,173 Bailey Street," 642,500 ", Nov 2019,0," 492,000 ", May 2014, ,, 790  ,  244 ,4,2,2,Grovedale
+146,60 Pethajohn Parade," 556,000 ", Oct 2019,0," 143,000 ", May 2007, ,, 625 ,,3,2,2,Grovedale
+147,7/199 Bailey Street," 380,000 ", Oct 2019,0," 256,990 ", Dec 2007, ,, 210 ,,0,0,0,Grovedale
+148,40 42 44 Waratah Place," 300,000 ", Oct 2019,0, ,, ,, ,,3,2,1,Grovedale
+149,4/119 Torquay Road," 330,000 ", Oct 2019,0," 242,000 ", May 2015, ,, 217 ,,0,0,0,Grovedale
+150,5 Bradley Place," 620,000 ", Oct 2019,0," 95,000 ", Aug 2003, ,, 812 ,,4,2,2,Grovedale
+151,32 Riatta Avenue," 505,000 ", Oct 2019,0," 355,000 ", Jun 2017, ,, 698  ,  131 ,3,2,1,Grovedale
+152,20 Manet Avenue," 645,000 ", Oct 2019,0," 490,000 ", May 2015, ,, 664 ,,4,2,3,Grovedale
+153,4/46 Peter Street," 365,000 ", Oct 2019,0," 310,000 ", Mar 2017, ,, 204  ,  93 ,0,0,0,Grovedale
+154,8 Camira Court," 535,000 ", Oct 2019,0," 431,000 ", Aug 2014, ,, 861 ,,3,2,2,Grovedale
+155,7 Manet Avenue," 672,500 ", Oct 2019,0, ,, ,, 698 ,,0,0,0,Grovedale
+156,1-2 Barry Court," 635,000 ", Oct 2019,0," 430,000 ", Nov 2012, ,, 503 ,,4,2,2,Grovedale
+157,14 Brettim Boulevard," 545,000 ", Oct 2019,0, ,, 430 , Oct 2019, 425 ,,3,2,2,Grovedale
+158,2/7 Param Street," 415,500 ", Oct 2019,0," 216,000 ", Jun 2006, ,, 247 ,,0,0,0,Grovedale
+159,1/1 Emmy Court," 492,500 ", Oct 2019,0, ,, ,, ,,3,1,1,Grovedale
+160,5 Burdoo Drive," 410,000 ", Sep 2019,0, ,, 310 , Mar 2016, 256 ,,2,2,1,Grovedale
+161,4/42 Greenville Drive," 342,500 ", Sep 2019,0," 84,000 ", Oct 1989, ,, 615 ,,0,0,0,Grovedale
+162,6/31 Meadowvale Drive," 430,000 ", Sep 2019,0, ,, ,, 259 ,,0,0,0,Grovedale
+163,79 Moruya Drive," 472,500 ", Sep 2019,0," 418,000 ", Oct 2017, ,, 697 ,,2,1,1,Grovedale
+164,6 Villea Avenue," 680,000 ", Sep 2019,0," 420,000 ", Oct 2011, ,, 795 ,,4,2,4,Grovedale
+165,28 Carstairs Close," 435,000 ", Sep 2019,0," 315,000 ", May 2013, ,, 416  ,  108 ,3,1,1,Grovedale
+166,30 Greenville Drive," 515,000 ", Sep 2019,0," 108,700 ", Nov 1988, ,, 626 ,,3,1,3,Grovedale
+167,78 Peter Street," 435,000 ", Sep 2019,0," 314,000 ", Dec 2013, ,, 532  ,  126 ,3,1,2,Grovedale
+168,5 Moira Lane," 505,000 ", Sep 2019,0," 277,000 ", Aug 2007, ,, 531  ,  108 ,3,2,2,Grovedale
+169,21 Beltana Street," 440,000 ", Sep 2019,0," 270,000 ", Aug 2006, ,, 635 ,,4,2,1,Grovedale
+170,24 Temt Terrace," 630,000 ", Sep 2019,0, ,, ,, 575 ,,4,2,2,Grovedale
+171,15 Karana Avenue," 433,000 ", Sep 2019,0," 297,000 ", Oct 2014, ,, 591  ,  12 ,3,1,2,Grovedale
+172,6 Wesona Place," 600,000 ", Sep 2019,0, ,, ,, 978 ,,4,2,2,Grovedale
+173,1 Hume Street," 398,500 ", Aug 2019,0, ,, ,, 712 ,,0,0,0,Grovedale
+174,73B Moruya Drive," 455,000 ", Aug 2019,0, ,, ,, 398 ,,3,2,2,Grovedale
+175,1/119 Pioneer Road," 345,000 ", Aug 2019,0, ,, 270 , Aug 2017, 107 ,,0,0,0,Grovedale
+176,18 Fontaine Street," 556,500 ", Aug 2019,0," 315,000 ", Oct 2007, ,, 680 ,,3,2,2,Grovedale
+177,5 Marlee Court," 552,500 ", Aug 2019,0," 407,000 ", Oct 2015, ,," 1,007  ",  156 ,4,2,2,Grovedale
+178,178 Bailey Street," 437,000 ", Aug 2019,0," 283,500 ", Feb 2000, ,, 412  ,  123 ,3,2,1,Grovedale
+179,28 Beltana Street," 392,000 ", Aug 2019,0, ,, ,, 568 ,,3,1,4,Grovedale
+180,16 Matthews Street," 422,000 ", Aug 2019,0," 232,000 ", Dec 2004, ,, 313 ,,3,1,1,Grovedale
+181,16 Carnarvon Drive," 455,000 ", Aug 2019,0, ,, ,, 583 ,,3,1,2,Grovedale
+182,48 Pioneer Road," 375,000 ", Aug 2019,0," 65,000 ", Dec 1986, ,, 580 ,,3,1,1,Grovedale
+183,30 Muscovy Drive," 590,000 ", Aug 2019,0," 150,000 ", Jul 2008, ,, 541  ,  541 ,4,2,2,Grovedale
+184,1/47 Rossack Drive," 402,000 ", Aug 2019,0," 305,000 ", Jul 2016, ,, 241 ,,0,0,0,Grovedale
+185,18 Diaz Drive," 575,000 ", Aug 2019,0," 180,000 ", Oct 2011, ,, 563 ,,3,2,3,Grovedale
+186,23 Burleigh Drive," 415,000 ", Aug 2019,0, ,, ,, 668 ,,3,2,2,Grovedale
+187,6 Fulham Court," 505,000 ", Aug 2019,0," 335,000 ", Dec 2009, ,, 659  ,  173 ,3,2,3,Grovedale
+188,51 Bickford Road," 467,000 ", Jul 2019,0," 305,000 ", Oct 2011, ,, 653 ,,4,1,1,Grovedale
+189,36 Kana Street," 425,000 ", Jul 2019,0," 230,000 ", Aug 2008, ,, 581 ,,3,1,1,Grovedale
+190,13 Perennial Rise," 590,000 ", Jul 2019,0," 360,000 ", Aug 2010, ,, 659 ,,4,3,1,Grovedale
+191,9 Clementine Court," 535,000 ", Jul 2019,0," 150,000 ", Apr 2009, ,, 480  ,  151 ,3,2,2,Grovedale
+192,4/199-201 Bailey Street," 387,500 ", Jul 2019,0, ,, ,, 204 ,,2,1,1,Grovedale
+193,94 Heyers Road," 500,000 ", Jul 2019,0," 300,000 ", Oct 2012, ,, 640 ,,3,1,4,Grovedale
+194,12 Tabulam Court," 605,000 ", Jul 2019,0," 446,000 ", Dec 2016, ,, 777 ,,4,2,4,Grovedale
+195,287 Torquay Road," 465,000 ", Jul 2019,0," 360,000 ", Dec 2017, ,, 406 ,,4,1,2,Grovedale
+196,22 Diaz Drive," 587,000 ", Jul 2019,0," 182,000 ", Sep 2011, ,, 563  ,  176 ,4,2,2,Grovedale
+197,2/6 Loris Close," 407,000 ", Jul 2019,0, ,, ,, ,,3,2,1,Grovedale
+198,200 Heyers Road," 405,000 ", Jul 2019,0," 335,000 ", Sep 2014, ,, 215  ,  101 ,2,1,1,Grovedale
+199,10 Banksia Place," 490,000 ", Jul 2019,0," 385,000 ", Aug 2014, ,, 650 ,,3,2,2,Grovedale
+200,9 Geejayar Rise," 542,500 ", Jul 2019,0, ,, 460 , Dec 2019, 446 ,,4,2,2,Grovedale
+201,27 Pethajohn Parade," 735,000 ", Jul 2019,0," 665,000 ", Mar 2017, ,, 661 ,,4,2,4,Grovedale
+202,23 Hollows Court," 450,000 ", Jul 2019,0," 299,000 ", Jul 2009, ,, 362 ,,3,1,1,Grovedale
+203,2 Clover Court," 592,000 ", Jun 2019,0," 450,000 ", Oct 2016, ,, 641 ,,3,2,2,Grovedale
+204,2/133 Grove Road," 365,000 ", Jun 2019,0," 290,000 ", Nov 2011, ,, 202  ,  83 ,0,0,0,Grovedale
+205,36 Bieske Road," 442,500 ", Jun 2019,0," 69,000 ", May 1985, ,, 587 ,,3,2,2,Grovedale
+206,44 Hindle Street," 515,000 ", Jun 2019,0," 97,750 ", Dec 1995, ,, 997 ,,4,1,4,Grovedale
+207,22 Carstairs Close," 620,000 ", Jun 2019,0," 370,000 ", Apr 2006, ,, 722  ,  218 ,5,2,4,Grovedale
+208,10 Raydon Court," 520,000 ", Jun 2019,0, ,, ,, 666 ,,4,2,2,Grovedale
+209,27 Peter Street," 485,000 ", Jun 2019,0," 430,000 ", Aug 2017, ,, 479 ,,3,2,2,Grovedale
+210,22 Felix Street," 430,000 ", Jun 2019,0, ,, ,, 638 ,,3,2,2,Grovedale
+211,29 Riatta Avenue," 437,000 ", Jun 2019,0," 304,500 ", Feb 2011, ,, 721 ,,3,1,3,Grovedale
+212,19 Carnarvon Drive," 477,500 ", Jun 2019,0," 328,000 ", Mar 2013, ,, 677  ,  130 ,3,1,2,Grovedale
+213,42 Gloucester Street," 427,000 ", Jun 2019,0," 109,500 ", Mar 1990, ,, 620 ,,3,2,2,Grovedale
+214,2/94 Grove Road," 420,000 ", Jun 2019,0," 272,000 ", Nov 2008, ,, 315 ,,2,2,1,Grovedale
+215,95 Moruya Drive," 520,000 ", Jun 2019,0," 124,000 ", Aug 1996, ,, 637 ,,4,2,2,Grovedale
+216,30 Waratah Place," 525,000 ", Jun 2019,0," 370,000 ", Dec 2015, ,, 542  ,  137 ,3,2,2,Grovedale
+217,12 Parkgate Lane," 445,000 ", Jun 2019,0," 350,000 ", Mar 2014, ,, 829  ,  102 ,3,1,2,Grovedale
+218,85 Rossack Drive," 725,000 ", May 2019,0," 175,000 ", Mar 2009, ,, 700  ,  255 ,4,2,2,Grovedale
+219,316 Torquay Road," 400,000 ", May 2019,0," 101,000 ", Sep 1999, ,," 1,031  ",  210 ,3,1,4,Grovedale
+220,42 Church Street," 470,000 ", May 2019,0," 315,000 ", Oct 2014, ,, 668 ,,3,1,2,Grovedale
+221,9 Tabulam Court," 540,000 ", May 2019,0," 255,000 ", Sep 2008, ,, 611  ,  113 ,3,2,2,Grovedale
+222,27 Hewitt Drive," 585,000 ", May 2019,0," 410,000 ", Sep 2013, ,, 860  ,  268 ,4,2,2,Grovedale
+223,2A Lewis Court," 411,000 ", May 2019,0, ,, ,, 295 ,,0,0,0,Grovedale
+224,107 Burdoo Drive," 370,000 ", 25 May 2019,1," 274,000 ", Nov 2009, ,, 631 ,,3,1,2,Grovedale
+225,21 Dublin Drive," 550,000 ", May 2019,0," 315,000 ", Aug 2008, ,, 727 ,,3,2,2,Grovedale
+226,93 Pioneer Road," 470,000 ", May 2019,0, ,, ,, 542 ,,4,2,1,Grovedale
+227,9 Pickerall Avenue," 617,000 ", May 2019,0," 345,000 ", Jul 2003, ,, 629 ,,4,2,2,Grovedale
+228,6 Riatta Avenue," 525,000 ", May 2019,0," 250,000 ", Sep 2008, ,, 687 ,,3,2,1,Grovedale
+229,26 Killarney Avenue," 496,000 ", May 2019,0," 120,000 ", Jun 2006, ,, 447 ,,3,2,2,Grovedale
+230,2/13 Matthews Street," 410,000 ", May 2019,0," 350,000 ", Oct 2011, ,, 413  ,  135 ,0,0,0,Grovedale
+231,18 Kana Street," 420,000 ", May 2019,0," 126,000 ", Mar 1998, ,, 533 ,,4,2,5,Grovedale
+232,13 Moruya Drive," 482,500 ", May 2019,0," 130,000 ", Aug 1993, ,, 698 ,,3,2,2,Grovedale
+233,8 Brettim Boulevard," 355,000 ", May 2019,0, ,, ,, 675 ,,0,0,0,Grovedale
+234,17 Beringa Avenue," 450,500 ", May 2019,0," 232,500 ", Mar 2006, ,, 686  ,  106 ,3,1,2,Grovedale
+235,8 Muscovy Drive," 500,000 ", May 2019,0," 182,500 ", May 2011, ,, 395  ,  133 ,3,2,2,Grovedale
+236,12 Moruya Drive," 615,000 ", May 2019,0," 161,700 ", Nov 2000, ,, 702 ,,4,2,2,Grovedale
+237,51 Hansen Drive," 630,000 ", Apr 2019,0," 185,000 ", Jul 1999, ,, 683 ,,4,2,2,Grovedale
+238,8 Sturt Court," 610,000 ", 27 Apr 2019,1," 365,000 ", Mar 2010, ,, 733  ,  185 ,3,2,2,Grovedale
+239,2/15 Hansen Drive," 300,000 ", Apr 2019,0," 219,000 ", Aug 2016, ,," 1,129  ",  82 ,2,1,1,Grovedale
+240,3/118 Moruya Drive," 327,500 ", Apr 2019,0," 222,750 ", Jun 2011, ,, 251  ,  61 ,0,0,0,Grovedale
+241,311 Torquay Road," 325,000 ", Apr 2019,0," 255,000 ", May 2015, ,, 412  ,  107 ,3,2,0,Grovedale
+242,2 Balblair Drive," 465,000 ", Apr 2019,0," 269,000 ", Nov 2006, ,, 363 ,,3,2,2,Grovedale
+243,39 Karana Avenue," 424,505 ", Apr 2019,0," 231,000 ", Mar 2007, ,, 608 ,,4,1,1,Grovedale
+244,3 Emile Place," 425,000 ", Apr 2019,0," 235,000 ", Mar 2007, ,, 364 ,,3,1,1,Grovedale
+245,11 Doolin Close," 507,500 ", Apr 2019,0," 117,000 ", May 2005, ,, 429  ,  133 ,3,2,2,Grovedale
+246,2/49 Bieske Road," 465,000 ", Apr 2019,0, ,, ,, 377 ,,3,2,2,Grovedale
+247,2/16 Amarina Crescent," 399,000 ", Apr 2019,0," 262,000 ", Mar 2010, ,, 301  ,  83 ,0,0,0,Grovedale
+248,11 Griffith Street," 420,000 ", Apr 2019,0," 300,000 ", Oct 2010, ,, 604  ,  120 ,3,1,2,Grovedale
+249,3/15 Bieske Road," 370,000 ", Apr 2019,0," 185,000 ", Aug 2007, ,, 219  ,  74 ,0,0,0,Grovedale
+250,7 Titian Court," 635,000 ", Apr 2019,0, ,, ,," 1,091 ",,4,2,2,Grovedale
+251,79 Pioneer Road," 422,500 ", Apr 2019,0," 217,000 ", Jul 2004, ,, 606  ,  134 ,3,1,2,Grovedale
+252,1/146 Barwarre Road," 381,000 ", Apr 2019,0," 312,000 ", Sep 2014, ,, 297  ,  112 ,0,0,0,Grovedale
+253,2 Timbarra Court," 595,000 ", Apr 2019,0, ,, ,, 607 ,,4,2,2,Grovedale
+254,132 Pioneer Road," 462,000 ", Apr 2019,0," 370,000 ", Oct 2015, ,, 681  ,  132 ,4,2,1,Grovedale
+255,13 Luther Avenue," 410,000 ", Mar 2019,0," 115,000 ", Apr 2005, ,, 387  ,  103 ,2,1,2,Grovedale
+256,7 Dunkeld Court," 535,000 ", Mar 2019,0," 150,000 ", Feb 2000, ,, 477  ,  176 ,4,2,2,Grovedale
+257,14 Jenolan Avenue," 500,000 ", Mar 2019,0," 262,000 ", Oct 2005, ,, 645 ,,4,2,2,Grovedale
+258,1/145-149 Torquay Road," 330,500 ", Mar 2019,0, ,, ,, ,,0,0,0,Grovedale
+259,27 Michael Court," 530,000 ", Mar 2019,0," 361,000 ", May 2010, ,, 554 ,,4,2,2,Grovedale
+260,2/2-4 Jenolan Avenue," 352,000 ", Mar 2019,0," 257,000 ", Apr 2012, ,, 165 ,,0,0,0,Grovedale
+261,5-7 Dennys Court," 558,000 ", Mar 2019,0," 444,000 ", Jul 2015, ,, 417 ,,3,2,2,Grovedale
+262,13 Karana Avenue," 370,000 ", Mar 2019,0," 85,000 ", Dec 1990, ,, 583 ,,3,2,0,Grovedale
+263,15 Kana Street," 495,000 ", Mar 2019,0," 325,000 ", Jun 2012, ,, 542 ,,3,2,2,Grovedale
+264,46 Pioneer Road," 420,000 ", Mar 2019,0," 200,000 ", Aug 2006, ,, 563 ,,3,1,1,Grovedale
+265,4/107-109 Torquay Road," 327,000 ", Mar 2019,0, ,, ,, 168 ,,0,0,0,Grovedale
+266,113 Torquay Road," 640,000 ", Mar 2019,0," 440,000 ", Dec 2012, ,," 1,343 ",,4,2,2,Grovedale
+267,12 Muscovy Drive," 468,000 ", Mar 2019,0," 140,000 ", Nov 2008, ,, 400  ,  135 ,3,1,2,Grovedale
+268,14 Strawberry Close," 720,000 ", Mar 2019,0, ,, ,, 779 ,,4,2,2,Grovedale
+269,9 Timbarra Court," 493,000 ", Mar 2019,0," 355,000 ", Jun 2012, ,, 809 ,,3,2,2,Grovedale
+270,5 Kurrajong Court," 585,000 ", Mar 2019,0," 235,000 ", Jun 2002, ,, 650 ,,4,2,6,Grovedale
+271,34 Dublin Drive," 510,000 ", Mar 2019,0," 104,000 ", May 1999, ,, 622 ,,3,2,2,Grovedale
+272,8 Beltana Street," 452,500 ", Mar 2019,0, ,, ,, 552 ,,3,1,1,Grovedale
+273,2/21 Bieske Road," 399,000 ", Mar 2019,0," 202,000 ", Aug 2003, ,, 240 ,,2,1,2,Grovedale
+274,17 Ryong Street," 542,000 ", Mar 2019,0," 390,000 ", Apr 2014, ,, 698 ,,4,2,2,Grovedale
+275,115 Heyers Road," 500,000 ", 02 Mar 2019,1," 125,000 ", Jul 1995, ,, 588 ,,4,2,2,Grovedale
+276,2 Briar Court," 515,000 ", Feb 2019,0," 310,000 ", Mar 2012, ,, 639  ,  140 ,4,2,1,Grovedale
+277,2/6 Verdal Court," 390,000 ", Feb 2019,0," 234,500 ", Dec 2005, ,, 406 ,,0,0,0,Grovedale
+278,39 Killarney Avenue," 266,000 ", Feb 2019,0, ,, ,, 400 ,,0,0,0,Grovedale
+279,3 Fontaine Street," 485,000 ", Feb 2019,0," 249,000 ", Nov 2005, ,, 647 ,,3,1,4,Grovedale
+280,80 Pethajohn Parade," 622,500 ", Feb 2019,0," 397,500 ", Dec 2008, ,, 650  ,  187 ,3,2,2,Grovedale
+281,15 Gloucester Street," 427,500 ", Feb 2019,0, ,, 300 , Oct 2017, 591 ,,3,1,1,Grovedale
+282,45 Smith Street," 610,000 ", Feb 2019,0," 105,000 ", Oct 2003, ,, 570  ,  202 ,4,2,2,Grovedale
+283,5 Nevett Court," 515,000 ", Feb 2019,0," 405,000 ", Jul 2017, ,, 676 ,,3,1,4,Grovedale
+284,66 Moruya Drive," 517,000 ", Feb 2019,0," 104,500 ", Feb 2000, ,, 707 ,,3,2,1,Grovedale
+285,4 Moona Court," 520,000 ", Feb 2019,0," 355,000 ", Oct 2010, ,, 825 ,,4,1,2,Grovedale
+286,18 Illouera Avenue," 470,000 ", Feb 2019,0," 246,000 ", Jan 2008, ,, 691 ,,3,1,1,Grovedale
+287,77 Pioneer Road," 397,500 ", Feb 2019,0," 288,000 ", Nov 2012, ,, 590  ,  126 ,3,1,1,Grovedale
+288,11 Illouera Avenue," 515,000 ", Jan 2019,0," 370,000 ", Nov 2012, ,, 703 ,,4,3,2,Grovedale
+289,1/41 Hindle Street," 420,000 ", Jan 2019,0," 247,000 ", Aug 2009, ,, 348 ,,2,1,1,Grovedale
+290,5 Ellen Close," 600,000 ", Jan 2019,0," 460,000 ", Jun 2014, ,, 575 ,,4,2,2,Grovedale
+291,3 Thoroghgood Court," 530,000 ", Jan 2019,0, ,, ,, ,,0,0,0,Grovedale
+292,3 Thorogood Court," 530,000 ", Jan 2019,0," 480,000 ", Aug 2017, ,, 562  ,  128 ,3,2,2,Grovedale
+293,13 Beltana Street," 438,000 ", Jan 2019,0, ,, ,, 639 ,,3,1,2,Grovedale
+294,176 Heyers Road," 472,000 ", Jan 2019,0," 336,000 ", May 2014, ,, 627 ,,3,1,1,Grovedale
+295,6 Janmar Court," 639,000 ", Jan 2019,0," 400,000 ", Aug 2012, ,, 665  ,  240 ,4,2,2,Grovedale
+296,11 Mahogany Close," 410,000 ", Jan 2019,0," 245,000 ", Jun 2006, ,, 365 ,,2,1,1,Grovedale
+297,2/76 Church Street," 395,000 ", Jan 2019,0," 275,000 ", Aug 2016, ,, 254 ,,0,0,0,Grovedale
+298,20 Bickford Drive," 540,000 ", Jan 2019,0, ,, ,, ,,0,0,0,Grovedale
+299,20 Bickford Road," 545,000 ", Jan 2019,0," 157,500 ", Jan 1996, ,, 653 ,,4,2,2,Grovedale

@@ -1,0 +1,301 @@
+,address,sold,last sold,rent,house_info,land_size
+0,1/14 Francis Street,"Sold $620,000 in Aug 2020","Last Sold $395,000 in Feb 2010",Rent $450pw in Nov 2017, ,Land size: 321 sqm
+1,14 Culbin Avenue,"Sold $680,000 in Aug 2020","Last Sold $280,000 in Sep 2002",Rent $245pw in Apr 2007,House: 4  1  3 ,Land size: 690 sqm
+2,23 Tettenhall Ridg,"Sold $655,000 in 29 Aug 2020(Auction)", , ,House: 3  , 
+3,23 Tettenhall Ridge,"Sold $655,000 in Aug 2020","Last Sold $415,000 in Jan 2015",Rent $385pw in Nov 2013,House: 3  2  2 ,Land size: 630 sqm
+4,13 Waurn Park Court,"Sold $700,000 in Aug 2020","Last Sold $515,500 in Jun 2013", ,House: 4  2  2 ,Land size: 726 sqm
+5,62 Oberon Drive,"Sold $425,000 in 22 Aug 2020(Auction)","Last Sold $189,000 in Nov 2001", ,House: 1  2  2 ,Land size: 664 sqm
+6,4 Leonard Street,"Sold $775,000 in Aug 2020","Last Sold $650,000 in Sep 2017(Auction)",Rent $475pw in Jan 2019,House: 4  1  5 ,"Land size: 1,012 sqm"
+7,8 East View Parade,"Sold $770,000 in Aug 2020","Last Sold $685,000 in Apr 2016(Auction)", ,House: 3  1  3 ,Land size: 901 sqm
+8,304 High Street,"Sold $513,000 in Aug 2020","Last Sold $345,000 in Sep 2017", ,House: 3  1  1 ,Land size: 380 sqm
+9,20 Tettenhall Ridge,"Sold $600,000 in Aug 2020","Last Sold $380,000 in Dec 2014",Rent $460pw in May 2018,House: 4  2  2 ,Land size: 702 sqm
+10,35 Clarke Avenue,"Sold $740,000 in Aug 2020","Last Sold $371,000 in Mar 2015",Rent $385pw in Dec 2015,House: 4  2  2 ,Land size: 615 sqm | Building size: 164 sqm
+11,12 Perth Street,"Sold $615,000 in Aug 2020","Last Sold $460,000 in Mar 2016", ,House: 3  1  2 ,Land size: 431 sqm | Building size: 145 sqm
+12,33 Cranmere Avenue,"Sold $540,000 in Aug 2020","Last Sold $51,000 in Apr 1979", ,House: 3  2  2 ,Land size: 682 sqm
+13,10 Fairfield Avenue,"Sold $500,000 in Aug 2020","Last Sold $387,000 in May 2017",Rent $300pw in Sep 2013,House: 3  1  2 ,Land size: 564 sqm
+14,29 Oxford Street,"Sold $672,000 in Aug 2020","Last Sold $63,500 in Mar 1988", ,House: 1  ,Land size: 702 sqm
+15,4 Charles Street,"Sold $560,000 in Aug 2020","Last Sold $300,000 in May 2016", ,House: 3  1  2 ,Land size: 522 sqm
+16,5/29 Eton Road,"Sold $502,000 in Aug 2020","Last Sold $411,000 in Jun 2017(Auction)",Rent $370pw in Apr 2018,House: 2  2  1 ,Land size: 220 sqm
+17,10 Emerald Court,"Sold $658,000 in 05 Aug 2020(Auction)","Last Sold $485,000 in Nov 2016(Auction)",Rent $430pw in Sep 2018,House: 4  2  2 ,Land size: 116 sqm
+18,17 Brocka Avenue,"Sold $807,000 in 05 Aug 2020(Auction)","Last Sold $315,000 in Oct 2009",Rent $265pw in Jan 2009,House: 3  1  1 ,Land size: 581 sqm
+19,4/13-15 Clarke Avenue,"Sold $650,000 in Aug 2020", , , , 
+20,19 Mernda Parade,"Sold $702,000 in Aug 2020","Last Sold $415,000 in May 2013",Rent $425pw in Jan 2015,House: 4  2  1 ,Land size: 594 sqm | Building size: 164 sqm
+21,8a View Street,"Sold $840,000 in 01 Aug 2020(Auction)", , , ,Land size: 397 sqm
+22,17 Kidman Avenue,"Sold $495,000 in Jul 2020", , ,House: 3  ,Land size: 709 sqm
+23,1/42 Sanglen Terrace,"Sold $405,000 in Jul 2020","Last Sold $285,000 in Nov 2011", , ,Land size: 75 sqm
+24,4 Cambridge Street,"Sold $615,000 in Jul 2020","Last Sold $470,000 in Dec 2016",Rent $440pw in Feb 2018,House: 3  2  1 ,Land size: 600 sqm
+25,2/32 Elsvern Avenue,"Sold $373,000 in Jul 2020","Last Sold $220,500 in Jul 2011",Rent $250pw in Nov 2014, ,Land size: 108 sqm
+26,2/26 Roslyn Road,"Sold $440,000 in Jul 2020","Last Sold $335,000 in Apr 2015", , ,Land size: 202 sqm
+27,9 Clydesdale Crescent,"Sold $600,000 in Jul 2020","Last Sold $295,000 in Aug 2005", ,House: 3  3  2 ,Land size: 671 sqm | Building size: 220 sqm
+28,1/14 Regent Street,"Sold $400,000 in Jul 2020","Last Sold $272,000 in Feb 2000", , ,Land size: 186 sqm
+29,5/27 Mt Pleasant Road,"Sold $565,000 in Jul 2020","Last Sold $505,000 in Mar 2017",Rent $380pw in Feb 2013,House: 2  2  1 ,"Land size: 2,120 sqm"
+30,3/96 Mt Pleasant Road,"Sold $396,000 in Jul 2020","Last Sold $210,000 in Jul 2004", , ,Land size: 191 sqm
+31,60 Pavo Street,"Sold $560,000 in Jul 2020","Last Sold $375,000 in Oct 2014", ,House: 3  1  1 ,Land size: 651 sqm | Building size: 122 sqm
+32,125 Francis Street,"Sold $395,000 in Jul 2020","Last Sold $249,000 in Aug 2009", ,House: 3  1  1 ,Land size: 659 sqm
+33,8b Morris Street,"Sold $717,000 in Jul 2020", , ,House: 3  2  2 , 
+34,8 Church Street,"Sold $580,000 in Jul 2020","Last Sold $156,000 in Apr 2002", ,House: 2  1  1 ,Land size: 340 sqm
+35,26 Walpole Avenue,"Sold $485,000 in Jul 2020", , , ,Land size: 650 sqm
+36,16 Hereford Drive,"Sold $555,000 in Jul 2020", , , ,Land size: 738 sqm
+37,30 Seaview Parade,"Sold $812,500 in 11 Jul 2020(Auction)","Last Sold $355,000 in Jun 2013", ,House: ,Land size: 520 sqm
+38,25 Herd Road,"Sold $769,000 in Jul 2020","Last Sold $205,000 in May 2002",Rent $510pw in Aug 2020,House: 3  1  2 ,Land size: 867 sqm
+39,90 Shackleton Street,"Sold $585,000 in Jul 2020","Last Sold $184,500 in Jul 2001", , ,Land size: 470 sqm
+40,5 Glenbrae Court,"Sold $485,000 in Jul 2020","Last Sold $83,000 in Jun 1998",Rent $390pw in Aug 2020,House: 1  1  1 ,Land size: 649 sqm
+41,24 Cambridge Street,"Sold $610,000 in 04 Jul 2020(Auction)","Last Sold $315,000 in Oct 2009",Rent $380pw in Aug 2020,House: 3  1  1 ,Land size: 596 sqm
+42,32 Settlement Road,"Sold $615,000 in Jul 2020","Last Sold $390,000 in Jun 2012", ,House: 3  2  2 ,Land size: 697 sqm | Building size: 143 sqm
+43,31b The Avenue,"Sold $393,010 in Jul 2020", , , ,Land size: 510 sqm
+44,17 Argyle Street,"Sold $610,000 in Jul 2020","Last Sold $374,000 in Nov 2010", ,House: 3  1  2 ,Land size: 580 sqm | Building size: 109 sqm
+45,69 Summit Avenue,"Sold $710,000 in Jul 2020","Last Sold $235,000 in Jul 2007", ,House: 4  2  2 ,Land size: 650 sqm | Building size: 258 sqm
+46,9 Roberts Road,"Sold $650,000 in Jun 2020","Last Sold $420,000 in Jul 2011",Rent $390pw in Mar 2018,House: 3  1  1 ,Land size: 759 sqm | Building size: 109 sqm
+47,9 Brocka Avenue,"Sold $657,000 in 27 Jun 2020(Auction)","Last Sold $310,000 in Jul 2009",Rent $240pw in Feb 2008,House: 3  1  1 ,Land size: 581 sqm
+48,1/2 Clarke Avenue,"Sold $547,000 in Jun 2020","Last Sold $305,000 in Mar 2008", , ,Land size: 281 sqm | Building size: 131 sqm
+49,80 Mt Pleasant Road,"Sold $745,000 in Jun 2020","Last Sold $630,000 in Oct 2017(Auction)", ,House: 4  1  1 ,Land size: 753 sqm
+50,247 High Street,"Sold $505,000 in Jun 2020","Last Sold $51,000 in May 1986", ,House: 3  1  1 ,Land size: 661 sqm
+51,1/66-70 Reynolds Road,"Sold $340,000 in Jun 2020", , , ,Land size: 126 sqm
+52,23 Stephen Street,"Sold $470,000 in Jun 2020","Last Sold $245,000 in Jul 2003",Rent $310pw in May 2015, ,Land size: 284 sqm
+53,18 Lloyd Street,"Sold $602,000 in Jun 2020", ,Rent $325pw in Aug 2020,House: 2  1  2 ,Land size: 688 sqm
+54,2/7 Sanglen Terrace,"Sold $950,000 in Jun 2020","Last Sold $245,000 in Apr 2014",Rent $290pw in Aug 2015, ,Land size: 796 sqm
+55,1/35 Digby Avenue,"Sold $530,100 in Jun 2020", , ,House: 3  1  1 ,Land size: 342 sqm
+56,1 Apaloosa Court,"Sold $430,000 in Jun 2020","Last Sold $312,000 in Oct 2015",Rent $320pw in Dec 2010,House: 3  1  2 ,Land size: 700 sqm
+57,1/23 Corio Street,"Sold $480,000 in Jun 2020","Last Sold $345,000 in Jan 2013", , ,Land size: 310 sqm
+58,2/16 Donald Street,"Sold $486,000 in Jun 2020","Last Sold $450,000 in Dec 2017", , ,Land size: 280 sqm
+59,7/7 Sanglen Terrace,"Sold $330,000 in Jun 2020","Last Sold $311,000 in Jun 2018",Rent $315pw in Oct 2019, ,Land size: 796 sqm
+60,1/23 Torquay Road,"Sold $480,000 in Jun 2020","Last Sold $345,000 in Jan 2013", , ,Land size: 309 sqm
+61,21 Autumn Street,"Sold $522,000 in Jun 2020","Last Sold $154,250 in May 2013", , ,Land size: 706 sqm
+62,1/12 Hill Street,"Sold $550,000 in Jun 2020", , ,House: 2  2  , 
+63,2/25 Sanglen Terrace,"Sold $950,000 in Jun 2020", , ,House: 4  2  2 , 
+64,31 Hill Street,"Sold $660,000 in Jun 2020","Last Sold $377,000 in Dec 2011(Auction)",Rent $340pw in May 2019,House: 3  1  2 ,Land size: 467 sqm | Building size: 133 sqm
+65,44 Digby Avenue,"Sold $605,000 in May 2020","Last Sold $360,000 in Dec 2010(Auction)",Rent $370pw in Mar 2018,House: 3  1  4 ,Land size: 663 sqm
+66,4 Oberon Drive,"Sold $579,000 in May 2020", ,Rent $420pw in Apr 2014,House: 4  2  2 ,Land size: 682 sqm
+67,136 Roslyn Road,"Sold $672,000 in May 2020","Last Sold $268,000 in Mar 2008",Rent $225pw in Jun 2006,House: 3  1  1 ,Land size: 850 sqm
+68,6 Marjorie Avenue,"Sold $642,000 in 23 May 2020(Auction)","Last Sold $335,000 in Nov 2013", ,House: 3  2  2 ,Land size: 665 sqm | Building size: 175 sqm
+69,1/4 Cornish Avenue,"Sold $410,000 in 07 May 2020(Auction)","Last Sold $330,000 in Aug 2016",Rent $360pw in Jun 2017, ,Land size: 604 sqm
+70,23 Scott Street,"Sold $760,000 in 05 May 2020(Auction)","Last Sold $702,000 in Nov 2018(Auction)", ,House: 3  2  3 ,Land size: 733 sqm
+71,7 Summit Avenue,"Sold $580,000 in May 2020", , ,House: 4  2  4 ,Land size: 713 sqm
+72,3 Mernda Parade,"Sold $500,000 in Apr 2020","Last Sold $220,000 in Feb 2000", ,House: 3  1  1 ,Land size: 594 sqm
+73,34 Marjorie Avenue,"Sold $535,000 in Apr 2020", , ,House: ,Land size: 652 sqm
+74,9 WILLIAM Street,"Sold $665,124 in Apr 2020","Last Sold $489,000 in Sep 2015", , ,Land size: 218 sqm
+75,22 Kidman Avenue,"Sold $450,000 in Apr 2020","Last Sold $332,500 in Sep 2010",Rent $375pw in Nov 2019,House: 4  1  1 ,Land size: 639 sqm | Building size: 177 sqm
+76,74 Summit Avenue,"Sold $716,000 in Apr 2020","Last Sold $330,000 in Jul 2010",Rent $250pw in Feb 2008,House: 4  1  2 ,Land size: 646 sqm
+77,2/25-27 Roslyn Road,"Sold $387,000 in Apr 2020", , , ,Land size: 148 sqm
+78,75 James Street,"Sold $545,000 in Apr 2020","Last Sold $355,000 in Mar 2014(Auction)",Rent $350pw in Feb 2016,House: 4  2  3 ,Land size: 650 sqm
+79,68 Mt Pleasant Road,"Sold $600,000 in Apr 2020", , ,House: 3  1  1 ,Land size: 690 sqm
+80,17 Queen Street,"Sold $390,000 in Apr 2020","Last Sold $190,000 in Oct 2002",Rent $295pw in Sep 2019,House: 3  1  ,Land size: 355 sqm
+81,4 Fairfield Avenue,"Sold $500,000 in Apr 2020","Last Sold $320,000 in Jan 2011", ,House: 3  1  2 ,Land size: 619 sqm
+82,87 Apex Avenue,"Sold $585,000 in Apr 2020", , ,House: 3  1  2 ,Land size: 631 sqm
+83,32A Bailey Street,"Sold $470,000 in Apr 2020", , ,House: 3  2  1 ,Land size: 322 sqm
+84,34 Highmont Drive,"Sold $500,000 in Apr 2020","Last Sold $322,500 in Jan 2012", ,House: 3  2  2 ,Land size: 803 sqm
+85,22B Spring Street,"Sold $620,000 in Mar 2020","Last Sold $473,000 in May 2017", , ,Land size: 334 sqm
+86,8 South Street,"Sold $881,550 in Mar 2020","Last Sold $690,000 in Jun 2013", ,House: 5  2  2 ,Land size: 720 sqm
+87,17 Rowan Court,"Sold $611,500 in 24 Mar 2020(Auction)","Last Sold $155,000 in Nov 1991", ,House: 4  2  2 ,Land size: 705 sqm
+88,92 High Street,"Sold $660,000 in Mar 2020","Last Sold $270,000 in May 2005", ,House: 3  1  ,Land size: 405 sqm | Building size: 188 sqm
+89,72b Regent Street,"Sold $595,000 in Mar 2020", , ,House: ,Land size: 341 sqm
+90,29 Laura Avenue,"Sold $586,000 in Mar 2020", , ,House: ,Land size: 771 sqm
+91,58 Bailey Street,"Sold $618,000 in 21 Mar 2020(Auction)","Last Sold $260,000 in Sep 2008", ,House: 4  1  1 ,Land size: 665 sqm | Building size: 140 sqm
+92,28 Hereford Drive,"Sold $500,000 in Mar 2020", , ,House: 3  2  2 ,Land size: 654 sqm
+93,10 Cheryl Crescent,"Sold $520,000 in 14 Mar 2020(Auction)","Last Sold $500,000 in Aug 2018", ,House: 4  2  ,Land size: 532 sqm
+94,3 Marjorie Avenue,"Sold $545,000 in 14 Mar 2020(Auction)","Last Sold $173,000 in Mar 2003",Rent $340pw in Jun 2015,House: 3  1  1 ,Land size: 650 sqm
+95,90 Bailey Street,"Sold $505,000 in Mar 2020","Last Sold $79,000 in Jul 1988", ,House: 2  1  ,Land size: 665 sqm
+96,7 Hill Street,"Sold $710,000 in 14 Mar 2020(Auction)","Last Sold $115,000 in May 2001", ,House: 3  1  2 ,Land size: 652 sqm
+97,31 Colac Grove,"Sold $575,500 in Mar 2020","Last Sold $335,000 in Nov 2007", ,House: 3  2  1 ,Land size: 661 sqm
+98,75 Oberon Drive,"Sold $520,000 in 14 Mar 2020(Auction)","Last Sold $375,000 in Oct 2012",Rent $390pw in Jun 2020,House: 3  2  2 ,Land size: 760 sqm | Building size: 165 sqm
+99,43 Fairbrae Avenue,"Sold $710,000 in Mar 2020", , ,House: ,Land size: 845 sqm
+100,69 Roslyn Road,"Sold $595,000 in Mar 2020","Last Sold $325,000 in May 2011",Rent $320pw in Sep 2011,House: 3  1  1 ,Land size: 429 sqm | Building size: 125 sqm
+101,43 Kardinia Street,"Sold $667,000 in 07 Mar 2020(Auction)", , ,House: ,Land size: 174 sqm
+102,3/33 The Avenue,"Sold $333,500 in Mar 2020","Last Sold $109,000 in Apr 2002", , ,Land size: 173 sqm
+103,14 Summit Avenue,"Sold $568,000 in Mar 2020","Last Sold $388,200 in Mar 2015", ,House: 3  2  1 ,Land size: 485 sqm
+104,8 Armitage Court,"Sold $565,000 in Mar 2020", , ,House: 3  2  1 ,Land size: 711 sqm
+105,12 Hereford Drive,"Sold $575,000 in Mar 2020","Last Sold $107,000 in Jul 2000", ,House: 3  ,Land size: 733 sqm
+106,28 Nagle Drive,"Sold $634,500 in 29 Feb 2020(Auction)", ,Rent $420pw in Mar 2020,House: 3  1  2 ,Land size: 651 sqm
+107,4 Pavo Street,"Sold $740,000 in 29 Feb 2020(Auction)","Last Sold $528,000 in Sep 2015", ,House: 4  2  5 ,Land size: 663 sqm | Building size: 185 sqm
+108,325 High Street,"Sold $470,000 in Feb 2020","Last Sold $86,000 in Sep 1996", ,House: 3  1  1 ,Land size: 589 sqm
+109,23 Bailey Street,"Sold $556,000 in 29 Feb 2020(Auction)","Last Sold $252,000 in Jun 2006",Rent $320pw in Jun 2010,House: 3  1  1 ,Land size: 558 sqm
+110,55 Marjorie Avenue,"Sold $613,000 in 29 Feb 2020(Auction)","Last Sold $317,000 in Apr 2014",Rent $320pw in Sep 2013,House: 3  1  1 ,Land size: 650 sqm
+111,3 Taldra Court,"Sold $635,500 in Feb 2020", , ,House: 4  2  4 ,Land size: 810 sqm
+112,6/181 Roslyn Road,"Sold $462,500 in Feb 2020","Last Sold $270,000 in Mar 2015",Rent $370pw in Feb 2019,House: 2  1  1 ,Land size: 162 sqm | Building size: 99 sqm
+113,11 Mt Pleasant Road,"Sold $742,000 in Feb 2020","Last Sold $240,000 in Mar 2006", ,House: 2  1  1 ,Land size: 729 sqm
+114,28 Dudley Street,"Sold $515,000 in Feb 2020", , ,House: ,Land size: 659 sqm
+115,12 Peary Street,"Sold $882,000 in 20 Feb 2020(Auction)","Last Sold $405,000 in Aug 2010",Rent $360pw in Jun 2020,House: 3  2  2 ,Land size: 987 sqm
+116,4a Settlement Road,"Sold $408,000 in Feb 2020", , ,House: 2  1  1 , 
+117,22 Argyle Street,"Sold $570,000 in Feb 2020","Last Sold $556,500 in Aug 2018(Auction)",Rent $370pw in Jan 2014, ,Land size: 302 sqm
+118,4/14 Regent Street,"Sold $390,000 in Feb 2020","Last Sold $269,000 in Oct 2010", , ,Land size: 124 sqm
+119,11 Vivian Street,"Sold $570,000 in 15 Feb 2020(Auction)", , ,House: ,Land size: 483 sqm
+120,11 View Street,"Sold $706,000 in 15 Feb 2020(Auction)","Last Sold $184,250 in Jan 2002", ,House: 3  2  2 ,Land size: 676 sqm
+121,21 James Street,"Sold $537,000 in 14 Feb 2020(Auction)", , ,House: ,Land size: 557 sqm
+122,19 The Avenue,"Sold $775,000 in Feb 2020","Last Sold $665,000 in Jul 2017(Auction)", , ,"Land size: 1,000 sqm"
+123,2/7 Herd Road,"Sold $640,000 in Feb 2020", , , ,Land size: 238 sqm
+124,4 Emerald Court,"Sold $515,000 in Feb 2020","Last Sold $245,000 in Apr 2009",Rent $350pw in Nov 2018,House: 3  1  2 ,Land size: 608 sqm | Building size: 107 sqm
+125,12 Herd Road,"Sold $661,000 in 08 Feb 2020(Auction)","Last Sold $216,500 in Apr 2005", ,House: 2  1  1 ,Land size: 665 sqm
+126,2/56 Iona Avenue,"Sold $390,000 in Feb 2020","Last Sold $243,750 in Oct 2016",Rent $300pw in Apr 2019, , 
+127,14 Johnson Street,"Sold $507,000 in Feb 2020", , ,House: 3  1  2 ,Land size: 242 sqm
+128,1/337 High Street,"Sold $348,000 in Feb 2020","Last Sold $215,000 in Mar 2014",Rent $330pw in Apr 2020, ,Land size: 822 sqm
+129,1/43 Summit Avenue,"Sold $500,500 in Jan 2020","Last Sold $370,000 in Sep 2016",Rent $450pw in Jun 2019, , 
+130,3B Neil Street,"Sold $672,000 in Jan 2020", , , ,Land size: 409 sqm
+131,9 Neil Street,"Sold $505,000 in Jan 2020","Last Sold $392,000 in Aug 2015", , ,Land size: 268 sqm
+132,1/9 Emerald Court,"Sold $277,000 in Jan 2020", , , ,Land size: 511 sqm
+133,2/13-15 Clarke Avenue,"Sold $585,000 in Jan 2020", , , , 
+134,25 Roberts Road,"Sold $650,000 in Jan 2020","Last Sold $622,000 in Dec 2017",Rent $330pw in Jul 2018,House: 3  1  2 ,Land size: 790 sqm
+135,10 Hawthorn Avenue,"Sold $479,000 in Jan 2020","Last Sold $465,000 in Apr 2018", , ,Land size: 172 sqm
+136,7 Highmont Drive,"Sold $445,000 in Dec 2019","Last Sold $345,000 in Mar 2016", ,House: 3  2  1 ,Land size: 706 sqm
+137,140A Francis Street,"Sold $360,000 in Dec 2019","Last Sold $305,000 in Jun 2013",Rent $315pw in May 2017,House: 2  1  1 ,Land size: 342 sqm
+138,100 Apex Avenue,"Sold $560,000 in 21 Dec 2019(Auction)","Last Sold $350,000 in Nov 2012",Rent $370pw in Nov 2011,House: 3  1  3 ,Land size: 615 sqm
+139,41 Barrabool Road,"Sold $695,000 in Dec 2019","Last Sold $345,000 in Aug 2010",Rent $340pw in Nov 2014,House: 3  1  1 ,Land size: 649 sqm
+140,1/8 Batman Close,"Sold $638,000 in Dec 2019", , ,House: ,Land size: 395 sqm
+141,1/25-27 Roslyn Road,"Sold $410,000 in Dec 2019", ,Rent $185pw in May 2009, ,Land size: 93 sqm
+142,3/240 High Street,"Sold $640,000 in Dec 2019", , ,House: 3  2  2 ,Land size: 235 sqm
+143,1/145 Roslyn Road,"Sold $380,000 in Dec 2019","Last Sold $235,780 in Dec 2011",Rent $300pw in Dec 2016, ,Land size: 130 sqm | Building size: 73 sqm
+144,27 Digby Avenue,"Sold $695,000 in Dec 2019","Last Sold $503,000 in Oct 2016",Rent $400pw in Apr 2015,House: 4  2  1 ,Land size: 716 sqm
+145,2/11 Laura Avenue,"Sold $530,000 in Dec 2019","Last Sold $386,000 in Jun 2012", ,House: 2  2  1 ,Land size: 243 sqm | Building size: 111 sqm
+146,23 Watson Avenue,"Sold $820,000 in 14 Dec 2019(Auction)","Last Sold $502,000 in Oct 2013",Rent $520pw in Jul 2012,House: 5  2  2 ,Land size: 775 sqm | Building size: 224 sqm
+147,3 George Street,"Sold $515,500 in Dec 2019","Last Sold $51,000 in Jul 1987", ,House: 3  ,Land size: 416 sqm
+148,67 Settlement Road,"Sold $490,000 in Dec 2019","Last Sold $323,500 in Nov 2018(Auction)", ,House: 3  1  ,Land size: 611 sqm
+149,12 Brocka Avenue,"Sold $697,000 in 14 Dec 2019(Auction)","Last Sold $408,000 in Mar 2014(Auction)",Rent $430pw in Jul 2018,House: 4  1  1 ,Land size: 635 sqm
+150,33 Shackleton Street,"Sold $555,000 in Dec 2019","Last Sold $120,000 in Oct 1996",Rent $350pw in Jul 2018,House: 3  1  1 ,Land size: 228 sqm
+151,5 Ursa Street,"Sold $700,000 in Dec 2019", , , ,Land size: 256 sqm
+152,268 High Street,"Sold $515,000 in Dec 2019", , ,House: ,Land size: 831 sqm
+153,18 Waurn Park Court,"Sold $670,000 in Dec 2019","Last Sold $482,000 in Aug 2015", ,House: 4  2  2 ,Land size: 648 sqm
+154,7 Polwarth Crescent,"Sold $545,000 in Dec 2019","Last Sold $330,000 in Jan 2015", ,House: 4  1  1 ,Land size: 670 sqm | Building size: 151 sqm
+155,27 Francis Street,"Sold $624,000 in Dec 2019", ,Rent $320pw in Feb 2020,House: 2  1  2 ,Land size: 775 sqm
+156,1/18 Summit Avenue,"Sold $573,000 in Dec 2019","Last Sold $420,000 in Nov 2015", ,House: 3  2  1 ,Land size: 384 sqm
+157,262 High Street,"Sold $560,000 in 07 Dec 2019(Auction)","Last Sold $64,500 in Feb 2000",Rent $380pw in Feb 2020,House: 1  1  1 ,Land size: 874 sqm
+158,2/221 Roslyn Road,"Sold $580,000 in Dec 2019","Last Sold $378,500 in Sep 2003", , ,Land size: 207 sqm
+159,182 Roslyn Road,"Sold $540,000 in Dec 2019", , ,House: 3  1  1 ,Land size: 783 sqm
+160,3/22 George Street,"Sold $460,000 in Dec 2019", ,Rent $400pw in Feb 2019,House: 3  2  1 ,Land size: 163 sqm
+161,2/1 Elizabeth Street,"Sold $430,000 in Dec 2019","Last Sold $232,000 in Jun 2003",Rent $375pw in Jan 2020, ,Land size: 184 sqm
+162,3 Pilbara Court,"Sold $662,500 in Dec 2019","Last Sold $83,500 in Sep 1988", ,House: 1  1  2 ,Land size: 718 sqm
+163,27 Stork Avenue,"Sold $567,500 in Dec 2019","Last Sold $120,000 in Nov 2000", ,House: 3  1  1 ,Land size: 669 sqm
+164,55 Kidman Avenue,"Sold $527,500 in Nov 2019", , , ,Land size: 546 sqm
+165,24 Corio Street,"Sold $514,500 in 30 Nov 2019(Auction)","Last Sold $335,000 in Apr 2016",Rent $270pw in Dec 2015,House: 3  1  1 ,Land size: 602 sqm
+166,21 Woolvet Avenue,"Sold $478,000 in Nov 2019","Last Sold $270,000 in Apr 2008", ,House: 3  1  1 ,Land size: 651 sqm | Building size: 13 sqm
+167,14 Marjorie Avenue,"Sold $556,000 in 30 Nov 2019(Auction)","Last Sold $309,000 in Apr 2012",Rent $340pw in Oct 2015,House: 2  1  2 ,Land size: 653 sqm | Building size: 115 sqm
+168,18 Albert Terrace,"Sold $650,000 in 29 Nov 2019(Auction)","Last Sold $75,000 in Aug 1996", ,House: ,Land size: 672 sqm
+169,15 Fairbrae Avenue,"Sold $720,000 in Nov 2019","Last Sold $451,500 in Jun 2011", ,House: 3  1  2 ,Land size: 714 sqm
+170,62 Roslyn Road,"Sold $790,000 in Nov 2019","Last Sold $135,000 in Dec 1991", ,House: 4  ,Land size: 996 sqm
+171,19 Hill Street,"Sold $745,000 in Nov 2019","Last Sold $136,500 in Feb 2000", ,House: 3  2  2 ,Land size: 776 sqm
+172,6 Englewood Court,"Sold $470,000 in Nov 2019", , ,House: ,Land size: 550 sqm
+173,35 Iona Avenue,"Sold $705,000 in Nov 2019","Last Sold $453,500 in May 2015(Auction)",Rent $420pw in Feb 2017,House: 4  2  1 ,Land size: 716 sqm
+174,A/8-9 Arbour Grove,"Sold $215,000 in Nov 2019", , , , 
+175,34 Colac Grove,"Sold $562,000 in 23 Nov 2019(Auction)","Last Sold $336,000 in Jan 2016",Rent $320pw in Dec 2014,House: 3  1  2 ,Land size: 679 sqm
+176,6 Victoria Terrace,"Sold $1,400,000 in 23 Nov 2019(Auction)","Last Sold $387,000 in Oct 2012", ,House: 5  2  4 ,Land size: 653 sqm | Building size: 292 sqm
+177,9 Southdown Crescent,"Sold $510,000 in Nov 2019","Last Sold $237,500 in Jan 2007",Rent $125pw in May 2019,House: 3  2  1 ,Land size: 732 sqm | Building size: 141 sqm
+178,29 Digby Avenue,"Sold $500,000 in 23 Nov 2019(Auction)","Last Sold $187,000 in Jul 2003",Rent $270pw in Nov 2014,House: 3  1  1 ,Land size: 717 sqm
+179,84 High Street,"Sold $625,000 in 23 Nov 2019(Auction)","Last Sold $364,000 in Jun 2014",Rent $320pw in May 2013,House: 3  1  1 ,Land size: 202 sqm | Building size: 127 sqm
+180,317 High Street,"Sold $508,500 in Nov 2019","Last Sold $310,000 in Oct 2012",Rent $450pw in May 2020,House: 3  1  2 ,Land size: 734 sqm
+181,a/8 Arbour Grove,"Sold $215,000 in Nov 2019", , , , 
+182,1 George Street,"Sold $512,000 in Nov 2019", , ,House: 2  2  1 ,Land size: 418 sqm
+183,5 Findlay Grove,"Sold $755,500 in 16 Nov 2019(Auction)", , , ,Land size: 947 sqm
+184,40 Francis Street,"Sold $636,000 in Nov 2019","Last Sold $541,000 in Mar 2017(Auction)", ,House: 3  2  3 ,Land size: 820 sqm
+185,7 Poplar Court,"Sold $547,000 in Nov 2019","Last Sold $362,000 in Jul 2015",Rent $470pw in Sep 2019,House: 4  2  2 ,Land size: 650 sqm
+186,5/36-40 Sanglen Terrace,"Sold $585,000 in Nov 2019","Last Sold $417,500 in Jul 2016",Rent $340pw in Sep 2014, ,Land size: 409 sqm
+187,24 Roslyn Road,"Sold $585,000 in Nov 2019","Last Sold $317,000 in Aug 2008",Rent $330pw in Mar 2008,House: 3  2  1 ,Land size: 342 sqm
+188,35A The Avenue,"Sold $705,000 in 09 Nov 2019(Auction)", , ,House: 3  1  1 ,Land size: 503 sqm
+189,2/129 Roslyn Road,"Sold $590,000 in Nov 2019","Last Sold $446,000 in Sep 2013", , ,Land size: 320 sqm | Building size: 150 sqm
+190,9 Nagle Drive,"Sold $480,000 in Nov 2019","Last Sold $242,500 in Dec 2008",Rent $315pw in May 2018,House: 3  1  2 ,Land size: 654 sqm
+191,36 Hereford Drive,"Sold $517,000 in Nov 2019","Last Sold $102,000 in Jan 1993", ,House: 1  ,Land size: 655 sqm
+192,6 Collins Street,"Sold $672,500 in 30 Oct 2019(Auction)","Last Sold $572,000 in Apr 2016",Rent $240pw in Dec 2004,House: 3  2  1 ,Land size: 495 sqm
+193,5/26 Autumn Street,"Sold $339,000 in Oct 2019","Last Sold $205,000 in Dec 2011",Rent $270pw in Aug 2015, ,Land size: 191 sqm
+194,48 Francis Street,"Sold $529,000 in Oct 2019","Last Sold $347,000 in Dec 2014",Rent $260pw in Oct 2013,House: 3  1  2 ,Land size: 395 sqm | Building size: 128 sqm
+195,2/18A Roslyn Road,"Sold $235,000 in Oct 2019","Last Sold $190,000 in Jun 2012",Rent $250pw in Nov 2018, ,Land size: 89 sqm | Building size: 54 sqm
+196,30 Amundsen Street,"Sold $790,000 in Oct 2019","Last Sold $349,000 in Sep 2003", ,House: 3  2  3 ,Land size: 840 sqm
+197,14 Henry Street,"Sold $558,000 in 26 Oct 2019(Auction)","Last Sold $260,000 in Mar 2008", ,House: 3  1  2 ,Land size: 728 sqm
+198,24 Roberts Road,"Sold $715,000 in 26 Oct 2019(Auction)","Last Sold $445,000 in Mar 2015", ,House: 3  1  1 ,Land size: 808 sqm
+199,17 Fairbrae Avenue,"Sold $905,000 in Oct 2019","Last Sold $201,000 in Aug 2002", ,House: 4  2  1 ,Land size: 661 sqm
+200,21 Tettenhall Ridge,"Sold $585,000 in Oct 2019","Last Sold $345,000 in Feb 2005", ,House: 3  2  2 ,Land size: 680 sqm
+201,16 Fairbrae Avenue,"Sold $662,000 in Oct 2019","Last Sold $575,000 in Feb 2018",Rent $460pw in Mar 2019,House: 3  1  2 ,Land size: 716 sqm
+202,15/9 Matilda Court,"Sold $350,000 in Oct 2019","Last Sold $340,000 in Jul 2018",Rent $345pw in Nov 2019, ,Land size: 179 sqm
+203,38 Riverview Terrace,"Sold $865,000 in Oct 2019","Last Sold $315,000 in Apr 2016",Rent $500pw in Nov 2019,House: 4  1  2 ,Land size: 259 sqm
+204,1/3 Davis Street,"Sold $329,000 in Oct 2019","Last Sold $118,000 in Sep 2001",Rent $300pw in Jan 2020, ,Land size: 147 sqm
+205,10 South Street,"Sold $630,000 in Oct 2019", , ,House: 2  1  1 ,Land size: 771 sqm
+206,9 Araluen Parade,"Sold $605,000 in Oct 2019","Last Sold $400,000 in Jul 2014(Auction)", ,House: 3  1  1 ,Land size: 617 sqm | Building size: 113 sqm
+207,12 Glyn Street,"Sold $469,000 in Oct 2019", , ,House: 2  1  1 ,Land size: 592 sqm
+208,4 Brahman Close,"Sold $514,000 in Oct 2019","Last Sold $120,000 in Mar 1998", ,House: 3  2  2 ,Land size: 694 sqm
+209,21 Fairfield Avenue,"Sold $557,500 in Oct 2019","Last Sold $170,000 in Oct 2001",Rent $460pw in Nov 2019,House: 1  2  2 ,Land size: 917 sqm
+210,75 Cambra Road,"Sold $514,000 in Oct 2019","Last Sold $200,000 in Nov 2011",Rent $365pw in Dec 2015,House: 4  1  2 ,Land size: 613 sqm | Building size: 170 sqm
+211,32 Mernda Parade,"Sold $462,000 in 12 Oct 2019(Auction)","Last Sold $335,000 in Jul 2012",Rent $420pw in Nov 2019,House: 3  2  2 ,Land size: 576 sqm | Building size: 125 sqm
+212,42B Digby Avenue,"Sold $625,000 in Oct 2019","Last Sold $512,500 in Oct 2015", , ,Land size: 254 sqm
+213,2/8 Finchfield Lane,"Sold $428,000 in Oct 2019","Last Sold $402,000 in May 2018",Rent $370pw in Nov 2019, ,Land size: 330 sqm
+214,1/34 Scott Street,"Sold $607,500 in Oct 2019","Last Sold $350,000 in Mar 2004", ,House: 3  2  2 ,Land size: 317 sqm
+215,2/66-70 Reynolds Road,"Sold $342,500 in Oct 2019","Last Sold $269,000 in Jul 2014",Rent $325pw in Dec 2019, ,Land size: 194 sqm
+216,51b Barrabool Road,"Sold $640,000 in Oct 2019", , , ,Land size: 316 sqm
+217,4/20 George Street,"Sold $480,000 in Oct 2019", , , ,Land size: 128 sqm
+218,2 Royd Grange Court,"Sold $1,430,000 in Oct 2019", , ,House: 5  2  4 ,"Land size: 1,896 sqm"
+219,36 Iona Avenue,"Sold $580,000 in 05 Oct 2019(Auction)", ,Rent $395pw in Jun 2020,House: 4  1  2 ,Land size: 639 sqm
+220,32 Cambra Road,"Sold $480,000 in 05 Oct 2019(Auction)", ,Rent $290pw in Dec 2019,House: 2  2  2 ,Land size: 615 sqm
+221,32 Evans Street,"Sold $820,000 in 05 Oct 2019(Auction)","Last Sold $587,000 in Nov 2015(Auction)", ,House: 4  2  2 ,Land size: 662 sqm | Building size: 190 sqm
+222,68 Cambra Road,"Sold $622,000 in Oct 2019", ,Rent $430pw in Sep 2013,House: 3  2  4 ,Land size: 303 sqm
+223,70 James Street,"Sold $480,000 in 28 Sep 2019(Auction)","Last Sold $325,000 in Mar 2013",Rent $350pw in Nov 2019,House: 3  1  1 ,Land size: 722 sqm | Building size: 107 sqm
+224,15a Alsop Street,"Sold $700,000 in Sep 2019", , , ,Land size: 421 sqm
+225,1A Sullivan Court,"Sold $485,000 in Sep 2019", , ,House: 2  2  1 ,Land size: 256 sqm
+226,4 Sullivan Court,"Sold $530,000 in 21 Sep 2019(Auction)", ,Rent $430pw in Feb 2020,House: 3  1  4 ,Land size: 781 sqm
+227,17 Stork Avenue,"Sold $565,000 in 21 Sep 2019(Auction)","Last Sold $98,000 in May 1991", ,House: 4  2  3 ,Land size: 646 sqm
+228,62 Summit Avenue,"Sold $604,000 in 21 Sep 2019(Auction)","Last Sold $95,000 in Apr 1996",Rent $390pw in Nov 2019,House: 1  2  2 ,Land size: 711 sqm
+229,7/371 High Street,"Sold $235,000 in Sep 2019","Last Sold $115,000 in Jun 2003",Rent $220pw in Apr 2018, ,Land size: 77 sqm
+230,20 Wyuna Parade,"Sold $513,000 in 14 Sep 2019(Auction)", ,Rent $385pw in Oct 2019,House: 3  1  1 ,Land size: 574 sqm
+231,10 Pickett Crescent,"Sold $485,000 in Sep 2019", , ,House: 4  2  ,Land size: 657 sqm
+232,14 Cambra Road,"Sold $525,000 in Sep 2019","Last Sold $92,500 in Mar 1989", ,House: 4  1  1 ,Land size: 604 sqm
+233,13 South Street,"Sold $812,000 in 14 Sep 2019(Auction)","Last Sold $475,250 in Feb 2000",Rent $485pw in Oct 2017,House: 4  1  2 ,Land size: 132 sqm | Building size: 172 sqm
+234,126 Mt Pleasant Road,"Sold $500,000 in 14 Sep 2019(Auction)","Last Sold $86,000 in Dec 1996",Rent $365pw in Nov 2019,House: 1  1  2 ,Land size: 540 sqm
+235,7 Sommers Street,"Sold $555,000 in 14 Sep 2019(Auction)","Last Sold $65,000 in May 1997", ,House: 3  1  1 ,Land size: 581 sqm
+236,34 Iona Avenue,"Sold $535,000 in 14 Sep 2019(Auction)","Last Sold $340,000 in Apr 2011",Rent $340pw in Jun 2017,House: 2  1  2 ,Land size: 634 sqm
+237,39 Waurnvale Drive,"Sold $593,000 in Sep 2019","Last Sold $410,000 in Nov 2013", ,House: 4  1  4 ,Land size: 650 sqm | Building size: 169 sqm
+238,28 George Street,"Sold $815,000 in Sep 2019","Last Sold $580,000 in Aug 2015",Rent $450pw in Aug 2015,House: 4  2  2 ,Land size: 830 sqm
+239,40 Cambra Road,"Sold $450,000 in Sep 2019","Last Sold $267,000 in Nov 2008",Rent $370pw in Jul 2018,House: 3  1  ,Land size: 561 sqm | Building size: 119 sqm
+240,14 Cheryl Crescent,"Sold $280,000 in Sep 2019","Last Sold $215,000 in Nov 2003", , ,Land size: 612 sqm
+241,1 Queen Street,"Sold $591,000 in Sep 2019","Last Sold $425,000 in Aug 2016", ,House: 3  2  1 ,Land size: 348 sqm
+242,7 Rigo Street,"Sold $477,000 in Sep 2019", , ,House: 3  1  2 ,Land size: 651 sqm
+243,1 Voce Court,"Sold $531,000 in 07 Sep 2019(Auction)", , ,House: 3  1  2 ,Land size: 849 sqm
+244,39-41 Roslyn Road,"Sold $1,034,999 in Sep 2019","Last Sold $720,000 in May 2013",Rent $450pw in May 2013,House: 4  2  6 ,Land size: 580 sqm
+245,2/107 Settlement Road,"Sold $267,500 in Sep 2019","Last Sold $205,000 in Aug 2010",Rent $320pw in Dec 2019, ,"Land size: 1,260 sqm"
+246,43 Waurnvale Drive,"Sold $570,000 in Sep 2019","Last Sold $402,000 in Jul 2017(Auction)",Rent $315pw in May 2010,House: 3  2  2 ,Land size: 641 sqm
+247,3 Savage Street,"Sold $585,000 in 31 Aug 2019(Auction)", , ,House: 3  1  1 ,Land size: 641 sqm
+248,41 Summit Avenue,"Sold $590,000 in 31 Aug 2019(Auction)","Last Sold $518,000 in Dec 2016",Rent $380pw in Nov 2018,House: 3  1  1 ,Land size: 650 sqm | Building size: 107 sqm
+249,24 Apex Avenue,"Sold $560,000 in Aug 2019","Last Sold $87,000 in Aug 1996",Rent $360pw in Nov 2019,House: 3  1  2 ,Land size: 716 sqm
+250,42B Shackleton Street,"Sold $665,000 in Aug 2019", ,Rent $450pw in Oct 2019, ,Land size: 710 sqm
+251,42C Shackleton Street,"Sold $800,000 in Aug 2019", , , , 
+252,1/7 Herd Road,"Sold $638,000 in Aug 2019","Last Sold $620,000 in Aug 2017", , ,Land size: 282 sqm
+253,28 The Avenue,"Sold $790,000 in 24 Aug 2019(Auction)","Last Sold $570,000 in Dec 2013", ,House: 4  2  2 ,Land size: 963 sqm
+254,4 Mitchell Street,"Sold $650,000 in 24 Aug 2019(Auction)","Last Sold $370,000 in Feb 2014",Rent $450pw in Nov 2018,House: 3  1  2 ,Land size: 773 sqm
+255,2/23 Francis Street,"Sold $345,000 in Aug 2019","Last Sold $275,000 in Aug 2012",Rent $330pw in May 2018, ,Land size: 141 sqm | Building size: 67 sqm
+256,98 Apex Avenue,"Sold $600,000 in Aug 2019","Last Sold $460,000 in Nov 2016",Rent $450pw in Sep 2019,House: 3  1  2 ,Land size: 615 sqm | Building size: 180 sqm
+257,19 Winter Street,"Sold $430,000 in Aug 2019","Last Sold $265,000 in Apr 2008", ,House: 2  1  4 ,Land size: 639 sqm
+258,9/70 Bailey Street,"Sold $130,000 in Aug 2019", , , , 
+259,18A CARR Street,"Sold $560,000 in Aug 2019","Last Sold $315,000 in Jun 2011",Rent $420pw in Apr 2018,House: 3  2  2 ,Land size: 323 sqm
+260,7 George Street,"Sold $760,000 in 17 Aug 2019(Auction)","Last Sold $540,000 in Aug 2017",Rent $280pw in Nov 2009,House: 3  1  2 ,Land size: 703 sqm | Building size: 145 sqm
+261,81 Shackleton Street,"Sold $570,000 in Aug 2019","Last Sold $382,000 in Dec 2011",Rent $360pw in Feb 2012,House: 3  1  2 ,Land size: 468 sqm
+262,24 Hill Street,"Sold $565,000 in 10 Aug 2019(Auction)","Last Sold $230,000 in May 2006",Rent $340pw in May 2020,House: 2  1  1 ,Land size: 636 sqm
+263,1/330 High Street,"Sold $400,000 in Aug 2019","Last Sold $308,000 in Jun 2015",Rent $290pw in Apr 2015, ,Land size: 366 sqm
+264,54 Shackleton Street,"Sold $590,000 in Aug 2019", , , ,Land size: 291 sqm
+265,5/47 Torquay Road,"Sold $250,000 in Jul 2019","Last Sold $205,000 in May 2014", ,House: 1  1  1 ,Land size: 107 sqm
+266,74 High Street,"Sold $580,000 in 27 Jul 2019(Auction)","Last Sold $365,000 in Mar 2014",Rent $280pw in May 2014,House: 3  1  2 ,Land size: 520 sqm
+267,49A Riverview Terrace,"Sold $380,000 in Jul 2019", , , ,Land size: 297 sqm
+268,1/32 Laura Avenue,"Sold $600,000 in Jul 2019","Last Sold $300,000 in Jul 2010", ,House: 3  2  1 ,Land size: 304 sqm
+269,102 Francis Street,"Sold $515,000 in Jul 2019","Last Sold $218,000 in Oct 2003", ,House: 4  2  1 ,Land size: 658 sqm
+270,42 Learmouth Street,"Sold $480,000 in Jul 2019","Last Sold $325,000 in Feb 2000", ,House: 3  2  ,Land size: 585 sqm
+271,9 Glenys Court,"Sold $330,000 in 20 Jul 2019(Auction)","Last Sold $280,000 in Dec 2009",Rent $350pw in Apr 2017,House: 3  1  2 ,Land size: 514 sqm
+272,16 Grayling Street,"Sold $580,000 in Jul 2019","Last Sold $330,000 in Apr 2015(Auction)", ,House: 7  3  ,Land size: 655 sqm
+273,112 Francis Street,"Sold $498,000 in Jul 2019","Last Sold $395,000 in Sep 2014",Rent $420pw in Sep 2019,House: 3  2  2 ,Land size: 379 sqm
+274,11 Glenys Court,"Sold $520,000 in Jul 2019","Last Sold $405,000 in Dec 2013", ,House: 4  2  2 ,Land size: 526 sqm | Building size: 168 sqm
+275,20 James Street,"Sold $595,000 in 13 Jul 2019(Auction)","Last Sold $311,000 in Dec 2009", ,House: 5  2  2 ,Land size: 553 sqm | Building size: 203 sqm
+276,18 Hill Street,"Sold $550,000 in Jul 2019","Last Sold $531,000 in Apr 2018", ,House: 3  1  ,Land size: 636 sqm
+277,2/15 Francis Street,"Sold $416,000 in Jul 2019","Last Sold $289,000 in Apr 2008",Rent $360pw in Nov 2019, ,Land size: 198 sqm
+278,23 Summit Avenue,"Sold $470,000 in 29 Jun 2019(Auction)", , ,House: 4  1  2 ,Land size: 728 sqm
+279,3/31 Francis Street,"Sold $400,000 in Jun 2019","Last Sold $360,000 in Dec 2017",Rent $290pw in Sep 2015, ,Land size: 246 sqm | Building size: 101 sqm
+280,2/15 Arbour Grove,"Sold $380,000 in Jun 2019","Last Sold $355,000 in Jan 2016",Rent $340pw in Sep 2011, ,Land size: 232 sqm | Building size: 11 sqm
+281,10 Kossecks Place,"Sold $510,000 in Jun 2019","Last Sold $355,000 in Dec 2013", ,House: 3  2  4 ,Land size: 692 sqm | Building size: 113 sqm
+282,1/97 Shackleton Street,"Sold $518,000 in Jun 2019","Last Sold $325,000 in Oct 2009",Rent $400pw in Dec 2017, ,Land size: 260 sqm
+283,6/1a Fairview Street,"Sold $420,000 in Jun 2019","Last Sold $248,000 in May 2009",Rent $400pw in Jul 2019, ,Land size: 120 sqm | Building size: 98 sqm
+284,6/17 Francis Street,"Sold $205,000 in Jun 2019","Last Sold $200,000 in Oct 2011",Rent $280pw in Jan 2020,House: 1  1  1 ,"Land size: 2,594 sqm"
+285,73 Summit Avenue,"Sold $630,000 in Jun 2019","Last Sold $84,000 in Dec 1991", ,House: 3  2  2 ,Land size: 650 sqm | Building size: 125 sqm
+286,64 Regent Street,"Sold $950,000 in 15 Jun 2019(Auction)","Last Sold $660,000 in Jan 2015", ,House: 4  2  2 ,Land size: 880 sqm
+287,239 High Street,"Sold $390,000 in Jun 2019", , ,House: 3  1  3 ,Land size: 554 sqm
+288,3/11 Jacobs Street,"Sold $420,000 in Jun 2019","Last Sold $220,000 in Mar 2003",Rent $370pw in Aug 2019, ,Land size: 264 sqm
+289,8 Voce Court,"Sold $405,000 in Jun 2019","Last Sold $180,000 in Feb 2000",Rent $280pw in Apr 2009,House: 4  2  2 ,Land size: 564 sqm
+290,3B Waurn Park Court,"Sold $495,000 in Jun 2019","Last Sold $360,000 in Oct 2013", ,House: 3  2  1 ,Land size: 416 sqm | Building size: 175 sqm
+291,71 James Street,"Sold $436,000 in Jun 2019", , ,House: 3  1  2 ,Land size: 650 sqm
+292,1 Brahman Close,"Sold $442,500 in 11 Jun 2019(Auction)","Last Sold $330,000 in Nov 2014",Rent $370pw in Sep 2019,House: 3  2  1 ,Land size: 675 sqm | Building size: 106 sqm
+293,50 Thomson Street,"Sold $775,000 in Jun 2019","Last Sold $450,000 in Dec 2014",Rent $450pw in Nov 2019,House: 3  1  4 ,"Land size: 1,036 sqm"
+294,30 Digby Avenue,"Sold $508,000 in 08 Jun 2019(Auction)", ,Rent $320pw in Sep 2019,House: 3  1  2 ,Land size: 664 sqm
+295,1/82 Settlement Road,"Sold $302,000 in 08 Jun 2019(Auction)","Last Sold $218,000 in Jun 2010",Rent $350pw in Jun 2019, ,Land size: 173 sqm
+296,1/45 Francis Street,"Sold $305,000 in Jun 2019","Last Sold $223,000 in Jun 2017",Rent $305pw in May 2020,House: 1  1  1 ,Land size: 785 sqm
+297,5A Spring Street,"Sold $450,000 in Jun 2019","Last Sold $209,000 in Apr 2002", , ,Land size: 320 sqm
+298,40 Davis Street,"Sold $425,000 in Jun 2019","Last Sold $233,000 in Aug 2008",Rent $320pw in Jul 2019,House: 2  1  1 ,Land size: 650 sqm
+299,2/1 McDonald Street,"Sold $372,000 in Jun 2019","Last Sold $310,000 in Oct 2014", , ,Land size: 197 sqm
